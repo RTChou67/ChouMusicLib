@@ -1,0 +1,100 @@
+{
+  "fileName": "King Gizzard & The Lizard Wizard - Butterfly 3000 (1).json",
+  "title": "Butterfly 3000",
+  "artist": "King Gizzard & The Lizard Wizard",
+  "releaseDate": "2021-06-11",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Neo-Psychedelia",
+    "Psychedelic Pop",
+    "Indietronica",
+    "Synthpop",
+    "Progressive Pop",
+    "Sunshine Pop"
+  ],
+  "tags": [
+    "psychedelic",
+    "happy",
+    "male vocalist",
+    "melodic",
+    "warm",
+    "uplifting",
+    "summer",
+    "playful",
+    "quirky",
+    "lush",
+    "uncommon time signatures",
+    "progressive",
+    "bittersweet",
+    "rhythmic",
+    "surreal",
+    "optimistic",
+    "philosophical",
+    "suite",
+    "nature",
+    "love",
+    "family",
+    "polyrhythmic",
+    "cannabis",
+    "bright",
+    "animals"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Yours",
+      "duration": "04:35"
+    },
+    {
+      "type": "track",
+      "title": "Shanghai",
+      "duration": "04:00"
+    },
+    {
+      "type": "track",
+      "title": "Dreams",
+      "duration": "04:04"
+    },
+    {
+      "type": "track",
+      "title": "Blue Morpho",
+      "duration": "03:50"
+    },
+    {
+      "type": "track",
+      "title": "Interior People",
+      "duration": "05:15"
+    },
+    {
+      "type": "track",
+      "title": "Catching Smoke",
+      "duration": "06:28"
+    },
+    {
+      "type": "track",
+      "title": "2.02 Killer Year",
+      "duration": "03:19"
+    },
+    {
+      "type": "track",
+      "title": "Black Hot Soup",
+      "duration": "05:12"
+    },
+    {
+      "type": "track",
+      "title": "Ya Love",
+      "duration": "04:15"
+    },
+    {
+      "type": "track",
+      "title": "Butterfly 3000",
+      "duration": "02:51"
+    }
+  ],
+  "totalDuration": "43:49",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/1e401babbf4eba3c6c60a1d0fbd9fd9d/9081863/king-gizzard-and-the-lizard-wizard-butterfly-3000-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

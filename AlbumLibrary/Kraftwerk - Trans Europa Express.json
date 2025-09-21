@@ -1,0 +1,94 @@
+{
+  "fileName": "Kraftwerk - Trans Europa Express.json",
+  "title": "Trans Europa Express",
+  "artist": "Kraftwerk",
+  "releaseDate": "1977-03-01",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Progressive Electronic",
+    "Electronic",
+    "Synthpop",
+    "Progressive Electronic",
+    "Minimal Synth",
+    "Berlin School"
+  ],
+  "tags": [
+    "futuristic",
+    "mechanical",
+    "repetitive",
+    "cold",
+    "minimalistic",
+    "hypnotic",
+    "male vocalist",
+    "urban",
+    "rhythmic",
+    "atmospheric",
+    "concept album",
+    "progressive",
+    "melodic",
+    "ominous",
+    "suite",
+    "travel",
+    "mysterious",
+    "vehicles",
+    "quirky",
+    "alienation",
+    "medley"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "Europa endlos",
+      "duration": "09:35"
+    },
+    {
+      "type": "track",
+      "title": "Spiegelsaal",
+      "duration": "07:50"
+    },
+    {
+      "type": "track",
+      "title": "Schaufensterpuppen",
+      "duration": "06:10"
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "Trans Europa Express",
+      "duration": "06:40"
+    },
+    {
+      "type": "track",
+      "title": "Metall auf Metall",
+      "duration": "02:10"
+    },
+    {
+      "type": "track",
+      "title": "Abzug",
+      "duration": "04:42"
+    },
+    {
+      "type": "track",
+      "title": "Franz Schubert",
+      "duration": "04:25"
+    },
+    {
+      "type": "track",
+      "title": "Endlos endlos",
+      "duration": "00:45"
+    }
+  ],
+  "totalDuration": "42:17",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/641a37e731fcafb6ffcc6db6a0e9f4cc/2092770/kraftwerk-trans-europa-express-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

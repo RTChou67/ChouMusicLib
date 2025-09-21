@@ -1,0 +1,56 @@
+{
+  "fileName": "Bell Witch - Mirror Reaper.json",
+  "title": "Mirror Reaper",
+  "artist": "Bell Witch",
+  "releaseDate": "2017-10-20",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Funeral Doom Metal",
+    "Slowcore",
+    "Post-Metal"
+  ],
+  "tags": [
+    "funereal",
+    "depressive",
+    "death",
+    "sombre",
+    "atmospheric",
+    "heavy",
+    "melancholic",
+    "male vocalist",
+    "sparse",
+    "epic",
+    "lethargic",
+    "nocturnal",
+    "hypnotic",
+    "ethereal",
+    "passionate",
+    "repetitive",
+    "dark",
+    "lonely",
+    "concept album",
+    "poetic",
+    "sad",
+    "grief",
+    "longing",
+    "menacing"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Mirror Reaper (As Above)",
+      "duration": "48:13"
+    },
+    {
+      "type": "track",
+      "title": "Mirror Reaper (So Below)",
+      "duration": "35:30"
+    }
+  ],
+  "totalDuration": "01:23:43",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/9d0c09694d243f2499e58bb688d1391c/7226012/bell-witch-mirror-reaper-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:33:51.564Z",
+  "updatedAt": "2025-09-16T15:33:51.564Z"
+}

@@ -1,0 +1,83 @@
+{
+  "fileName": "Cattle Decapitation - The Harvest Floor.json",
+  "title": "The Harvest Floor",
+  "artist": "Cattle Decapitation",
+  "releaseDate": "2009-01-20",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Deathgrind",
+    "Death Metal",
+    "Technical Death Metal"
+  ],
+  "tags": [
+    "misanthropic",
+    "aggressive",
+    "violence",
+    "technical",
+    "death",
+    "dissonant",
+    "heavy",
+    "male vocalist",
+    "hateful",
+    "anti-religious",
+    "progressive"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "The Gardeners of Eden",
+      "duration": "05:39"
+    },
+    {
+      "type": "track",
+      "title": "A Body Farm",
+      "duration": "03:29"
+    },
+    {
+      "type": "track",
+      "title": "We Are Horrible People",
+      "duration": "03:56"
+    },
+    {
+      "type": "track",
+      "title": "Tooth Enamel and Concrete",
+      "duration": "02:57"
+    },
+    {
+      "type": "track",
+      "title": "The Ripe Beneath the Rind",
+      "duration": "02:50"
+    },
+    {
+      "type": "track",
+      "title": "The Product Alive",
+      "duration": "03:05"
+    },
+    {
+      "type": "track",
+      "title": "In Axetasy",
+      "duration": "04:43"
+    },
+    {
+      "type": "track",
+      "title": "Into the Public Bath",
+      "duration": "03:11"
+    },
+    {
+      "type": "track",
+      "title": "The Harvest Floor",
+      "duration": "03:07"
+    },
+    {
+      "type": "track",
+      "title": "Regret & the Grave",
+      "duration": "04:42"
+    }
+  ],
+  "totalDuration": "37:39",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/504fba35ffc5f218ea35991bbacde884/6172259/cattle-decapitation-the-harvest-floor-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:48:51.783Z",
+  "updatedAt": "2025-09-13T16:48:51.783Z"
+}

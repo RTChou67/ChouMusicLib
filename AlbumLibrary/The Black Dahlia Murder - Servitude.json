@@ -1,0 +1,78 @@
+{
+  "fileName": "The Black Dahlia Murder - Servitude.json",
+  "title": "Servitude",
+  "artist": "The Black Dahlia Murder",
+  "releaseDate": "2024-09-27",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Melodic Death Metal"
+  ],
+  "tags": [
+    "male vocalist",
+    "energetic",
+    "technical",
+    "melodic",
+    "aggressive",
+    "heavy",
+    "dark",
+    "anti-religious"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Evening Ephemeral",
+      "duration": "03:55"
+    },
+    {
+      "type": "track",
+      "title": "Panic Hysteric",
+      "duration": "03:06"
+    },
+    {
+      "type": "track",
+      "title": "Aftermath",
+      "duration": "03:01"
+    },
+    {
+      "type": "track",
+      "title": "Cursed Creator",
+      "duration": "03:35"
+    },
+    {
+      "type": "track",
+      "title": "An Intermission",
+      "duration": "00:28"
+    },
+    {
+      "type": "track",
+      "title": "Asserting Dominion",
+      "duration": "03:30"
+    },
+    {
+      "type": "track",
+      "title": "Servitude",
+      "duration": "03:27"
+    },
+    {
+      "type": "track",
+      "title": "Mammoth's Hand",
+      "duration": "03:53"
+    },
+    {
+      "type": "track",
+      "title": "Transcosmic Blueprint",
+      "duration": "03:48"
+    },
+    {
+      "type": "track",
+      "title": "Utopia Black",
+      "duration": "03:59"
+    }
+  ],
+  "totalDuration": "32:42",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/86fc17cb78197b6809c732cb05ab9337/12214515/the-black-dahlia-murder-servitude-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:37:39.525Z",
+  "updatedAt": "2025-09-12T17:37:39.525Z"
+}

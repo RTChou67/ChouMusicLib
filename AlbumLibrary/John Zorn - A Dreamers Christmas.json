@@ -1,0 +1,81 @@
+{
+  "fileName": "John Zorn - A Dreamers Christmas.json",
+  "title": "A Dreamers Christmas",
+  "artist": "John Zorn",
+  "releaseDate": "2011-10-11",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Christmas Music",
+    "Jazz",
+    "Lounge",
+    "Surf Rock",
+    "Exotica",
+    "Jazz Fusion",
+    "Cool Jazz"
+  ],
+  "tags": [
+    "instrumental",
+    "Christmas",
+    "mellow",
+    "playful",
+    "improvisation",
+    "soothing",
+    "winter",
+    "uplifting",
+    "melodic",
+    "happy"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Winter Wonderland",
+      "duration": "04:13"
+    },
+    {
+      "type": "track",
+      "title": "Snowfall",
+      "duration": "05:10"
+    },
+    {
+      "type": "track",
+      "title": "Christmas Time Is Here",
+      "duration": "04:38"
+    },
+    {
+      "type": "track",
+      "title": "Santa's Workshop",
+      "duration": "05:22"
+    },
+    {
+      "type": "track",
+      "title": "Have Yourself a Merry Little Christmas",
+      "duration": "05:16"
+    },
+    {
+      "type": "track",
+      "title": "Let It Snow! Let It Snow! Let It Snow!",
+      "duration": "04:04"
+    },
+    {
+      "type": "track",
+      "title": "Santa Claus Is Coming to Town",
+      "duration": "06:30"
+    },
+    {
+      "type": "track",
+      "title": "Magical Sleigh Ride",
+      "duration": "06:24"
+    },
+    {
+      "type": "track",
+      "title": "The Christmas Song",
+      "duration": "06:34"
+    }
+  ],
+  "totalDuration": "48:11",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/81d7ce362a1a8f3f16781ab5748a7999/11376738/john-zorn-a-dreamers-christmas-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:13:30.512Z",
+  "updatedAt": "2025-09-13T16:13:30.512Z"
+}

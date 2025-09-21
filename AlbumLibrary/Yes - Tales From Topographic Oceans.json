@@ -1,0 +1,60 @@
+{
+  "fileName": "Yes - Tales From Topographic Oceans.json",
+  "title": "Tales From Topographic Oceans",
+  "artist": "Yes",
+  "releaseDate": "1973-10-26",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Symphonic Prog",
+    "Progressive Rock"
+  ],
+  "tags": [
+    "male vocalist",
+    "epic",
+    "complex",
+    "fantasy",
+    "technical",
+    "philosophical",
+    "optimistic",
+    "uncommon time signatures",
+    "progressive",
+    "concept album",
+    "spiritual",
+    "lush",
+    "atmospheric",
+    "uplifting",
+    "space",
+    "psychedelic",
+    "dense",
+    "avant-garde",
+    "quirky"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "The Revealing Science of God - Dance of the Dawn",
+      "duration": "20:27"
+    },
+    {
+      "type": "track",
+      "title": "The Remembering - High the Memory",
+      "duration": "20:38"
+    },
+    {
+      "type": "track",
+      "title": "The Ancient - Giants Under the Sun",
+      "duration": "18:34"
+    },
+    {
+      "type": "track",
+      "title": "Ritual - Nous sommes du soleil",
+      "duration": "21:35"
+    }
+  ],
+  "totalDuration": "01:21:14",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/a5d870d74a701c04d4ecaa4d2f90f372/11730897/yes-tales-from-topographic-oceans-Cover-Art.png",
+  "createdAt": "2025-09-16T15:53:41.885Z",
+  "updatedAt": "2025-09-16T15:53:41.885Z"
+}

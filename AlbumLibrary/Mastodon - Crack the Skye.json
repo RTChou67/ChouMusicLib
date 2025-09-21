@@ -1,0 +1,86 @@
+{
+  "fileName": "Mastodon - Crack the Skye.json",
+  "title": "Crack the Skye",
+  "artist": "Mastodon",
+  "releaseDate": "2009-03-23",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Progressive Metal",
+    "Sludge Metal",
+    "Stoner Metal",
+    "Heavy Psych"
+  ],
+  "tags": [
+    "fantasy",
+    "psychedelic",
+    "progressive",
+    "concept album",
+    "male vocalist",
+    "epic",
+    "heavy",
+    "melodic",
+    "spiritual",
+    "philosophical",
+    "atmospheric",
+    "death",
+    "poetic",
+    "passionate",
+    "dense",
+    "complex",
+    "cryptic",
+    "technical",
+    "surreal",
+    "paranormal",
+    "sombre",
+    "bittersweet",
+    "energetic",
+    "melancholic",
+    "narrative",
+    "afterlife",
+    "travel",
+    "ethereal"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Oblivion",
+      "duration": "05:46"
+    },
+    {
+      "type": "track",
+      "title": "Divinations",
+      "duration": "03:39"
+    },
+    {
+      "type": "track",
+      "title": "Quintessence",
+      "duration": "05:27"
+    },
+    {
+      "type": "track",
+      "title": "The Czar",
+      "duration": "10:55"
+    },
+    {
+      "type": "track",
+      "title": "Ghost of Karelia",
+      "duration": "05:25"
+    },
+    {
+      "type": "track",
+      "title": "Crack the Skye",
+      "duration": "05:54"
+    },
+    {
+      "type": "track",
+      "title": "The Last Baron",
+      "duration": "13:00"
+    }
+  ],
+  "totalDuration": "50:06",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/c3c6f488e7ab4bf8f0caa3de0c78562a/13691955/mastodon-crack-the-skye-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:20:05.200Z",
+  "updatedAt": "2025-09-16T15:20:05.200Z"
+}

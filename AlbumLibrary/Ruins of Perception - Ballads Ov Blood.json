@@ -1,0 +1,45 @@
+{
+  "fileName": "Ruins of Perception - Ballads Ov Blood.json",
+  "title": "Ballads Ov Blood",
+  "artist": "Ruins of Perception",
+  "releaseDate": "2024-05-31",
+  "albumFormat": "EP",
+  "rating": 0,
+  "styles": [
+    "Deathcore",
+    "Symphonic Metal"
+  ],
+  "tags": [],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Carpe Noctem",
+      "duration": "02:43"
+    },
+    {
+      "type": "track",
+      "title": "The Draconian Impaler",
+      "duration": "04:50"
+    },
+    {
+      "type": "track",
+      "title": "Terrorgheist",
+      "duration": "03:20"
+    },
+    {
+      "type": "track",
+      "title": "Empress Ov Blood",
+      "duration": "07:23"
+    },
+    {
+      "type": "track",
+      "title": "Immortalize",
+      "duration": "06:11"
+    }
+  ],
+  "totalDuration": "24:27",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/2f7ba9486440cb03e1895f661f3f0fa6/12179740/ruins-of-perception-ballads-ov-blood-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:34:39.922Z",
+  "updatedAt": "2025-09-12T17:34:39.922Z"
+}

@@ -1,0 +1,85 @@
+{
+  "fileName": "Obscura - Cosmogenesis.json",
+  "title": "Cosmogenesis",
+  "artist": "Obscura",
+  "releaseDate": "2009-02-17",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Technical Death Metal"
+  ],
+  "tags": [
+    "technical",
+    "complex",
+    "futuristic",
+    "heavy",
+    "energetic",
+    "philosophical",
+    "male vocalist",
+    "science fiction",
+    "space",
+    "aggressive",
+    "progressive",
+    "uncommon time signatures",
+    "melodic",
+    "concept album",
+    "polyphonic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "The Anticosmic Overload",
+      "duration": "04:16"
+    },
+    {
+      "type": "track",
+      "title": "Choir of Spirits",
+      "duration": "05:31"
+    },
+    {
+      "type": "track",
+      "title": "Universe Momentum",
+      "duration": "04:33"
+    },
+    {
+      "type": "track",
+      "title": "Incarnated",
+      "duration": "04:53"
+    },
+    {
+      "type": "track",
+      "title": "Orbital Elements",
+      "duration": "05:21"
+    },
+    {
+      "type": "track",
+      "title": "Desolate Spheres",
+      "duration": "04:01"
+    },
+    {
+      "type": "track",
+      "title": "Infinite Rotation",
+      "duration": "04:48"
+    },
+    {
+      "type": "track",
+      "title": "Noospheres",
+      "duration": "05:04"
+    },
+    {
+      "type": "track",
+      "title": "Cosmogenesis",
+      "duration": "04:15"
+    },
+    {
+      "type": "track",
+      "title": "Centric Flow",
+      "duration": "07:25"
+    }
+  ],
+  "totalDuration": "50:07",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/e46e06a97edf5f49a33c4c9bae3d3528/2481190/obscura-cosmogenesis-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:50:35.034Z",
+  "updatedAt": "2025-09-12T17:50:35.034Z"
+}

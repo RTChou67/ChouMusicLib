@@ -1,0 +1,85 @@
+{
+  "fileName": "Beyond Creation - Earthborn Evolution.json",
+  "title": "Earthborn Evolution",
+  "artist": "Beyond Creation",
+  "releaseDate": "2014-10-24",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Technical Death Metal",
+    "Progressive Metal"
+  ],
+  "tags": [
+    "complex",
+    "technical",
+    "male vocalist",
+    "progressive",
+    "melodic",
+    "uncommon time signatures",
+    "science fiction",
+    "futuristic",
+    "aggressive",
+    "philosophical",
+    "heavy",
+    "dense",
+    "energetic",
+    "triumphant"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Elusive Reverence",
+      "duration": "04:15"
+    },
+    {
+      "type": "track",
+      "title": "Sous la lueur de l'empereur",
+      "duration": "05:25"
+    },
+    {
+      "type": "track",
+      "title": "Earthborn Evolution",
+      "duration": "05:35"
+    },
+    {
+      "type": "track",
+      "title": "The Great Revelation",
+      "duration": "02:37"
+    },
+    {
+      "type": "track",
+      "title": "Neurotical Transmissions",
+      "duration": "05:06"
+    },
+    {
+      "type": "track",
+      "title": "Abstrait Dialog",
+      "duration": "03:06"
+    },
+    {
+      "type": "track",
+      "title": "The Axiom",
+      "duration": "04:09"
+    },
+    {
+      "type": "track",
+      "title": "L'exorde",
+      "duration": "02:07"
+    },
+    {
+      "type": "track",
+      "title": "Theatrical Delirium",
+      "duration": "06:49"
+    },
+    {
+      "type": "track",
+      "title": "Fundamental Process",
+      "duration": "07:13"
+    }
+  ],
+  "totalDuration": "46:22",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/985cbeabcf3f7444f293e2a63c5a93fa/5456492/beyond-creation-earthborn-evolution-Cover-Art.jpg",
+  "createdAt": "2025-09-13T17:00:51.407Z",
+  "updatedAt": "2025-09-13T17:00:51.407Z"
+}

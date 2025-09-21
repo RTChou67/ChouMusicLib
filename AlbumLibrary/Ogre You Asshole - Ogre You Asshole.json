@@ -1,0 +1,69 @@
+{
+  "fileName": "Ogre You Asshole - Ogre You Asshole.json",
+  "title": "Ogre You Asshole",
+  "artist": "Ogre You Asshole",
+  "releaseDate": "2005-12-07",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Post-Punk Revival",
+    "Midwest Emo",
+    "Dance-Punk"
+  ],
+  "tags": [
+    "rhythmic",
+    "androgynous vocals",
+    "energetic",
+    "urban",
+    "deadpan",
+    "passionate",
+    "playful"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "また明日",
+      "duration": "03:17"
+    },
+    {
+      "type": "track",
+      "title": "ユーレイ",
+      "duration": "04:51"
+    },
+    {
+      "type": "track",
+      "title": "タニシ",
+      "duration": "03:14"
+    },
+    {
+      "type": "track",
+      "title": "カイセントウ",
+      "duration": "03:58"
+    },
+    {
+      "type": "track",
+      "title": "カポ",
+      "duration": "05:46"
+    },
+    {
+      "type": "track",
+      "title": "どっちかの角",
+      "duration": "03:49"
+    },
+    {
+      "type": "track",
+      "title": "ロボトミー",
+      "duration": "06:00"
+    },
+    {
+      "type": "track",
+      "title": "J.N",
+      "duration": "03:26"
+    }
+  ],
+  "totalDuration": "34:21",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/b53f72fcaebedb216146062b6a18f0ac/1919191/ogre-you-asshole-ogre-you-asshole-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:42:54.246Z",
+  "updatedAt": "2025-09-16T15:42:54.246Z"
+}

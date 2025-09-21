@@ -1,0 +1,65 @@
+{
+  "fileName": "Pentangle - Cruel Sister.json",
+  "title": "Cruel Sister",
+  "artist": "Pentangle",
+  "releaseDate": "1970-11-01",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Progressive Folk",
+    "Folk Baroque",
+    "British Folk Rock",
+    "English Folk Music",
+    "Neo-Medieval Folk",
+    "A cappella",
+    "English Folk Music"
+  ],
+  "tags": [
+    "folklore",
+    "pastoral",
+    "female vocalist",
+    "bittersweet",
+    "love",
+    "longing",
+    "acoustic",
+    "repetitive",
+    "male vocalist",
+    "medieval"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "A Maid That's Deep in Love",
+      "duration": "05:30"
+    },
+    {
+      "type": "track",
+      "title": "When I Was in My Prime",
+      "duration": "02:56"
+    },
+    {
+      "type": "track",
+      "title": "Lord Franklin",
+      "duration": "03:24"
+    },
+    {
+      "type": "track",
+      "title": "Cruel Sister",
+      "duration": "07:03"
+    },
+    {
+      "type": "track",
+      "title": "Jack Orion",
+      "duration": "18:36"
+    }
+  ],
+  "totalDuration": "37:29",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/2ed7a54ca60fe83f012b6c64e15dda67/1216852/pentangle-cruel-sister-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:28:32.980Z",
+  "updatedAt": "2025-09-16T15:28:32.980Z"
+}

@@ -1,0 +1,81 @@
+{
+  "fileName": "Beyond Creation - The Aura.json",
+  "title": "The Aura",
+  "artist": "Beyond Creation",
+  "releaseDate": "2011-04-04",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Technical Death Metal",
+    "Progressive Metal"
+  ],
+  "tags": [
+    "technical",
+    "male vocalist",
+    "complex",
+    "uncommon time signatures",
+    "energetic",
+    "heavy",
+    "aggressive",
+    "progressive",
+    "philosophical",
+    "melodic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "No Request for the Corrupted",
+      "duration": "04:56"
+    },
+    {
+      "type": "track",
+      "title": "Coexistence",
+      "duration": "07:36"
+    },
+    {
+      "type": "track",
+      "title": "Chromatic Horizon",
+      "duration": "01:54"
+    },
+    {
+      "type": "track",
+      "title": "Omnipresent Perception",
+      "duration": "06:11"
+    },
+    {
+      "type": "track",
+      "title": "Injustice Revealed",
+      "duration": "03:54"
+    },
+    {
+      "type": "track",
+      "title": "Le Détenteur",
+      "duration": "02:35"
+    },
+    {
+      "type": "track",
+      "title": "The Aura",
+      "duration": "07:06"
+    },
+    {
+      "type": "track",
+      "title": "Social Disability",
+      "duration": "05:30"
+    },
+    {
+      "type": "track",
+      "title": "Elevation Path",
+      "duration": "01:45"
+    },
+    {
+      "type": "track",
+      "title": "The Deported",
+      "duration": "11:08"
+    }
+  ],
+  "totalDuration": "52:35",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/cd6db924840bae71940c3cd06be4780b/3573204/beyond-creation-the-aura-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:35:48.614Z",
+  "updatedAt": "2025-09-13T16:35:48.614Z"
+}

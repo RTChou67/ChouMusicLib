@@ -1,0 +1,83 @@
+{
+  "fileName": "Children of Bodom - Follow the Reaper.json",
+  "title": "Follow the Reaper",
+  "artist": "Children of Bodom",
+  "releaseDate": "2000-10-30",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Melodic Death Metal",
+    "Power Metal",
+    "Neoclassical Metal"
+  ],
+  "tags": [
+    "energetic",
+    "male vocalist",
+    "aggressive",
+    "melodic",
+    "death",
+    "rebellious",
+    "technical",
+    "fantasy",
+    "heavy",
+    "dark",
+    "cold",
+    "epic",
+    "hateful",
+    "nihilistic",
+    "uncommon time signatures",
+    "nocturnal"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Follow the Reaper",
+      "duration": "03:47"
+    },
+    {
+      "type": "track",
+      "title": "Bodom After Midnight",
+      "duration": "03:43"
+    },
+    {
+      "type": "track",
+      "title": "Children of Decadence",
+      "duration": "05:34"
+    },
+    {
+      "type": "track",
+      "title": "Everytime I Die",
+      "duration": "04:02"
+    },
+    {
+      "type": "track",
+      "title": "Mask of Sanity",
+      "duration": "03:58"
+    },
+    {
+      "type": "track",
+      "title": "Taste of My Scythe",
+      "duration": "03:57"
+    },
+    {
+      "type": "track",
+      "title": "Hate Me!",
+      "duration": "04:44"
+    },
+    {
+      "type": "track",
+      "title": "Northern Comfort",
+      "duration": "03:47"
+    },
+    {
+      "type": "track",
+      "title": "Kissing the Shadows",
+      "duration": "04:32"
+    }
+  ],
+  "totalDuration": "38:04",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/d2b08f25c3eea442387ec82334c26c06/1213690/children-of-bodom-follow-the-reaper-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:50:14.305Z",
+  "updatedAt": "2025-09-12T17:50:14.305Z"
+}

@@ -1,0 +1,44 @@
+{
+  "fileName": "Edge of Sanity - Crimson.json",
+  "title": "Crimson",
+  "artist": "Edge of Sanity",
+  "releaseDate": "1996-04-02",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Melodic Death Metal",
+    "Progressive Metal"
+  ],
+  "tags": [
+    "epic",
+    "fantasy",
+    "melodic",
+    "heavy",
+    "apocalyptic",
+    "progressive",
+    "concept album",
+    "dark",
+    "male vocalist",
+    "science fiction",
+    "complex",
+    "poetic",
+    "suspenseful",
+    "ominous",
+    "misanthropic",
+    "atmospheric",
+    "passionate",
+    "rhythmic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Crimson",
+      "duration": "40:00"
+    }
+  ],
+  "totalDuration": "40:00",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/fb3d55b112907ec652d8fae705acad08/2568921/edge-of-sanity-crimson-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:40:18.346Z",
+  "updatedAt": "2025-09-16T15:40:18.346Z"
+}

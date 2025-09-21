@@ -1,0 +1,110 @@
+{
+  "fileName": "The Waterboys - Fisherman's Blues.json",
+  "title": "Fisherman's Blues",
+  "artist": "The Waterboys",
+  "releaseDate": "1988-11-01",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Celtic Rock",
+    "Folk Rock",
+    "Celtic Folk Music",
+    "Irish Folk Music",
+    "Big Music",
+    "Jangle Pop"
+  ],
+  "tags": [
+    "pastoral",
+    "aquatic",
+    "melodic",
+    "longing",
+    "passionate",
+    "male vocalist",
+    "poetic",
+    "bittersweet",
+    "warm",
+    "romantic",
+    "uplifting",
+    "autumn",
+    "progressive",
+    "love",
+    "sentimental",
+    "energetic",
+    "acoustic"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "Fisherman's Blues",
+      "duration": "04:29"
+    },
+    {
+      "type": "track",
+      "title": "We Will Not Be Lovers",
+      "duration": "07:05"
+    },
+    {
+      "type": "track",
+      "title": "Strange Boat",
+      "duration": "03:09"
+    },
+    {
+      "type": "track",
+      "title": "World Party",
+      "duration": "04:03"
+    },
+    {
+      "type": "track",
+      "title": "Sweet Thing",
+      "duration": "07:16"
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "And a Bang on the Ear",
+      "duration": "07:35"
+    },
+    {
+      "type": "track",
+      "title": "Has Anybody Here Seen Hank?",
+      "duration": "03:21"
+    },
+    {
+      "type": "track",
+      "title": "When Will We Be Married?",
+      "duration": "03:03"
+    },
+    {
+      "type": "track",
+      "title": "When Ye Go Away",
+      "duration": "03:47"
+    },
+    {
+      "type": "track",
+      "title": "Dunford's Fancy",
+      "duration": "01:06"
+    },
+    {
+      "type": "track",
+      "title": "The Stolen Child",
+      "duration": "06:57"
+    },
+    {
+      "type": "track",
+      "title": "This Land Is Your Land [unlisted]",
+      "duration": "00:58"
+    }
+  ],
+  "totalDuration": "52:49",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/53042a8a49c12d2426ddbb5afc970d2d/2525146/the-waterboys-fishermans-blues-Cover-Art.jpg",
+  "createdAt": "2025-09-16T16:06:33.493Z",
+  "updatedAt": "2025-09-16T16:06:33.493Z"
+}

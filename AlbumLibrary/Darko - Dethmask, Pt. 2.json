@@ -1,0 +1,58 @@
+{
+  "fileName": "",
+  "title": "Dethmask, Pt. 2",
+  "artist": "Darko",
+  "releaseDate": "2022-12-30",
+  "albumFormat": "EP",
+  "rating": 0,
+  "styles": [
+    "Deathcore",
+    "Djent"
+  ],
+  "tags": [
+    "Technical",
+    "Electronic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Unmasked",
+      "duration": "03:51"
+    },
+    {
+      "type": "track",
+      "title": "Hybrid Process",
+      "duration": "04:16"
+    },
+    {
+      "type": "track",
+      "title": "Numb Lock",
+      "duration": "01:26"
+    },
+    {
+      "type": "track",
+      "title": "Future Doom",
+      "duration": "03:54"
+    },
+    {
+      "type": "track",
+      "title": "Butchers Block",
+      "duration": "01:18"
+    },
+    {
+      "type": "track",
+      "title": "The Fly and the Bee",
+      "duration": "04:17"
+    },
+    {
+      "type": "track",
+      "title": "Lone Exo",
+      "duration": "02:16"
+    }
+  ],
+  "totalDuration": "21:18",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/990c429305541c5595a520eac58ef462/10555883/darko-dethmask-pt-2-Cover-Art.jpg",
+  "createdAt": "",
+  "updatedAt": "2025-09-16T16:42:08.183Z"
+}

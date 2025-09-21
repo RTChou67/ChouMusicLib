@@ -1,0 +1,72 @@
+{
+  "fileName": "First Fragment - Dasein.json",
+  "title": "Dasein",
+  "artist": "First Fragment",
+  "releaseDate": "2016-05-20",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [],
+  "tags": [],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Le serment de Tsion",
+      "duration": "03:52"
+    },
+    {
+      "type": "track",
+      "title": "Dasein",
+      "duration": "04:49"
+    },
+    {
+      "type": "track",
+      "title": "L'entité",
+      "duration": "05:30"
+    },
+    {
+      "type": "track",
+      "title": "Émergence",
+      "duration": "05:14"
+    },
+    {
+      "type": "track",
+      "title": "Mordêtre et dénaissance",
+      "duration": "05:21"
+    },
+    {
+      "type": "track",
+      "title": "Prélude en sol dièse mineur",
+      "duration": "02:39"
+    },
+    {
+      "type": "track",
+      "title": "Archétype",
+      "duration": "05:50"
+    },
+    {
+      "type": "track",
+      "title": "Gula",
+      "duration": "06:11"
+    },
+    {
+      "type": "track",
+      "title": "Voracité (Apothéose, partie 1)",
+      "duration": "04:59"
+    },
+    {
+      "type": "track",
+      "title": "Psychan (Apothéose, partie 2)",
+      "duration": "02:29"
+    },
+    {
+      "type": "track",
+      "title": "Evhron",
+      "duration": "09:35"
+    }
+  ],
+  "totalDuration": "56:29",
+  "notes": "",
+  "coverData": "https://www.metal-archives.com/images/5/6/5/0/565030.jpg?0559",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

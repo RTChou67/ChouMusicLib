@@ -1,0 +1,136 @@
+{
+  "fileName": "Moby - Play.json",
+  "title": "Play",
+  "artist": "Moby",
+  "releaseDate": "1999-05-17",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Downtempo",
+    "Ambient Pop",
+    "Trip Hop",
+    "House",
+    "American Folk Music"
+  ],
+  "tags": [
+    "eclectic",
+    "sampling",
+    "repetitive",
+    "atmospheric",
+    "spiritual",
+    "mellow",
+    "male vocalist",
+    "melancholic",
+    "party",
+    "meditative",
+    "female vocalist",
+    "bittersweet",
+    "introspective",
+    "lush",
+    "warm",
+    "hypnotic",
+    "energetic",
+    "soothing",
+    "melodic",
+    "mysterious",
+    "rhythmic",
+    "nocturnal"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Honey",
+      "duration": "03:30"
+    },
+    {
+      "type": "track",
+      "title": "Find My Baby",
+      "duration": "03:59"
+    },
+    {
+      "type": "track",
+      "title": "Porcelain",
+      "duration": "04:01"
+    },
+    {
+      "type": "track",
+      "title": "Why Does My Heart Feel So Bad?",
+      "duration": "04:25"
+    },
+    {
+      "type": "track",
+      "title": "South Side",
+      "duration": "03:50"
+    },
+    {
+      "type": "track",
+      "title": "Rushing",
+      "duration": "03:00"
+    },
+    {
+      "type": "track",
+      "title": "Bodyrock",
+      "duration": "03:36"
+    },
+    {
+      "type": "track",
+      "title": "Natural Blues",
+      "duration": "04:14"
+    },
+    {
+      "type": "track",
+      "title": "Machete",
+      "duration": "03:38"
+    },
+    {
+      "type": "track",
+      "title": "7",
+      "duration": "01:02"
+    },
+    {
+      "type": "track",
+      "title": "Run On",
+      "duration": "03:45"
+    },
+    {
+      "type": "track",
+      "title": "Down Slow",
+      "duration": "01:35"
+    },
+    {
+      "type": "track",
+      "title": "If Things Were Perfect",
+      "duration": "04:19"
+    },
+    {
+      "type": "track",
+      "title": "Everloving",
+      "duration": "03:26"
+    },
+    {
+      "type": "track",
+      "title": "Inside",
+      "duration": "04:49"
+    },
+    {
+      "type": "track",
+      "title": "Guitar Flute & String",
+      "duration": "02:09"
+    },
+    {
+      "type": "track",
+      "title": "The Sky Is Broken",
+      "duration": "04:18"
+    },
+    {
+      "type": "track",
+      "title": "My Weakness",
+      "duration": "03:38"
+    }
+  ],
+  "totalDuration": "01:03:14",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/144964b91f329c1f0c5003dcd5436176/9053250/moby-play-Cover-Art.png",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

@@ -1,0 +1,112 @@
+{
+  "fileName": "Radiohead - OK Computer.json",
+  "title": "OK Computer",
+  "artist": "Radiohead",
+  "releaseDate": "1997-06-16",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Alternative Rock",
+    "Art Rock",
+    "Post-Britpop",
+    "Space Rock Revival"
+  ],
+  "tags": [
+    "melancholic",
+    "anxious",
+    "alienation",
+    "male vocalist",
+    "futuristic",
+    "existential",
+    "lonely",
+    "atmospheric",
+    "cold",
+    "pessimistic",
+    "introspective",
+    "depressive",
+    "longing",
+    "dense",
+    "progressive",
+    "urban",
+    "serious",
+    "sarcastic",
+    "dystopian",
+    "passionate",
+    "paranoia",
+    "sad",
+    "mental health",
+    "melodic",
+    "insecure",
+    "anti-authoritarian",
+    "poetic",
+    "technology",
+    "political"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Airbag",
+      "duration": "04:44"
+    },
+    {
+      "type": "track",
+      "title": "Paranoid Android",
+      "duration": "06:23"
+    },
+    {
+      "type": "track",
+      "title": "Subterranean Homesick Alien",
+      "duration": "04:27"
+    },
+    {
+      "type": "track",
+      "title": "Exit Music (For a Film)",
+      "duration": "04:24"
+    },
+    {
+      "type": "track",
+      "title": "Let Down",
+      "duration": "04:59"
+    },
+    {
+      "type": "track",
+      "title": "Karma Police",
+      "duration": "04:21"
+    },
+    {
+      "type": "track",
+      "title": "Fitter Happier",
+      "duration": "01:57"
+    },
+    {
+      "type": "track",
+      "title": "Electioneering",
+      "duration": "03:50"
+    },
+    {
+      "type": "track",
+      "title": "Climbing Up the Walls",
+      "duration": "04:45"
+    },
+    {
+      "type": "track",
+      "title": "No Surprises",
+      "duration": "03:48"
+    },
+    {
+      "type": "track",
+      "title": "Lucky",
+      "duration": "04:19"
+    },
+    {
+      "type": "track",
+      "title": "The Tourist",
+      "duration": "05:24"
+    }
+  ],
+  "totalDuration": "53:21",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/91f41d53d83f36ac3bb0cee7d6dffca3/11993756/radiohead-ok-computer-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

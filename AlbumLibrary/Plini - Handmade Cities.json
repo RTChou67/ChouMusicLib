@@ -1,0 +1,71 @@
+{
+  "fileName": "Plini - Handmade Cities.json",
+  "title": "Handmade Cities",
+  "artist": "Plini",
+  "releaseDate": "2016-08-26",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Progressive Metal",
+    "Progressive Rock",
+    "Jazz Fusion",
+    "Djent",
+    "Post-Metal",
+    "Math Rock"
+  ],
+  "tags": [
+    "uncommon time signatures",
+    "uplifting",
+    "instrumental",
+    "progressive",
+    "melodic",
+    "complex",
+    "ethereal",
+    "atmospheric",
+    "technical",
+    "warm",
+    "lush"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Electric Sunrise",
+      "duration": "05:05"
+    },
+    {
+      "type": "track",
+      "title": "Handmade Cities",
+      "duration": "04:45"
+    },
+    {
+      "type": "track",
+      "title": "Inhale",
+      "duration": "04:57"
+    },
+    {
+      "type": "track",
+      "title": "Every Piece Matters",
+      "duration": "03:40"
+    },
+    {
+      "type": "track",
+      "title": "Pastures",
+      "duration": "07:33"
+    },
+    {
+      "type": "track",
+      "title": "Here We Are, Again",
+      "duration": "02:37"
+    },
+    {
+      "type": "track",
+      "title": "Cascade",
+      "duration": "06:00"
+    }
+  ],
+  "totalDuration": "34:37",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/08175925fa04ce2cd96b66c100ce83c4/6188318/plini-handmade-cities-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

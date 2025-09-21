@@ -1,0 +1,75 @@
+{
+  "fileName": "Alcest - Écailles de lune.json",
+  "title": "Écailles de lune",
+  "artist": "Alcest",
+  "releaseDate": "2010-03-26",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Blackgaze",
+    "Post-Metal",
+    "Shoegaze",
+    "Post-Rock",
+    "Dream Pop",
+    "Atmospheric Black Metal"
+  ],
+  "tags": [
+    "ethereal",
+    "atmospheric",
+    "melancholic",
+    "male vocalist",
+    "melodic",
+    "passionate",
+    "sentimental",
+    "aquatic",
+    "lush",
+    "poetic",
+    "soothing",
+    "nature",
+    "longing",
+    "bittersweet",
+    "uplifting",
+    "surreal",
+    "sad",
+    "nocturnal",
+    "bright",
+    "hazy"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Écailles de lune - Part 1",
+      "duration": "09:52"
+    },
+    {
+      "type": "track",
+      "title": "Écailles de lune - Part 2",
+      "duration": "09:48"
+    },
+    {
+      "type": "track",
+      "title": "Percées de lumière",
+      "duration": "06:38"
+    },
+    {
+      "type": "track",
+      "title": "Abysses",
+      "duration": "01:47"
+    },
+    {
+      "type": "track",
+      "title": "Solar Song",
+      "duration": "05:24"
+    },
+    {
+      "type": "track",
+      "title": "Sur l'océan couleur de fer",
+      "duration": "08:18"
+    }
+  ],
+  "totalDuration": "41:47",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/f15ef724c4b3a738474a123918158e97/2954845/alcest-ecailles-de-lune-Cover-Art.jpg",
+  "createdAt": "2025-09-16T16:08:01.717Z",
+  "updatedAt": "2025-09-16T16:08:01.717Z"
+}

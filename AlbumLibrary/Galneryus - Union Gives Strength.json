@@ -1,0 +1,72 @@
+{
+  "fileName": "Galneryus - Union Gives Strength.json",
+  "title": "Union Gives Strength",
+  "artist": "Galneryus",
+  "releaseDate": "2021-06-16",
+  "albumFormat": "EP",
+  "rating": 0,
+  "styles": [
+    "Power Metal",
+    "Progressive Metal",
+    "Symphonic Metal",
+    "Neoclassical Metal"
+  ],
+  "tags": [
+    "technical",
+    "triumphant",
+    "complex",
+    "uplifting",
+    "energetic",
+    "melodic",
+    "epic",
+    "male vocalist",
+    "heavy"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "The Howling Darkness",
+      "duration": "09:29"
+    },
+    {
+      "type": "track",
+      "title": "Flames of Rage",
+      "duration": "09:00"
+    },
+    {
+      "type": "track",
+      "title": "Hold On",
+      "duration": "06:19"
+    },
+    {
+      "type": "track",
+      "title": "Bleeding Sanity",
+      "duration": "05:11"
+    },
+    {
+      "type": "track",
+      "title": "See the Light of Freedom",
+      "duration": "07:22"
+    },
+    {
+      "type": "track",
+      "title": "Whatever It Takes (Raise Our Hands!)",
+      "duration": "08:48"
+    },
+    {
+      "type": "track",
+      "title": "Deep Affection (2021 Re-Recorded Version)",
+      "duration": "07:17"
+    },
+    {
+      "type": "track",
+      "title": "Everlasting (2021 Re-Recorded Version)",
+      "duration": "05:13"
+    }
+  ],
+  "totalDuration": "58:39",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/e7ad969de584ddf141350c308b54d6fd/9101229/galneryus-union-gives-strength-Cover-Art.jpg",
+  "createdAt": "2025-09-12T18:13:13.161Z",
+  "updatedAt": "2025-09-12T18:13:13.161Z"
+}

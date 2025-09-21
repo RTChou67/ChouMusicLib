@@ -1,0 +1,66 @@
+{
+  "fileName": "Buddy Rich and His Sextet - Blues Caravan.json",
+  "title": "Blues Caravan",
+  "artist": "Buddy Rich and His Sextet",
+  "releaseDate": "1961-11-01",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Bebop",
+    "Hard Bop",
+    "Swing"
+  ],
+  "tags": [
+    "instrumental",
+    "rhythmic",
+    "melodic",
+    "energetic",
+    "playful",
+    "improvisation"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "Blowin' the Blues Away",
+      "duration": "08:40"
+    },
+    {
+      "type": "track",
+      "title": "B.R. Blues",
+      "duration": "03:14"
+    },
+    {
+      "type": "track",
+      "title": "Last Date",
+      "duration": "05:12"
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "Caravan",
+      "duration": "09:44"
+    },
+    {
+      "type": "track",
+      "title": "Young Blood",
+      "duration": "05:59"
+    },
+    {
+      "type": "track",
+      "title": "I Remember Clifford",
+      "duration": "03:35"
+    }
+  ],
+  "totalDuration": "36:24",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/9287c63a772a3681579a7a8fd12b3544/1532418/buddy-rich-and-his-sextet-blues-caravan-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

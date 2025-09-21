@@ -1,0 +1,111 @@
+{
+  "fileName": "The Kinks - Lola Versus Powerman and the Moneygoround (Part One).json",
+  "title": "Lola Versus Powerman and the Moneygoround (Part One)",
+  "artist": "The Kinks",
+  "releaseDate": "1970-11-27",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Pop Rock",
+    "Folk Rock",
+    "Music Hall"
+  ],
+  "tags": [
+    "male vocalist",
+    "satirical",
+    "melodic",
+    "playful",
+    "sarcastic",
+    "concept album",
+    "bittersweet",
+    "humorous",
+    "quirky",
+    "LGBTQ",
+    "conscious",
+    "longing",
+    "eclectic",
+    "energetic",
+    "about music",
+    "urban"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "The Contenders",
+      "duration": "02:42"
+    },
+    {
+      "type": "track",
+      "title": "Strangers",
+      "duration": "03:19"
+    },
+    {
+      "type": "track",
+      "title": "Denmark Street",
+      "duration": "02:01"
+    },
+    {
+      "type": "track",
+      "title": "Get Back in Line",
+      "duration": "03:04"
+    },
+    {
+      "type": "track",
+      "title": "Lola",
+      "duration": "04:01"
+    },
+    {
+      "type": "track",
+      "title": "Top of the Pops",
+      "duration": "03:39"
+    },
+    {
+      "type": "track",
+      "title": "The Moneygoround",
+      "duration": "01:46"
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "This Time Tomorrow",
+      "duration": "03:21"
+    },
+    {
+      "type": "track",
+      "title": "A Long Way From Home",
+      "duration": "02:26"
+    },
+    {
+      "type": "track",
+      "title": "Rats",
+      "duration": "02:39"
+    },
+    {
+      "type": "track",
+      "title": "Apeman",
+      "duration": "03:52"
+    },
+    {
+      "type": "track",
+      "title": "Powerman",
+      "duration": "04:17"
+    },
+    {
+      "type": "track",
+      "title": "Got to Be Free",
+      "duration": "03:01"
+    }
+  ],
+  "totalDuration": "40:08",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/3a98e0f82a5bf39addeedf159802465e/5949618/the-kinks-lola-versus-powerman-and-the-moneygoround-part-one-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:41:26.774Z",
+  "updatedAt": "2025-09-16T15:41:26.774Z"
+}

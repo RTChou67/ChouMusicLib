@@ -1,0 +1,97 @@
+{
+  "fileName": "Lamb of God - Ashes of the Wake.json",
+  "title": "Ashes of the Wake",
+  "artist": "Lamb of God",
+  "releaseDate": "2004-08-31",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Groove Metal",
+    "Metalcore",
+    "Thrash Metal",
+    "Metalcore"
+  ],
+  "tags": [
+    "aggressive",
+    "heavy",
+    "male vocalist",
+    "angry",
+    "political",
+    "energetic",
+    "violence",
+    "war",
+    "dark",
+    "death",
+    "rhythmic",
+    "martial",
+    "pessimistic",
+    "hateful",
+    "technical",
+    "anti-religious",
+    "rebellious",
+    "punchy",
+    "menacing"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Laid to Rest",
+      "duration": "03:50"
+    },
+    {
+      "type": "track",
+      "title": "Hourglass",
+      "duration": "04:00"
+    },
+    {
+      "type": "track",
+      "title": "Now You've Got Something to Die For",
+      "duration": "03:39"
+    },
+    {
+      "type": "track",
+      "title": "The Faded Line",
+      "duration": "04:37"
+    },
+    {
+      "type": "track",
+      "title": "Omerta",
+      "duration": "04:46"
+    },
+    {
+      "type": "track",
+      "title": "Blood of the Scribe",
+      "duration": "04:23"
+    },
+    {
+      "type": "track",
+      "title": "One Gun",
+      "duration": "03:59"
+    },
+    {
+      "type": "track",
+      "title": "Break You",
+      "duration": "03:35"
+    },
+    {
+      "type": "track",
+      "title": "What I've Become",
+      "duration": "03:28"
+    },
+    {
+      "type": "track",
+      "title": "Ashes of the Wake",
+      "duration": "05:45"
+    },
+    {
+      "type": "track",
+      "title": "Remorse Is for the Dead",
+      "duration": "10:01"
+    }
+  ],
+  "totalDuration": "52:03",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/dc437057a0c0579f1c1b7e4618036487/2465361/lamb-of-god-ashes-of-the-wake-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:29:01.188Z",
+  "updatedAt": "2025-09-13T16:29:01.188Z"
+}

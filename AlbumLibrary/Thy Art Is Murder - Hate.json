@@ -1,0 +1,86 @@
+{
+  "fileName": "Thy Art Is Murder - Hate.json",
+  "title": "Hate",
+  "artist": "Thy Art Is Murder",
+  "releaseDate": "2012-10-18",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Deathcore",
+    "Technical Death Metal",
+    "Brutal Death Metal"
+  ],
+  "tags": [
+    "hateful",
+    "anti-religious",
+    "heavy",
+    "angry",
+    "misanthropic",
+    "aggressive",
+    "dense",
+    "infernal",
+    "pessimistic",
+    "male vocalist",
+    "dark",
+    "technical",
+    "nihilistic",
+    "manic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Reign of Darkness",
+      "duration": "03:35"
+    },
+    {
+      "type": "track",
+      "title": "The Purest Strain of Hate",
+      "duration": "03:25"
+    },
+    {
+      "type": "track",
+      "title": "Vile Creations",
+      "duration": "03:32"
+    },
+    {
+      "type": "track",
+      "title": "Shadow of Eternal Sin",
+      "duration": "03:52"
+    },
+    {
+      "type": "track",
+      "title": "Immolation",
+      "duration": "03:21"
+    },
+    {
+      "type": "track",
+      "title": "Infinite Forms",
+      "duration": "04:31"
+    },
+    {
+      "type": "track",
+      "title": "Dead Sun",
+      "duration": "03:40"
+    },
+    {
+      "type": "track",
+      "title": "Gates of Misery",
+      "duration": "02:54"
+    },
+    {
+      "type": "track",
+      "title": "Defective Breed",
+      "duration": "03:39"
+    },
+    {
+      "type": "track",
+      "title": "Doomed From Birth",
+      "duration": "04:24"
+    }
+  ],
+  "totalDuration": "36:53",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/b674fbc77905e1d5609a9b664d0f2a07/4441990/thy-art-is-murder-hate-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

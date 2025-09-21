@@ -1,0 +1,89 @@
+{
+  "fileName": "吉村弘 [Hiroshi Yoshimura] - Green.json",
+  "title": "Green",
+  "artist": "吉村弘 [Hiroshi Yoshimura]",
+  "releaseDate": "1986-01-01",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Ambient",
+    "New Age",
+    "Post-Minimalism",
+    "Progressive Electronic"
+  ],
+  "tags": [
+    "meditative",
+    "peaceful",
+    "calm",
+    "instrumental",
+    "soothing",
+    "soft",
+    "spring",
+    "hypnotic",
+    "forest",
+    "repetitive",
+    "atmospheric",
+    "minimalistic",
+    "aquatic",
+    "nature",
+    "ethereal",
+    "mellow",
+    "warm",
+    "lush"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "Creek",
+      "duration": "04:46"
+    },
+    {
+      "type": "track",
+      "title": "Feel",
+      "duration": "04:23"
+    },
+    {
+      "type": "track",
+      "title": "Sheep",
+      "duration": "05:15"
+    },
+    {
+      "type": "track",
+      "title": "Sleep",
+      "duration": "06:13"
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "Green",
+      "duration": "05:09"
+    },
+    {
+      "type": "track",
+      "title": "Feet",
+      "duration": "06:08"
+    },
+    {
+      "type": "track",
+      "title": "Street",
+      "duration": "06:41"
+    },
+    {
+      "type": "track",
+      "title": "Teevee",
+      "duration": "03:30"
+    }
+  ],
+  "totalDuration": "42:05",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/337b2cca88b285c3bc3f1ca98822447b/7428050/%E5%90%89%E6%9D%91%E5%BC%98-hiroshi-yoshimura-green-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

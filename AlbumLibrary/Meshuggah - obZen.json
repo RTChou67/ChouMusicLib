@@ -1,0 +1,89 @@
+{
+  "fileName": "Meshuggah - obZen.json",
+  "title": "obZen",
+  "artist": "Meshuggah",
+  "releaseDate": "2008-03-07",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Djent",
+    "Progressive Metal"
+  ],
+  "tags": [
+    "heavy",
+    "technical",
+    "mechanical",
+    "complex",
+    "male vocalist",
+    "aggressive",
+    "progressive",
+    "rhythmic",
+    "uncommon time signatures",
+    "hateful",
+    "dense",
+    "apocalyptic",
+    "existential",
+    "introspective",
+    "serious",
+    "repetitive",
+    "polyrhythmic",
+    "energetic",
+    "pessimistic",
+    "mysterious",
+    "bouncy",
+    "poetic",
+    "angular"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Combustion",
+      "duration": "04:11"
+    },
+    {
+      "type": "track",
+      "title": "Electric Red",
+      "duration": "05:53"
+    },
+    {
+      "type": "track",
+      "title": "Bleed",
+      "duration": "07:24"
+    },
+    {
+      "type": "track",
+      "title": "Lethargica",
+      "duration": "05:49"
+    },
+    {
+      "type": "track",
+      "title": "obZen",
+      "duration": "04:26"
+    },
+    {
+      "type": "track",
+      "title": "This Spiteful Snake",
+      "duration": "04:54"
+    },
+    {
+      "type": "track",
+      "title": "Pineal Gland Optics",
+      "duration": "05:14"
+    },
+    {
+      "type": "track",
+      "title": "Pravus",
+      "duration": "05:12"
+    },
+    {
+      "type": "track",
+      "title": "Dancers to a Discordant System",
+      "duration": "09:39"
+    }
+  ],
+  "totalDuration": "52:42",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/7aa7923ece2338c094550c6904cd2638/5066068/meshuggah-obzen-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

@@ -1,0 +1,184 @@
+{
+  "fileName": "John Zorn - Naked City.json",
+  "title": "Naked City",
+  "artist": "John Zorn",
+  "releaseDate": "1990-02-16",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Avant-Garde Jazz",
+    "Jazz-Rock",
+    "Avant-Prog",
+    "Grindcore",
+    "Free Jazz",
+    "Lounge",
+    "Surf Rock",
+    "Dark Jazz",
+    "Crime Jazz",
+    "Brutal Prog",
+    "Spy Music"
+  ],
+  "tags": [
+    "eclectic",
+    "chaotic",
+    "manic",
+    "avant-garde",
+    "urban",
+    "aggressive",
+    "noisy",
+    "complex",
+    "playful",
+    "instrumental",
+    "progressive",
+    "nocturnal",
+    "dissonant",
+    "mysterious",
+    "uncommon time signatures",
+    "humorous",
+    "dark",
+    "anxious",
+    "energetic",
+    "suspenseful",
+    "surreal",
+    "quirky",
+    "atmospheric",
+    "maximalist"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Batman",
+      "duration": "02:03"
+    },
+    {
+      "type": "track",
+      "title": "The Sicilian Clan",
+      "duration": "03:33"
+    },
+    {
+      "type": "track",
+      "title": "You Will Be Shot",
+      "duration": "01:31"
+    },
+    {
+      "type": "track",
+      "title": "Latin Quarter",
+      "duration": "04:11"
+    },
+    {
+      "type": "track",
+      "title": "A Shot in the Dark",
+      "duration": "03:13"
+    },
+    {
+      "type": "track",
+      "title": "Reanimator",
+      "duration": "01:43"
+    },
+    {
+      "type": "track",
+      "title": "Snagglepuss",
+      "duration": "02:20"
+    },
+    {
+      "type": "track",
+      "title": "I Want to Live",
+      "duration": "02:12"
+    },
+    {
+      "type": "track",
+      "title": "Lonely Woman",
+      "duration": "02:45"
+    },
+    {
+      "type": "track",
+      "title": "Igneous Ejaculation",
+      "duration": "00:23"
+    },
+    {
+      "type": "track",
+      "title": "Blood Duster",
+      "duration": "00:16"
+    },
+    {
+      "type": "track",
+      "title": "Hammerhead",
+      "duration": "00:11"
+    },
+    {
+      "type": "track",
+      "title": "Demon Sanctuary",
+      "duration": "00:41"
+    },
+    {
+      "type": "track",
+      "title": "Obeah Man",
+      "duration": "00:20"
+    },
+    {
+      "type": "track",
+      "title": "Ujaku",
+      "duration": "00:30"
+    },
+    {
+      "type": "track",
+      "title": "Fuck the Facts",
+      "duration": "00:14"
+    },
+    {
+      "type": "track",
+      "title": "Speedball",
+      "duration": "00:43"
+    },
+    {
+      "type": "track",
+      "title": "Chinatown",
+      "duration": "04:28"
+    },
+    {
+      "type": "track",
+      "title": "Punk China Doll",
+      "duration": "03:05"
+    },
+    {
+      "type": "track",
+      "title": "N.Y. Flat Top Box",
+      "duration": "00:45"
+    },
+    {
+      "type": "track",
+      "title": "Saigon Pickup",
+      "duration": "04:50"
+    },
+    {
+      "type": "track",
+      "title": "The James Bond Theme",
+      "duration": "03:06"
+    },
+    {
+      "type": "track",
+      "title": "Den of Sins",
+      "duration": "01:14"
+    },
+    {
+      "type": "track",
+      "title": "Contempt",
+      "duration": "02:53"
+    },
+    {
+      "type": "track",
+      "title": "Graveyard Shift",
+      "duration": "03:32"
+    },
+    {
+      "type": "track",
+      "title": "Inside Straight",
+      "duration": "04:17"
+    }
+  ],
+  "totalDuration": "54:59",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/2e941ab751b79666d819fe567fd63a5f/1722391/john-zorn-naked-city-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:27:53.541Z",
+  "updatedAt": "2025-09-12T17:27:53.541Z"
+}

@@ -1,0 +1,116 @@
+{
+  "fileName": "Green Day - American Idiot.json",
+  "title": "American Idiot",
+  "artist": "Green Day",
+  "releaseDate": "2004-09-21",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Pop Punk",
+    "Alternative Rock",
+    "Rock Opera",
+    "Pop Rock"
+  ],
+  "tags": [
+    "political",
+    "rock opera",
+    "energetic",
+    "melodic",
+    "male vocalist",
+    "rebellious",
+    "anthemic",
+    "passionate",
+    "angry",
+    "alienation",
+    "concept album",
+    "introspective",
+    "urban",
+    "romantic",
+    "bittersweet",
+    "suburban",
+    "rhythmic",
+    "war",
+    "drugs",
+    "theatrical",
+    "existential",
+    "narrative",
+    "breakup",
+    "eclectic",
+    "protest",
+    "progressive",
+    "vulgar",
+    "anti-authoritarian"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "American Idiot",
+      "duration": "02:55"
+    },
+    {
+      "type": "track",
+      "title": "Jesus of Suburbia",
+      "duration": "09:08"
+    },
+    {
+      "type": "track",
+      "title": "Holiday",
+      "duration": "03:53"
+    },
+    {
+      "type": "track",
+      "title": "Boulevard of Broken Dreams",
+      "duration": "04:21"
+    },
+    {
+      "type": "track",
+      "title": "Are We the Waiting",
+      "duration": "02:43"
+    },
+    {
+      "type": "track",
+      "title": "St. Jimmy",
+      "duration": "02:55"
+    },
+    {
+      "type": "track",
+      "title": "Give Me Novacaine",
+      "duration": "03:26"
+    },
+    {
+      "type": "track",
+      "title": "She's a Rebel",
+      "duration": "02:01"
+    },
+    {
+      "type": "track",
+      "title": "Extraordinary Girl",
+      "duration": "03:34"
+    },
+    {
+      "type": "track",
+      "title": "Letterbomb",
+      "duration": "04:06"
+    },
+    {
+      "type": "track",
+      "title": "Wake Me Up When September Ends",
+      "duration": "04:46"
+    },
+    {
+      "type": "track",
+      "title": "Homecoming",
+      "duration": "09:19"
+    },
+    {
+      "type": "track",
+      "title": "Whatsername",
+      "duration": "04:12"
+    }
+  ],
+  "totalDuration": "57:19",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/b3b7ce83ef4749a826ffb3e744ac41f8/4171761/green-day-american-idiot-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

@@ -1,0 +1,83 @@
+{
+  "fileName": "Jason Richardson - I.json",
+  "title": "I",
+  "artist": "Jason Richardson",
+  "releaseDate": "2016-07-29",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Progressive Metal",
+    "Metalcore",
+    "Djent",
+    "Symphonic Metal"
+  ],
+  "tags": [
+    "uncommon time signatures",
+    "male vocalist",
+    "energetic",
+    "progressive",
+    "technical"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Omni",
+      "duration": "04:55"
+    },
+    {
+      "type": "track",
+      "title": "Titan",
+      "duration": "04:51"
+    },
+    {
+      "type": "track",
+      "title": "Retrograde",
+      "duration": "04:15"
+    },
+    {
+      "type": "track",
+      "title": "Hos Down",
+      "duration": "06:56"
+    },
+    {
+      "type": "track",
+      "title": "Mirrors",
+      "duration": "05:30"
+    },
+    {
+      "type": "track",
+      "title": "Tonga",
+      "duration": "03:48"
+    },
+    {
+      "type": "track",
+      "title": "Thot 2.0",
+      "duration": "09:28"
+    },
+    {
+      "type": "track",
+      "title": "Fragments",
+      "duration": "04:30"
+    },
+    {
+      "type": "track",
+      "title": "Breaking Damnation",
+      "duration": "06:06"
+    },
+    {
+      "type": "track",
+      "title": "XV",
+      "duration": "02:29"
+    },
+    {
+      "type": "track",
+      "title": "Chapter II",
+      "duration": "08:20"
+    }
+  ],
+  "totalDuration": "01:01:08",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/7367988d9bd72d071b046cf112ab7a16/6199413/jason-richardson-i-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

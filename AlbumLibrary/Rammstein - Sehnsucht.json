@@ -1,0 +1,99 @@
+{
+  "fileName": "Rammstein - Sehnsucht.json",
+  "title": "Sehnsucht",
+  "artist": "Rammstein",
+  "releaseDate": "1997-08-22",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Neue Deutsche Härte"
+  ],
+  "tags": [
+    "heavy",
+    "male vocalist",
+    "dark",
+    "rhythmic",
+    "sexual",
+    "aggressive",
+    "energetic",
+    "mechanical",
+    "nocturnal",
+    "misanthropic",
+    "vulgar",
+    "disturbing",
+    "sombre",
+    "ominous",
+    "repetitive",
+    "death",
+    "hedonistic",
+    "futuristic",
+    "urban",
+    "crime",
+    "cold",
+    "longing",
+    "bouncy",
+    "macabre"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Sehnsucht",
+      "duration": "04:05"
+    },
+    {
+      "type": "track",
+      "title": "Engel",
+      "duration": "04:25"
+    },
+    {
+      "type": "track",
+      "title": "Tier",
+      "duration": "03:47"
+    },
+    {
+      "type": "track",
+      "title": "Bestrafe mich",
+      "duration": "03:38"
+    },
+    {
+      "type": "track",
+      "title": "Du hast",
+      "duration": "03:55"
+    },
+    {
+      "type": "track",
+      "title": "Bück dich",
+      "duration": "03:23"
+    },
+    {
+      "type": "track",
+      "title": "Spiel mit mir",
+      "duration": "04:46"
+    },
+    {
+      "type": "track",
+      "title": "Klavier",
+      "duration": "04:23"
+    },
+    {
+      "type": "track",
+      "title": "Alter Mann",
+      "duration": "04:24"
+    },
+    {
+      "type": "track",
+      "title": "Eifersucht",
+      "duration": "03:37"
+    },
+    {
+      "type": "track",
+      "title": "Küss mich (Fellfrosch)",
+      "duration": "03:31"
+    }
+  ],
+  "totalDuration": "43:54",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/362354fb1fb43985993c8f1803e7dcfb/2667823/rammstein-sehnsucht-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

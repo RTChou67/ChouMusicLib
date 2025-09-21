@@ -1,0 +1,100 @@
+{
+  "fileName": "Mastodon - Remission.json",
+  "title": "Remission",
+  "artist": "Mastodon",
+  "releaseDate": "2002-06-03",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Sludge Metal",
+    "Progressive Metal",
+    "Metalcore",
+    "Mathcore"
+  ],
+  "tags": [
+    "heavy",
+    "mythology",
+    "aggressive",
+    "technical",
+    "male vocalist",
+    "progressive",
+    "energetic",
+    "uncommon time signatures",
+    "rhythmic",
+    "chaotic",
+    "poetic",
+    "complex",
+    "dissonant",
+    "cryptic",
+    "infernal",
+    "sombre",
+    "pessimistic",
+    "raw",
+    "epic",
+    "angry",
+    "dark",
+    "menacing"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Crusher Destroyer",
+      "duration": "02:00"
+    },
+    {
+      "type": "track",
+      "title": "March of the Fire Ants",
+      "duration": "04:25"
+    },
+    {
+      "type": "track",
+      "title": "Where Strides the Behemoth",
+      "duration": "02:55"
+    },
+    {
+      "type": "track",
+      "title": "Workhorse",
+      "duration": "03:45"
+    },
+    {
+      "type": "track",
+      "title": "Ol'e Nessie",
+      "duration": "06:04"
+    },
+    {
+      "type": "track",
+      "title": "Burning Man",
+      "duration": "02:46"
+    },
+    {
+      "type": "track",
+      "title": "Trainwreck",
+      "duration": "07:04"
+    },
+    {
+      "type": "track",
+      "title": "Trampled Under Hoof",
+      "duration": "03:00"
+    },
+    {
+      "type": "track",
+      "title": "Trilobite",
+      "duration": "06:29"
+    },
+    {
+      "type": "track",
+      "title": "Mother Puncher",
+      "duration": "03:48"
+    },
+    {
+      "type": "track",
+      "title": "Elephant Man",
+      "duration": "08:01"
+    }
+  ],
+  "totalDuration": "50:17",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/3d2150d46fa07028527ade5a3f76df12/2504702/mastodon-remission-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:19:43.994Z",
+  "updatedAt": "2025-09-16T15:19:43.994Z"
+}

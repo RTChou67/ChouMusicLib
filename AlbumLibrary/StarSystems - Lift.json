@@ -1,0 +1,71 @@
+{
+  "fileName": "StarSystems - Lift.json",
+  "title": "Lift",
+  "artist": "StarSystems",
+  "releaseDate": "2019-05-11",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Jazz Fusion",
+    "Progressive Metal",
+    "Djent"
+  ],
+  "tags": [],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Arrival",
+      "duration": "01:08"
+    },
+    {
+      "type": "track",
+      "title": "Flower",
+      "duration": "06:25"
+    },
+    {
+      "type": "track",
+      "title": "Party Time",
+      "duration": "05:03"
+    },
+    {
+      "type": "track",
+      "title": "Moth",
+      "duration": "04:51"
+    },
+    {
+      "type": "track",
+      "title": "Vortex",
+      "duration": "05:38"
+    },
+    {
+      "type": "track",
+      "title": "Slipstream",
+      "duration": "06:23"
+    },
+    {
+      "type": "track",
+      "title": "Trigger Fish",
+      "duration": "05:06"
+    },
+    {
+      "type": "track",
+      "title": "Lift",
+      "duration": "08:09"
+    },
+    {
+      "type": "track",
+      "title": "Disengage",
+      "duration": "02:01"
+    },
+    {
+      "type": "track",
+      "title": "Trigger Fish",
+      "duration": "05:06"
+    }
+  ],
+  "totalDuration": "49:50",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/4e7c58775793f3f31c0eb31b2d062ddd/7539556/starsystems-lift-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

@@ -1,0 +1,99 @@
+{
+  "fileName": "Bring Me the Horizon - Post Human_ Survival Horror.json",
+  "title": "Post Human: Survival Horror",
+  "artist": "Bring Me the Horizon",
+  "releaseDate": "2020-10-30",
+  "albumFormat": "EP",
+  "rating": 0,
+  "styles": [
+    "Alternative Metal",
+    "Industrial Metal",
+    "Metalcore",
+    "Nu Metal",
+    "Electro-Industrial",
+    "Alternative Rock"
+  ],
+  "tags": [
+    "heavy",
+    "anthemic",
+    "apocalyptic",
+    "angry",
+    "male vocalist",
+    "energetic",
+    "futuristic",
+    "pessimistic",
+    "political",
+    "anti-religious",
+    "melodic",
+    "rebellious",
+    "female vocalist",
+    "aggressive",
+    "misanthropic",
+    "passionate",
+    "anxious",
+    "fantasy",
+    "alienation",
+    "melancholic",
+    "dense",
+    "concept album",
+    "eclectic",
+    "lush",
+    "mechanical",
+    "anti-authoritarian",
+    "uplifting",
+    "science fiction",
+    "rhythmic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Dear Diary,",
+      "duration": "02:44"
+    },
+    {
+      "type": "track",
+      "title": "Parasite Eve",
+      "duration": "04:51"
+    },
+    {
+      "type": "track",
+      "title": "Teardrops",
+      "duration": "03:35"
+    },
+    {
+      "type": "track",
+      "title": "Obey",
+      "duration": "03:40"
+    },
+    {
+      "type": "track",
+      "title": "Itch for the Cure (When Will We Be Free?)",
+      "duration": "01:26"
+    },
+    {
+      "type": "track",
+      "title": "Kingslayer",
+      "duration": "03:40"
+    },
+    {
+      "type": "track",
+      "title": "1x1",
+      "duration": "03:29"
+    },
+    {
+      "type": "track",
+      "title": "Ludens",
+      "duration": "04:40"
+    },
+    {
+      "type": "track",
+      "title": "One Day the Only Butterflies Left Will Be in Your Chest as You March Towards Your Death",
+      "duration": "04:03"
+    }
+  ],
+  "totalDuration": "32:08",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/ea770c5f41025644462a5eda765f0582/8509675/bring-me-the-horizon-post-human-survival-horror-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

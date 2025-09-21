@@ -1,0 +1,87 @@
+{
+  "fileName": "Imminence - Turn the Light On.json",
+  "title": "Turn the Light On",
+  "artist": "Imminence",
+  "releaseDate": "2019-05-03",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Metalcore",
+    "Post-Hardcore",
+    "Alternative Metal",
+    "Symphonic Metal"
+  ],
+  "tags": [],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Erase",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Paralyzed",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Room to Breathe",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Saturated Soul",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Infectious",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "The Sickness",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Death of You",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Scars",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Disconnected",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Wake Me Up",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Don't Tell a Soul",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Lighthouse",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Love & Grace",
+      "duration": ""
+    }
+  ],
+  "totalDuration": "00:00",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/c08093b815c6652f827e79e5dae5d00c/7497432/imminence-turn-the-light-on-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

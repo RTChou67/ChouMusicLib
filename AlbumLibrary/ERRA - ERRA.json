@@ -1,0 +1,95 @@
+{
+  "fileName": "ERRA - ERRA.json",
+  "title": "ERRA",
+  "artist": "ERRA",
+  "releaseDate": "2021-03-19",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Melodic Metalcore",
+    "Progressive Metal",
+    "Djent"
+  ],
+  "tags": [
+    "technical",
+    "male vocalist",
+    "existential",
+    "futuristic",
+    "melodic",
+    "progressive",
+    "heavy",
+    "philosophical",
+    "nocturnal",
+    "cold",
+    "uncommon time signatures",
+    "ethereal",
+    "atmospheric"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Snowblood",
+      "duration": "04:13"
+    },
+    {
+      "type": "track",
+      "title": "Gungrave",
+      "duration": "04:00"
+    },
+    {
+      "type": "track",
+      "title": "Divisionary",
+      "duration": "03:41"
+    },
+    {
+      "type": "track",
+      "title": "House of Glass",
+      "duration": "04:20"
+    },
+    {
+      "type": "track",
+      "title": "Shadow Autonomous",
+      "duration": "05:17"
+    },
+    {
+      "type": "track",
+      "title": "Electric Twilight",
+      "duration": "04:25"
+    },
+    {
+      "type": "track",
+      "title": "Scorpion Hymn",
+      "duration": "03:50"
+    },
+    {
+      "type": "track",
+      "title": "Lunar Halo",
+      "duration": "05:51"
+    },
+    {
+      "type": "track",
+      "title": "Vanish Canvas",
+      "duration": "04:46"
+    },
+    {
+      "type": "track",
+      "title": "Eidolon",
+      "duration": "04:37"
+    },
+    {
+      "type": "track",
+      "title": "Remnant",
+      "duration": "04:20"
+    },
+    {
+      "type": "track",
+      "title": "Memory Fiction",
+      "duration": "04:07"
+    }
+  ],
+  "totalDuration": "53:27",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/5796bb338f68aefcb0e4141378a90b98/8720750/erra-erra-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

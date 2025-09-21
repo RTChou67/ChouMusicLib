@@ -1,0 +1,100 @@
+{
+  "fileName": "The Hu - Rumble of Thunder.json",
+  "title": "Rumble of Thunder",
+  "artist": "The Hu",
+  "releaseDate": "2022-09-02",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Folk Rock",
+    "Hard Rock",
+    "Mongolian Throat Singing",
+    "Folk Metal",
+    "Mongolian Music"
+  ],
+  "tags": [
+    "male vocalist",
+    "patriotic",
+    "folklore",
+    "heavy",
+    "rhythmic",
+    "melodic",
+    "energetic",
+    "history",
+    "epic",
+    "aggressive",
+    "nature"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "This Is Mongol",
+      "duration": "03:44"
+    },
+    {
+      "type": "track",
+      "title": "Yut hövende",
+      "duration": "05:34"
+    },
+    {
+      "type": "track",
+      "title": "Triangle",
+      "duration": "04:12"
+    },
+    {
+      "type": "track",
+      "title": "Teach Me",
+      "duration": "03:58"
+    },
+    {
+      "type": "track",
+      "title": "Upright Destined Mongol",
+      "duration": "04:49"
+    },
+    {
+      "type": "track",
+      "title": "Sell the World",
+      "duration": "04:23"
+    },
+    {
+      "type": "track",
+      "title": "Black Thunder",
+      "duration": "04:15"
+    },
+    {
+      "type": "track",
+      "title": "Mother Nature",
+      "duration": "06:57"
+    },
+    {
+      "type": "track",
+      "title": "Bii biyelgee",
+      "duration": "04:18"
+    },
+    {
+      "type": "track",
+      "title": "Segee",
+      "duration": "04:39"
+    },
+    {
+      "type": "track",
+      "title": "Shihi hutu",
+      "duration": "07:09"
+    },
+    {
+      "type": "track",
+      "title": "Tatar Warrior",
+      "duration": "05:03"
+    },
+    {
+      "type": "track",
+      "title": "Black Thunder (Extended)",
+      "duration": "08:59"
+    }
+  ],
+  "totalDuration": "01:08:00",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/2507e6f3534dee1b4d6605278eeb14e9/10094142/the-hu-rumble-of-thunder-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

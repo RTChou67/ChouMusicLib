@@ -1,0 +1,54 @@
+{
+  "fileName": "Crown Magnetar - The Prophet of Disgust.json",
+  "title": "The Prophet of Disgust",
+  "artist": "Crown Magnetar",
+  "releaseDate": "2018-01-02",
+  "albumFormat": "EP",
+  "rating": 0,
+  "styles": [
+    "Deathcore",
+    "Technical Death Metal",
+    "Brutal Death Metal"
+  ],
+  "tags": [
+    "heavy",
+    "male vocalist"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "The Eyes of Discontent",
+      "duration": "03:40"
+    },
+    {
+      "type": "track",
+      "title": "Immolation",
+      "duration": "03:01"
+    },
+    {
+      "type": "track",
+      "title": "Detestable Impurity",
+      "duration": "02:59"
+    },
+    {
+      "type": "track",
+      "title": "Mountain of Flesh",
+      "duration": "02:32"
+    },
+    {
+      "type": "track",
+      "title": "Execrator",
+      "duration": "02:39"
+    },
+    {
+      "type": "track",
+      "title": "Fetus in fetu",
+      "duration": "03:39"
+    }
+  ],
+  "totalDuration": "18:30",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/730486e95023cd4a95d5191eccf89a73/6939898/crown-magnetar-the-prophet-of-disgust-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:41:00.774Z",
+  "updatedAt": "2025-09-12T17:41:00.774Z"
+}

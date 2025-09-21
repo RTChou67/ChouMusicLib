@@ -1,0 +1,76 @@
+{
+  "fileName": "Carnifex - Necromanteum.json",
+  "title": "Necromanteum",
+  "artist": "Carnifex",
+  "releaseDate": "2023-10-06",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Deathcore",
+    "Symphonic Black Metal"
+  ],
+  "tags": [
+    "nocturnal",
+    "aggressive",
+    "heavy",
+    "male vocalist",
+    "death"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Torn in Two",
+      "duration": "03:52"
+    },
+    {
+      "type": "track",
+      "title": "Death's Forgotten Children",
+      "duration": "04:10"
+    },
+    {
+      "type": "track",
+      "title": "Necromanteum",
+      "duration": "04:26"
+    },
+    {
+      "type": "track",
+      "title": "Crowned in Everblack",
+      "duration": "04:34"
+    },
+    {
+      "type": "track",
+      "title": "The Pathless Forest",
+      "duration": "04:00"
+    },
+    {
+      "type": "track",
+      "title": "How the Knife Gets Twisted",
+      "duration": "03:50"
+    },
+    {
+      "type": "track",
+      "title": "Architect of Misanthropy",
+      "duration": "05:05"
+    },
+    {
+      "type": "track",
+      "title": "Infinite Night Terror",
+      "duration": "04:00"
+    },
+    {
+      "type": "track",
+      "title": "Bleed More",
+      "duration": "04:17"
+    },
+    {
+      "type": "track",
+      "title": "Heaven and Hell All at Once",
+      "duration": "04:02"
+    }
+  ],
+  "totalDuration": "42:16",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/e4637b926d1678cb574c4bca9afd8a7d/11548375/carnifex-necromanteum-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:22:52.435Z",
+  "updatedAt": "2025-09-12T17:22:52.435Z"
+}

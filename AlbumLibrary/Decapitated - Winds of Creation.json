@@ -1,0 +1,80 @@
+{
+  "fileName": "Decapitated - Winds of Creation.json",
+  "title": "Winds of Creation",
+  "artist": "Decapitated",
+  "releaseDate": "2000-04-17",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Technical Death Metal",
+    "Brutal Death Metal"
+  ],
+  "tags": [
+    "technical",
+    "aggressive",
+    "infernal",
+    "rhythmic",
+    "heavy",
+    "male vocalist",
+    "energetic",
+    "cryptic",
+    "death",
+    "dense",
+    "nihilistic",
+    "misanthropic",
+    "ominous",
+    "manic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Winds of Creation",
+      "duration": "04:13"
+    },
+    {
+      "type": "track",
+      "title": "Blessed",
+      "duration": "05:06"
+    },
+    {
+      "type": "track",
+      "title": "The First Damned",
+      "duration": "05:47"
+    },
+    {
+      "type": "track",
+      "title": "Way to Salvation",
+      "duration": "03:54"
+    },
+    {
+      "type": "track",
+      "title": "The Eye of Horus",
+      "duration": "05:25"
+    },
+    {
+      "type": "track",
+      "title": "Human's Dust",
+      "duration": "04:50"
+    },
+    {
+      "type": "track",
+      "title": "Nine Steps",
+      "duration": "05:11"
+    },
+    {
+      "type": "track",
+      "title": "Dance Macabre",
+      "duration": "02:48"
+    },
+    {
+      "type": "track",
+      "title": "Mandatory Suicide",
+      "duration": "03:32"
+    }
+  ],
+  "totalDuration": "40:46",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/34010d840de075b2189d971d97350224/5170578/decapitated-winds-of-creation-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:37:05.939Z",
+  "updatedAt": "2025-09-13T16:37:05.939Z"
+}

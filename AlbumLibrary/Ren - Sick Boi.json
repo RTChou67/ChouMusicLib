@@ -1,0 +1,118 @@
+{
+  "fileName": "Ren - Sick Boi.json",
+  "title": "Sick Boi",
+  "artist": "Ren",
+  "releaseDate": "2023-10-13",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Conscious Hip Hop",
+    "Hardcore Hip Hop"
+  ],
+  "tags": [
+    "disease",
+    "existential",
+    "rebellious",
+    "alienation",
+    "passionate",
+    "health",
+    "male vocalist"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Seven Sins",
+      "duration": "04:35"
+    },
+    {
+      "type": "track",
+      "title": "Sick Boi",
+      "duration": "03:13"
+    },
+    {
+      "type": "track",
+      "title": "Animal Flow",
+      "duration": "02:55"
+    },
+    {
+      "type": "track",
+      "title": "Money Game, Pt. 3",
+      "duration": "06:34"
+    },
+    {
+      "type": "track",
+      "title": "Lost All Faith",
+      "duration": "03:49"
+    },
+    {
+      "type": "track",
+      "title": "Genesis",
+      "duration": "02:56"
+    },
+    {
+      "type": "track",
+      "title": "Murderer",
+      "duration": "03:30"
+    },
+    {
+      "type": "track",
+      "title": "Suic*de",
+      "duration": "04:09"
+    },
+    {
+      "type": "track",
+      "title": "Illest of Our Time",
+      "duration": "03:10"
+    },
+    {
+      "type": "track",
+      "title": "Love Music, Pt. 4",
+      "duration": "03:25"
+    },
+    {
+      "type": "track",
+      "title": "Uninvited",
+      "duration": "02:54"
+    },
+    {
+      "type": "track",
+      "title": "What You Want",
+      "duration": "03:16"
+    },
+    {
+      "type": "track",
+      "title": "The Hunger",
+      "duration": "02:27"
+    },
+    {
+      "type": "track",
+      "title": "Down on the Beat",
+      "duration": "03:54"
+    },
+    {
+      "type": "track",
+      "title": "Masochist",
+      "duration": "03:23"
+    },
+    {
+      "type": "track",
+      "title": "Loco",
+      "duration": "03:21"
+    },
+    {
+      "type": "track",
+      "title": "Wicked Ways",
+      "duration": "03:15"
+    },
+    {
+      "type": "track",
+      "title": "Sick Boi, Pt. 2",
+      "duration": "04:11"
+    }
+  ],
+  "totalDuration": "01:04:57",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/47bef39c1b37f233dd27ee67138e5c62/11241412/ren-sick-boi-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:21:47.687Z",
+  "updatedAt": "2025-09-12T17:21:47.687Z"
+}

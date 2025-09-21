@@ -1,0 +1,74 @@
+{
+  "fileName": "Luck Wont Save You - Through the Mountains of Melancholia.json",
+  "title": "Through the Mountains of Melancholia",
+  "artist": "Luck Wont Save You",
+  "releaseDate": "2024-09-13",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Deathcore",
+    "Progressive Metal"
+  ],
+  "tags": [
+    "heavy",
+    "concept album",
+    "energetic",
+    "complex",
+    "technical",
+    "melodic",
+    "eclectic",
+    "manic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Red Mother, Blue Sun",
+      "duration": "08:33"
+    },
+    {
+      "type": "track",
+      "title": "Through the Mountains of Melancholia",
+      "duration": "06:22"
+    },
+    {
+      "type": "track",
+      "title": "White Myth of the Monolith",
+      "duration": "07:13"
+    },
+    {
+      "type": "track",
+      "title": "Wandering Wayfarer's Woe",
+      "duration": "07:11"
+    },
+    {
+      "type": "track",
+      "title": "Necrotic Chant",
+      "duration": "03:42"
+    },
+    {
+      "type": "track",
+      "title": "Uzu Sol",
+      "duration": "03:34"
+    },
+    {
+      "type": "track",
+      "title": "The Needle Points Nowhere",
+      "duration": "01:19"
+    },
+    {
+      "type": "track",
+      "title": "Aperture Hermit",
+      "duration": "05:30"
+    },
+    {
+      "type": "track",
+      "title": "Immortal Dreamer",
+      "duration": "05:11"
+    }
+  ],
+  "totalDuration": "48:35",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/f552633572694f9f0f37821c5df6e2ee/12510122/luck-wont-save-you-through-the-mountains-of-melancholia-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:57:37.856Z",
+  "updatedAt": "2025-09-12T17:57:37.856Z"
+}

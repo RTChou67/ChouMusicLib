@@ -1,0 +1,66 @@
+{
+  "fileName": "Funeral - From These Wounds.json",
+  "title": "From These Wounds",
+  "artist": "Funeral",
+  "releaseDate": "2006-12-04",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Doom Metal",
+    "Gothic Metal"
+  ],
+  "tags": [
+    "melancholic",
+    "lonely",
+    "male vocalist",
+    "atmospheric",
+    "melodic",
+    "heavy",
+    "depressive",
+    "anti-religious",
+    "cold",
+    "ethereal"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "This Barren Skin",
+      "duration": "08:10"
+    },
+    {
+      "type": "track",
+      "title": "From These Wounds",
+      "duration": "07:42"
+    },
+    {
+      "type": "track",
+      "title": "The Architecture of Loss",
+      "duration": "09:02"
+    },
+    {
+      "type": "track",
+      "title": "Red Moon",
+      "duration": "08:32"
+    },
+    {
+      "type": "track",
+      "title": "Vagrant God",
+      "duration": "06:15"
+    },
+    {
+      "type": "track",
+      "title": "Pendulum",
+      "duration": "09:13"
+    },
+    {
+      "type": "track",
+      "title": "Saturn",
+      "duration": "08:24"
+    }
+  ],
+  "totalDuration": "57:18",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/0d9e0ff294c1b9077b2943c004dd7c20/13287200/funeral-from-these-wounds-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:56:16.174Z",
+  "updatedAt": "2025-09-16T15:56:16.174Z"
+}

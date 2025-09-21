@@ -1,0 +1,77 @@
+{
+  "fileName": "Dream Theater - Metropolis Pt. 2_ Scenes from a Memory.json",
+  "title": "Metropolis Pt. 2: Scenes from a Memory",
+  "artist": "Dream Theater",
+  "releaseDate": "1999-10-26",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [],
+  "tags": [],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Scene One: Regression",
+      "duration": "02:06"
+    },
+    {
+      "type": "track",
+      "title": "Scene Two: I. Overture 1928",
+      "duration": "03:38"
+    },
+    {
+      "type": "track",
+      "title": "Scene Two: II. Strange Deja Vu",
+      "duration": "05:12"
+    },
+    {
+      "type": "track",
+      "title": "Scene Three: I. Through My Words",
+      "duration": "01:03"
+    },
+    {
+      "type": "track",
+      "title": "Scene Three: II. Fatal Tragedy",
+      "duration": "06:49"
+    },
+    {
+      "type": "track",
+      "title": "Scene Four: Beyond This Life",
+      "duration": "11:23"
+    },
+    {
+      "type": "track",
+      "title": "Scene Five: Through Her Eyes",
+      "duration": "05:29"
+    },
+    {
+      "type": "track",
+      "title": "Scene Six: Home",
+      "duration": "12:53"
+    },
+    {
+      "type": "track",
+      "title": "Scene Seven: I. The Dance of Eternity",
+      "duration": "06:14"
+    },
+    {
+      "type": "track",
+      "title": "Scene Seven: II. One Last Time",
+      "duration": "03:47"
+    },
+    {
+      "type": "track",
+      "title": "Scene Eight: The Spirit Carries On",
+      "duration": "06:38"
+    },
+    {
+      "type": "track",
+      "title": "Scene Nine: Finally Free",
+      "duration": "12:00"
+    }
+  ],
+  "totalDuration": "01:17:12",
+  "notes": "",
+  "coverData": "https://www.metal-archives.com/images/1/3/7/4/1374.jpg?0552",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

@@ -1,0 +1,90 @@
+{
+  "fileName": "Deafheaven - Sunbather.json",
+  "title": "Sunbather",
+  "artist": "Deafheaven",
+  "releaseDate": "2013-06-11",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Blackgaze",
+    "Post-Metal",
+    "Post-Rock",
+    "Screamo"
+  ],
+  "tags": [
+    "passionate",
+    "melancholic",
+    "atmospheric",
+    "male vocalist",
+    "warm",
+    "dense",
+    "existential",
+    "lonely",
+    "ethereal",
+    "alienation",
+    "melodic",
+    "longing",
+    "poetic",
+    "summer",
+    "heavy",
+    "sentimental",
+    "introspective",
+    "bittersweet",
+    "lush",
+    "epic",
+    "bright",
+    "noisy",
+    "anxious",
+    "triumphant",
+    "progressive",
+    "depressive",
+    "envy",
+    "through-composed",
+    "family",
+    "sombre",
+    "mental health",
+    "sampling"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Dream House",
+      "duration": "09:14"
+    },
+    {
+      "type": "track",
+      "title": "Irresistible",
+      "duration": "03:13"
+    },
+    {
+      "type": "track",
+      "title": "Sunbather",
+      "duration": "10:16"
+    },
+    {
+      "type": "track",
+      "title": "Please Remember",
+      "duration": "06:26"
+    },
+    {
+      "type": "track",
+      "title": "Vertigo",
+      "duration": "14:37"
+    },
+    {
+      "type": "track",
+      "title": "Windows",
+      "duration": "04:42"
+    },
+    {
+      "type": "track",
+      "title": "The Pecan Tree",
+      "duration": "11:26"
+    }
+  ],
+  "totalDuration": "59:54",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/da7c11c3029958c0afbe751c314cdfea/4863989/deafheaven-sunbather-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:52:31.955Z",
+  "updatedAt": "2025-09-16T15:52:31.955Z"
+}

@@ -1,0 +1,115 @@
+{
+  "fileName": "My Bloody Valentine - Loveless.json",
+  "title": "Loveless",
+  "artist": "My Bloody Valentine",
+  "releaseDate": "1991-11-11",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Shoegaze",
+    "Noise Pop",
+    "Dream Pop",
+    "Neo-Psychedelia"
+  ],
+  "tags": [
+    "noisy",
+    "ethereal",
+    "atmospheric",
+    "romantic",
+    "dense",
+    "psychedelic",
+    "hypnotic",
+    "love",
+    "lush",
+    "bittersweet",
+    "female vocalist",
+    "male vocalist",
+    "warm",
+    "sensual",
+    "longing",
+    "sentimental",
+    "sexual",
+    "androgynous vocals",
+    "Wall of Sound",
+    "repetitive",
+    "melancholic",
+    "melodic",
+    "surreal",
+    "soothing",
+    "hazy",
+    "bright",
+    "polyphonic",
+    "sleep",
+    "dreams"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "Only Shallow",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Loomer",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Touched",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "To Here Knows When",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "When You Sleep",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "I Only Said",
+      "duration": ""
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "Come In Alone",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Sometimes",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Blown a Wish",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "What You Want",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Soon",
+      "duration": ""
+    }
+  ],
+  "totalDuration": "00:00",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/47da1d4284997ca321af967068f34d7b/11569981/my-bloody-valentine-loveless-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

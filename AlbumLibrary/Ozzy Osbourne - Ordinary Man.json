@@ -1,0 +1,72 @@
+{
+  "fileName": "Ozzy Osbourne - Ordinary Man.json",
+  "title": "Ordinary Man",
+  "artist": "Ozzy Osbourne",
+  "releaseDate": "2020-02-21",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [],
+  "tags": [],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Straight to Hell",
+      "duration": "03:46"
+    },
+    {
+      "type": "track",
+      "title": "All My Life",
+      "duration": "04:18"
+    },
+    {
+      "type": "track",
+      "title": "Goodbye",
+      "duration": "05:34"
+    },
+    {
+      "type": "track",
+      "title": "Ordinary Man",
+      "duration": "05:02"
+    },
+    {
+      "type": "track",
+      "title": "Under the Graveyard",
+      "duration": "04:57"
+    },
+    {
+      "type": "track",
+      "title": "Eat Me",
+      "duration": "04:19"
+    },
+    {
+      "type": "track",
+      "title": "Today Is the End",
+      "duration": "04:06"
+    },
+    {
+      "type": "track",
+      "title": "Scary Little Green Men",
+      "duration": "04:21"
+    },
+    {
+      "type": "track",
+      "title": "Holy for Tonight",
+      "duration": "04:52"
+    },
+    {
+      "type": "track",
+      "title": "It's a Raid",
+      "duration": "04:21"
+    },
+    {
+      "type": "track",
+      "title": "Take What You Want",
+      "duration": "03:50"
+    }
+  ],
+  "totalDuration": "49:26",
+  "notes": "",
+  "coverData": "https://www.metal-archives.com/images/8/2/6/1/826127.jpg?1044",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

@@ -1,0 +1,157 @@
+{
+  "fileName": "Arca - Mutant.json",
+  "title": "Mutant",
+  "artist": "Arca",
+  "releaseDate": "2015-11-20",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "IDM",
+    "Deconstructed Club",
+    "Epic Collage",
+    "Wonky",
+    "Glitch Hop",
+    "Glitch"
+  ],
+  "tags": [
+    "futuristic",
+    "surreal",
+    "instrumental",
+    "chaotic",
+    "ominous",
+    "anxious",
+    "avant-garde",
+    "infernal",
+    "dark",
+    "cold",
+    "aggressive",
+    "mechanical",
+    "atmospheric",
+    "heavy",
+    "mysterious",
+    "sampling",
+    "suspenseful",
+    "disturbing",
+    "noisy",
+    "nocturnal",
+    "complex",
+    "hypnotic",
+    "cryptic",
+    "epic",
+    "apocalyptic",
+    "sombre",
+    "progressive",
+    "rhythmic",
+    "maximalist",
+    "transgender",
+    "scary",
+    "psychedelic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Alive",
+      "duration": "03:56"
+    },
+    {
+      "type": "track",
+      "title": "Mutant",
+      "duration": "07:27"
+    },
+    {
+      "type": "track",
+      "title": "Vanity",
+      "duration": "04:16"
+    },
+    {
+      "type": "track",
+      "title": "Sinner",
+      "duration": "03:35"
+    },
+    {
+      "type": "track",
+      "title": "Anger",
+      "duration": "02:00"
+    },
+    {
+      "type": "track",
+      "title": "Sever",
+      "duration": "02:13"
+    },
+    {
+      "type": "track",
+      "title": "Beacon",
+      "duration": "00:48"
+    },
+    {
+      "type": "track",
+      "title": "Snakes",
+      "duration": "04:50"
+    },
+    {
+      "type": "track",
+      "title": "Else",
+      "duration": "02:30"
+    },
+    {
+      "type": "track",
+      "title": "Umbilical",
+      "duration": "02:09"
+    },
+    {
+      "type": "track",
+      "title": "Hymn",
+      "duration": "01:57"
+    },
+    {
+      "type": "track",
+      "title": "Front Load",
+      "duration": "02:44"
+    },
+    {
+      "type": "track",
+      "title": "Gratitud",
+      "duration": "03:44"
+    },
+    {
+      "type": "track",
+      "title": "En",
+      "duration": "03:05"
+    },
+    {
+      "type": "track",
+      "title": "Siren Interlude",
+      "duration": "00:43"
+    },
+    {
+      "type": "track",
+      "title": "Extent",
+      "duration": "02:34"
+    },
+    {
+      "type": "track",
+      "title": "Envelopeped",
+      "duration": "02:22"
+    },
+    {
+      "type": "track",
+      "title": "Faggot",
+      "duration": "03:10"
+    },
+    {
+      "type": "track",
+      "title": "Soichiro",
+      "duration": "04:35"
+    },
+    {
+      "type": "track",
+      "title": "Peonies",
+      "duration": "03:29"
+    }
+  ],
+  "totalDuration": "01:02:07",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/757b4346f1fad27de8d291f6959c5efd/5910984/arca-mutant-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

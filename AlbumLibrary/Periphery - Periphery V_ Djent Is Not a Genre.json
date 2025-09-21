@@ -1,0 +1,86 @@
+{
+  "fileName": "Periphery - Periphery V_ Djent Is Not a Genre.json",
+  "title": "Periphery V: Djent Is Not a Genre",
+  "artist": "Periphery",
+  "releaseDate": "2023-03-10",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Djent",
+    "Progressive Metal",
+    "Metalcore"
+  ],
+  "tags": [
+    "male vocalist",
+    "heavy",
+    "progressive",
+    "aggressive",
+    "uncommon time signatures",
+    "technical",
+    "melodic",
+    "passionate",
+    "futuristic",
+    "energetic",
+    "eclectic",
+    "mechanical",
+    "chaotic",
+    "dense",
+    "complex",
+    "angry",
+    "playful",
+    "introspective",
+    "rebellious"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Wildfire",
+      "duration": "07:05"
+    },
+    {
+      "type": "track",
+      "title": "Atropos",
+      "duration": "08:23"
+    },
+    {
+      "type": "track",
+      "title": "Wax Wings",
+      "duration": "07:26"
+    },
+    {
+      "type": "track",
+      "title": "Everything Is Fine!",
+      "duration": "05:07"
+    },
+    {
+      "type": "track",
+      "title": "Silhouette",
+      "duration": "04:51"
+    },
+    {
+      "type": "track",
+      "title": "Dying Star",
+      "duration": "05:17"
+    },
+    {
+      "type": "track",
+      "title": "Zagreus",
+      "duration": "08:19"
+    },
+    {
+      "type": "track",
+      "title": "Dracul Gras",
+      "duration": "12:21"
+    },
+    {
+      "type": "track",
+      "title": "Thanks Nobuo",
+      "duration": "11:16"
+    }
+  ],
+  "totalDuration": "01:10:05",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/c24f5f1b5499a5fad95a38485892341a/10785460/periphery-periphery-v-djent-is-not-a-genre-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

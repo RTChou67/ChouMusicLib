@@ -1,0 +1,73 @@
+{
+  "fileName": "Galneryus - Between Dread and Valor.json",
+  "title": "Between Dread and Valor",
+  "artist": "Galneryus",
+  "releaseDate": "2023-03-01",
+  "albumFormat": "EP",
+  "rating": 0,
+  "styles": [
+    "Power Metal",
+    "Symphonic Metal",
+    "Neoclassical Metal",
+    "Progressive Metal"
+  ],
+  "tags": [
+    "male vocalist",
+    "triumphant",
+    "technical",
+    "melodic",
+    "uplifting",
+    "epic",
+    "energetic",
+    "complex",
+    "optimistic",
+    "heavy"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Demolish the Wickedness!",
+      "duration": "01:54"
+    },
+    {
+      "type": "track",
+      "title": "Run to the Edge",
+      "duration": "08:57"
+    },
+    {
+      "type": "track",
+      "title": "Time Will Tell",
+      "duration": "05:35"
+    },
+    {
+      "type": "track",
+      "title": "Let Us Shine",
+      "duration": "06:19"
+    },
+    {
+      "type": "track",
+      "title": "With Pride",
+      "duration": "04:48"
+    },
+    {
+      "type": "track",
+      "title": "Bravehearts",
+      "duration": "07:06"
+    },
+    {
+      "type": "track",
+      "title": "A Piece of Souls",
+      "duration": "02:07"
+    },
+    {
+      "type": "track",
+      "title": "祈 (Galneryus Version)",
+      "duration": "04:45"
+    }
+  ],
+  "totalDuration": "41:31",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/e6d6890dd4408bf641cac205b447d0b4/10709126/galneryus-between-dread-and-valor-Cover-Art.jpg",
+  "createdAt": "2025-09-12T18:13:34.959Z",
+  "updatedAt": "2025-09-12T18:13:34.959Z"
+}

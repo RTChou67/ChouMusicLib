@@ -1,0 +1,79 @@
+{
+  "fileName": "Matching Mole - Matching Mole.json",
+  "title": "Matching Mole",
+  "artist": "Matching Mole",
+  "releaseDate": "1972-04-08",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Canterbury Scene",
+    "Jazz-Rock",
+    "Experimental Rock",
+    "Psychedelic Pop"
+  ],
+  "tags": [
+    "male vocalist",
+    "progressive",
+    "uncommon time signatures",
+    "improvisation",
+    "humorous",
+    "breakup",
+    "complex",
+    "sarcastic"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "O Caroline",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Instant Pussy",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Signed Curtain",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Part of the Dance",
+      "duration": ""
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "Instant Kitten",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Dedicated to Hugh, but You Weren't Listening",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Beer as in Braindeer",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Immediate Curtain",
+      "duration": ""
+    }
+  ],
+  "totalDuration": "00:00",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/7ebfda00028e9518f411e91b6fcbdf28/11705693/matching-mole-matching-mole-Cover-Art.jpg",
+  "createdAt": "2025-09-16T16:00:45.400Z",
+  "updatedAt": "2025-09-16T16:00:45.400Z"
+}

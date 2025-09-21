@@ -1,0 +1,85 @@
+{
+  "fileName": "Triarii - Ars Militaria.json",
+  "title": "Ars Militaria",
+  "artist": "Triarii",
+  "releaseDate": "2005-04-01",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Martial Industrial",
+    "Neoclassical Darkwave"
+  ],
+  "tags": [
+    "triumphant",
+    "martial",
+    "epic",
+    "war"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Anthem From the Iron Flame",
+      "duration": "04:01"
+    },
+    {
+      "type": "track",
+      "title": "Europe in Flames",
+      "duration": "04:27"
+    },
+    {
+      "type": "track",
+      "title": "Mother of Pain",
+      "duration": "04:27"
+    },
+    {
+      "type": "track",
+      "title": "Dark Skies Over Europe",
+      "duration": "04:15"
+    },
+    {
+      "type": "track",
+      "title": "Der Verwundete (In Memoriam Arno Breker)",
+      "duration": "03:42"
+    },
+    {
+      "type": "track",
+      "title": "Legio VI Ferrata",
+      "duration": "07:07"
+    },
+    {
+      "type": "track",
+      "title": "Regicide II",
+      "duration": "02:54"
+    },
+    {
+      "type": "track",
+      "title": "Marche du capitulation",
+      "duration": "05:05"
+    },
+    {
+      "type": "track",
+      "title": "Neuropa",
+      "duration": "04:11"
+    },
+    {
+      "type": "track",
+      "title": "Serpent, Sun & World Ending",
+      "duration": "04:14"
+    },
+    {
+      "type": "track",
+      "title": "For the Fallen Ones",
+      "duration": "03:10"
+    },
+    {
+      "type": "track",
+      "title": "Son of the Sun",
+      "duration": "03:50"
+    }
+  ],
+  "totalDuration": "51:23",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/26936240f5801ddb34bf958b3723ab2e/1381602/triarii-ars-militaria-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

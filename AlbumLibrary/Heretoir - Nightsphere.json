@@ -1,0 +1,54 @@
+{
+  "fileName": "Heretoir - Nightsphere.json",
+  "title": "Nightsphere",
+  "artist": "Heretoir",
+  "releaseDate": "2023-10-06",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Post-Metal",
+    "Atmospheric Black Metal",
+    "Post-Rock",
+    "Blackgaze",
+    "Ambient"
+  ],
+  "tags": [
+    "melancholic",
+    "atmospheric",
+    "passionate",
+    "male vocalist",
+    "heavy"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Sanctum - Nightsphere Part I",
+      "duration": "10:45"
+    },
+    {
+      "type": "track",
+      "title": "Twilight of the Machines",
+      "duration": "08:34"
+    },
+    {
+      "type": "track",
+      "title": "Pneuma",
+      "duration": "06:57"
+    },
+    {
+      "type": "track",
+      "title": "Glacierheart - Nightsphere Part II",
+      "duration": "11:57"
+    },
+    {
+      "type": "track",
+      "title": "The Death of Man",
+      "duration": "04:07"
+    }
+  ],
+  "totalDuration": "42:20",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/b1fc8027940c0548b7a3b8ef59f78374/11290166/heretoir-nightsphere-Cover-Art.png",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

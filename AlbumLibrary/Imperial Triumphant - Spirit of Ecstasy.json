@@ -1,0 +1,100 @@
+{
+  "fileName": "Imperial Triumphant - Spirit of Ecstasy.json",
+  "title": "Spirit of Ecstasy",
+  "artist": "Imperial Triumphant",
+  "releaseDate": "2022-07-22",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Avant-Garde Metal",
+    "Dissonant Death Metal",
+    "Avant-Garde Jazz",
+    "Black Metal",
+    "Dissonant Black Metal"
+  ],
+  "tags": [
+    "atonal",
+    "dissonant",
+    "technical",
+    "ominous",
+    "avant-garde",
+    "chaotic",
+    "surreal",
+    "disturbing",
+    "uncommon time signatures",
+    "urban",
+    "dense",
+    "dark",
+    "male vocalist",
+    "heavy",
+    "complex",
+    "anxious",
+    "mysterious",
+    "progressive",
+    "infernal",
+    "apocalyptic",
+    "atmospheric",
+    "eclectic",
+    "manic",
+    "nocturnal",
+    "noisy",
+    "cryptic",
+    "aggressive",
+    "abstract",
+    "suspenseful",
+    "scary",
+    "pessimistic",
+    "misanthropic",
+    "alienation",
+    "political",
+    "maximalist",
+    "dystopian"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Chump Change",
+      "duration": "07:49"
+    },
+    {
+      "type": "track",
+      "title": "Metrovertigo",
+      "duration": "06:10"
+    },
+    {
+      "type": "track",
+      "title": "Tower of Glory, City of Shame",
+      "duration": "07:55"
+    },
+    {
+      "type": "track",
+      "title": "Merkurius Gilded",
+      "duration": "06:08"
+    },
+    {
+      "type": "track",
+      "title": "Death on a Highway",
+      "duration": "05:33"
+    },
+    {
+      "type": "track",
+      "title": "In the Pleasure of Their Company",
+      "duration": "06:43"
+    },
+    {
+      "type": "track",
+      "title": "Bezumnaya",
+      "duration": "07:27"
+    },
+    {
+      "type": "track",
+      "title": "Maximalist Scream",
+      "duration": "06:57"
+    }
+  ],
+  "totalDuration": "54:42",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/3e4b6fda1f96dd73046f6bc87ffb5c0b/9961403/imperial-triumphant-spirit-of-ecstasy-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:45:11.500Z",
+  "updatedAt": "2025-09-13T16:45:11.500Z"
+}

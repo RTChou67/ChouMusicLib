@@ -1,0 +1,86 @@
+{
+  "fileName": "Ozzy Osbourne - Blizzard of Ozz.json",
+  "title": "Blizzard of Ozz",
+  "artist": "Ozzy Osbourne",
+  "releaseDate": "1980-09-12",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Heavy Metal",
+    "Hard Rock"
+  ],
+  "tags": [
+    "male vocalist",
+    "anthemic",
+    "energetic",
+    "occult",
+    "melodic",
+    "introspective",
+    "dark",
+    "heavy",
+    "technical",
+    "mental health",
+    "theatrical",
+    "passionate"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "I Don't Know",
+      "duration": "05:16"
+    },
+    {
+      "type": "track",
+      "title": "Crazy Train",
+      "duration": "04:54"
+    },
+    {
+      "type": "track",
+      "title": "Goodbye to Romance",
+      "duration": "05:35"
+    },
+    {
+      "type": "track",
+      "title": "Dee",
+      "duration": "00:50"
+    },
+    {
+      "type": "track",
+      "title": "Suicide Solution",
+      "duration": "04:19"
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "Mr. Crowley",
+      "duration": "04:56"
+    },
+    {
+      "type": "track",
+      "title": "No Bone Movies",
+      "duration": "03:58"
+    },
+    {
+      "type": "track",
+      "title": "Revelation (Mother Earth)",
+      "duration": "06:09"
+    },
+    {
+      "type": "track",
+      "title": "Steal Away (The Night)",
+      "duration": "03:29"
+    }
+  ],
+  "totalDuration": "39:26",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/dc369fff06ad93d636d712f95f8de12d/7009707/ozzy-osbourne-blizzard-of-ozz-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:20:32.211Z",
+  "updatedAt": "2025-09-13T16:20:32.211Z"
+}

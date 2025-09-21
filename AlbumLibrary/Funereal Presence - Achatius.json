@@ -1,0 +1,65 @@
+{
+  "fileName": "Funereal Presence - Achatius.json",
+  "title": "Achatius",
+  "artist": "Funereal Presence",
+  "releaseDate": "2019-02-15",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Black Metal",
+    "Speed Metal",
+    "Thrash Metal"
+  ],
+  "tags": [
+    "aggressive",
+    "medieval",
+    "psychedelic",
+    "infernal",
+    "heavy",
+    "dark",
+    "concept album",
+    "religious",
+    "raw",
+    "violence",
+    "male vocalist",
+    "satanism",
+    "death",
+    "energetic",
+    "atmospheric",
+    "dense",
+    "surreal",
+    "ominous",
+    "apocalyptic",
+    "complex",
+    "triumphant",
+    "eclectic",
+    "manic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Wherein Achatius Is Awakened and Called Upon",
+      "duration": "12:41"
+    },
+    {
+      "type": "track",
+      "title": "Wherein a Messenger of the Devil Appears",
+      "duration": "11:26"
+    },
+    {
+      "type": "track",
+      "title": "Wherein Seven Celestial Beasts Are Revealed to Him",
+      "duration": "11:07"
+    },
+    {
+      "type": "track",
+      "title": "Wherein Achatius Is Flogged to the Hills of Violation",
+      "duration": "13:18"
+    }
+  ],
+  "totalDuration": "48:32",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/2258c0206429efb32dc219d663433c11/7335354/funereal-presence-achatius-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:55:54.507Z",
+  "updatedAt": "2025-09-16T15:55:54.507Z"
+}

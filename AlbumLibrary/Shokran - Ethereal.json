@@ -1,0 +1,73 @@
+{
+  "fileName": "Shokran - Ethereal.json",
+  "title": "Ethereal",
+  "artist": "Shokran",
+  "releaseDate": "2019-02-08",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Metalcore",
+    "Progressive Metal",
+    "Djent"
+  ],
+  "tags": [
+    "male vocalist"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Unbodied",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Nature of the Paradox",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Shadows",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Ascention",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Conquerors",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Superior",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Golden Pendant",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Ethereal",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Faces Behind the Stars",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Destiny Crucified",
+      "duration": ""
+    }
+  ],
+  "totalDuration": "00:00",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/1155c07bcaa5a8659f191f3ba8d6c3c1/7290104/shokran-ethereal-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

@@ -1,0 +1,69 @@
+{
+  "fileName": "Kraftwerk - Kraftwerk.json",
+  "title": "Kraftwerk",
+  "artist": "Kraftwerk",
+  "releaseDate": "1970-11-01",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Krautrock",
+    "Electronic",
+    "Drone"
+  ],
+  "tags": [
+    "instrumental",
+    "avant-garde",
+    "hypnotic",
+    "rhythmic",
+    "psychedelic",
+    "futuristic",
+    "mechanical",
+    "ominous",
+    "suspenseful",
+    "manic",
+    "surreal",
+    "repetitive",
+    "noisy",
+    "energetic",
+    "minimalistic",
+    "progressive",
+    "improvisation",
+    "sparse",
+    "cold"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "Ruckzuck",
+      "duration": "07:47"
+    },
+    {
+      "type": "track",
+      "title": "Stratovarius",
+      "duration": "12:10"
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "Megaherz",
+      "duration": "09:30"
+    },
+    {
+      "type": "track",
+      "title": "Vom Himmel hoch",
+      "duration": "10:12"
+    }
+  ],
+  "totalDuration": "39:39",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/000b8cbaa514b65031e177b22beb5101/12333754/kraftwerk-kraftwerk-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:22:40.366Z",
+  "updatedAt": "2025-09-16T15:22:40.366Z"
+}

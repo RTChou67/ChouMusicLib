@@ -1,0 +1,62 @@
+{
+  "fileName": "Assumption - Hadean Tides.json",
+  "title": "Hadean Tides",
+  "artist": "Assumption",
+  "releaseDate": "2022-05-20",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Death Doom Metal",
+    "Funeral Doom Metal",
+    "Gothic Metal"
+  ],
+  "tags": [
+    "heavy",
+    "mythology",
+    "male vocalist",
+    "dark",
+    "raw"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Oration",
+      "duration": "06:11"
+    },
+    {
+      "type": "track",
+      "title": "Submerged by Hadean Tides",
+      "duration": "07:05"
+    },
+    {
+      "type": "track",
+      "title": "Daughters of the Lotus",
+      "duration": "09:02"
+    },
+    {
+      "type": "track",
+      "title": "Breath of the Dedalus",
+      "duration": "06:03"
+    },
+    {
+      "type": "track",
+      "title": "The Liquescent Hours",
+      "duration": "04:51"
+    },
+    {
+      "type": "track",
+      "title": "Triptych",
+      "duration": "07:33"
+    },
+    {
+      "type": "track",
+      "title": "Black Trees Waving",
+      "duration": "14:52"
+    }
+  ],
+  "totalDuration": "55:37",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/25b7b43a532b581998939f0a8a014199/9921802/assumption-hadean-tides-Cover-Art.jpg",
+  "createdAt": "2025-09-16T16:09:48.952Z",
+  "updatedAt": "2025-09-16T16:09:48.952Z"
+}

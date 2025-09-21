@@ -1,0 +1,127 @@
+{
+  "fileName": "The Residents - Meet The Residents.json",
+  "title": "Meet The Residents",
+  "artist": "The Residents",
+  "releaseDate": "1974-04-01",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Experimental",
+    "Sound Collage",
+    "Tape Music",
+    "Musical Parody",
+    "Musique concrète",
+    "Avant-Garde Jazz",
+    "Experimental Rock"
+  ],
+  "tags": [
+    "avant-garde",
+    "surreal",
+    "humorous",
+    "ominous",
+    "manic",
+    "abstract",
+    "playful",
+    "male vocalist",
+    "lo-fi",
+    "dissonant",
+    "satirical",
+    "cryptic",
+    "hypnotic",
+    "quirky",
+    "female vocalist",
+    "eclectic",
+    "noisy",
+    "atonal",
+    "raw",
+    "atmospheric",
+    "chaotic",
+    "dark",
+    "repetitive",
+    "medley",
+    "sampling",
+    "anxious",
+    "pastiche",
+    "Christmas",
+    "cold",
+    "suite",
+    "dark humor",
+    "rhythmic",
+    "tribal"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "Boots",
+      "duration": "01:30"
+    },
+    {
+      "type": "track",
+      "title": "Numb Erone",
+      "duration": "01:23"
+    },
+    {
+      "type": "track",
+      "title": "Guylum Bardot",
+      "duration": "01:22"
+    },
+    {
+      "type": "track",
+      "title": "Breath and Length",
+      "duration": "01:45"
+    },
+    {
+      "type": "track",
+      "title": "Consuelo's Departure",
+      "duration": "01:55"
+    },
+    {
+      "type": "track",
+      "title": "Smelly Tongues",
+      "duration": "01:35"
+    },
+    {
+      "type": "track",
+      "title": "Rest Aria",
+      "duration": "05:41"
+    },
+    {
+      "type": "track",
+      "title": "Skratz",
+      "duration": "01:18"
+    },
+    {
+      "type": "track",
+      "title": "Spotted Pinto Bean",
+      "duration": "06:37"
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "Infant Tango",
+      "duration": "06:01"
+    },
+    {
+      "type": "track",
+      "title": "Seasoned Greetings",
+      "duration": "05:12"
+    },
+    {
+      "type": "track",
+      "title": "N-Er-Gee (A Crisis Bluesuite)",
+      "duration": "10:06"
+    }
+  ],
+  "totalDuration": "44:25",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/9482321b7eefacf7dcd79606d429d7ed/10256310/the-residents-meet-the-residents-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:29:39.800Z",
+  "updatedAt": "2025-09-12T17:29:39.800Z"
+}

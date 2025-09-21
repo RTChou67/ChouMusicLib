@@ -1,0 +1,72 @@
+{
+  "fileName": "Diarsia - Armageddon.json",
+  "title": "Armageddon",
+  "artist": "Diarsia",
+  "releaseDate": "2024-07-12",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [],
+  "tags": [],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "SalvationX",
+      "duration": "02:58"
+    },
+    {
+      "type": "track",
+      "title": "The Plague",
+      "duration": "04:05"
+    },
+    {
+      "type": "track",
+      "title": "Purge",
+      "duration": "04:16"
+    },
+    {
+      "type": "track",
+      "title": "Bloodmoon",
+      "duration": "05:25"
+    },
+    {
+      "type": "track",
+      "title": "Genocide",
+      "duration": "03:48"
+    },
+    {
+      "type": "track",
+      "title": "Berzerker",
+      "duration": "03:08"
+    },
+    {
+      "type": "track",
+      "title": "Self Destruction",
+      "duration": "03:52"
+    },
+    {
+      "type": "track",
+      "title": "Kaiju",
+      "duration": "00:46"
+    },
+    {
+      "type": "track",
+      "title": "Red Prison 1: Heaven",
+      "duration": "02:54"
+    },
+    {
+      "type": "track",
+      "title": "Red Prison 2: Hell",
+      "duration": "04:15"
+    },
+    {
+      "type": "track",
+      "title": "Gospelion in the New World",
+      "duration": "01:47"
+    }
+  ],
+  "totalDuration": "37:14",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/5efc80e3c28a4ad8f022afdbd6890692/12324322/diarsia-armageddon-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:40:20.419Z",
+  "updatedAt": "2025-09-12T17:40:20.419Z"
+}

@@ -1,0 +1,85 @@
+{
+  "fileName": "Atheist - Unquestionable Presence.json",
+  "title": "Unquestionable Presence",
+  "artist": "Atheist",
+  "releaseDate": "1991-10-21",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Technical Death Metal",
+    "Progressive Metal",
+    "Technical Thrash Metal",
+    "Jazz Fusion"
+  ],
+  "tags": [
+    "technical",
+    "uncommon time signatures",
+    "complex",
+    "philosophical",
+    "male vocalist",
+    "progressive",
+    "existential",
+    "energetic",
+    "heavy",
+    "science fiction",
+    "poetic",
+    "manic",
+    "spiritual",
+    "conscious",
+    "aggressive",
+    "passionate",
+    "anti-religious",
+    "rhythmic",
+    "avant-garde",
+    "melodic",
+    "afterlife",
+    "bassy"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Mother Man",
+      "duration": "04:34"
+    },
+    {
+      "type": "track",
+      "title": "Unquestionable Presence",
+      "duration": "04:04"
+    },
+    {
+      "type": "track",
+      "title": "Your Life's Retribution",
+      "duration": "03:15"
+    },
+    {
+      "type": "track",
+      "title": "Enthralled in Essence",
+      "duration": "03:35"
+    },
+    {
+      "type": "track",
+      "title": "An Incarnation's Dream",
+      "duration": "04:50"
+    },
+    {
+      "type": "track",
+      "title": "The Formative Years",
+      "duration": "03:28"
+    },
+    {
+      "type": "track",
+      "title": "Brains",
+      "duration": "03:27"
+    },
+    {
+      "type": "track",
+      "title": "And the Psychic Saw",
+      "duration": "04:41"
+    }
+  ],
+  "totalDuration": "31:54",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/dcebc61c2d7bd6291dc3e2d2c209f912/2656494/atheist-unquestionable-presence-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:35:12.502Z",
+  "updatedAt": "2025-09-16T15:35:12.502Z"
+}

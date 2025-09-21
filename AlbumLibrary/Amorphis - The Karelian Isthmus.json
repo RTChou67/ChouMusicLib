@@ -1,0 +1,89 @@
+{
+  "fileName": "Amorphis - The Karelian Isthmus.json",
+  "title": "The Karelian Isthmus",
+  "artist": "Amorphis",
+  "releaseDate": "1992-11-01",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Death Metal",
+    "Death Doom Metal"
+  ],
+  "tags": [
+    "mythology",
+    "folklore",
+    "war",
+    "heavy",
+    "melancholic",
+    "male vocalist",
+    "ominous",
+    "melodic",
+    "atmospheric",
+    "epic",
+    "occult",
+    "sombre",
+    "cold"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Karelia",
+      "duration": "00:45"
+    },
+    {
+      "type": "track",
+      "title": "The Gathering",
+      "duration": "04:15"
+    },
+    {
+      "type": "track",
+      "title": "Grails Mysteries",
+      "duration": "03:04"
+    },
+    {
+      "type": "track",
+      "title": "Warriors Trial",
+      "duration": "05:07"
+    },
+    {
+      "type": "track",
+      "title": "Black Embrace",
+      "duration": "03:43"
+    },
+    {
+      "type": "track",
+      "title": "Exile of the Sons of Uisliu",
+      "duration": "03:46"
+    },
+    {
+      "type": "track",
+      "title": "The Lost Name of God",
+      "duration": "05:34"
+    },
+    {
+      "type": "track",
+      "title": "The Pilgrimage",
+      "duration": "04:42"
+    },
+    {
+      "type": "track",
+      "title": "Misery Path",
+      "duration": "04:19"
+    },
+    {
+      "type": "track",
+      "title": "Sign From the North Side",
+      "duration": "04:57"
+    },
+    {
+      "type": "track",
+      "title": "Vulgar Necrolatry [bonus track]",
+      "duration": "04:22"
+    }
+  ],
+  "totalDuration": "44:34",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/4647fc99b505ef0f0509465ae58fe4ec/3780171/amorphis-the-karelian-isthmus-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:40:56.998Z",
+  "updatedAt": "2025-09-16T15:40:56.998Z"
+}

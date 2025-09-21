@@ -1,0 +1,82 @@
+{
+  "fileName": "Ov Sulfur - The Burden ov Faith.json",
+  "title": "The Burden ov Faith",
+  "artist": "Ov Sulfur",
+  "releaseDate": "2023-03-24",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Deathcore",
+    "Symphonic Metal"
+  ],
+  "tags": [
+    "heavy",
+    "anti-religious",
+    "dark",
+    "male vocalist",
+    "aggressive",
+    "energetic",
+    "melodic",
+    "rebellious",
+    "passionate",
+    "orchestral",
+    "hateful"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Stained in Rot",
+      "duration": "04:13"
+    },
+    {
+      "type": "track",
+      "title": "Befouler",
+      "duration": "03:43"
+    },
+    {
+      "type": "track",
+      "title": "Unraveling",
+      "duration": "04:45"
+    },
+    {
+      "type": "track",
+      "title": "Death ov Circumstance",
+      "duration": "04:33"
+    },
+    {
+      "type": "track",
+      "title": "Earthen",
+      "duration": "05:24"
+    },
+    {
+      "type": "track",
+      "title": "A Path to Salvation?",
+      "duration": "01:13"
+    },
+    {
+      "type": "track",
+      "title": "I, Apostate",
+      "duration": "04:39"
+    },
+    {
+      "type": "track",
+      "title": "Wide Open",
+      "duration": "05:06"
+    },
+    {
+      "type": "track",
+      "title": "The Inglorious Archetype",
+      "duration": "03:46"
+    },
+    {
+      "type": "track",
+      "title": "The Burden ov Faith",
+      "duration": "06:49"
+    }
+  ],
+  "totalDuration": "44:11",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/e598aa690fb790dcb987a7f2e0f5f53b/10649513/ov-sulfur-the-burden-ov-faith-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:57:54.880Z",
+  "updatedAt": "2025-09-12T17:57:54.880Z"
+}

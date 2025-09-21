@@ -1,0 +1,99 @@
+{
+  "fileName": "Eidola - Eviscerate.json",
+  "title": "Eviscerate",
+  "artist": "Eidola",
+  "releaseDate": "2024-04-12",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Metalcore",
+    "Progressive Metal",
+    "Djent",
+    "Swancore"
+  ],
+  "tags": [
+    "existential",
+    "anti-religious",
+    "heavy",
+    "progressive",
+    "aggressive",
+    "spiritual",
+    "male vocalist",
+    "technical",
+    "afterlife",
+    "cryptic",
+    "eclectic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Atman: An Introduction to Suffering",
+      "duration": "01:41"
+    },
+    {
+      "type": "track",
+      "title": "A Bridge of Iron and Blood",
+      "duration": "03:42"
+    },
+    {
+      "type": "track",
+      "title": "No Weapon Formed Shall Prosper",
+      "duration": "03:53"
+    },
+    {
+      "type": "track",
+      "title": "Who of You Will Persevere",
+      "duration": "03:23"
+    },
+    {
+      "type": "track",
+      "title": "The Weight of Sin",
+      "duration": "03:10"
+    },
+    {
+      "type": "track",
+      "title": "He Who Pulls the Strings Ties a Knot",
+      "duration": "03:10"
+    },
+    {
+      "type": "track",
+      "title": "Fistful of Hornets",
+      "duration": "02:34"
+    },
+    {
+      "type": "track",
+      "title": "God Takes Away Everything",
+      "duration": "03:32"
+    },
+    {
+      "type": "track",
+      "title": "Ziggurat",
+      "duration": "03:08"
+    },
+    {
+      "type": "track",
+      "title": "Ashes in Gehinnom",
+      "duration": "04:33"
+    },
+    {
+      "type": "track",
+      "title": "Kali Yuga",
+      "duration": "04:09"
+    },
+    {
+      "type": "track",
+      "title": "Golgotha Compendium: Fifth Temple",
+      "duration": "06:36"
+    },
+    {
+      "type": "track",
+      "title": "Ecclesiastes: The Burden of Wisdom",
+      "duration": "01:39"
+    }
+  ],
+  "totalDuration": "45:10",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/ac3f6e1f042b3f8bff809537b75ad1c6/11787363/eidola-eviscerate-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:37:58.479Z",
+  "updatedAt": "2025-09-12T17:37:58.479Z"
+}

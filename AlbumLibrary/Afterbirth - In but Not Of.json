@@ -1,0 +1,96 @@
+{
+  "fileName": "Afterbirth - In but Not Of.json",
+  "title": "In but Not Of",
+  "artist": "Afterbirth",
+  "releaseDate": "2023-10-20",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Technical Death Metal",
+    "Progressive Metal",
+    "Brutal Death Metal"
+  ],
+  "tags": [
+    "surreal",
+    "psychedelic",
+    "technical",
+    "heavy",
+    "progressive",
+    "male vocalist",
+    "eclectic",
+    "atmospheric",
+    "science fiction",
+    "dissonant",
+    "uncommon time signatures",
+    "rhythmic",
+    "complex",
+    "vulgar",
+    "aggressive",
+    "death",
+    "space",
+    "energetic",
+    "avant-garde"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Tightening the Screws",
+      "duration": "01:47"
+    },
+    {
+      "type": "track",
+      "title": "Devils With Dead Eyes",
+      "duration": "04:06"
+    },
+    {
+      "type": "track",
+      "title": "Vomit on Humanity",
+      "duration": "04:20"
+    },
+    {
+      "type": "track",
+      "title": "Autoerotic Amputation",
+      "duration": "02:13"
+    },
+    {
+      "type": "track",
+      "title": "Vivisected Psychopomp",
+      "duration": "02:06"
+    },
+    {
+      "type": "track",
+      "title": "Hovering Human Head Drones",
+      "duration": "03:27"
+    },
+    {
+      "type": "track",
+      "title": "In but Not Of",
+      "duration": "05:01"
+    },
+    {
+      "type": "track",
+      "title": "Angels Feast on Flies",
+      "duration": "04:16"
+    },
+    {
+      "type": "track",
+      "title": "Time Enough Tomorrow",
+      "duration": "03:59"
+    },
+    {
+      "type": "track",
+      "title": "Death Invents Itself",
+      "duration": "02:07"
+    },
+    {
+      "type": "track",
+      "title": "Succumb to Life",
+      "duration": "02:25"
+    }
+  ],
+  "totalDuration": "35:47",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/3a796b9d3b1ca67e9b12146e804e1eaa/11198725/afterbirth-in-but-not-of-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:17:26.116Z",
+  "updatedAt": "2025-09-12T17:17:26.116Z"
+}

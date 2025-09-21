@@ -1,0 +1,70 @@
+{
+  "fileName": "Necrophagist - Onset of Putrefaction.json",
+  "title": "Onset of Putrefaction",
+  "artist": "Necrophagist",
+  "releaseDate": "1999-09-14",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Technical Death Metal",
+    "Brutal Death Metal"
+  ],
+  "tags": [
+    "aggressive",
+    "technical",
+    "violence",
+    "ominous",
+    "uncommon time signatures",
+    "misanthropic",
+    "male vocalist",
+    "heavy",
+    "raw"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Foul Body Autopsy",
+      "duration": "01:53"
+    },
+    {
+      "type": "track",
+      "title": "To Breathe in a Casket",
+      "duration": "05:41"
+    },
+    {
+      "type": "track",
+      "title": "Mutilate the Stillborn",
+      "duration": "03:42"
+    },
+    {
+      "type": "track",
+      "title": "Intestinal Incubation",
+      "duration": "04:11"
+    },
+    {
+      "type": "track",
+      "title": "Culinary Hyperversity",
+      "duration": "05:04"
+    },
+    {
+      "type": "track",
+      "title": "Advanced Corpse Tumor",
+      "duration": "05:27"
+    },
+    {
+      "type": "track",
+      "title": "Extreme Unction",
+      "duration": "04:46"
+    },
+    {
+      "type": "track",
+      "title": "Fermented Offal Discharge",
+      "duration": "04:42"
+    }
+  ],
+  "totalDuration": "35:26",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/f2f7c24877c57ff0b337b3e461468129/1315648/necrophagist-onset-of-putrefaction-Cover-Art.jpg",
+  "createdAt": "2025-09-16T16:14:22.247Z",
+  "updatedAt": "2025-09-16T16:14:22.247Z"
+}

@@ -1,0 +1,70 @@
+{
+  "fileName": "Intervals - Circadian.json",
+  "title": "Circadian",
+  "artist": "Intervals",
+  "releaseDate": "2020-11-13",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Progressive Metal",
+    "Progressive Rock",
+    "Djent"
+  ],
+  "tags": [
+    "happy",
+    "melodic",
+    "uplifting",
+    "instrumental",
+    "technical",
+    "rhythmic",
+    "uncommon time signatures",
+    "playful"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "5-HTP",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Vantablack",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Luna[r]tic",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Lock & Key",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Signal Hill",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "String Theory",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "D.O.S.E.",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Earthing",
+      "duration": ""
+    }
+  ],
+  "totalDuration": "00:00",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/4ffb47de3fd8d717c748969d78391dca/8572344/intervals-circadian-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

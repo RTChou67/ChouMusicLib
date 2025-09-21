@@ -1,0 +1,113 @@
+{
+  "fileName": "Vampire Weekend - Modern Vampires of the City.json",
+  "title": "Modern Vampires of the City",
+  "artist": "Vampire Weekend",
+  "releaseDate": "2013-05-14",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Indie Pop",
+    "Chamber Pop",
+    "Art Pop",
+    "Baroque Pop"
+  ],
+  "tags": [
+    "melodic",
+    "warm",
+    "lush",
+    "male vocalist",
+    "urban",
+    "passionate",
+    "philosophical",
+    "existential",
+    "melancholic",
+    "playful",
+    "uplifting",
+    "poetic",
+    "religious",
+    "sentimental",
+    "spiritual",
+    "autumn",
+    "death",
+    "quirky",
+    "lonely",
+    "love",
+    "cryptic",
+    "winter",
+    "cold",
+    "bittersweet",
+    "political",
+    "Judaic",
+    "abstract",
+    "atmospheric",
+    "conscious",
+    "psychedelic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Obvious Bicycle",
+      "duration": "04:12"
+    },
+    {
+      "type": "track",
+      "title": "Unbelievers",
+      "duration": "03:23"
+    },
+    {
+      "type": "track",
+      "title": "Step",
+      "duration": "04:12"
+    },
+    {
+      "type": "track",
+      "title": "Diane Young",
+      "duration": "02:40"
+    },
+    {
+      "type": "track",
+      "title": "Don't Lie",
+      "duration": "03:33"
+    },
+    {
+      "type": "track",
+      "title": "Hannah Hunt",
+      "duration": "03:58"
+    },
+    {
+      "type": "track",
+      "title": "Everlasting Arms",
+      "duration": "03:03"
+    },
+    {
+      "type": "track",
+      "title": "Finger Back",
+      "duration": "03:26"
+    },
+    {
+      "type": "track",
+      "title": "Worship You",
+      "duration": "03:21"
+    },
+    {
+      "type": "track",
+      "title": "Ya Hey",
+      "duration": "05:13"
+    },
+    {
+      "type": "track",
+      "title": "Hudson",
+      "duration": "04:15"
+    },
+    {
+      "type": "track",
+      "title": "Young Lion",
+      "duration": "01:45"
+    }
+  ],
+  "totalDuration": "43:01",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/628c16a2d713c5f29f385d30f38be316/13204684/vampire-weekend-modern-vampires-of-the-city-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

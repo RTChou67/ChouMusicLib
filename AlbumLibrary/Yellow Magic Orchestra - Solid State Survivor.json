@@ -1,0 +1,101 @@
+{
+  "fileName": "Yellow Magic Orchestra - Solid State Survivor.json",
+  "title": "Solid State Survivor",
+  "artist": "Yellow Magic Orchestra",
+  "releaseDate": "1979-09-25",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Synthpop",
+    "Electro-Disco",
+    "Electropop",
+    "New Wave"
+  ],
+  "tags": [
+    "playful",
+    "futuristic",
+    "energetic",
+    "melodic",
+    "mechanical",
+    "quirky",
+    "happy",
+    "rhythmic",
+    "uplifting",
+    "repetitive",
+    "warm",
+    "male vocalist",
+    "lush",
+    "surreal",
+    "progressive",
+    "hypnotic",
+    "triumphant",
+    "party",
+    "science fiction",
+    "bouncy",
+    "bright",
+    "epic",
+    "androgynous vocals",
+    "eclectic",
+    "abstract",
+    "urban",
+    "instrumental",
+    "ethereal",
+    "atmospheric",
+    "summer"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "Technopolis",
+      "duration": "04:15"
+    },
+    {
+      "type": "track",
+      "title": "Absolute Ego Dance",
+      "duration": "04:37"
+    },
+    {
+      "type": "track",
+      "title": "Rydeen",
+      "duration": "04:26"
+    },
+    {
+      "type": "track",
+      "title": "Castalia",
+      "duration": "03:31"
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "Behind the Mask",
+      "duration": "03:37"
+    },
+    {
+      "type": "track",
+      "title": "Day Tripper",
+      "duration": "02:41"
+    },
+    {
+      "type": "track",
+      "title": "Insomnia",
+      "duration": "04:57"
+    },
+    {
+      "type": "track",
+      "title": "Solid State Survivor",
+      "duration": "03:58"
+    }
+  ],
+  "totalDuration": "32:02",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/5533750727c877cd3f727f065ebd16a4/9301578/yellow-magic-orchestra-solid-state-survivor-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

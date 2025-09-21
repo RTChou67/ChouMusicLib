@@ -1,0 +1,80 @@
+{
+  "fileName": "Merzbow - Pulse Demon.json",
+  "title": "Pulse Demon",
+  "artist": "Merzbow",
+  "releaseDate": "1996-05-28",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Harsh Noise"
+  ],
+  "tags": [
+    "noisy",
+    "chaotic",
+    "aggressive",
+    "dense",
+    "instrumental",
+    "dissonant",
+    "avant-garde",
+    "hypnotic",
+    "improvisation",
+    "atonal",
+    "raw",
+    "heavy",
+    "mechanical",
+    "piercing",
+    "aleatory",
+    "psychedelic",
+    "atmospheric",
+    "infernal",
+    "provocative",
+    "free rhythm"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Woodpecker No. 1",
+      "duration": "06:42"
+    },
+    {
+      "type": "track",
+      "title": "Woodpecker No. 2",
+      "duration": "03:37"
+    },
+    {
+      "type": "track",
+      "title": "Spiral Blast",
+      "duration": "04:30"
+    },
+    {
+      "type": "track",
+      "title": "My Station Rock",
+      "duration": "04:54"
+    },
+    {
+      "type": "track",
+      "title": "Ultra Marine Blues",
+      "duration": "11:29"
+    },
+    {
+      "type": "track",
+      "title": "Tokyo Times Ten",
+      "duration": "11:09"
+    },
+    {
+      "type": "track",
+      "title": "Worms Plastic Earthbound",
+      "duration": "24:53"
+    },
+    {
+      "type": "track",
+      "title": "Yellow Hyper Balls",
+      "duration": "06:03"
+    }
+  ],
+  "totalDuration": "01:13:17",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/e0317b22f6532069aa0b4c6361e32e07/7755248/merzbow-pulse-demon-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

@@ -1,0 +1,103 @@
+{
+  "fileName": "Shadow of Intent - Elegy.json",
+  "title": "Elegy",
+  "artist": "Shadow of Intent",
+  "releaseDate": "2022-01-14",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Melodic Death Metal",
+    "Deathcore",
+    "Symphonic Metal",
+    "Technical Death Metal"
+  ],
+  "tags": [
+    "war",
+    "infernal",
+    "epic",
+    "pessimistic",
+    "violence",
+    "death",
+    "rebellious",
+    "male vocalist",
+    "dense",
+    "melodic",
+    "heavy",
+    "sombre",
+    "dark",
+    "funereal",
+    "history"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Farewell",
+      "duration": "04:56"
+    },
+    {
+      "type": "track",
+      "title": "Saurian King",
+      "duration": "05:24"
+    },
+    {
+      "type": "track",
+      "title": "The Coming Fire",
+      "duration": "04:09"
+    },
+    {
+      "type": "track",
+      "title": "Of Fury",
+      "duration": "04:48"
+    },
+    {
+      "type": "track",
+      "title": "Intensified Genocide",
+      "duration": "04:01"
+    },
+    {
+      "type": "track",
+      "title": "Life of Exile",
+      "duration": "04:53"
+    },
+    {
+      "type": "track",
+      "title": "Where Millions Have Come to Die",
+      "duration": "04:23"
+    },
+    {
+      "type": "track",
+      "title": "From Ruin… We Rise",
+      "duration": "04:51"
+    },
+    {
+      "type": "track",
+      "title": "Blood in the Sands of Time",
+      "duration": "05:22"
+    },
+    {
+      "type": "track",
+      "title": "Reconquest",
+      "duration": "04:51"
+    },
+    {
+      "type": "track",
+      "title": "Elegy I: Adapt",
+      "duration": "02:29"
+    },
+    {
+      "type": "track",
+      "title": "Elegy II: Devise",
+      "duration": "04:26"
+    },
+    {
+      "type": "track",
+      "title": "Elegy III: Overcome",
+      "duration": "06:01"
+    }
+  ],
+  "totalDuration": "01:00:34",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/dd3e8e5f5061270d23a4b8b94e054ff5/9646584/shadow-of-intent-elegy-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:42:36.152Z",
+  "updatedAt": "2025-09-13T16:42:36.152Z"
+}

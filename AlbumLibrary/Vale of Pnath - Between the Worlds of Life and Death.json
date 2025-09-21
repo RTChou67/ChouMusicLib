@@ -1,0 +1,73 @@
+{
+  "fileName": "Vale of Pnath - Between the Worlds of Life and Death.json",
+  "title": "Between the Worlds of Life and Death",
+  "artist": "Vale of Pnath",
+  "releaseDate": "2024-05-24",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Technical Death Metal",
+    "Symphonic Black Metal"
+  ],
+  "tags": [
+    "male vocalist",
+    "technical",
+    "heavy",
+    "ominous",
+    "dense",
+    "atmospheric",
+    "nocturnal"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "The Forgotten Path (Intro)",
+      "duration": "02:15"
+    },
+    {
+      "type": "track",
+      "title": "Silent Prayers",
+      "duration": "04:27"
+    },
+    {
+      "type": "track",
+      "title": "Soul Offering",
+      "duration": "03:15"
+    },
+    {
+      "type": "track",
+      "title": "Shadow",
+      "duration": "06:15"
+    },
+    {
+      "type": "track",
+      "title": "Uncertain Tomorrow",
+      "duration": "05:04"
+    },
+    {
+      "type": "track",
+      "title": "Beneath Ashen Skies",
+      "duration": "05:37"
+    },
+    {
+      "type": "track",
+      "title": "No Return, No Regret",
+      "duration": "03:43"
+    },
+    {
+      "type": "track",
+      "title": "Echoes of the Past (Interlude)",
+      "duration": "01:29"
+    },
+    {
+      "type": "track",
+      "title": "Burning Light",
+      "duration": "05:48"
+    }
+  ],
+  "totalDuration": "37:53",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/d328f883e40e95dc80845276d89e194b/11927635/vale-of-pnath-between-the-worlds-of-life-and-death-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:35:09.377Z",
+  "updatedAt": "2025-09-12T17:35:09.377Z"
+}

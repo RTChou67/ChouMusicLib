@@ -1,0 +1,70 @@
+{
+  "fileName": "Lacrimosa - Elodia.json",
+  "title": "Elodia",
+  "artist": "Lacrimosa",
+  "releaseDate": "1999-07-06",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Symphonic Metal",
+    "Gothic Metal",
+    "Orchestral Music",
+    "Neoclassical Darkwave"
+  ],
+  "tags": [
+    "orchestral",
+    "melodic",
+    "romantic",
+    "female vocalist",
+    "male vocalist",
+    "passionate",
+    "dark"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Am Ende der Stille",
+      "duration": "08:05"
+    },
+    {
+      "type": "track",
+      "title": "Alleine zu zweit",
+      "duration": "04:15"
+    },
+    {
+      "type": "track",
+      "title": "Halt mich",
+      "duration": "03:56"
+    },
+    {
+      "type": "track",
+      "title": "The Turning Point",
+      "duration": "04:58"
+    },
+    {
+      "type": "track",
+      "title": "Ich verlasse heut' Dein Herz",
+      "duration": "08:29"
+    },
+    {
+      "type": "track",
+      "title": "Dich zu töten fiel mir schwer",
+      "duration": "07:56"
+    },
+    {
+      "type": "track",
+      "title": "Sanctus",
+      "duration": "14:09"
+    },
+    {
+      "type": "track",
+      "title": "Am Ende stehen wir zwei",
+      "duration": "05:45"
+    }
+  ],
+  "totalDuration": "57:33",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/e69041e53de3997e1d2eb233dcae9866/1237688/lacrimosa-elodia-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

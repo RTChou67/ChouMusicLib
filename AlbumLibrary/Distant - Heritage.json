@@ -1,0 +1,89 @@
+{
+  "fileName": "Distant - Heritage.json",
+  "title": "Heritage",
+  "artist": "Distant",
+  "releaseDate": "2023-02-10",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Deathcore",
+    "Slam Death Metal",
+    "Downtempo Deathcore"
+  ],
+  "tags": [
+    "male vocalist",
+    "aggressive",
+    "ominous",
+    "heavy",
+    "rhythmic",
+    "futuristic",
+    "apocalyptic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Acid Rain",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Paradigm Shift",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Born of Blood",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "The Grief Manifest",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Exofilth",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Argent Justice",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "The Gnostic Uprising",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "A Sentence to Suffer",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Human Scum",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Heritage",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Orphan of Blight",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Plaguebreeder",
+      "duration": ""
+    }
+  ],
+  "totalDuration": "00:00",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/7381e35a3a0a7e22d56434968dd2adcf/10741615/distant-heritage-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:39:47.647Z",
+  "updatedAt": "2025-09-12T17:39:47.647Z"
+}

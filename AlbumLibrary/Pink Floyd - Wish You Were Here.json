@@ -1,0 +1,83 @@
+{
+  "fileName": "Pink Floyd - Wish You Were Here.json",
+  "title": "Wish You Were Here",
+  "artist": "Pink Floyd",
+  "releaseDate": "1975-09-12",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Progressive Rock",
+    "Art Rock",
+    "Space Rock"
+  ],
+  "tags": [
+    "melancholic",
+    "progressive",
+    "atmospheric",
+    "male vocalist",
+    "concept album",
+    "introspective",
+    "longing",
+    "serious",
+    "alienation",
+    "bittersweet",
+    "existential",
+    "sentimental",
+    "meditative",
+    "friendship",
+    "complex",
+    "epic",
+    "melodic",
+    "poetic",
+    "lonely",
+    "grief",
+    "psychedelic",
+    "mental health",
+    "nostalgia",
+    "ageing",
+    "bright",
+    "suite",
+    "about music",
+    "greed"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "Shine On You Crazy Diamond (1-5)",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Welcome to the Machine",
+      "duration": ""
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "Have a Cigar",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Wish You Were Here",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Shine On You Crazy Diamond (6-9)",
+      "duration": ""
+    }
+  ],
+  "totalDuration": "00:00",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/439b9503e9599050fda01d8eef4f8097/4184635/pink-floyd-wish-you-were-here-Cover-Art.png",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

@@ -1,0 +1,84 @@
+{
+  "fileName": "King Crimson - In the Court of the Crimson King.json",
+  "title": "In the Court of the Crimson King",
+  "artist": "King Crimson",
+  "releaseDate": "1969-10-10",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Progressive Rock",
+    "Art Rock",
+    "Symphonic Prog",
+    "Jazz-Rock",
+    "Free Improvisation",
+    "Psychedelic Rock"
+  ],
+  "tags": [
+    "fantasy",
+    "epic",
+    "progressive",
+    "complex",
+    "poetic",
+    "male vocalist",
+    "surreal",
+    "philosophical",
+    "melancholic",
+    "technical",
+    "abstract",
+    "improvisation",
+    "lonely",
+    "political",
+    "medieval",
+    "psychedelic",
+    "existential",
+    "atmospheric",
+    "dense",
+    "avant-garde",
+    "passionate",
+    "anxious",
+    "theatrical",
+    "apocalyptic",
+    "war",
+    "maximalist"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "21st Century Schizoid Man (Including 'Mirrors')",
+      "duration": "06:52"
+    },
+    {
+      "type": "track",
+      "title": "I Talk to the Wind",
+      "duration": "05:40"
+    },
+    {
+      "type": "track",
+      "title": "Epitaph (Including 'March for No Reason' and 'Tomorrow and Tomorrow')",
+      "duration": "08:30"
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "Moonchild (Including 'The Dream' and 'The Illusion')",
+      "duration": "12:09"
+    },
+    {
+      "type": "track",
+      "title": "The Court of the Crimson King (Including 'The Return of the Fire Witch' and 'The Dance of the Puppets')",
+      "duration": "08:48"
+    }
+  ],
+  "totalDuration": "41:59",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/3cd976bf3380626a9001dc2f1499037b/11859497/king-crimson-in-the-court-of-the-crimson-king-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

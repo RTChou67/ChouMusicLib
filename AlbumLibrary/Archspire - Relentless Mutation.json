@@ -1,0 +1,74 @@
+{
+  "fileName": "Archspire - Relentless Mutation.json",
+  "title": "Relentless Mutation",
+  "artist": "Archspire",
+  "releaseDate": "2017-09-22",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Technical Death Metal",
+    "Brutal Death Metal",
+    "Neoclassical Metal",
+    "Progressive Metal"
+  ],
+  "tags": [
+    "technical",
+    "aggressive",
+    "heavy",
+    "complex",
+    "science fiction",
+    "male vocalist",
+    "chaotic",
+    "concept album",
+    "manic",
+    "misanthropic",
+    "futuristic",
+    "uncommon time signatures",
+    "melodic",
+    "death",
+    "violence",
+    "ominous"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Involuntary Doppelgänger",
+      "duration": "03:46"
+    },
+    {
+      "type": "track",
+      "title": "Human Murmuration",
+      "duration": "04:13"
+    },
+    {
+      "type": "track",
+      "title": "Remote Tumour Seeker",
+      "duration": "04:01"
+    },
+    {
+      "type": "track",
+      "title": "Relentless Mutation",
+      "duration": "04:35"
+    },
+    {
+      "type": "track",
+      "title": "The Mimic Well",
+      "duration": "04:05"
+    },
+    {
+      "type": "track",
+      "title": "Calamus Will Animate",
+      "duration": "03:50"
+    },
+    {
+      "type": "track",
+      "title": "A Dark Horizontal",
+      "duration": "06:10"
+    }
+  ],
+  "totalDuration": "30:40",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/05cffaad0335f081c506276a65a5f7eb/6588116/archspire-relentless-mutation-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:36:17.715Z",
+  "updatedAt": "2025-09-13T16:36:17.715Z"
+}

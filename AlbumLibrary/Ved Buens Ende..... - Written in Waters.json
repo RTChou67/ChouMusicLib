@@ -1,0 +1,96 @@
+{
+  "fileName": "Ved Buens Ende..... - Written in Waters.json",
+  "title": "Written in Waters",
+  "artist": "Ved Buens Ende.....",
+  "releaseDate": "1995-10-01",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Avant-Garde Metal",
+    "Progressive Metal",
+    "Black Metal",
+    "Black Metal",
+    "Dissonant Black Metal"
+  ],
+  "tags": [
+    "dissonant",
+    "surreal",
+    "progressive",
+    "cryptic",
+    "avant-garde",
+    "uncommon time signatures",
+    "male vocalist",
+    "complex",
+    "atmospheric",
+    "ominous",
+    "sombre",
+    "technical",
+    "poetic",
+    "philosophical",
+    "mysterious",
+    "introspective",
+    "hypnotic",
+    "lonely",
+    "abstract",
+    "psychedelic",
+    "suspenseful",
+    "melancholic",
+    "angular",
+    "anxious",
+    "cold",
+    "theatrical",
+    "heavy"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "I Sang for the Swans",
+      "duration": "07:01"
+    },
+    {
+      "type": "track",
+      "title": "You, That May Wither",
+      "duration": "04:54"
+    },
+    {
+      "type": "track",
+      "title": "It's Magic",
+      "duration": "05:25"
+    },
+    {
+      "type": "track",
+      "title": "Den saakaldte",
+      "duration": "08:49"
+    },
+    {
+      "type": "track",
+      "title": "Carrier of Wounds",
+      "duration": "07:40"
+    },
+    {
+      "type": "track",
+      "title": "Coiled in Wings",
+      "duration": "07:04"
+    },
+    {
+      "type": "track",
+      "title": "Autumn Leaves",
+      "duration": "05:07"
+    },
+    {
+      "type": "track",
+      "title": "Remembrance of Things Past / To Swarm Deserted Away",
+      "duration": "08:54"
+    },
+    {
+      "type": "track",
+      "title": "[hidden track]",
+      "duration": "02:14"
+    }
+  ],
+  "totalDuration": "57:08",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/3cd02d26998849e2f0f4caecee677196/5817272/ved-buens-ende-written-in-waters-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:31:22.231Z",
+  "updatedAt": "2025-09-16T15:31:22.231Z"
+}

@@ -1,0 +1,96 @@
+{
+  "fileName": "Portal - Outre.json",
+  "title": "Outre",
+  "artist": "Portal",
+  "releaseDate": "2007-09-25",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Dissonant Death Metal",
+    "Avant-Garde Metal",
+    "Black Metal",
+    "Noise",
+    "Dissonant Black Metal"
+  ],
+  "tags": [
+    "surreal",
+    "dense",
+    "avant-garde",
+    "scary",
+    "dissonant",
+    "ominous",
+    "disturbing",
+    "noisy",
+    "infernal",
+    "male vocalist",
+    "heavy",
+    "technical",
+    "abstract",
+    "atonal",
+    "ritualistic",
+    "chaotic",
+    "hypnotic",
+    "occult",
+    "atmospheric",
+    "paranormal",
+    "death",
+    "cryptic",
+    "mysterious",
+    "complex",
+    "apocalyptic",
+    "suspenseful",
+    "dark",
+    "nihilistic",
+    "nocturnal",
+    "science fiction",
+    "raw",
+    "horror"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Moil",
+      "duration": "01:35"
+    },
+    {
+      "type": "track",
+      "title": "Abysmill",
+      "duration": "04:46"
+    },
+    {
+      "type": "track",
+      "title": "Heirships",
+      "duration": "06:06"
+    },
+    {
+      "type": "track",
+      "title": "Omnipotent Crawling Chaos",
+      "duration": "05:17"
+    },
+    {
+      "type": "track",
+      "title": "Black Houses",
+      "duration": "05:00"
+    },
+    {
+      "type": "track",
+      "title": "Outre'",
+      "duration": "02:32"
+    },
+    {
+      "type": "track",
+      "title": "13 Globes",
+      "duration": "04:08"
+    },
+    {
+      "type": "track",
+      "title": "Sourlows",
+      "duration": "07:18"
+    }
+  ],
+  "totalDuration": "36:42",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/4679f04ba66e18cd6fb423ca01984a31/2701433/portal-outre-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:36:30.908Z",
+  "updatedAt": "2025-09-16T15:36:30.908Z"
+}

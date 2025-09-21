@@ -1,0 +1,96 @@
+{
+  "fileName": "Nocturnus - The Key.json",
+  "title": "The Key",
+  "artist": "Nocturnus",
+  "releaseDate": "1990-08-01",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Technical Death Metal",
+    "Death Metal",
+    "Technical Thrash Metal"
+  ],
+  "tags": [
+    "science fiction",
+    "energetic",
+    "futuristic",
+    "complex",
+    "aggressive",
+    "technical",
+    "space",
+    "dark",
+    "anti-religious",
+    "rhythmic",
+    "epic",
+    "heavy",
+    "concept album",
+    "progressive",
+    "occult",
+    "infernal",
+    "uncommon time signatures",
+    "cryptic",
+    "chaotic",
+    "violence",
+    "male vocalist",
+    "apocalyptic",
+    "melodic",
+    "atmospheric"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Lake of Fire",
+      "duration": "05:04"
+    },
+    {
+      "type": "track",
+      "title": "Standing in Blood",
+      "duration": "04:19"
+    },
+    {
+      "type": "track",
+      "title": "Visions From Beyond the Grave",
+      "duration": "04:09"
+    },
+    {
+      "type": "track",
+      "title": "Neolithic",
+      "duration": "04:50"
+    },
+    {
+      "type": "track",
+      "title": "Undead Journey [bonus track]",
+      "duration": "04:16"
+    },
+    {
+      "type": "track",
+      "title": "BC/AD",
+      "duration": "04:56"
+    },
+    {
+      "type": "track",
+      "title": "Andromeda Strain",
+      "duration": "03:42"
+    },
+    {
+      "type": "track",
+      "title": "Droid Sector",
+      "duration": "04:21"
+    },
+    {
+      "type": "track",
+      "title": "Destroying the Manger",
+      "duration": "06:08"
+    },
+    {
+      "type": "track",
+      "title": "Empire of the Sands",
+      "duration": "06:26"
+    }
+  ],
+  "totalDuration": "48:11",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/fc285b32f48d28bb41b6e12fd7263899/12378928/nocturnus-the-key-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:34:02.102Z",
+  "updatedAt": "2025-09-13T16:34:02.102Z"
+}

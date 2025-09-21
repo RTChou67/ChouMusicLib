@@ -1,0 +1,83 @@
+{
+  "fileName": "Yes - Close to the Edge.json",
+  "title": "Close to the Edge",
+  "artist": "Yes",
+  "releaseDate": "1972-09-13",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Symphonic Prog",
+    "Progressive Rock"
+  ],
+  "tags": [
+    "epic",
+    "uplifting",
+    "complex",
+    "technical",
+    "progressive",
+    "male vocalist",
+    "fantasy",
+    "lush",
+    "uncommon time signatures",
+    "melodic",
+    "poetic",
+    "optimistic",
+    "philosophical",
+    "triumphant",
+    "atmospheric",
+    "polyphonic",
+    "nature",
+    "spring",
+    "longing",
+    "happy",
+    "warm",
+    "passionate",
+    "suite",
+    "spiritual",
+    "energetic",
+    "ethereal",
+    "psychedelic",
+    "cryptic",
+    "existential",
+    "dense",
+    "love",
+    "maximalist",
+    "peaceful",
+    "Buddhist",
+    "hypnotic",
+    "mysterious",
+    "literature",
+    "theatrical",
+    "bright",
+    "pastoral",
+    "soothing",
+    "bittersweet",
+    "angular"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Close to the Edge",
+      "duration": "18:12"
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "And You and I",
+      "duration": "10:40"
+    },
+    {
+      "type": "track",
+      "title": "Siberian Khatru",
+      "duration": "09:50"
+    }
+  ],
+  "totalDuration": "38:42",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/68e64cb7bbfcef015d8b41ae820dd5d7/11166648/yes-close-to-the-edge-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

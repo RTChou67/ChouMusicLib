@@ -1,0 +1,73 @@
+{
+  "fileName": "Kardashev - Alunea.json",
+  "title": "Alunea",
+  "artist": "Kardashev",
+  "releaseDate": "2025-04-25",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Post-Metal",
+    "Progressive Metal",
+    "Blackgaze",
+    "Deathcore"
+  ],
+  "tags": [
+    "male vocalist",
+    "melancholic",
+    "dense",
+    "atmospheric",
+    "heavy",
+    "uncommon time signatures",
+    "complex",
+    "progressive",
+    "ethereal",
+    "bright"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "A Precipice. A Door.",
+      "duration": "05:00"
+    },
+    {
+      "type": "track",
+      "title": "Reunion",
+      "duration": "04:53"
+    },
+    {
+      "type": "track",
+      "title": "Seed of the Night",
+      "duration": "05:19"
+    },
+    {
+      "type": "track",
+      "title": "Speak Silence",
+      "duration": "05:02"
+    },
+    {
+      "type": "track",
+      "title": "Truth to Form",
+      "duration": "05:23"
+    },
+    {
+      "type": "track",
+      "title": "Edge of Forever",
+      "duration": "05:24"
+    },
+    {
+      "type": "track",
+      "title": "We Could Fold the Stars",
+      "duration": "05:09"
+    },
+    {
+      "type": "track",
+      "title": "Below Sun & Soil",
+      "duration": "06:00"
+    }
+  ],
+  "totalDuration": "42:10",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/f5e89ef0b307c4d8afb7c823287581b9/13079697/kardashev-alunea-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:49:53.971Z",
+  "updatedAt": "2025-09-13T16:49:53.971Z"
+}

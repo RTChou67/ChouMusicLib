@@ -1,0 +1,72 @@
+{
+  "fileName": "Exuvial - The Hive Mind Chronicles Part I - Parasitica.json",
+  "title": "The Hive Mind Chronicles Part I - Parasitica",
+  "artist": "Exuvial",
+  "releaseDate": "2024-11-22",
+  "albumFormat": "Full-length",
+  "rating": 0,
+  "styles": [],
+  "tags": [],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Hive Mind Overture",
+      "duration": "00:54"
+    },
+    {
+      "type": "track",
+      "title": "Hive Mind I: Convergent Evolution",
+      "duration": "05:43"
+    },
+    {
+      "type": "track",
+      "title": "Hive Mind II: Advent of Segmentation",
+      "duration": "07:53"
+    },
+    {
+      "type": "track",
+      "title": "Hive Mind III: Neural Convolution",
+      "duration": "04:41"
+    },
+    {
+      "type": "track",
+      "title": "Holometabolous",
+      "duration": "05:29"
+    },
+    {
+      "type": "track",
+      "title": "Hypermanipulation",
+      "duration": "08:54"
+    },
+    {
+      "type": "track",
+      "title": "Autonomic Awakening",
+      "duration": "06:46"
+    },
+    {
+      "type": "track",
+      "title": "Parasitica",
+      "duration": "05:18"
+    },
+    {
+      "type": "track",
+      "title": "Subterranean Swarm",
+      "duration": "06:09"
+    },
+    {
+      "type": "track",
+      "title": "Requiem for Ruin",
+      "duration": "01:06"
+    },
+    {
+      "type": "track",
+      "title": "Necrotic Dissolution",
+      "duration": "05:44"
+    }
+  ],
+  "totalDuration": "58:37",
+  "notes": "",
+  "coverData": "https://www.metal-archives.com/images/1/2/5/9/1259846.jpg?2825",
+  "createdAt": "2025-09-12T18:03:20.819Z",
+  "updatedAt": "2025-09-12T18:03:20.819Z"
+}

@@ -1,0 +1,102 @@
+{
+  "fileName": "Equipoise - Demiurgus.json",
+  "title": "Demiurgus",
+  "artist": "Equipoise",
+  "releaseDate": "2019-03-08",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Technical Death Metal",
+    "Progressive Metal",
+    "Progressive Metal",
+    "Flamenco nuevo"
+  ],
+  "tags": [
+    "male vocalist",
+    "complex",
+    "technical",
+    "energetic",
+    "heavy",
+    "progressive",
+    "science fiction",
+    "epic",
+    "melodic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Illborn Augury",
+      "duration": "02:34"
+    },
+    {
+      "type": "track",
+      "title": "Sovereign Sacrifices",
+      "duration": "04:49"
+    },
+    {
+      "type": "track",
+      "title": "Alchemic Web of Deceit",
+      "duration": "04:09"
+    },
+    {
+      "type": "track",
+      "title": "A Suit of My Flesh",
+      "duration": "04:54"
+    },
+    {
+      "type": "track",
+      "title": "Shrouded",
+      "duration": "01:38"
+    },
+    {
+      "type": "track",
+      "title": "Sigil Insidious",
+      "duration": "05:09"
+    },
+    {
+      "type": "track",
+      "title": "Reincarnated",
+      "duration": "02:45"
+    },
+    {
+      "type": "track",
+      "title": "Dualis Flamel",
+      "duration": "08:25"
+    },
+    {
+      "type": "track",
+      "title": "Eve of the Promised Day",
+      "duration": "02:56"
+    },
+    {
+      "type": "track",
+      "title": "Waking Divinity",
+      "duration": "05:23"
+    },
+    {
+      "type": "track",
+      "title": "Ecliptic",
+      "duration": "01:27"
+    },
+    {
+      "type": "track",
+      "title": "Squall of Souls",
+      "duration": "05:44"
+    },
+    {
+      "type": "track",
+      "title": "Cast Into Exile",
+      "duration": "08:08"
+    },
+    {
+      "type": "track",
+      "title": "Ouroboric",
+      "duration": "05:35"
+    }
+  ],
+  "totalDuration": "01:03:36",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/cec4dabb935a53d6ed866889468d927d/7394917/equipoise-demiurgus-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:41:55.994Z",
+  "updatedAt": "2025-09-12T17:41:55.994Z"
+}

@@ -1,0 +1,134 @@
+{
+  "fileName": "Ween - The Mollusk.json",
+  "title": "The Mollusk",
+  "artist": "Ween",
+  "releaseDate": "1997-06-24",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Neo-Psychedelia",
+    "Art Rock",
+    "Sea Shanty",
+    "Psychedelic Rock",
+    "Psychedelic Pop",
+    "Experimental Rock",
+    "Psychedelic Folk",
+    "Comedy Rock",
+    "Alternative Rock",
+    "Progressive Rock"
+  ],
+  "tags": [
+    "aquatic",
+    "playful",
+    "humorous",
+    "psychedelic",
+    "eclectic",
+    "surreal",
+    "quirky",
+    "male vocalist",
+    "melodic",
+    "fantasy",
+    "concept album",
+    "progressive",
+    "summer",
+    "bittersweet",
+    "atmospheric",
+    "warm",
+    "drugs",
+    "lush",
+    "love",
+    "cryptic",
+    "sentimental",
+    "abstract",
+    "poetic",
+    "alcohol",
+    "epic",
+    "animals",
+    "pirates",
+    "pastiche",
+    "beach",
+    "mysterious",
+    "theatrical",
+    "folklore",
+    "maximalist",
+    "uplifting",
+    "hallucinogens"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "I'm Dancing in the Show Tonight",
+      "duration": "01:57"
+    },
+    {
+      "type": "track",
+      "title": "The Mollusk",
+      "duration": "02:39"
+    },
+    {
+      "type": "track",
+      "title": "Polka Dot Tail",
+      "duration": "03:21"
+    },
+    {
+      "type": "track",
+      "title": "I'll Be Your Jonny on the Spot",
+      "duration": "02:02"
+    },
+    {
+      "type": "track",
+      "title": "Mutilated Lips",
+      "duration": "03:50"
+    },
+    {
+      "type": "track",
+      "title": "The Blarney Stone",
+      "duration": "03:16"
+    },
+    {
+      "type": "track",
+      "title": "It's Gonna Be (Alright)",
+      "duration": "03:20"
+    },
+    {
+      "type": "track",
+      "title": "The Golden Eel",
+      "duration": "04:05"
+    },
+    {
+      "type": "track",
+      "title": "Cold Blows the Wind",
+      "duration": "04:29"
+    },
+    {
+      "type": "track",
+      "title": "Pink Eye (On My Leg)",
+      "duration": "03:14"
+    },
+    {
+      "type": "track",
+      "title": "Waving My Dick in the Wind",
+      "duration": "02:13"
+    },
+    {
+      "type": "track",
+      "title": "Buckingham Green",
+      "duration": "03:20"
+    },
+    {
+      "type": "track",
+      "title": "Ocean Man",
+      "duration": "02:09"
+    },
+    {
+      "type": "track",
+      "title": "She Wanted to Leave / (Reprise)",
+      "duration": "04:25"
+    }
+  ],
+  "totalDuration": "44:20",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/8110ebe9b2e04c7236b58ef44d153cb1/13648474/ween-the-mollusk-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:34:19.078Z",
+  "updatedAt": "2025-09-12T17:34:19.078Z"
+}

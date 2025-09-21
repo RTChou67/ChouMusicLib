@@ -1,0 +1,104 @@
+{
+  "fileName": "Northlane - Obsidian.json",
+  "title": "Obsidian",
+  "artist": "Northlane",
+  "releaseDate": "2022-04-22",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Alternative Metal",
+    "Industrial Metal",
+    "Cyber Metal",
+    "Djent",
+    "Metalcore",
+    "Cyber Metal"
+  ],
+  "tags": [
+    "futuristic",
+    "mechanical",
+    "male vocalist",
+    "atmospheric",
+    "heavy",
+    "nocturnal",
+    "passionate",
+    "introspective",
+    "aggressive",
+    "melodic",
+    "alienation",
+    "eclectic",
+    "anxious",
+    "dark"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Clarity",
+      "duration": "05:53"
+    },
+    {
+      "type": "track",
+      "title": "Clockwork",
+      "duration": "03:58"
+    },
+    {
+      "type": "track",
+      "title": "Echo Chamber",
+      "duration": "03:48"
+    },
+    {
+      "type": "track",
+      "title": "Carbonized",
+      "duration": "03:46"
+    },
+    {
+      "type": "track",
+      "title": "Abomination",
+      "duration": "04:10"
+    },
+    {
+      "type": "track",
+      "title": "Plenty",
+      "duration": "03:41"
+    },
+    {
+      "type": "track",
+      "title": "Is This a Test?",
+      "duration": "03:30"
+    },
+    {
+      "type": "track",
+      "title": "Xen",
+      "duration": "05:48"
+    },
+    {
+      "type": "track",
+      "title": "Cypher",
+      "duration": "04:37"
+    },
+    {
+      "type": "track",
+      "title": "Nova",
+      "duration": "04:28"
+    },
+    {
+      "type": "track",
+      "title": "Inamorata",
+      "duration": "03:51"
+    },
+    {
+      "type": "track",
+      "title": "Obsidian",
+      "duration": "03:57"
+    },
+    {
+      "type": "track",
+      "title": "Dark Solitaire",
+      "duration": "04:55"
+    }
+  ],
+  "totalDuration": "56:22",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/4eb27ec88422f9987d97114d0332eede/9838523/northlane-obsidian-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:44:06.312Z",
+  "updatedAt": "2025-09-13T16:44:06.312Z"
+}

@@ -1,0 +1,82 @@
+{
+  "fileName": "The Browning - OMNI.json",
+  "title": "OMNI",
+  "artist": "The Browning",
+  "releaseDate": "2024-11-08",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Electronicore",
+    "Deathcore",
+    "Djent",
+    "Thall"
+  ],
+  "tags": [
+    "aggressive",
+    "male vocalist",
+    "futuristic",
+    "mechanical",
+    "atmospheric",
+    "dense",
+    "dark",
+    "science fiction",
+    "heavy"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Wake Up",
+      "duration": "01:11"
+    },
+    {
+      "type": "track",
+      "title": "Hivemind",
+      "duration": "03:12"
+    },
+    {
+      "type": "track",
+      "title": "Fed Up",
+      "duration": "03:04"
+    },
+    {
+      "type": "track",
+      "title": "MISERY.exe",
+      "duration": "02:22"
+    },
+    {
+      "type": "track",
+      "title": "OMNI",
+      "duration": "03:43"
+    },
+    {
+      "type": "track",
+      "title": "Deceiver",
+      "duration": "03:13"
+    },
+    {
+      "type": "track",
+      "title": "Apollo",
+      "duration": "02:32"
+    },
+    {
+      "type": "track",
+      "title": "Poison",
+      "duration": "03:10"
+    },
+    {
+      "type": "track",
+      "title": "Come to Grips With Death and the End",
+      "duration": "01:28"
+    },
+    {
+      "type": "track",
+      "title": "Soul Drift",
+      "duration": "02:47"
+    }
+  ],
+  "totalDuration": "26:42",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/1c2636e3d8090d0c728f2d3f7c22ebe0/12694022/the-browning-omni-Cover-Art.jpg",
+  "createdAt": "2025-09-12T18:02:22.987Z",
+  "updatedAt": "2025-09-12T18:02:22.987Z"
+}

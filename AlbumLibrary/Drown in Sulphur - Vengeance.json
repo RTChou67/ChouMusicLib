@@ -1,0 +1,78 @@
+{
+  "fileName": "Drown in Sulphur - Vengeance.json",
+  "title": "Vengeance",
+  "artist": "Drown in Sulphur",
+  "releaseDate": "2025-01-17",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Deathcore",
+    "Melodic Black Metal"
+  ],
+  "tags": [
+    "heavy",
+    "dark",
+    "aggressive",
+    "ominous",
+    "apocalyptic",
+    "rhythmic",
+    "male vocalist"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Underworld",
+      "duration": "00:32"
+    },
+    {
+      "type": "track",
+      "title": "Faithless",
+      "duration": "04:25"
+    },
+    {
+      "type": "track",
+      "title": "Vengeance",
+      "duration": "02:32"
+    },
+    {
+      "type": "track",
+      "title": "Seed of Hate",
+      "duration": "03:41"
+    },
+    {
+      "type": "track",
+      "title": "Silence",
+      "duration": "04:54"
+    },
+    {
+      "type": "track",
+      "title": "Scarlet Rain",
+      "duration": "03:45"
+    },
+    {
+      "type": "track",
+      "title": "Veil of Deception",
+      "duration": "04:06"
+    },
+    {
+      "type": "track",
+      "title": "Absentia",
+      "duration": "04:04"
+    },
+    {
+      "type": "track",
+      "title": "Morningstar",
+      "duration": "04:27"
+    },
+    {
+      "type": "track",
+      "title": "Inferno",
+      "duration": "05:20"
+    }
+  ],
+  "totalDuration": "37:46",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/9d289de94be23ffc293c71127d219e33/12919717/drown-in-sulphur-vengeance-Cover-Art.png",
+  "createdAt": "2025-09-13T17:02:22.117Z",
+  "updatedAt": "2025-09-13T17:02:22.117Z"
+}

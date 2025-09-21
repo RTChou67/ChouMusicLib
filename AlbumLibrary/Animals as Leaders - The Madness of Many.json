@@ -1,0 +1,73 @@
+{
+  "fileName": "",
+  "title": "The Madness of Many",
+  "artist": "Animals as Leaders",
+  "releaseDate": "2016-11-11",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Progressive Metal",
+    "Djent"
+  ],
+  "tags": [
+    "instrumental",
+    "technical"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Arithmophobia",
+      "duration": "06:01"
+    },
+    {
+      "type": "track",
+      "title": "Ectogenesis",
+      "duration": "04:56"
+    },
+    {
+      "type": "track",
+      "title": "Cognitive Contortions",
+      "duration": "04:29"
+    },
+    {
+      "type": "track",
+      "title": "Inner Assassins",
+      "duration": "05:30"
+    },
+    {
+      "type": "track",
+      "title": "Private Visions of the World",
+      "duration": "04:57"
+    },
+    {
+      "type": "track",
+      "title": "Backpfeifengesicht",
+      "duration": "04:27"
+    },
+    {
+      "type": "track",
+      "title": "Transcentience",
+      "duration": "05:32"
+    },
+    {
+      "type": "track",
+      "title": "The Glass Bridge",
+      "duration": "05:04"
+    },
+    {
+      "type": "track",
+      "title": "The Brain Dance",
+      "duration": "07:01"
+    },
+    {
+      "type": "track",
+      "title": "Apeirophobia",
+      "duration": "04:59"
+    }
+  ],
+  "totalDuration": "52:56",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/46f9a9eb52d662b84aaa6204e8e75a41/6281684/animals-as-leaders-the-madness-of-many-Cover-Art.jpg",
+  "createdAt": "",
+  "updatedAt": "2025-09-16T16:31:33.542Z"
+}

@@ -1,0 +1,70 @@
+{
+  "fileName": "Puissance - Grace of God.json",
+  "title": "Grace of God",
+  "artist": "Puissance",
+  "releaseDate": "2007-01-31",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Martial Industrial",
+    "Neoclassical Darkwave"
+  ],
+  "tags": [
+    "war",
+    "rhythmic",
+    "misanthropic",
+    "orchestral",
+    "male vocalist",
+    "religious",
+    "epic",
+    "dark",
+    "martial"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Grace of God",
+      "duration": "05:17"
+    },
+    {
+      "type": "track",
+      "title": "Stance",
+      "duration": "04:22"
+    },
+    {
+      "type": "track",
+      "title": "Walls of Freedom",
+      "duration": "05:37"
+    },
+    {
+      "type": "track",
+      "title": "Warzone",
+      "duration": "05:38"
+    },
+    {
+      "type": "track",
+      "title": "In Death",
+      "duration": "04:26"
+    },
+    {
+      "type": "track",
+      "title": "Conspiracy",
+      "duration": "05:13"
+    },
+    {
+      "type": "track",
+      "title": "Brittle",
+      "duration": "06:06"
+    },
+    {
+      "type": "track",
+      "title": "Loreto",
+      "duration": "05:41"
+    }
+  ],
+  "totalDuration": "42:20",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/4dfe1289dd283e48dbc96c2cdd3d1d4c/1813833/puissance-grace-of-god-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

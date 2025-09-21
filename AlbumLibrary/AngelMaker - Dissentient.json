@@ -1,0 +1,71 @@
+{
+  "fileName": "",
+  "title": "Dissentient",
+  "artist": "AngelMaker",
+  "releaseDate": "2015-02-25",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Deathcore"
+  ],
+  "tags": [
+    "Brutal"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Godless",
+      "duration": "03:12"
+    },
+    {
+      "type": "track",
+      "title": "No Haven",
+      "duration": "02:07"
+    },
+    {
+      "type": "track",
+      "title": "A Dark Omen",
+      "duration": "04:10"
+    },
+    {
+      "type": "track",
+      "title": "E.L.E.",
+      "duration": "03:53"
+    },
+    {
+      "type": "track",
+      "title": "Dissentient",
+      "duration": "04:29"
+    },
+    {
+      "type": "track",
+      "title": "Citadel",
+      "duration": "05:22"
+    },
+    {
+      "type": "track",
+      "title": "Shia LaBeouf",
+      "duration": "03:32"
+    },
+    {
+      "type": "track",
+      "title": "Into Oblivion",
+      "duration": "03:33"
+    },
+    {
+      "type": "track",
+      "title": "Abysmal",
+      "duration": "03:36"
+    },
+    {
+      "type": "track",
+      "title": "Leech",
+      "duration": "04:45"
+    }
+  ],
+  "totalDuration": "38:39",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/f82c4c5ace0032f4f264dd0bab39fefc/5600537/angelmaker-dissentient-Cover-Art.jpg",
+  "createdAt": "",
+  "updatedAt": "2025-09-16T16:30:52.418Z"
+}

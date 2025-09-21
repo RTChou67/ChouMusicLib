@@ -1,0 +1,83 @@
+{
+  "fileName": "Alcest - Souvenirs d'un autre monde.json",
+  "title": "Souvenirs d'un autre monde",
+  "artist": "Alcest",
+  "releaseDate": "2007-08-06",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Shoegaze",
+    "Post-Metal",
+    "Blackgaze",
+    "Post-Rock",
+    "Blackgaze",
+    "Dream Pop"
+  ],
+  "tags": [
+    "melancholic",
+    "ethereal",
+    "atmospheric",
+    "soothing",
+    "forest",
+    "spring",
+    "sentimental",
+    "male vocalist",
+    "lush",
+    "poetic",
+    "peaceful",
+    "dense",
+    "warm",
+    "pastoral",
+    "melodic",
+    "bittersweet",
+    "passionate",
+    "fantasy",
+    "calm",
+    "uplifting",
+    "cryptic",
+    "nature",
+    "longing",
+    "androgynous vocals",
+    "childhood",
+    "female vocalist",
+    "nostalgia",
+    "bright"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Printemps emeraude",
+      "duration": "07:19"
+    },
+    {
+      "type": "track",
+      "title": "Souvenirs d'un autre monde",
+      "duration": "06:08"
+    },
+    {
+      "type": "track",
+      "title": "Les iris",
+      "duration": "07:41"
+    },
+    {
+      "type": "track",
+      "title": "Ciel errant",
+      "duration": "07:12"
+    },
+    {
+      "type": "track",
+      "title": "Sur l'autre rive je t'attendrai",
+      "duration": "06:50"
+    },
+    {
+      "type": "track",
+      "title": "Tir nan Og",
+      "duration": "06:10"
+    }
+  ],
+  "totalDuration": "41:20",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/98f9e5f3def8bdcc9903de131a00481a/11596592/alcest-souvenirs-dun-autre-monde-Cover-Art.png",
+  "createdAt": "2025-09-16T16:07:48.889Z",
+  "updatedAt": "2025-09-16T16:07:48.889Z"
+}

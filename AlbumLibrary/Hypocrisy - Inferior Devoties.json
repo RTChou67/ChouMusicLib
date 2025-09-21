@@ -1,0 +1,49 @@
+{
+  "fileName": "Hypocrisy - Inferior Devoties.json",
+  "title": "Inferior Devoties",
+  "artist": "Hypocrisy",
+  "releaseDate": "1994-01-01",
+  "albumFormat": "EP",
+  "rating": 0,
+  "styles": [
+    "Death Metal"
+  ],
+  "tags": [
+    "anti-religious",
+    "dark",
+    "occult",
+    "male vocalist"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Inferior Devoties",
+      "duration": "04:46"
+    },
+    {
+      "type": "track",
+      "title": "Symbol of Baphomet",
+      "duration": "02:58"
+    },
+    {
+      "type": "track",
+      "title": "Mental Emotions",
+      "duration": "03:15"
+    },
+    {
+      "type": "track",
+      "title": "God Is a Lie",
+      "duration": "03:00"
+    },
+    {
+      "type": "track",
+      "title": "Black Magic",
+      "duration": "03:22"
+    }
+  ],
+  "totalDuration": "17:21",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/b77c3fbbc6c2642c9e2d4f517526b36c/1738383/hypocrisy-inferior-devoties-Cover-Art.jpg",
+  "createdAt": "2025-09-13T17:01:44.662Z",
+  "updatedAt": "2025-09-13T17:01:44.662Z"
+}

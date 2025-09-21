@@ -1,0 +1,162 @@
+{
+  "fileName": "John Zorn - Bar Kokhba.json",
+  "title": "Bar Kokhba",
+  "artist": "John Zorn",
+  "releaseDate": "1996-08-20",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Chamber Jazz",
+    "Jewish Music",
+    "Klezmer",
+    "Avant-Garde Jazz"
+  ],
+  "tags": [
+    "instrumental",
+    "chamber music",
+    "melancholic",
+    "Judaic",
+    "improvisation",
+    "mysterious",
+    "playful",
+    "spiritual",
+    "avant-garde",
+    "desert",
+    "suspenseful",
+    "progressive",
+    "warm",
+    "melodic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Gevurah",
+      "duration": "06:55"
+    },
+    {
+      "type": "track",
+      "title": "Nezikin",
+      "duration": "01:51"
+    },
+    {
+      "type": "track",
+      "title": "Mahshav",
+      "duration": "04:33"
+    },
+    {
+      "type": "track",
+      "title": "Rokhev",
+      "duration": "03:10"
+    },
+    {
+      "type": "track",
+      "title": "Abidan",
+      "duration": "05:19"
+    },
+    {
+      "type": "track",
+      "title": "Sheloshim",
+      "duration": "05:03"
+    },
+    {
+      "type": "track",
+      "title": "Hath-Arob",
+      "duration": "02:25"
+    },
+    {
+      "type": "track",
+      "title": "Paran",
+      "duration": "04:48"
+    },
+    {
+      "type": "track",
+      "title": "Mahlah",
+      "duration": "07:48"
+    },
+    {
+      "type": "track",
+      "title": "Socoh",
+      "duration": "04:07"
+    },
+    {
+      "type": "track",
+      "title": "Yechida",
+      "duration": "08:24"
+    },
+    {
+      "type": "track",
+      "title": "Bikkurim",
+      "duration": "03:25"
+    },
+    {
+      "type": "track",
+      "title": "Idalah-Abal",
+      "duration": "05:04"
+    },
+    {
+      "type": "track",
+      "title": "Tannaim",
+      "duration": "04:39"
+    },
+    {
+      "type": "track",
+      "title": "Nefesh",
+      "duration": "03:33"
+    },
+    {
+      "type": "track",
+      "title": "Abidan",
+      "duration": "03:13"
+    },
+    {
+      "type": "track",
+      "title": "Mo'ed",
+      "duration": "04:59"
+    },
+    {
+      "type": "track",
+      "title": "Maskil",
+      "duration": "04:41"
+    },
+    {
+      "type": "track",
+      "title": "Mishpatim",
+      "duration": "06:46"
+    },
+    {
+      "type": "track",
+      "title": "Sansanah",
+      "duration": "06:56"
+    },
+    {
+      "type": "track",
+      "title": "Shear-Jashub",
+      "duration": "02:06"
+    },
+    {
+      "type": "track",
+      "title": "Mahshav",
+      "duration": "04:50"
+    },
+    {
+      "type": "track",
+      "title": "Sheloshim",
+      "duration": "06:45"
+    },
+    {
+      "type": "track",
+      "title": "Mochin",
+      "duration": "13:11"
+    },
+    {
+      "type": "track",
+      "title": "Karaim",
+      "duration": "03:39"
+    }
+  ],
+  "totalDuration": "02:08:10",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/47bcd447e39cdfe6cc8e84ac25a8d19a/2240433/john-zorn-bar-kokhba-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:17:29.794Z",
+  "updatedAt": "2025-09-13T16:17:29.794Z"
+}

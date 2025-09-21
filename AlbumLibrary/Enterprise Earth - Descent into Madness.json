@@ -1,0 +1,58 @@
+{
+  "fileName": "Enterprise Earth - Descent into Madness.json",
+  "title": "Descent into Madness",
+  "artist": "Enterprise Earth",
+  "releaseDate": "2025-01-30",
+  "albumFormat": "EP",
+  "rating": 0,
+  "styles": [
+    "Deathcore",
+    "Djent",
+    "Downtempo Deathcore"
+  ],
+  "tags": [
+    "heavy",
+    "male vocalist",
+    "dense",
+    "rhythmic",
+    "aggressive",
+    "angry"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "I. the Descent",
+      "duration": "03:46"
+    },
+    {
+      "type": "track",
+      "title": "II. Words in Whispers",
+      "duration": "03:13"
+    },
+    {
+      "type": "track",
+      "title": "III. Shadows Below",
+      "duration": "04:22"
+    },
+    {
+      "type": "track",
+      "title": "IV. Chasms of Hell",
+      "duration": "05:53"
+    },
+    {
+      "type": "track",
+      "title": "V. Enough.",
+      "duration": "01:45"
+    },
+    {
+      "type": "track",
+      "title": "VI. Shapeshifter",
+      "duration": "05:13"
+    }
+  ],
+  "totalDuration": "24:12",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/9835c033953ec794ec658d8db47d1a99/12986620/enterprise-earth-descent-into-madness-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:49:37.868Z",
+  "updatedAt": "2025-09-13T16:49:37.868Z"
+}

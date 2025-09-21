@@ -1,0 +1,75 @@
+{
+  "fileName": "Oceano - Living Chaos.json",
+  "title": "Living Chaos",
+  "artist": "Oceano",
+  "releaseDate": "2024-08-30",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Deathcore",
+    "Djent"
+  ],
+  "tags": [
+    "heavy",
+    "aggressive",
+    "ominous",
+    "atmospheric",
+    "male vocalist",
+    "rhythmic",
+    "apocalyptic",
+    "death",
+    "dense"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Wasted Life",
+      "duration": "03:22"
+    },
+    {
+      "type": "track",
+      "title": "Mass Produced",
+      "duration": "03:33"
+    },
+    {
+      "type": "track",
+      "title": "Darkness Rising",
+      "duration": "04:07"
+    },
+    {
+      "type": "track",
+      "title": "Into the Flames",
+      "duration": "02:56"
+    },
+    {
+      "type": "track",
+      "title": "Wounds Never Healed",
+      "duration": "04:22"
+    },
+    {
+      "type": "track",
+      "title": "Interlude",
+      "duration": "02:38"
+    },
+    {
+      "type": "track",
+      "title": "The Price of Pain",
+      "duration": "03:40"
+    },
+    {
+      "type": "track",
+      "title": "Living Chaos",
+      "duration": "02:47"
+    },
+    {
+      "type": "track",
+      "title": "Broken Curse",
+      "duration": "05:13"
+    }
+  ],
+  "totalDuration": "32:38",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/ef1a1a7b13bcb5795c5aacc2d85c1e50/12468918/oceano-living-chaos-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:55:51.359Z",
+  "updatedAt": "2025-09-12T17:55:51.359Z"
+}

@@ -1,0 +1,90 @@
+{
+  "fileName": "Periphery - Periphery III_ Select Difficulty.json",
+  "title": "Periphery III: Select Difficulty",
+  "artist": "Periphery",
+  "releaseDate": "2016-07-22",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Djent",
+    "Progressive Metal",
+    "Metalcore"
+  ],
+  "tags": [
+    "heavy",
+    "complex",
+    "male vocalist",
+    "technical",
+    "energetic",
+    "uncommon time signatures",
+    "progressive",
+    "passionate",
+    "melodic",
+    "aggressive",
+    "mechanical",
+    "dense",
+    "polyrhythmic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "The Price Is Wrong",
+      "duration": "03:56"
+    },
+    {
+      "type": "track",
+      "title": "Motormouth",
+      "duration": "04:50"
+    },
+    {
+      "type": "track",
+      "title": "Marigold",
+      "duration": "07:19"
+    },
+    {
+      "type": "track",
+      "title": "The Way the News Goes...",
+      "duration": "05:03"
+    },
+    {
+      "type": "track",
+      "title": "Remain Indoors",
+      "duration": "06:10"
+    },
+    {
+      "type": "track",
+      "title": "Habitual Line-Stepper",
+      "duration": "06:52"
+    },
+    {
+      "type": "track",
+      "title": "Flatline",
+      "duration": "05:50"
+    },
+    {
+      "type": "track",
+      "title": "Absolomb",
+      "duration": "07:43"
+    },
+    {
+      "type": "track",
+      "title": "Catch Fire",
+      "duration": "03:53"
+    },
+    {
+      "type": "track",
+      "title": "Prayer Position",
+      "duration": "04:36"
+    },
+    {
+      "type": "track",
+      "title": "Lune",
+      "duration": "07:47"
+    }
+  ],
+  "totalDuration": "01:03:59",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/04705d25205d9fbf1759d5e32629857b/6127410/periphery-periphery-iii-select-difficulty-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

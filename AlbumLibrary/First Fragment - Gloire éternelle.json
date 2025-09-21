@@ -1,0 +1,67 @@
+{
+  "fileName": "First Fragment - Gloire éternelle.json",
+  "title": "Gloire éternelle",
+  "artist": "First Fragment",
+  "releaseDate": "2021-10-29",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [],
+  "tags": [],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Gloire éternelle",
+      "duration": "08:41"
+    },
+    {
+      "type": "track",
+      "title": "Solus",
+      "duration": "04:35"
+    },
+    {
+      "type": "track",
+      "title": "La veuve et le martyr",
+      "duration": "05:37"
+    },
+    {
+      "type": "track",
+      "title": "Pantheum",
+      "duration": "04:36"
+    },
+    {
+      "type": "track",
+      "title": "De chair et de haine",
+      "duration": "09:03"
+    },
+    {
+      "type": "track",
+      "title": "Sonata en mi mineur",
+      "duration": "05:45"
+    },
+    {
+      "type": "track",
+      "title": "Ataraxie",
+      "duration": "05:16"
+    },
+    {
+      "type": "track",
+      "title": "Soif brûlante",
+      "duration": "06:53"
+    },
+    {
+      "type": "track",
+      "title": "In'el",
+      "duration": "18:54"
+    },
+    {
+      "type": "track",
+      "title": "Mort éphémère",
+      "duration": "02:08"
+    }
+  ],
+  "totalDuration": "01:11:28",
+  "notes": "",
+  "coverData": "https://www.metal-archives.com/images/9/5/7/8/957831.jpg?0726",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

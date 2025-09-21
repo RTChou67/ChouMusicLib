@@ -1,0 +1,86 @@
+{
+  "fileName": "Megadeth - Rust in Peace.json",
+  "title": "Rust in Peace",
+  "artist": "Megadeth",
+  "releaseDate": "1990-09-21",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Thrash Metal",
+    "Technical Thrash Metal",
+    "Heavy Metal"
+  ],
+  "tags": [
+    "energetic",
+    "technical",
+    "political",
+    "war",
+    "male vocalist",
+    "aggressive",
+    "heavy",
+    "complex",
+    "apocalyptic",
+    "progressive",
+    "angry",
+    "conscious",
+    "melodic",
+    "rhythmic",
+    "epic",
+    "science fiction",
+    "dystopian",
+    "conspiracy",
+    "futuristic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Holy Wars... The Punishment Due",
+      "duration": "06:36"
+    },
+    {
+      "type": "track",
+      "title": "Hangar 18",
+      "duration": "05:14"
+    },
+    {
+      "type": "track",
+      "title": "Take No Prisoners",
+      "duration": "03:28"
+    },
+    {
+      "type": "track",
+      "title": "Five Magics",
+      "duration": "05:42"
+    },
+    {
+      "type": "track",
+      "title": "Poison Was the Cure",
+      "duration": "02:58"
+    },
+    {
+      "type": "track",
+      "title": "Lucretia",
+      "duration": "03:58"
+    },
+    {
+      "type": "track",
+      "title": "Tornado of Souls",
+      "duration": "05:22"
+    },
+    {
+      "type": "track",
+      "title": "Dawn Patrol",
+      "duration": "01:50"
+    },
+    {
+      "type": "track",
+      "title": "Rust in Peace... Polaris",
+      "duration": "05:36"
+    }
+  ],
+  "totalDuration": "40:44",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/280481cd17bf9dd4a78cf25f37c72bbb/5748025/megadeth-rust-in-peace-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:34:38.680Z",
+  "updatedAt": "2025-09-13T16:34:38.680Z"
+}

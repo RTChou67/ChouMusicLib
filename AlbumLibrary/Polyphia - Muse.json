@@ -1,0 +1,83 @@
+{
+  "fileName": "Polyphia - Muse.json",
+  "title": "Muse",
+  "artist": "Polyphia",
+  "releaseDate": "2014-09-02",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Progressive Metal",
+    "Djent"
+  ],
+  "tags": [
+    "melodic",
+    "instrumental",
+    "progressive",
+    "technical",
+    "playful",
+    "epic",
+    "uncommon time signatures"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "87",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Sweet Tea",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Champagne",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Aviator",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "The Jungle",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Memory",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Mood Swing",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Hourglass",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "James Franco",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Baditude",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Finale",
+      "duration": ""
+    }
+  ],
+  "totalDuration": "00:00",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/51f1f93e76c903c1c20278d0b91cf642/5360249/polyphia-muse-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

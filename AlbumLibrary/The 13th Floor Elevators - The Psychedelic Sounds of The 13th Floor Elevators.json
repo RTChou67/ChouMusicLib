@@ -1,0 +1,106 @@
+{
+  "fileName": "The 13th Floor Elevators - The Psychedelic Sounds of The 13th Floor Elevators.json",
+  "title": "The Psychedelic Sounds of The 13th Floor Elevators",
+  "artist": "The 13th Floor Elevators",
+  "releaseDate": "1966-10-17",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Psychedelic Rock",
+    "Garage Rock",
+    "Garage Psych",
+    "Acid Rock",
+    "Garage Rock"
+  ],
+  "tags": [
+    "psychedelic",
+    "drugs",
+    "surreal",
+    "male vocalist",
+    "manic",
+    "energetic",
+    "raw",
+    "rhythmic",
+    "hypnotic",
+    "passionate",
+    "playful",
+    "warm",
+    "lo-fi",
+    "noisy",
+    "repetitive",
+    "concept album",
+    "anxious",
+    "hallucinogens",
+    "hazy"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "You're Gonna Miss Me",
+      "duration": "02:24"
+    },
+    {
+      "type": "track",
+      "title": "Roller Coaster",
+      "duration": "05:00"
+    },
+    {
+      "type": "track",
+      "title": "Splash 1 (Now I'm Home)",
+      "duration": "03:50"
+    },
+    {
+      "type": "track",
+      "title": "Reverberation (Doubt)",
+      "duration": "02:46"
+    },
+    {
+      "type": "track",
+      "title": "Don't Fall Down",
+      "duration": "03:00"
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "Fire Engine",
+      "duration": "03:22"
+    },
+    {
+      "type": "track",
+      "title": "Thru the Rhythm",
+      "duration": "03:05"
+    },
+    {
+      "type": "track",
+      "title": "You Don't Know (How Young You Are)",
+      "duration": "02:38"
+    },
+    {
+      "type": "track",
+      "title": "Kingdom of Heaven",
+      "duration": "03:05"
+    },
+    {
+      "type": "track",
+      "title": "Monkey Island",
+      "duration": "02:38"
+    },
+    {
+      "type": "track",
+      "title": "Tried to Hide",
+      "duration": "02:43"
+    }
+  ],
+  "totalDuration": "34:31",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/2e9db77859307d7677f4c1217695f10c/12013816/the-13th-floor-elevators-the-psychedelic-sounds-of-the-13th-floor-elevators-Cover-Art.jpg",
+  "createdAt": "2025-09-16T16:02:31.398Z",
+  "updatedAt": "2025-09-16T16:02:31.398Z"
+}

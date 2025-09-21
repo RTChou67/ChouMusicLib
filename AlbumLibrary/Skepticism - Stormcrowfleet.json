@@ -1,0 +1,76 @@
+{
+  "fileName": "Skepticism - Stormcrowfleet.json",
+  "title": "Stormcrowfleet",
+  "artist": "Skepticism",
+  "releaseDate": "1995-01-01",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Funeral Doom Metal"
+  ],
+  "tags": [
+    "sombre",
+    "funereal",
+    "atmospheric",
+    "nature",
+    "dense",
+    "ethereal",
+    "epic",
+    "male vocalist",
+    "calm",
+    "nocturnal",
+    "melancholic",
+    "heavy",
+    "soft",
+    "rain",
+    "soothing",
+    "introspective",
+    "lethargic",
+    "mysterious",
+    "longing",
+    "forest",
+    "lo-fi",
+    "dark",
+    "surreal",
+    "serious",
+    "hazy",
+    "storm"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Sign of a Storm",
+      "duration": "10:10"
+    },
+    {
+      "type": "track",
+      "title": "Pouring",
+      "duration": "08:45"
+    },
+    {
+      "type": "track",
+      "title": "By Silent Wings",
+      "duration": "07:03"
+    },
+    {
+      "type": "track",
+      "title": "The Rising of the Flames",
+      "duration": "11:28"
+    },
+    {
+      "type": "track",
+      "title": "The Gallant Crow",
+      "duration": "07:36"
+    },
+    {
+      "type": "track",
+      "title": "The Everdarkgreen",
+      "duration": "12:15"
+    }
+  ],
+  "totalDuration": "57:17",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/6bd3ec219df182732737c40d3e4a4120/12412680/skepticism-stormcrowfleet-Cover-Art.jpg",
+  "createdAt": "2025-09-16T16:10:30.083Z",
+  "updatedAt": "2025-09-16T16:10:30.083Z"
+}

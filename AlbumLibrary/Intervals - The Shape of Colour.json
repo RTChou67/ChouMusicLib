@@ -1,0 +1,78 @@
+{
+  "fileName": "Intervals - The Shape of Colour.json",
+  "title": "The Shape of Colour",
+  "artist": "Intervals",
+  "releaseDate": "2015-12-04",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Progressive Metal",
+    "Math Rock",
+    "Djent"
+  ],
+  "tags": [
+    "instrumental",
+    "happy",
+    "playful",
+    "melodic",
+    "rhythmic",
+    "technical",
+    "uncommon time signatures",
+    "uplifting",
+    "complex",
+    "energetic",
+    "warm",
+    "lush",
+    "atmospheric",
+    "ethereal",
+    "bright",
+    "summer"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "I'm Awake",
+      "duration": "03:58"
+    },
+    {
+      "type": "track",
+      "title": "Sure Shot",
+      "duration": "04:07"
+    },
+    {
+      "type": "track",
+      "title": "Fable",
+      "duration": "04:19"
+    },
+    {
+      "type": "track",
+      "title": "Sweet Tooth",
+      "duration": "03:27"
+    },
+    {
+      "type": "track",
+      "title": "Black Box",
+      "duration": "03:04"
+    },
+    {
+      "type": "track",
+      "title": "Slight of Hand",
+      "duration": "05:41"
+    },
+    {
+      "type": "track",
+      "title": "Meridian",
+      "duration": "05:09"
+    },
+    {
+      "type": "track",
+      "title": "Libra",
+      "duration": "04:56"
+    }
+  ],
+  "totalDuration": "34:41",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/de332c40b9b63692128930df955039cb/5899578/intervals-the-shape-of-colour-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

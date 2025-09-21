@@ -1,0 +1,77 @@
+{
+  "fileName": "Vio-Lence - Eternal Nightmare.json",
+  "title": "Eternal Nightmare",
+  "artist": "Vio-Lence",
+  "releaseDate": "1988-06-27",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Thrash Metal"
+  ],
+  "tags": [
+    "energetic",
+    "aggressive",
+    "male vocalist",
+    "violence",
+    "heavy",
+    "nihilistic",
+    "technical",
+    "death",
+    "manic",
+    "misanthropic",
+    "angry",
+    "raw",
+    "hateful",
+    "war"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "Eternal Nightmare",
+      "duration": "06:04"
+    },
+    {
+      "type": "track",
+      "title": "Serial Killer",
+      "duration": "02:56"
+    },
+    {
+      "type": "track",
+      "title": "Phobophobia",
+      "duration": "06:27"
+    },
+    {
+      "type": "track",
+      "title": "Calling in the Coroner",
+      "duration": "03:54"
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "T.D.S. (Take It as You Will)",
+      "duration": "05:01"
+    },
+    {
+      "type": "track",
+      "title": "Bodies on Bodies",
+      "duration": "05:49"
+    },
+    {
+      "type": "track",
+      "title": "Kill on Command",
+      "duration": "04:59"
+    }
+  ],
+  "totalDuration": "35:10",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/0b1793ef028f029c6369f8ddee3a44f2/5441907/vio-lence-eternal-nightmare-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:34:53.969Z",
+  "updatedAt": "2025-09-13T16:34:53.969Z"
+}

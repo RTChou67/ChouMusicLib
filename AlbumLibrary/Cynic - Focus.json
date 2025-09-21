@@ -1,0 +1,89 @@
+{
+  "fileName": "Cynic - Focus.json",
+  "title": "Focus",
+  "artist": "Cynic",
+  "releaseDate": "1993-09-14",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Progressive Metal",
+    "Technical Death Metal",
+    "Jazz Fusion"
+  ],
+  "tags": [
+    "technical",
+    "complex",
+    "philosophical",
+    "futuristic",
+    "progressive",
+    "spiritual",
+    "male vocalist",
+    "introspective",
+    "heavy",
+    "uncommon time signatures",
+    "androgynous vocals",
+    "lush",
+    "melodic",
+    "psychedelic",
+    "energetic",
+    "atmospheric",
+    "rhythmic",
+    "poetic",
+    "optimistic",
+    "ethereal",
+    "uplifting",
+    "avant-garde",
+    "eclectic",
+    "religious",
+    "warm",
+    "meditative",
+    "bright"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Veil of Maya",
+      "duration": "05:23"
+    },
+    {
+      "type": "track",
+      "title": "Celestial Voyage",
+      "duration": "03:40"
+    },
+    {
+      "type": "track",
+      "title": "The Eagle Nature",
+      "duration": "03:30"
+    },
+    {
+      "type": "track",
+      "title": "Sentiment",
+      "duration": "04:23"
+    },
+    {
+      "type": "track",
+      "title": "I'm But a Wave To...",
+      "duration": "05:30"
+    },
+    {
+      "type": "track",
+      "title": "Uroboric Forms",
+      "duration": "03:32"
+    },
+    {
+      "type": "track",
+      "title": "Textures",
+      "duration": "04:42"
+    },
+    {
+      "type": "track",
+      "title": "How Could I",
+      "duration": "05:29"
+    }
+  ],
+  "totalDuration": "36:09",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/64a0f61816ba3e15a0e92aaa95956ce3/2591154/cynic-focus-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:43:49.525Z",
+  "updatedAt": "2025-09-13T16:43:49.525Z"
+}

@@ -1,0 +1,81 @@
+{
+  "fileName": "Heilung - Drif.json",
+  "title": "Drif",
+  "artist": "Heilung",
+  "releaseDate": "2022-08-19",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Neo-Pagan Folk",
+    "Ritual Ambient",
+    "Nordic Folk Music",
+    "Tribal Ambient",
+    "Spoken Word"
+  ],
+  "tags": [
+    "ritualistic",
+    "pagan",
+    "atmospheric",
+    "tribal",
+    "dark",
+    "female vocalist",
+    "male vocalist",
+    "spiritual",
+    "forest",
+    "rhythmic",
+    "lush",
+    "martial"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Asja",
+      "duration": "05:17"
+    },
+    {
+      "type": "track",
+      "title": "Anoana",
+      "duration": "04:57"
+    },
+    {
+      "type": "track",
+      "title": "Tenet",
+      "duration": "13:05"
+    },
+    {
+      "type": "track",
+      "title": "Urbani",
+      "duration": "02:55"
+    },
+    {
+      "type": "track",
+      "title": "Keltentrauer",
+      "duration": "08:26"
+    },
+    {
+      "type": "track",
+      "title": "Nesso",
+      "duration": "07:54"
+    },
+    {
+      "type": "track",
+      "title": "Buslas Bann",
+      "duration": "05:03"
+    },
+    {
+      "type": "track",
+      "title": "Nikkal",
+      "duration": "03:04"
+    },
+    {
+      "type": "track",
+      "title": "Marduk",
+      "duration": "08:34"
+    }
+  ],
+  "totalDuration": "59:15",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/e355578baf32302d42a66a306d46a854/10498165/heilung-drif-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:24:06.422Z",
+  "updatedAt": "2025-09-13T16:24:06.422Z"
+}

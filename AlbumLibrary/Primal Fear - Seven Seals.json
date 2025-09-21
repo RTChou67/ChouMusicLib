@@ -1,0 +1,77 @@
+{
+  "fileName": "Primal Fear - Seven Seals.json",
+  "title": "Seven Seals",
+  "artist": "Primal Fear",
+  "releaseDate": "2005-10-05",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Power Metal",
+    "Heavy Metal"
+  ],
+  "tags": [
+    "energetic",
+    "male vocalist",
+    "heavy",
+    "melodic",
+    "epic",
+    "anthemic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Demons and Angels",
+      "duration": "05:32"
+    },
+    {
+      "type": "track",
+      "title": "Rollercoaster",
+      "duration": "04:28"
+    },
+    {
+      "type": "track",
+      "title": "Seven Seals",
+      "duration": "03:54"
+    },
+    {
+      "type": "track",
+      "title": "Evil Spell",
+      "duration": "04:32"
+    },
+    {
+      "type": "track",
+      "title": "The Immortal Ones",
+      "duration": "04:19"
+    },
+    {
+      "type": "track",
+      "title": "Diabolus",
+      "duration": "07:54"
+    },
+    {
+      "type": "track",
+      "title": "All for One",
+      "duration": "07:53"
+    },
+    {
+      "type": "track",
+      "title": "Carniwar",
+      "duration": "03:17"
+    },
+    {
+      "type": "track",
+      "title": "Question of Honour",
+      "duration": "07:26"
+    },
+    {
+      "type": "track",
+      "title": "In Memory",
+      "duration": "05:07"
+    }
+  ],
+  "totalDuration": "54:22",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/27021f34e7034f37df4b2dbe7e1dc430/1451108/primal-fear-seven-seals-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

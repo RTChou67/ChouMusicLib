@@ -1,0 +1,87 @@
+{
+  "fileName": "Helloween - 7 Sinners.json",
+  "title": "7 Sinners",
+  "artist": "Helloween",
+  "releaseDate": "2010-10-27",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [],
+  "tags": [],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Where the Sinners Go",
+      "duration": "03:35"
+    },
+    {
+      "type": "track",
+      "title": "Are You Metal?",
+      "duration": "03:38"
+    },
+    {
+      "type": "track",
+      "title": "Who Is Mr. Madman?",
+      "duration": "05:40"
+    },
+    {
+      "type": "track",
+      "title": "Raise the Noise",
+      "duration": "05:06"
+    },
+    {
+      "type": "track",
+      "title": "World of Fantasy",
+      "duration": "05:15"
+    },
+    {
+      "type": "track",
+      "title": "Long Live the King",
+      "duration": "04:12"
+    },
+    {
+      "type": "track",
+      "title": "The Smile of the Sun",
+      "duration": "04:37"
+    },
+    {
+      "type": "track",
+      "title": "You Stupid Mankind",
+      "duration": "04:05"
+    },
+    {
+      "type": "track",
+      "title": "If a Mountain Could Talk",
+      "duration": "06:43"
+    },
+    {
+      "type": "track",
+      "title": "The Sage, the Fool, the Sinner",
+      "duration": "04:00"
+    },
+    {
+      "type": "track",
+      "title": "My Sacrifice",
+      "duration": "05:00"
+    },
+    {
+      "type": "track",
+      "title": "Not Yet Today",
+      "duration": "01:11"
+    },
+    {
+      "type": "track",
+      "title": "Far in the Future",
+      "duration": "07:42"
+    },
+    {
+      "type": "track",
+      "title": "Faster We Fall",
+      "duration": "04:17"
+    }
+  ],
+  "totalDuration": "01:05:01",
+  "notes": "",
+  "coverData": "https://www.metal-archives.com/images/5/0/9/1/509180.jpg?5906",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

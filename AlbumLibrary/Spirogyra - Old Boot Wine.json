@@ -1,0 +1,91 @@
+{
+  "fileName": "Spirogyra - Old Boot Wine.json",
+  "title": "Old Boot Wine",
+  "artist": "Spirogyra",
+  "releaseDate": "1972-06-01",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Progressive Folk",
+    "Canterbury Scene",
+    "Art Rock",
+    "Folk Rock",
+    "Psychedelic Folk",
+    "Progressive Rock",
+    "Pop Rock",
+    "Progressive Pop",
+    "Wyrd Folk"
+  ],
+  "tags": [
+    "female vocalist",
+    "male vocalist",
+    "progressive",
+    "suite",
+    "energetic",
+    "warm",
+    "melodic",
+    "passionate",
+    "eclectic",
+    "surreal"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "Dangerous Dave",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Van Allen's Belt",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Runaway",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Grandad",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Wings of Thunder",
+      "duration": ""
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "World's Eyes",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Don't Let It Get You",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Disraeli's Problem",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "A Canterbury Tale",
+      "duration": ""
+    }
+  ],
+  "totalDuration": "00:00",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/1bddb01c932aa15c9357e41f9bc52f0e/13371127/spirogyra-old-boot-wine-Cover-Art.png",
+  "createdAt": "2025-09-16T16:01:20.434Z",
+  "updatedAt": "2025-09-16T16:01:20.434Z"
+}

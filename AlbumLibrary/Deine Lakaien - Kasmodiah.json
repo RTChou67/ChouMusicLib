@@ -1,0 +1,90 @@
+{
+  "fileName": "",
+  "title": "Kasmodiah",
+  "artist": "Deine Lakaien",
+  "releaseDate": "1999-04-09",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Darkwave",
+    "Synthpop",
+    "EBM"
+  ],
+  "tags": [
+    "Neoclassical",
+    "Industrial",
+    "Avant-Garde"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Intro",
+      "duration": "00:45"
+    },
+    {
+      "type": "track",
+      "title": "Return",
+      "duration": "04:23"
+    },
+    {
+      "type": "track",
+      "title": "Kiss the Future",
+      "duration": "04:06"
+    },
+    {
+      "type": "track",
+      "title": "My Shadows",
+      "duration": "04:38"
+    },
+    {
+      "type": "track",
+      "title": "Into My Arms",
+      "duration": "05:21"
+    },
+    {
+      "type": "track",
+      "title": "Overpaid",
+      "duration": "03:42"
+    },
+    {
+      "type": "track",
+      "title": "Venus Man",
+      "duration": "04:06"
+    },
+    {
+      "type": "track",
+      "title": "The Game",
+      "duration": "04:23"
+    },
+    {
+      "type": "track",
+      "title": "Kasmodiah",
+      "duration": "03:51"
+    },
+    {
+      "type": "track",
+      "title": "Lass Mich",
+      "duration": "04:46"
+    },
+    {
+      "type": "track",
+      "title": "Sometimes",
+      "duration": "04:35"
+    },
+    {
+      "type": "track",
+      "title": "Fight",
+      "duration": "05:35"
+    },
+    {
+      "type": "track",
+      "title": "Try",
+      "duration": "06:23"
+    }
+  ],
+  "totalDuration": "56:34",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/5f57f4667b57c7ddac78c4782e918e34/8153273/deine-lakaien-kasmodiah-Cover-Art.jpg",
+  "createdAt": "",
+  "updatedAt": "2025-09-16T16:44:47.601Z"
+}

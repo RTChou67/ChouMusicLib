@@ -1,0 +1,97 @@
+{
+  "fileName": "P-Model - 電子悲劇_~ENOLA.json",
+  "title": "電子悲劇/~ENOLA",
+  "artist": "P-Model",
+  "releaseDate": "1997-11-29",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Synthpop",
+    "Electro-Industrial",
+    "Techno",
+    "Art Pop",
+    "Electropop"
+  ],
+  "tags": [
+    "male vocalist",
+    "dense",
+    "futuristic",
+    "concept album",
+    "playful",
+    "quirky",
+    "energetic",
+    "anxious",
+    "chaotic",
+    "manic",
+    "maximalist",
+    "rhythmic",
+    "space",
+    "epic",
+    "passionate",
+    "science fiction",
+    "sampling",
+    "apocalyptic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "ENOLA",
+      "duration": "04:22"
+    },
+    {
+      "type": "track",
+      "title": "HIDDEN PROTOCOL (release 2)",
+      "duration": "04:07"
+    },
+    {
+      "type": "track",
+      "title": "BOGY",
+      "duration": "03:37"
+    },
+    {
+      "type": "track",
+      "title": "Rocket Shoot II",
+      "duration": "04:40"
+    },
+    {
+      "type": "track",
+      "title": "ENN",
+      "duration": "04:08"
+    },
+    {
+      "type": "track",
+      "title": "衛星ALONE",
+      "duration": "04:30"
+    },
+    {
+      "type": "track",
+      "title": "LAYER-GREEN (ver. 1.05 Gold)",
+      "duration": "04:09"
+    },
+    {
+      "type": "track",
+      "title": "Spiritus",
+      "duration": "03:20"
+    },
+    {
+      "type": "track",
+      "title": "ASHURA CLOCK (Discommunicator)",
+      "duration": "04:00"
+    },
+    {
+      "type": "track",
+      "title": "Black in White",
+      "duration": "04:33"
+    },
+    {
+      "type": "track",
+      "title": "A Strange Fruit",
+      "duration": "02:55"
+    }
+  ],
+  "totalDuration": "44:21",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/5b13b59d6d392b027eb01063fb7d74ee/1627296/p-model-%E9%9B%BB%E5%AD%90%E6%82%B2%E5%8A%87_enola-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:59:35.595Z",
+  "updatedAt": "2025-09-13T16:59:35.595Z"
+}

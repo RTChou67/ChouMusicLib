@@ -1,0 +1,110 @@
+{
+  "fileName": "Tool - Lateralus.json",
+  "title": "Lateralus",
+  "artist": "Tool",
+  "releaseDate": "2001-05-15",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Alternative Metal",
+    "Progressive Metal",
+    "Post-Metal"
+  ],
+  "tags": [
+    "uncommon time signatures",
+    "complex",
+    "philosophical",
+    "progressive",
+    "existential",
+    "male vocalist",
+    "introspective",
+    "heavy",
+    "spiritual",
+    "mysterious",
+    "atmospheric",
+    "rhythmic",
+    "technical",
+    "cryptic",
+    "psychedelic",
+    "meditative",
+    "epic",
+    "hypnotic",
+    "polyrhythmic",
+    "dark",
+    "serious",
+    "abstract",
+    "dense"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "The Grudge",
+      "duration": "08:36"
+    },
+    {
+      "type": "track",
+      "title": "Eon Blue Apocalypse",
+      "duration": "01:06"
+    },
+    {
+      "type": "track",
+      "title": "The Patient",
+      "duration": "07:12"
+    },
+    {
+      "type": "track",
+      "title": "Mantra",
+      "duration": "01:13"
+    },
+    {
+      "type": "track",
+      "title": "Schism",
+      "duration": "06:45"
+    },
+    {
+      "type": "track",
+      "title": "Parabol",
+      "duration": "03:06"
+    },
+    {
+      "type": "track",
+      "title": "Parabola",
+      "duration": "06:04"
+    },
+    {
+      "type": "track",
+      "title": "Ticks & Leeches",
+      "duration": "08:08"
+    },
+    {
+      "type": "track",
+      "title": "Lateralis",
+      "duration": "09:24"
+    },
+    {
+      "type": "track",
+      "title": "Disposition",
+      "duration": "04:48"
+    },
+    {
+      "type": "track",
+      "title": "Reflection",
+      "duration": "11:09"
+    },
+    {
+      "type": "track",
+      "title": "Triad",
+      "duration": "08:46"
+    },
+    {
+      "type": "track",
+      "title": "Faaip de Oiad",
+      "duration": "02:40"
+    }
+  ],
+  "totalDuration": "01:18:57",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/cbf7d24a747873bed1b371bf5c998fd5/8591911/tool-lateralus-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:25:40.222Z",
+  "updatedAt": "2025-09-13T16:25:40.222Z"
+}

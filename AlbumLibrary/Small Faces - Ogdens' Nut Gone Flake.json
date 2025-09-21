@@ -1,0 +1,109 @@
+{
+  "fileName": "Small Faces - Ogdens' Nut Gone Flake.json",
+  "title": "Ogdens' Nut Gone Flake",
+  "artist": "Small Faces",
+  "releaseDate": "1968-05-31",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Psychedelic Rock",
+    "Psychedelic Pop",
+    "Spoken Word",
+    "Folk Pop",
+    "Toytown Pop",
+    "Art Rock",
+    "Music Hall"
+  ],
+  "tags": [
+    "male vocalist",
+    "happy",
+    "psychedelic",
+    "concept album",
+    "humorous",
+    "melodic",
+    "fantasy",
+    "quirky",
+    "surreal",
+    "passionate",
+    "drugs",
+    "bittersweet",
+    "energetic",
+    "summer",
+    "playful"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "Ogdens' Nut Gone Flake",
+      "duration": "02:26"
+    },
+    {
+      "type": "track",
+      "title": "After Glow",
+      "duration": "03:31"
+    },
+    {
+      "type": "track",
+      "title": "Long Agos and Worlds Apart",
+      "duration": "02:35"
+    },
+    {
+      "type": "track",
+      "title": "Rene",
+      "duration": "04:29"
+    },
+    {
+      "type": "track",
+      "title": "Song of a Baker",
+      "duration": "03:15"
+    },
+    {
+      "type": "track",
+      "title": "Lazy Sunday",
+      "duration": "03:05"
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "Happiness Stan",
+      "duration": "02:35"
+    },
+    {
+      "type": "track",
+      "title": "Rollin' Over",
+      "duration": "02:50"
+    },
+    {
+      "type": "track",
+      "title": "The Hungry Intruder",
+      "duration": "02:15"
+    },
+    {
+      "type": "track",
+      "title": "The Journey",
+      "duration": "04:12"
+    },
+    {
+      "type": "track",
+      "title": "Mad John",
+      "duration": "02:48"
+    },
+    {
+      "type": "track",
+      "title": "Happy Days Toy Town",
+      "duration": "04:17"
+    }
+  ],
+  "totalDuration": "38:18",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/b6dbb74429468b5b65201d387ef22308/10431666/small-faces-ogdens-nut-gone-flake-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:32:32.799Z",
+  "updatedAt": "2025-09-13T16:32:32.799Z"
+}

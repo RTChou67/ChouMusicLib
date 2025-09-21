@@ -1,0 +1,82 @@
+{
+  "fileName": "",
+  "title": "Mirrored",
+  "artist": "Battles",
+  "releaseDate": "2007-05-14",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Math Rock",
+    "Experimental Rock",
+    "Progressive Rock",
+    "Post-Rock"
+  ],
+  "tags": [
+    "Avant-Garde",
+    "Psychedelic",
+    "Industrial",
+    "Technical"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Race : In",
+      "duration": "04:50"
+    },
+    {
+      "type": "track",
+      "title": "Atlas",
+      "duration": "07:07"
+    },
+    {
+      "type": "track",
+      "title": "Ddiamondd",
+      "duration": "02:33"
+    },
+    {
+      "type": "track",
+      "title": "Tonto",
+      "duration": "07:43"
+    },
+    {
+      "type": "track",
+      "title": "Leyendecker",
+      "duration": "02:48"
+    },
+    {
+      "type": "track",
+      "title": "Rainbow",
+      "duration": "08:11"
+    },
+    {
+      "type": "track",
+      "title": "Bad Trails",
+      "duration": "05:18"
+    },
+    {
+      "type": "track",
+      "title": "Prismism",
+      "duration": "00:52"
+    },
+    {
+      "type": "track",
+      "title": "Snare Hangar",
+      "duration": "01:58"
+    },
+    {
+      "type": "track",
+      "title": "Tij",
+      "duration": "07:03"
+    },
+    {
+      "type": "track",
+      "title": "Race : Out",
+      "duration": "03:29"
+    }
+  ],
+  "totalDuration": "51:52",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/ff10c68a23f2013ed9d7906efce67d5a/2529370/battles-mirrored-Cover-Art.jpg",
+  "createdAt": "",
+  "updatedAt": "2025-09-16T16:39:03.667Z"
+}

@@ -1,0 +1,118 @@
+{
+  "fileName": "The United States of America - The United States of America.json",
+  "title": "The United States of America",
+  "artist": "The United States of America",
+  "releaseDate": "1968-03-06",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Psychedelic Rock",
+    "Experimental Rock",
+    "Electronic",
+    "Sound Collage",
+    "Psychedelic Pop"
+  ],
+  "tags": [
+    "psychedelic",
+    "eclectic",
+    "avant-garde",
+    "surreal",
+    "sampling",
+    "female vocalist",
+    "political",
+    "male vocalist",
+    "satirical",
+    "futuristic",
+    "playful",
+    "quirky",
+    "progressive",
+    "abstract",
+    "noisy",
+    "hypnotic",
+    "complex",
+    "ethereal",
+    "chaotic",
+    "drugs",
+    "energetic",
+    "dense",
+    "melodic",
+    "lush",
+    "urban",
+    "mysterious",
+    "atmospheric",
+    "polyphonic",
+    "cryptic",
+    "raw",
+    "passionate",
+    "rhythmic",
+    "uncommon time signatures",
+    "socialism",
+    "existential",
+    "lo-fi"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "The American Metaphysical Circus",
+      "duration": "04:55"
+    },
+    {
+      "type": "track",
+      "title": "Hard Coming Love",
+      "duration": "04:43"
+    },
+    {
+      "type": "track",
+      "title": "Cloud Song",
+      "duration": "03:18"
+    },
+    {
+      "type": "track",
+      "title": "The Garden of Earthly Delights",
+      "duration": "02:39"
+    },
+    {
+      "type": "track",
+      "title": "I Won't Leave My Wooden Wife for You, Sugar",
+      "duration": "03:52"
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "Where Is Yesterday",
+      "duration": "03:07"
+    },
+    {
+      "type": "track",
+      "title": "Coming Down",
+      "duration": "02:40"
+    },
+    {
+      "type": "track",
+      "title": "Love Song for the Dead Ché",
+      "duration": "03:25"
+    },
+    {
+      "type": "track",
+      "title": "Stranded in Time",
+      "duration": "01:50"
+    },
+    {
+      "type": "track",
+      "title": "The American Way of Love",
+      "duration": "06:38"
+    }
+  ],
+  "totalDuration": "37:07",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/45fe0c4114d77633ace7c9eeeed35237/8445620/the-united-states-of-america-the-united-states-of-america-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

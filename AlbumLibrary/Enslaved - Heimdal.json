@@ -1,0 +1,76 @@
+{
+  "fileName": "Enslaved - Heimdal.json",
+  "title": "Heimdal",
+  "artist": "Enslaved",
+  "releaseDate": "2023-03-03",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Progressive Metal",
+    "Black Metal",
+    "Viking Metal"
+  ],
+  "tags": [
+    "male vocalist",
+    "mythology",
+    "heavy",
+    "atmospheric",
+    "progressive",
+    "complex",
+    "cold",
+    "dense",
+    "cryptic",
+    "sombre",
+    "pagan",
+    "nature",
+    "folklore",
+    "triumphant",
+    "epic",
+    "forest",
+    "aggressive",
+    "surreal",
+    "occult"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Behind the Mirror",
+      "duration": "06:20"
+    },
+    {
+      "type": "track",
+      "title": "Congelia",
+      "duration": "08:01"
+    },
+    {
+      "type": "track",
+      "title": "Forest Dweller",
+      "duration": "05:55"
+    },
+    {
+      "type": "track",
+      "title": "Kingdom",
+      "duration": "05:51"
+    },
+    {
+      "type": "track",
+      "title": "The Eternal Sea",
+      "duration": "07:25"
+    },
+    {
+      "type": "track",
+      "title": "Caravans to the Outer Worlds",
+      "duration": "06:44"
+    },
+    {
+      "type": "track",
+      "title": "Heimdal",
+      "duration": "08:06"
+    }
+  ],
+  "totalDuration": "48:22",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/c2be63adbddcf9adf5a7733f134c9d68/10440929/enslaved-heimdal-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

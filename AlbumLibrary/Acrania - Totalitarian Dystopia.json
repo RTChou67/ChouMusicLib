@@ -1,0 +1,85 @@
+{
+  "fileName": "Acrania - Totalitarian Dystopia.json",
+  "title": "Totalitarian Dystopia",
+  "artist": "Acrania",
+  "releaseDate": "2014-08-19",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Deathcore",
+    "Slam Death Metal"
+  ],
+  "tags": [
+    "heavy",
+    "aggressive",
+    "political",
+    "energetic",
+    "male vocalist",
+    "hateful",
+    "violence",
+    "angry",
+    "conscious",
+    "protest",
+    "rebellious",
+    "vulgar",
+    "alienation",
+    "dense"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Hollow",
+      "duration": "02:22"
+    },
+    {
+      "type": "track",
+      "title": "Festering With Dishonesty",
+      "duration": "03:46"
+    },
+    {
+      "type": "track",
+      "title": "Totalitarian Dystopia",
+      "duration": "04:50"
+    },
+    {
+      "type": "track",
+      "title": "Servants of Hypocrisy",
+      "duration": "03:43"
+    },
+    {
+      "type": "track",
+      "title": "Survival Sequence",
+      "duration": "02:35"
+    },
+    {
+      "type": "track",
+      "title": "A Gluttonous Abomination",
+      "duration": "06:23"
+    },
+    {
+      "type": "track",
+      "title": "Susceptible to Retinal Reprogrammability",
+      "duration": "03:32"
+    },
+    {
+      "type": "track",
+      "title": "Lobotomise, Dehumanise, Negate. [LDN]",
+      "duration": "03:51"
+    },
+    {
+      "type": "track",
+      "title": "Messiah of Manipulation",
+      "duration": "02:47"
+    },
+    {
+      "type": "track",
+      "title": "Disillusion in a Discordant System",
+      "duration": "02:53"
+    }
+  ],
+  "totalDuration": "36:42",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/13cc46178ebd75447617ff18bb0e6a53/5575159/acrania-totalitarian-dystopia-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:55:00.572Z",
+  "updatedAt": "2025-09-13T16:55:00.572Z"
+}

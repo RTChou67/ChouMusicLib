@@ -1,0 +1,90 @@
+{
+  "fileName": "While She Sleeps - This Is the Six.json",
+  "title": "This Is the Six",
+  "artist": "While She Sleeps",
+  "releaseDate": "2012-08-06",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Metalcore",
+    "Post-Hardcore",
+    "Melodic Hardcore"
+  ],
+  "tags": [
+    "anti-religious",
+    "male vocalist",
+    "energetic",
+    "angry",
+    "heavy",
+    "aggressive",
+    "cold",
+    "passionate"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Dead Behind the Eyes",
+      "duration": "04:04"
+    },
+    {
+      "type": "track",
+      "title": "False Freedom",
+      "duration": "03:47"
+    },
+    {
+      "type": "track",
+      "title": "Satisfied in Suffering",
+      "duration": "03:13"
+    },
+    {
+      "type": "track",
+      "title": "Seven Hills",
+      "duration": "04:20"
+    },
+    {
+      "type": "track",
+      "title": "Our Courage, Our Cancer",
+      "duration": "03:34"
+    },
+    {
+      "type": "track",
+      "title": "This Is the Six",
+      "duration": "04:44"
+    },
+    {
+      "type": "track",
+      "title": "The Chapel",
+      "duration": "02:15"
+    },
+    {
+      "type": "track",
+      "title": "Be(lie)ve",
+      "duration": "03:54"
+    },
+    {
+      "type": "track",
+      "title": "Until the Death",
+      "duration": "04:26"
+    },
+    {
+      "type": "track",
+      "title": "Love at War",
+      "duration": "04:43"
+    },
+    {
+      "type": "track",
+      "title": "The Plague of a New Age",
+      "duration": "04:18"
+    },
+    {
+      "type": "track",
+      "title": "Reunite",
+      "duration": "01:14"
+    }
+  ],
+  "totalDuration": "44:32",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/2fe74467dacf32919a757fc9d438e497/4247691/while-she-sleeps-this-is-the-six-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

@@ -1,0 +1,55 @@
+{
+  "fileName": "Vitalism - Sy.json",
+  "title": "Sy",
+  "artist": "Vitalism",
+  "releaseDate": "2017-12-18",
+  "albumFormat": "EP",
+  "rating": 0,
+  "styles": [
+    "Djent",
+    "Progressive Metal",
+    "Jazz Fusion"
+  ],
+  "tags": [
+    "instrumental",
+    "anxious",
+    "aggressive",
+    "complex",
+    "technical",
+    "futuristic",
+    "heavy",
+    "mechanical"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Pagan, Pt. 2",
+      "duration": "05:23"
+    },
+    {
+      "type": "track",
+      "title": "Ayahuasca",
+      "duration": "04:51"
+    },
+    {
+      "type": "track",
+      "title": "Yamí Obi",
+      "duration": "04:12"
+    },
+    {
+      "type": "track",
+      "title": "Favela",
+      "duration": "03:28"
+    },
+    {
+      "type": "track",
+      "title": "Ramaten",
+      "duration": "04:03"
+    }
+  ],
+  "totalDuration": "21:57",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/b2bc848895ce2b130e30ab7bc2e212bf/6791901/vitalism-sy-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

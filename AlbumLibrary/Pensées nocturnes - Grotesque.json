@@ -1,0 +1,68 @@
+{
+  "fileName": "Pensées nocturnes - Grotesque.json",
+  "title": "Grotesque",
+  "artist": "Pensées nocturnes",
+  "releaseDate": "2010-03-27",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "DSBM",
+    "Neoclassical Darkwave",
+    "Avant-Garde Metal"
+  ],
+  "tags": [
+    "dark",
+    "atmospheric",
+    "ominous",
+    "avant-garde",
+    "male vocalist",
+    "manic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Vulgum Pecus",
+      "duration": "03:11"
+    },
+    {
+      "type": "track",
+      "title": "Paria",
+      "duration": "09:21"
+    },
+    {
+      "type": "track",
+      "title": "Rahu",
+      "duration": "07:07"
+    },
+    {
+      "type": "track",
+      "title": "Eros",
+      "duration": "04:30"
+    },
+    {
+      "type": "track",
+      "title": "Monosis",
+      "duration": "09:33"
+    },
+    {
+      "type": "track",
+      "title": "Hel",
+      "duration": "09:59"
+    },
+    {
+      "type": "track",
+      "title": "Thokk",
+      "duration": "08:18"
+    },
+    {
+      "type": "track",
+      "title": "Suivant",
+      "duration": "02:05"
+    }
+  ],
+  "totalDuration": "54:04",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/592a36af34545804a8920bcbbd93bbf1/2980080/pensees-nocturnes-grotesque-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:42:19.391Z",
+  "updatedAt": "2025-09-12T17:42:19.391Z"
+}

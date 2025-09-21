@@ -1,0 +1,79 @@
+{
+  "fileName": "Modern Day Babylon - COMA.json",
+  "title": "COMA",
+  "artist": "Modern Day Babylon",
+  "releaseDate": "2018-02-22",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Djent",
+    "Progressive Metal",
+    "Post-Rock"
+  ],
+  "tags": [
+    "instrumental",
+    "melodic",
+    "technical",
+    "complex",
+    "progressive",
+    "ethereal",
+    "space"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Sleeper",
+      "duration": "04:06"
+    },
+    {
+      "type": "track",
+      "title": "Dream Cycles",
+      "duration": "03:53"
+    },
+    {
+      "type": "track",
+      "title": "Coma",
+      "duration": "04:35"
+    },
+    {
+      "type": "track",
+      "title": "Timelapse",
+      "duration": "04:34"
+    },
+    {
+      "type": "track",
+      "title": "Otherside",
+      "duration": "03:48"
+    },
+    {
+      "type": "track",
+      "title": "Waves",
+      "duration": "04:06"
+    },
+    {
+      "type": "track",
+      "title": "Memory",
+      "duration": "04:07"
+    },
+    {
+      "type": "track",
+      "title": "Visions",
+      "duration": "04:13"
+    },
+    {
+      "type": "track",
+      "title": "Wake Up",
+      "duration": "03:48"
+    },
+    {
+      "type": "track",
+      "title": "Waves (Matt Holland REMIX)",
+      "duration": "03:24"
+    }
+  ],
+  "totalDuration": "40:34",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/ef8ee6a8f7b6ca3a868737c1f76e4ed2/6854859/modern-day-babylon-coma-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:22:14.332Z",
+  "updatedAt": "2025-09-12T17:22:14.332Z"
+}

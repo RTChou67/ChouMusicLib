@@ -1,0 +1,89 @@
+{
+  "fileName": "Born of Osiris - Tomorrow We Die ∆live.json",
+  "title": "Tomorrow We Die ∆live",
+  "artist": "Born of Osiris",
+  "releaseDate": "2013-08-20",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Deathcore",
+    "Djent",
+    "Progressive Metal",
+    "Electronic"
+  ],
+  "tags": [
+    "heavy",
+    "science fiction",
+    "aggressive",
+    "technical",
+    "male vocalist",
+    "epic",
+    "energetic",
+    "rhythmic",
+    "dense",
+    "passionate",
+    "complex"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "M∆chine",
+      "duration": "04:24"
+    },
+    {
+      "type": "track",
+      "title": "Divergency",
+      "duration": "03:58"
+    },
+    {
+      "type": "track",
+      "title": "Mindful",
+      "duration": "03:33"
+    },
+    {
+      "type": "track",
+      "title": "Exhil∆r∆te",
+      "duration": "03:34"
+    },
+    {
+      "type": "track",
+      "title": "∆bsolution",
+      "duration": "04:06"
+    },
+    {
+      "type": "track",
+      "title": "The Origin",
+      "duration": "03:45"
+    },
+    {
+      "type": "track",
+      "title": "∆eon III",
+      "duration": "03:56"
+    },
+    {
+      "type": "track",
+      "title": "Im∆gin∆ry Condition",
+      "duration": "03:13"
+    },
+    {
+      "type": "track",
+      "title": "Illusionist",
+      "duration": "03:59"
+    },
+    {
+      "type": "track",
+      "title": "Source Field",
+      "duration": "03:48"
+    },
+    {
+      "type": "track",
+      "title": "Venge∆nce",
+      "duration": "04:10"
+    }
+  ],
+  "totalDuration": "42:26",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/3d539fba3173c493d511f3bc968c34ad/4869438/born-of-osiris-tomorrow-we-die-%E2%88%86live-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:33:46.951Z",
+  "updatedAt": "2025-09-12T17:33:46.951Z"
+}

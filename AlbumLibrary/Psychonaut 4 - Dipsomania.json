@@ -1,0 +1,95 @@
+{
+  "fileName": "Psychonaut 4 - Dipsomania.json",
+  "title": "Dipsomania",
+  "artist": "Psychonaut 4",
+  "releaseDate": "2015-04-23",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "DSBM",
+    "Gothic Metal"
+  ],
+  "tags": [
+    "depressive",
+    "alcohol",
+    "male vocalist",
+    "melancholic",
+    "pessimistic",
+    "energetic",
+    "aggressive",
+    "urban",
+    "misanthropic",
+    "suicide",
+    "melodic",
+    "atmospheric",
+    "sad",
+    "death",
+    "introspective",
+    "nihilistic",
+    "technical",
+    "lonely",
+    "poetic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Intro",
+      "duration": "02:08"
+    },
+    {
+      "type": "track",
+      "title": "Beware the Silence",
+      "duration": "05:11"
+    },
+    {
+      "type": "track",
+      "title": "Personal Forest",
+      "duration": "04:14"
+    },
+    {
+      "type": "track",
+      "title": "Don't Leave the Room",
+      "duration": "05:54"
+    },
+    {
+      "type": "track",
+      "title": "Pain Dealer",
+      "duration": "07:03"
+    },
+    {
+      "type": "track",
+      "title": "Alcoholism",
+      "duration": "07:41"
+    },
+    {
+      "type": "track",
+      "title": "Suicide Is Legal",
+      "duration": "06:28"
+    },
+    {
+      "type": "track",
+      "title": "We Will Never Find the Cure",
+      "duration": "05:35"
+    },
+    {
+      "type": "track",
+      "title": "How Much for the Hope?",
+      "duration": "07:30"
+    },
+    {
+      "type": "track",
+      "title": "Moldy",
+      "duration": "06:37"
+    },
+    {
+      "type": "track",
+      "title": "Eyes of a Homeless Dog",
+      "duration": "04:54"
+    }
+  ],
+  "totalDuration": "01:03:15",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/5e51d20e8a496f444a5edac8daa2fcdf/5593209/psychonaut-4-dipsomania-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:22:37.247Z",
+  "updatedAt": "2025-09-12T17:22:37.247Z"
+}

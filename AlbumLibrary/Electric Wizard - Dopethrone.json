@@ -1,0 +1,95 @@
+{
+  "fileName": "Electric Wizard - Dopethrone.json",
+  "title": "Dopethrone",
+  "artist": "Electric Wizard",
+  "releaseDate": "2000-09-25",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Stoner Metal",
+    "Doom Metal",
+    "Sludge Metal"
+  ],
+  "tags": [
+    "heavy",
+    "drugs",
+    "occult",
+    "psychedelic",
+    "nihilistic",
+    "misanthropic",
+    "noisy",
+    "dense",
+    "male vocalist",
+    "raw",
+    "cannabis",
+    "dark",
+    "repetitive",
+    "hateful",
+    "apocalyptic",
+    "atmospheric",
+    "ominous",
+    "infernal",
+    "aggressive",
+    "hypnotic",
+    "pessimistic",
+    "epic",
+    "rhythmic",
+    "fantasy",
+    "passionate",
+    "lethargic",
+    "angry",
+    "nocturnal",
+    "funereal",
+    "violence",
+    "bassy",
+    "apathetic",
+    "hazy"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Vinum Sabbathi",
+      "duration": "03:06"
+    },
+    {
+      "type": "track",
+      "title": "Funeralopolis",
+      "duration": "08:43"
+    },
+    {
+      "type": "track",
+      "title": "Weird Tales",
+      "duration": "15:04"
+    },
+    {
+      "type": "track",
+      "title": "Barbarian",
+      "duration": "06:29"
+    },
+    {
+      "type": "track",
+      "title": "I, the Witchfinder",
+      "duration": "11:03"
+    },
+    {
+      "type": "track",
+      "title": "The Hills Have Eyes",
+      "duration": "00:47"
+    },
+    {
+      "type": "track",
+      "title": "We Hate You",
+      "duration": "05:08"
+    },
+    {
+      "type": "track",
+      "title": "Dopethrone",
+      "duration": "20:48"
+    }
+  ],
+  "totalDuration": "01:11:08",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/b3b1d84f216de632ab31ff797d36bc4e/2689526/electric-wizard-dopethrone-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:34:46.928Z",
+  "updatedAt": "2025-09-16T15:34:46.928Z"
+}

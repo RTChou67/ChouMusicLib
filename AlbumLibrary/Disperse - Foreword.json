@@ -1,0 +1,76 @@
+{
+  "fileName": "",
+  "title": "Foreword",
+  "artist": "Disperse",
+  "releaseDate": "2017-02-24",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Progressive Metal",
+    "Djent",
+    "Math Rock"
+  ],
+  "tags": [],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Stay",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Surrender",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Bubbles",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Tomorrow",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Tether",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Sleeping Ivy",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Does It Matter How Far?",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Foreword",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Neon",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Gabriel",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Kites",
+      "duration": ""
+    }
+  ],
+  "totalDuration": "00:00",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/c5a764b0ee253e6414c0058b49649d56/6546129/disperse-foreword-Cover-Art.jpg",
+  "createdAt": "",
+  "updatedAt": "2025-09-16T16:41:04.428Z"
+}

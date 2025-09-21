@@ -1,0 +1,80 @@
+{
+  "fileName": "Sopor Aeternus & The Ensemble of Shadows - Poetica.json",
+  "title": "Poetica",
+  "artist": "Sopor Aeternus & The Ensemble of Shadows",
+  "releaseDate": "2013-09-19",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Neoclassical Darkwave",
+    "Poetry"
+  ],
+  "tags": [
+    "nonbinary vocalist",
+    "dark",
+    "melancholic",
+    "poetic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "The Oblong Box",
+      "duration": "01:21"
+    },
+    {
+      "type": "track",
+      "title": "Dreamland",
+      "duration": "14:24"
+    },
+    {
+      "type": "track",
+      "title": "Eldorado",
+      "duration": "05:34"
+    },
+    {
+      "type": "track",
+      "title": "The Sleeper",
+      "duration": "11:01"
+    },
+    {
+      "type": "track",
+      "title": "Alone",
+      "duration": "05:06"
+    },
+    {
+      "type": "track",
+      "title": "The Conqueror Worm",
+      "duration": "05:50"
+    },
+    {
+      "type": "track",
+      "title": "Alone (2)",
+      "duration": "07:17"
+    },
+    {
+      "type": "track",
+      "title": "The City in the Sea",
+      "duration": "10:46"
+    },
+    {
+      "type": "track",
+      "title": "The Oblong Box (2)",
+      "duration": "01:17"
+    },
+    {
+      "type": "track",
+      "title": "The Haunted Palace",
+      "duration": "10:16"
+    },
+    {
+      "type": "track",
+      "title": "A Dream Within a Dream",
+      "duration": "06:12"
+    }
+  ],
+  "totalDuration": "01:19:04",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/3ec18c50fca1799470239428f23b6b09/5367673/sopor-aeternus-and-the-ensemble-of-shadows-poetica-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

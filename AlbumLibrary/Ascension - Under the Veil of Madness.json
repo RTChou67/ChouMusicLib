@@ -1,0 +1,68 @@
+{
+  "fileName": "",
+  "title": "Under the Veil of Madness",
+  "artist": "Ascension",
+  "releaseDate": "2023-02-24",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Power Metal",
+    "Progressive Metal",
+    "Symphonic Metal"
+  ],
+  "tags": [
+    "technical"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Sayonara",
+      "duration": "06:21"
+    },
+    {
+      "type": "track",
+      "title": "Megalomaniac",
+      "duration": "03:58"
+    },
+    {
+      "type": "track",
+      "title": "Defiance",
+      "duration": "04:59"
+    },
+    {
+      "type": "track",
+      "title": "Monsters",
+      "duration": "07:15"
+    },
+    {
+      "type": "track",
+      "title": "Set You Free",
+      "duration": "05:36"
+    },
+    {
+      "type": "track",
+      "title": "Last Winter's Night",
+      "duration": "09:09"
+    },
+    {
+      "type": "track",
+      "title": "Under the Veil of Madness",
+      "duration": "08:45"
+    },
+    {
+      "type": "track",
+      "title": "Power of a Thousand Suns",
+      "duration": "03:04"
+    },
+    {
+      "type": "track",
+      "title": "Pages of Gold",
+      "duration": "06:19"
+    }
+  ],
+  "totalDuration": "55:26",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/0bf96fe6a39e13556123b429d8596836/10678094/ascension-under-the-veil-of-madness-Cover-Art.jpg",
+  "createdAt": "",
+  "updatedAt": "2025-09-16T16:37:39.366Z"
+}

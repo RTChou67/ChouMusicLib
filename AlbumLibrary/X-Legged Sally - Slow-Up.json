@@ -1,0 +1,102 @@
+{
+  "fileName": "X-Legged Sally - Slow-Up.json",
+  "title": "Slow-Up",
+  "artist": "X-Legged Sally",
+  "releaseDate": "1991-01-01",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Avant-Prog",
+    "Jazz Fusion",
+    "Art Punk"
+  ],
+  "tags": [
+    "playful",
+    "progressive",
+    "quirky",
+    "technical",
+    "male vocalist"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "FFWD",
+      "duration": "05:35"
+    },
+    {
+      "type": "track",
+      "title": "Zippo Raid",
+      "duration": "04:19"
+    },
+    {
+      "type": "track",
+      "title": "XLS",
+      "duration": "06:53"
+    },
+    {
+      "type": "track",
+      "title": "Down at the Dinghy",
+      "duration": "04:34"
+    },
+    {
+      "type": "track",
+      "title": "Bacon & Eggs",
+      "duration": "05:25"
+    },
+    {
+      "type": "track",
+      "title": "34th Street",
+      "duration": "04:59"
+    },
+    {
+      "type": "track",
+      "title": "Blackhead Blue Blues",
+      "duration": "05:08"
+    },
+    {
+      "type": "track",
+      "title": "Lacto",
+      "duration": "01:06"
+    },
+    {
+      "type": "track",
+      "title": "Fuck & Coffee",
+      "duration": "02:50"
+    },
+    {
+      "type": "track",
+      "title": "Turkish Bath",
+      "duration": "05:21"
+    },
+    {
+      "type": "track",
+      "title": "Little Hearts",
+      "duration": "04:24"
+    },
+    {
+      "type": "track",
+      "title": "Liquid",
+      "duration": "04:06"
+    },
+    {
+      "type": "track",
+      "title": "Pinocchio",
+      "duration": "05:05"
+    },
+    {
+      "type": "track",
+      "title": "Memphis",
+      "duration": "04:49"
+    },
+    {
+      "type": "track",
+      "title": "Ongenaam",
+      "duration": "01:54"
+    }
+  ],
+  "totalDuration": "01:06:28",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/32de6598fab420c6b9cf9a62a91a3cdd/1774737/x-legged-sally-slow-up-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:28:26.047Z",
+  "updatedAt": "2025-09-12T17:28:26.047Z"
+}

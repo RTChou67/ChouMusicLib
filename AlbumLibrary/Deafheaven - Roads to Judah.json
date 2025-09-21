@@ -1,0 +1,62 @@
+{
+  "fileName": "Deafheaven - Roads to Judah.json",
+  "title": "Roads to Judah",
+  "artist": "Deafheaven",
+  "releaseDate": "2011-04-26",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Blackgaze",
+    "Post-Metal",
+    "Post-Rock",
+    "Screamo"
+  ],
+  "tags": [
+    "dense",
+    "melancholic",
+    "aggressive",
+    "passionate",
+    "atmospheric",
+    "male vocalist",
+    "energetic",
+    "epic",
+    "heavy",
+    "longing",
+    "ethereal",
+    "sombre",
+    "anxious",
+    "introspective",
+    "raw",
+    "depressive",
+    "nature",
+    "dark",
+    "dissonant"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Violet",
+      "duration": "12:19"
+    },
+    {
+      "type": "track",
+      "title": "Language Games",
+      "duration": "06:47"
+    },
+    {
+      "type": "track",
+      "title": "Unrequited",
+      "duration": "09:31"
+    },
+    {
+      "type": "track",
+      "title": "Tunnel of Trees",
+      "duration": "09:45"
+    }
+  ],
+  "totalDuration": "38:22",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/402de2474ec4b80ccdde2ebce8fa61e1/7228523/deafheaven-roads-to-judah-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:52:18.808Z",
+  "updatedAt": "2025-09-16T15:52:18.808Z"
+}

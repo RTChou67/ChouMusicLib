@@ -1,0 +1,63 @@
+{
+  "fileName": "Northlane - Mirror's Edge.json",
+  "title": "Mirror's Edge",
+  "artist": "Northlane",
+  "releaseDate": "2024-04-12",
+  "albumFormat": "EP",
+  "rating": 0,
+  "styles": [
+    "Alternative Metal",
+    "Djent",
+    "Metalcore",
+    "Industrial Metal"
+  ],
+  "tags": [
+    "male vocalist",
+    "rhythmic",
+    "ethereal",
+    "energetic",
+    "aggressive",
+    "heavy",
+    "melodic",
+    "atmospheric",
+    "introspective",
+    "existential"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Mirror's Edge",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Afterimage",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Miasma",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Let Me Disappear",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Kraft",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Dante",
+      "duration": ""
+    }
+  ],
+  "totalDuration": "00:00",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/fab183a538e67d6cacea077e1eb54350/11974224/northlane-mirrors-edge-Cover-Art.png",
+  "createdAt": "2025-09-13T16:44:27.659Z",
+  "updatedAt": "2025-09-13T16:44:27.659Z"
+}

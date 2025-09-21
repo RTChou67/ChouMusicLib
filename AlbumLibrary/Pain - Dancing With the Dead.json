@@ -1,0 +1,88 @@
+{
+  "fileName": "Pain - Dancing With the Dead.json",
+  "title": "Dancing With the Dead",
+  "artist": "Pain",
+  "releaseDate": "2005-01-26",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Industrial Metal",
+    "Cyber Metal"
+  ],
+  "tags": [
+    "melodic",
+    "male vocalist",
+    "uplifting",
+    "misanthropic",
+    "mechanical",
+    "energetic",
+    "political"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Don't Count Me Out",
+      "duration": "04:39"
+    },
+    {
+      "type": "track",
+      "title": "Same Old Song",
+      "duration": "03:58"
+    },
+    {
+      "type": "track",
+      "title": "Nothing",
+      "duration": "04:08"
+    },
+    {
+      "type": "track",
+      "title": "The Tables Have Turned",
+      "duration": "04:23"
+    },
+    {
+      "type": "track",
+      "title": "Not Afraid to Die",
+      "duration": "04:15"
+    },
+    {
+      "type": "track",
+      "title": "Dancing With the Dead",
+      "duration": "04:13"
+    },
+    {
+      "type": "track",
+      "title": "Tear It Up",
+      "duration": "03:58"
+    },
+    {
+      "type": "track",
+      "title": "Bye/Die",
+      "duration": "03:02"
+    },
+    {
+      "type": "track",
+      "title": "My Misery",
+      "duration": "03:56"
+    },
+    {
+      "type": "track",
+      "title": "A Good Day to Die",
+      "duration": "03:45"
+    },
+    {
+      "type": "track",
+      "title": "Stay Away",
+      "duration": "03:20"
+    },
+    {
+      "type": "track",
+      "title": "The Third Wave",
+      "duration": "03:50"
+    }
+  ],
+  "totalDuration": "47:27",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/7b254ca9f4668b4d5563ef1369ddac24/2333201/pain-dancing-with-the-dead-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:43:08.390Z",
+  "updatedAt": "2025-09-16T15:43:08.390Z"
+}

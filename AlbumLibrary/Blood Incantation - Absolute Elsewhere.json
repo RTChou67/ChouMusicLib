@@ -1,0 +1,82 @@
+{
+  "fileName": "Blood Incantation - Absolute Elsewhere.json",
+  "title": "Absolute Elsewhere",
+  "artist": "Blood Incantation",
+  "releaseDate": "2024-10-04",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Death Metal",
+    "Progressive Metal",
+    "Space Rock",
+    "Progressive Rock",
+    "Berlin School"
+  ],
+  "tags": [
+    "progressive",
+    "space",
+    "atmospheric",
+    "complex",
+    "heavy",
+    "eclectic",
+    "technical",
+    "science fiction",
+    "male vocalist",
+    "epic",
+    "psychedelic",
+    "suite",
+    "dense",
+    "uncommon time signatures",
+    "energetic",
+    "mysterious",
+    "concept album",
+    "surreal",
+    "existential",
+    "cryptic",
+    "abstract",
+    "philosophical",
+    "rhythmic",
+    "melodic",
+    "dissonant",
+    "nocturnal",
+    "altruistic",
+    "passionate"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "The Stargate (Tablet I)",
+      "duration": "08:20"
+    },
+    {
+      "type": "track",
+      "title": "The Stargate (Tablet II)",
+      "duration": "05:08"
+    },
+    {
+      "type": "track",
+      "title": "The Stargate (Tablet III)",
+      "duration": "06:51"
+    },
+    {
+      "type": "track",
+      "title": "The Message (Tablet I)",
+      "duration": "05:57"
+    },
+    {
+      "type": "track",
+      "title": "The Message (Tablet II)",
+      "duration": "05:59"
+    },
+    {
+      "type": "track",
+      "title": "The Message (Tablet III)",
+      "duration": "11:28"
+    }
+  ],
+  "totalDuration": "43:43",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/ca83820e8f8315690bc13758a9cef4ec/12453972/blood-incantation-absolute-elsewhere-Cover-Art.jpg",
+  "createdAt": "2025-09-12T18:01:43.620Z",
+  "updatedAt": "2025-09-12T18:01:43.620Z"
+}

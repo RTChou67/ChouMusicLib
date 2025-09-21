@@ -1,0 +1,100 @@
+{
+  "fileName": "Trees - On the Shore.json",
+  "title": "On the Shore",
+  "artist": "Trees",
+  "releaseDate": "1971-01-01",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "British Folk Rock",
+    "Progressive Rock",
+    "Progressive Folk",
+    "Psychedelic Folk",
+    "English Folk Music",
+    "Psychedelic Rock",
+    "Wyrd Folk"
+  ],
+  "tags": [
+    "melodic",
+    "male vocalist",
+    "female vocalist",
+    "pastoral",
+    "progressive",
+    "folklore",
+    "psychedelic",
+    "autumn",
+    "epic",
+    "passionate",
+    "medieval",
+    "playful",
+    "lush",
+    "complex",
+    "forest",
+    "warm"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "Soldiers Three",
+      "duration": "01:51"
+    },
+    {
+      "type": "track",
+      "title": "Murdoch",
+      "duration": "05:10"
+    },
+    {
+      "type": "track",
+      "title": "Streets of Derry",
+      "duration": "07:34"
+    },
+    {
+      "type": "track",
+      "title": "Sally Free and Easy",
+      "duration": "10:10"
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "Fool",
+      "duration": "05:24"
+    },
+    {
+      "type": "track",
+      "title": "Adam's Toon",
+      "duration": "01:13"
+    },
+    {
+      "type": "track",
+      "title": "Geordie",
+      "duration": "05:06"
+    },
+    {
+      "type": "track",
+      "title": "While the Iron Is Hot",
+      "duration": "03:21"
+    },
+    {
+      "type": "track",
+      "title": "Little Sadie",
+      "duration": "03:09"
+    },
+    {
+      "type": "track",
+      "title": "Polly on the Shore",
+      "duration": "06:08"
+    }
+  ],
+  "totalDuration": "49:06",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/70fa6c8dfcf94e83395af4f70b3713b4/11308426/trees-on-the-shore-Cover-Art.jpg",
+  "createdAt": "2025-09-16T16:01:37.615Z",
+  "updatedAt": "2025-09-16T16:01:37.615Z"
+}

@@ -1,0 +1,53 @@
+{
+  "fileName": "Synestia - The Poetic Edda.json",
+  "title": "The Poetic Edda",
+  "artist": "Synestia",
+  "releaseDate": "2024-05-03",
+  "albumFormat": "EP, Collaboration",
+  "rating": 0,
+  "styles": [
+    "Deathcore",
+    "Neoclassical Metal",
+    "Symphonic Metal"
+  ],
+  "tags": [
+    "dense",
+    "aggressive",
+    "heavy",
+    "dark",
+    "technical",
+    "energetic",
+    "complex",
+    "male vocalist",
+    "manic",
+    "chaotic",
+    "atmospheric"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Death Empress",
+      "duration": "03:49"
+    },
+    {
+      "type": "track",
+      "title": "I, the Devourer",
+      "duration": "04:57"
+    },
+    {
+      "type": "track",
+      "title": "The Poetic Edda",
+      "duration": "06:05"
+    },
+    {
+      "type": "track",
+      "title": "Winter",
+      "duration": "05:29"
+    }
+  ],
+  "totalDuration": "20:20",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/2999d6db8bc16195104eb69ea12861ca/12077602/synestia-and-disembodied-tyrant-the-poetic-edda-Cover-Art.png",
+  "createdAt": "2025-09-12T17:25:06.065Z",
+  "updatedAt": "2025-09-12T17:25:06.065Z"
+}

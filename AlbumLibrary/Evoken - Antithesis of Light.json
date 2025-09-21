@@ -1,0 +1,73 @@
+{
+  "fileName": "Evoken - Antithesis of Light.json",
+  "title": "Antithesis of Light",
+  "artist": "Evoken",
+  "releaseDate": "2005-03-21",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Funeral Doom Metal",
+    "Death Doom Metal"
+  ],
+  "tags": [
+    "funereal",
+    "ominous",
+    "depressive",
+    "heavy",
+    "atmospheric",
+    "apocalyptic",
+    "death",
+    "male vocalist",
+    "cold",
+    "sombre",
+    "nihilistic",
+    "dense",
+    "abstract",
+    "surreal",
+    "infernal",
+    "scary",
+    "hypnotic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Intro",
+      "duration": "00:49"
+    },
+    {
+      "type": "track",
+      "title": "In Solitary Ruin",
+      "duration": "10:44"
+    },
+    {
+      "type": "track",
+      "title": "Accursed Premonition",
+      "duration": "12:33"
+    },
+    {
+      "type": "track",
+      "title": "The Mournful Refusal",
+      "duration": "13:30"
+    },
+    {
+      "type": "track",
+      "title": "Pavor Nocturnus",
+      "duration": "10:46"
+    },
+    {
+      "type": "track",
+      "title": "Antithesis of Light",
+      "duration": "12:16"
+    },
+    {
+      "type": "track",
+      "title": "The Last of Vitality",
+      "duration": "11:00"
+    }
+  ],
+  "totalDuration": "01:11:38",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/55c75a3581dcdcd9f69e163f17b8713c/3274401/evoken-antithesis-of-light-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:34:17.746Z",
+  "updatedAt": "2025-09-16T15:34:17.746Z"
+}

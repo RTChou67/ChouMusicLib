@@ -1,0 +1,108 @@
+{
+  "fileName": "Unprocessed - Gold.json",
+  "title": "Gold",
+  "artist": "Unprocessed",
+  "releaseDate": "2022-08-12",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Progressive Metal",
+    "Djent",
+    "Math Rock",
+    "Alt-Pop",
+    "Alternative Metal"
+  ],
+  "tags": [
+    "sensual",
+    "technical",
+    "lush",
+    "male vocalist"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Rain",
+      "duration": "02:59"
+    },
+    {
+      "type": "track",
+      "title": "Redwine",
+      "duration": "02:40"
+    },
+    {
+      "type": "track",
+      "title": "The Longing",
+      "duration": "04:38"
+    },
+    {
+      "type": "track",
+      "title": "Orange Grove",
+      "duration": "03:50"
+    },
+    {
+      "type": "track",
+      "title": "Mint",
+      "duration": "03:04"
+    },
+    {
+      "type": "track",
+      "title": "Snake",
+      "duration": "03:00"
+    },
+    {
+      "type": "track",
+      "title": "Closer",
+      "duration": "03:18"
+    },
+    {
+      "type": "track",
+      "title": "Velvet",
+      "duration": "03:05"
+    },
+    {
+      "type": "track",
+      "title": "Scorpio",
+      "duration": "04:06"
+    },
+    {
+      "type": "track",
+      "title": "Dinner",
+      "duration": "04:28"
+    },
+    {
+      "type": "track",
+      "title": "The Game",
+      "duration": "03:05"
+    },
+    {
+      "type": "track",
+      "title": "Ocean",
+      "duration": "03:36"
+    },
+    {
+      "type": "track",
+      "title": "Fabulist",
+      "duration": "03:07"
+    },
+    {
+      "type": "track",
+      "title": "Portrait",
+      "duration": "04:03"
+    },
+    {
+      "type": "track",
+      "title": "Berlin",
+      "duration": "04:41"
+    },
+    {
+      "type": "track",
+      "title": "Gold",
+      "duration": "03:51"
+    }
+  ],
+  "totalDuration": "57:31",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/4c30655ac4ff3273cc09f797687edbec/10070756/unprocessed-gold-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:27:05.438Z",
+  "updatedAt": "2025-09-16T15:27:05.438Z"
+}

@@ -1,0 +1,95 @@
+{
+  "fileName": "Heilung - Futha.json",
+  "title": "Futha",
+  "artist": "Heilung",
+  "releaseDate": "2019-06-28",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Neo-Pagan Folk",
+    "Dark Folk",
+    "Nordic Folk Music",
+    "Central Asian Throat Singing",
+    "Tribal Ambient",
+    "Ritual Ambient",
+    "Rune Singing"
+  ],
+  "tags": [
+    "pagan",
+    "ritualistic",
+    "rhythmic",
+    "hypnotic",
+    "tribal",
+    "forest",
+    "repetitive",
+    "dark",
+    "mythology",
+    "male vocalist",
+    "mysterious",
+    "female vocalist",
+    "cold",
+    "spiritual",
+    "atmospheric",
+    "poetic",
+    "folklore",
+    "winter",
+    "epic",
+    "ethereal",
+    "ominous",
+    "war",
+    "occult",
+    "Vikings"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Galgaldr",
+      "duration": "10:21"
+    },
+    {
+      "type": "track",
+      "title": "Norupo",
+      "duration": "04:17"
+    },
+    {
+      "type": "track",
+      "title": "Othan",
+      "duration": "10:18"
+    },
+    {
+      "type": "track",
+      "title": "Traust",
+      "duration": "09:48"
+    },
+    {
+      "type": "track",
+      "title": "Vapnatak",
+      "duration": "04:02"
+    },
+    {
+      "type": "track",
+      "title": "Svanrand",
+      "duration": "03:36"
+    },
+    {
+      "type": "track",
+      "title": "Elivagar",
+      "duration": "08:44"
+    },
+    {
+      "type": "track",
+      "title": "Elddansurin",
+      "duration": "08:05"
+    },
+    {
+      "type": "track",
+      "title": "Hamrer hippyer",
+      "duration": "14:16"
+    }
+  ],
+  "totalDuration": "01:13:27",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/b3320619a8caedc85b0f7575b153d46c/7621324/heilung-futha-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:26:27.180Z",
+  "updatedAt": "2025-09-12T17:26:27.180Z"
+}

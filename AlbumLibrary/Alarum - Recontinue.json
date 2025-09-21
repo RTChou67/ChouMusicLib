@@ -1,0 +1,77 @@
+{
+  "fileName": "Alarum - Recontinue.json",
+  "title": "Recontinue",
+  "artist": "Alarum",
+  "releaseDate": "2024-11-08",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Progressive Metal",
+    "Technical Thrash Metal",
+    "Technical Death Metal",
+    "Jazz Fusion"
+  ],
+  "tags": [],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Introspective",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Imperative",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "The Visitor",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "A Lifelong Question",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Unresolve",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Metanoia",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Zero Nine Thirty",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Unheard Words",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Footprints",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Into Existing",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Awaken by Fire",
+      "duration": ""
+    }
+  ],
+  "totalDuration": "00:00",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/75a00f9a1e2700ae587283173e30c426/12664574/alarum-recontinue-Cover-Art.jpg",
+  "createdAt": "2025-09-12T18:02:34.256Z",
+  "updatedAt": "2025-09-12T18:02:34.256Z"
+}

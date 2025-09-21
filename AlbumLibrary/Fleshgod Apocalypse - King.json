@@ -1,0 +1,90 @@
+{
+  "fileName": "Fleshgod Apocalypse - King.json",
+  "title": "King",
+  "artist": "Fleshgod Apocalypse",
+  "releaseDate": "2016-02-05",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Symphonic Metal",
+    "Death Metal",
+    "Technical Death Metal"
+  ],
+  "tags": [
+    "triumphant",
+    "epic",
+    "energetic",
+    "male vocalist",
+    "technical",
+    "heavy",
+    "medieval",
+    "martial"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Marche Royale",
+      "duration": "01:57"
+    },
+    {
+      "type": "track",
+      "title": "In Aeternum",
+      "duration": "05:25"
+    },
+    {
+      "type": "track",
+      "title": "Healing Through War",
+      "duration": "04:43"
+    },
+    {
+      "type": "track",
+      "title": "The Fool",
+      "duration": "04:06"
+    },
+    {
+      "type": "track",
+      "title": "Cold as Perfection",
+      "duration": "06:31"
+    },
+    {
+      "type": "track",
+      "title": "Mitra",
+      "duration": "03:49"
+    },
+    {
+      "type": "track",
+      "title": "Paramour (Die Leidenschaft bringt Leiden)",
+      "duration": "03:42"
+    },
+    {
+      "type": "track",
+      "title": "And the Vulture Beholds",
+      "duration": "05:12"
+    },
+    {
+      "type": "track",
+      "title": "Gravity",
+      "duration": "05:12"
+    },
+    {
+      "type": "track",
+      "title": "A Million Deaths",
+      "duration": "05:27"
+    },
+    {
+      "type": "track",
+      "title": "Syphilis",
+      "duration": "07:22"
+    },
+    {
+      "type": "track",
+      "title": "King",
+      "duration": "03:59"
+    }
+  ],
+  "totalDuration": "57:25",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/5f017b5d25b60f4c32d174a7d46140d6/5904798/fleshgod-apocalypse-king-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:33:12.445Z",
+  "updatedAt": "2025-09-13T16:33:12.445Z"
+}

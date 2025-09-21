@@ -1,0 +1,95 @@
+{
+  "fileName": "Ghost - Impera.json",
+  "title": "Impera",
+  "artist": "Ghost",
+  "releaseDate": "2022-03-11",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Hard Rock",
+    "AOR",
+    "Occult Rock",
+    "Heavy Metal",
+    "Glam Metal",
+    "Occult Rock"
+  ],
+  "tags": [
+    "male vocalist",
+    "melodic",
+    "anti-religious",
+    "anthemic",
+    "energetic",
+    "political",
+    "epic",
+    "triumphant",
+    "theatrical",
+    "lush"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Imperium",
+      "duration": "01:40"
+    },
+    {
+      "type": "track",
+      "title": "Kaisarion",
+      "duration": "05:02"
+    },
+    {
+      "type": "track",
+      "title": "Spillways",
+      "duration": "03:17"
+    },
+    {
+      "type": "track",
+      "title": "Call Me Little Sunshine",
+      "duration": "04:44"
+    },
+    {
+      "type": "track",
+      "title": "Hunter's Moon",
+      "duration": "03:16"
+    },
+    {
+      "type": "track",
+      "title": "Watcher in the Sky",
+      "duration": "05:48"
+    },
+    {
+      "type": "track",
+      "title": "Dominion",
+      "duration": "01:23"
+    },
+    {
+      "type": "track",
+      "title": "Twenties",
+      "duration": "03:46"
+    },
+    {
+      "type": "track",
+      "title": "Darkness at the Heart of My Love",
+      "duration": "04:59"
+    },
+    {
+      "type": "track",
+      "title": "Griftwood",
+      "duration": "05:16"
+    },
+    {
+      "type": "track",
+      "title": "Bite of Passage",
+      "duration": "00:31"
+    },
+    {
+      "type": "track",
+      "title": "Respite on the Spitalfields",
+      "duration": "06:43"
+    }
+  ],
+  "totalDuration": "46:25",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/e2161643f96267f45d09408423129958/9710954/ghost-impera-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

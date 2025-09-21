@@ -1,0 +1,94 @@
+{
+  "fileName": "Nile - Annihilation of the Wicked.json",
+  "title": "Annihilation of the Wicked",
+  "artist": "Nile",
+  "releaseDate": "2005-05-24",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Technical Death Metal",
+    "Brutal Death Metal"
+  ],
+  "tags": [
+    "heavy",
+    "technical",
+    "mythology",
+    "aggressive",
+    "history",
+    "male vocalist",
+    "epic",
+    "death",
+    "energetic",
+    "occult",
+    "uncommon time signatures",
+    "dense",
+    "desert",
+    "complex",
+    "fantasy",
+    "dark",
+    "infernal",
+    "ominous",
+    "rhythmic",
+    "folklore",
+    "atmospheric",
+    "progressive",
+    "antiquity"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Dusk Falls Upon the Temple of the Serpent on the Mount of Sunrise",
+      "duration": "00:51"
+    },
+    {
+      "type": "track",
+      "title": "Cast Down the Heretic",
+      "duration": "05:45"
+    },
+    {
+      "type": "track",
+      "title": "Sacrifice Unto Sebek",
+      "duration": "03:02"
+    },
+    {
+      "type": "track",
+      "title": "User-Maat-Re",
+      "duration": "09:14"
+    },
+    {
+      "type": "track",
+      "title": "The Burning Pits of the Duat",
+      "duration": "03:52"
+    },
+    {
+      "type": "track",
+      "title": "Chapter of Obeisance Before Giving Breath to the Inert One in the Presence of the Crescent Shaped Horns",
+      "duration": "05:21"
+    },
+    {
+      "type": "track",
+      "title": "Lashed to the Slave Stick",
+      "duration": "04:18"
+    },
+    {
+      "type": "track",
+      "title": "Spawn of Uamenti",
+      "duration": "01:14"
+    },
+    {
+      "type": "track",
+      "title": "Annihilation of the Wicked",
+      "duration": "08:36"
+    },
+    {
+      "type": "track",
+      "title": "Von Unaussprechlichen Kulten",
+      "duration": "09:46"
+    }
+  ],
+  "totalDuration": "51:59",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/5f9b71a39a66ffc5532f73cbb08ba2dc/2471443/nile-annihilation-of-the-wicked-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:36:34.227Z",
+  "updatedAt": "2025-09-13T16:36:34.227Z"
+}

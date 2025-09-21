@@ -1,0 +1,57 @@
+{
+  "fileName": "DragonForce - Inhuman Rampage.json",
+  "title": "Inhuman Rampage",
+  "artist": "DragonForce",
+  "releaseDate": "2006-01-09",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [],
+  "tags": [],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Through the Fire and Flames",
+      "duration": "07:24"
+    },
+    {
+      "type": "track",
+      "title": "Revolution Deathsquad",
+      "duration": "07:52"
+    },
+    {
+      "type": "track",
+      "title": "Storming the Burning Fields",
+      "duration": "05:19"
+    },
+    {
+      "type": "track",
+      "title": "Operation Ground and Pound",
+      "duration": "07:44"
+    },
+    {
+      "type": "track",
+      "title": "Body Breakdown",
+      "duration": "06:58"
+    },
+    {
+      "type": "track",
+      "title": "Cry for Eternity",
+      "duration": "08:12"
+    },
+    {
+      "type": "track",
+      "title": "The Flame of Youth",
+      "duration": "06:41"
+    },
+    {
+      "type": "track",
+      "title": "Trail of Broken Hearts",
+      "duration": "05:56"
+    }
+  ],
+  "totalDuration": "56:06",
+  "notes": "",
+  "coverData": "https://www.metal-archives.com/images/9/6/9/0/96901.jpg?4821",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

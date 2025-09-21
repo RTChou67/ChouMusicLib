@@ -1,0 +1,78 @@
+{
+  "fileName": "LARCɆNIA ROɆ - Extraction.json",
+  "title": "Extraction",
+  "artist": "LARCɆNIA ROɆ",
+  "releaseDate": "2025-05-16",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Deathcore",
+    "Downtempo Deathcore",
+    "Mathcore",
+    "Slam Death Metal"
+  ],
+  "tags": [
+    "aggressive",
+    "dissonant",
+    "violence",
+    "male vocalist",
+    "heavy"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Teeth",
+      "duration": "01:42"
+    },
+    {
+      "type": "track",
+      "title": "Calcium Closet",
+      "duration": "04:24"
+    },
+    {
+      "type": "track",
+      "title": "Eggy Mess",
+      "duration": "02:45"
+    },
+    {
+      "type": "track",
+      "title": "Carolina Crowd Killer",
+      "duration": "04:18"
+    },
+    {
+      "type": "track",
+      "title": "Lip Split",
+      "duration": "03:31"
+    },
+    {
+      "type": "track",
+      "title": "Sickly Sweet",
+      "duration": "03:44"
+    },
+    {
+      "type": "track",
+      "title": "Cary Ain't No Raleigh",
+      "duration": "03:13"
+    },
+    {
+      "type": "track",
+      "title": "Flesh and Brine",
+      "duration": "04:11"
+    },
+    {
+      "type": "track",
+      "title": "Happy Fingers",
+      "duration": "05:16"
+    },
+    {
+      "type": "track",
+      "title": "Lullaby (Special)",
+      "duration": "04:07"
+    }
+  ],
+  "totalDuration": "37:11",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/7f54f195ffb012033c0f4c082184bef5/13077936/larc%C9%87nia-ro%C9%87-extraction-Cover-Art.jpg",
+  "createdAt": "2025-09-13T17:01:14.814Z",
+  "updatedAt": "2025-09-13T17:01:14.814Z"
+}

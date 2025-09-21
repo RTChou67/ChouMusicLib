@@ -1,0 +1,50 @@
+{
+  "fileName": "Infant Annihilator - Mister Sister Fister_ Re-Conception.json",
+  "title": "Mister Sister Fister: Re-Conception",
+  "artist": "Infant Annihilator",
+  "releaseDate": "2024-10-15",
+  "albumFormat": "EP",
+  "rating": 0,
+  "styles": [
+    "Deathcore",
+    "Technical Death Metal",
+    "Brutal Death Metal"
+  ],
+  "tags": [
+    "heavy",
+    "aggressive",
+    "male vocalist"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Conception: A Nameless Fear",
+      "duration": "04:17"
+    },
+    {
+      "type": "track",
+      "title": "Preternatural Malevolence",
+      "duration": "04:03"
+    },
+    {
+      "type": "track",
+      "title": "Apocalypse Incarnate",
+      "duration": "03:58"
+    },
+    {
+      "type": "track",
+      "title": "Horizons of Flesh",
+      "duration": "04:29"
+    },
+    {
+      "type": "track",
+      "title": "Eviscerated: Complete Annihilation",
+      "duration": "04:37"
+    }
+  ],
+  "totalDuration": "21:24",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/52bc4eee69d4e2b4d237923a14d45bc5/12607123/infant-annihilator-mister-sister-fister-re-conception-Cover-Art.png",
+  "createdAt": "2025-09-12T18:01:00.880Z",
+  "updatedAt": "2025-09-12T18:01:00.880Z"
+}

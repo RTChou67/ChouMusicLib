@@ -1,0 +1,120 @@
+{
+  "fileName": "The Beatles - Rubber Soul.json",
+  "title": "Rubber Soul",
+  "artist": "The Beatles",
+  "releaseDate": "1965-12-03",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Pop Rock",
+    "Folk Rock",
+    "Psychedelic Pop",
+    "Folk Pop",
+    "British Rhythm & Blues",
+    "Motown Sound"
+  ],
+  "tags": [
+    "melodic",
+    "love",
+    "male vocalist",
+    "bittersweet",
+    "romantic",
+    "autumn",
+    "mellow",
+    "melancholic",
+    "eclectic",
+    "longing",
+    "happy",
+    "sentimental",
+    "introspective",
+    "cannabis",
+    "betrayal",
+    "nostalgia",
+    "warm"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "Drive My Car",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Norwegian Wood (This Bird Has Flown)",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "You Won't See Me",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Nowhere Man",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Think for Yourself",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "The Word",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Michelle",
+      "duration": ""
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "What Goes On",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Girl",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "I'm Looking Through You",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "In My Life",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Wait",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "If I Needed Someone",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Run for Your Life",
+      "duration": ""
+    }
+  ],
+  "totalDuration": "00:00",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/4d5694502220ad9d94a8564b7c93f71f/12176961/the-beatles-rubber-soul-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:19:19.461Z",
+  "updatedAt": "2025-09-12T17:19:19.461Z"
+}

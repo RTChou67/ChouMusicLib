@@ -1,0 +1,97 @@
+{
+  "fileName": "Triarii - Pièce Héroique.json",
+  "title": "Pièce Héroique",
+  "artist": "Triarii",
+  "releaseDate": "2006-05-08",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Martial Industrial",
+    "Neoclassical Darkwave",
+    "Electro-Industrial"
+  ],
+  "tags": [
+    "martial",
+    "epic",
+    "triumphant",
+    "war",
+    "male vocalist",
+    "apocalyptic",
+    "rhythmic",
+    "sombre",
+    "choral",
+    "suspenseful",
+    "serious",
+    "female vocalist",
+    "sampling",
+    "history",
+    "energetic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Le crépuscule des dieux",
+      "duration": "05:38"
+    },
+    {
+      "type": "track",
+      "title": "On Wings of Steel",
+      "duration": "03:14"
+    },
+    {
+      "type": "track",
+      "title": "Heldentod",
+      "duration": "03:24"
+    },
+    {
+      "type": "track",
+      "title": "Kameraden",
+      "duration": "04:44"
+    },
+    {
+      "type": "track",
+      "title": "Overkill",
+      "duration": "03:41"
+    },
+    {
+      "type": "track",
+      "title": "Roses 4 Rome",
+      "duration": "03:55"
+    },
+    {
+      "type": "track",
+      "title": "Victoria",
+      "duration": "03:57"
+    },
+    {
+      "type": "track",
+      "title": "Kingdom of the Blind",
+      "duration": "07:43"
+    },
+    {
+      "type": "track",
+      "title": "Heaven & Hell",
+      "duration": "03:52"
+    },
+    {
+      "type": "track",
+      "title": "The Inevitable Farewell of Democracy",
+      "duration": "02:36"
+    },
+    {
+      "type": "track",
+      "title": "Bloodtoil",
+      "duration": "03:19"
+    },
+    {
+      "type": "track",
+      "title": "Sun & Reign",
+      "duration": "08:11"
+    }
+  ],
+  "totalDuration": "54:14",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/7fb8f52b359421335fd391dd1ee6c893/10795006/triarii-piece-heroique-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

@@ -1,0 +1,47 @@
+{
+  "fileName": "Chute du Soleil - The Gate of Void Abyss.json",
+  "title": "The Gate of Void Abyss",
+  "artist": "Chute du Soleil",
+  "releaseDate": "2020-06-23",
+  "albumFormat": "EP",
+  "rating": 0,
+  "styles": [],
+  "tags": [],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "I, Oathbreaker",
+      "duration": "02:57"
+    },
+    {
+      "type": "track",
+      "title": "Beneath the Shrine of Void",
+      "duration": "07:47"
+    },
+    {
+      "type": "track",
+      "title": "Incarnation",
+      "duration": "06:14"
+    },
+    {
+      "type": "track",
+      "title": "The Last Spheri",
+      "duration": "04:43"
+    },
+    {
+      "type": "track",
+      "title": "Abyss Alchemy",
+      "duration": "05:44"
+    },
+    {
+      "type": "track",
+      "title": "Blasphemous Ritual",
+      "duration": "04:58"
+    }
+  ],
+  "totalDuration": "32:23",
+  "notes": "",
+  "coverData": "",
+  "createdAt": "2025-09-16T15:38:15.047Z",
+  "updatedAt": "2025-09-16T15:38:15.047Z"
+}

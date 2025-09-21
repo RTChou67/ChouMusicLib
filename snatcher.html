@@ -1,0 +1,776 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>专辑信息提取器 (MA, RYM, BC)</title>
+        <style>
+            :root {
+                --bg: #0f1724;
+                --card: #182638;
+                --muted: #9aa4b2;
+                --glass: rgba(255, 255, 255, 0.04);
+                --border-color: rgba(255, 255, 255, 0.1);
+                /* --accent will be set by JS */
+            }
+            [data-theme="ma"] {
+                --accent: #10b981;
+            }
+            [data-theme="rym"] {
+                --accent: #2c72b5;
+            }
+            [data-theme="bc"] {
+                --accent: #629aa9;
+            } /* [新增] Bandcamp 主题色 */
+
+            html,
+            body {
+                height: 100%;
+                margin: 0;
+                font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+                background: linear-gradient(180deg, #071226 0%, #081227 100%);
+                color: #e6eef6;
+            }
+            .container {
+                max-width: 900px;
+                margin: 0 auto;
+                padding: 24px;
+                display: flex;
+                flex-direction: column;
+                gap: 24px;
+            }
+            h1,
+            h2 {
+                text-align: center;
+                color: var(--accent);
+                margin: 0;
+                transition: color 0.3s ease;
+            }
+            h2 {
+                text-align: left;
+                font-size: 1.2em;
+            }
+
+            #modeSelector {
+                display: flex;
+                gap: 12px;
+                justify-content: center;
+                margin-bottom: 12px;
+                flex-wrap: wrap;
+            }
+            #modeSelector button {
+                padding: 10px 20px;
+                font-size: 16px;
+                background: var(--card);
+                border: 1px solid var(--border-color);
+                color: var(--muted);
+            }
+            #modeSelector button.active {
+                color: #fff;
+                background: var(--accent);
+                border-color: var(--accent);
+            }
+
+            .input-group {
+                display: flex;
+                gap: 12px;
+            }
+            #albumUrl {
+                flex-grow: 1;
+                background: #0b1220;
+                border: 1px solid var(--border-color);
+                color: inherit;
+                padding: 12px 16px;
+                border-radius: 8px;
+                font-size: 15px;
+                transition: border-color 0.2s;
+            }
+            #albumUrl:focus {
+                outline: none;
+                border-color: var(--accent);
+            }
+            #pageHeader {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                position: relative;
+            }
+
+            #pageHeader a {
+                position: absolute;
+                right: 0;
+                color: var(--muted);
+                font-size: 14px;
+                text-decoration: none;
+            }
+
+            #saveToServerBtn {
+                background-color: #10b981;
+            }
+            textarea,
+            pre {
+                width: 100%;
+                box-sizing: border-box;
+                border-radius: 8px;
+                border: 1px solid var(--border-color);
+                background-color: #0b1220;
+                color: inherit;
+                font-family: monospace;
+                font-size: 14px;
+                padding: 16px;
+            }
+            textarea {
+                min-height: 200px;
+                resize: vertical;
+            }
+            textarea:focus {
+                outline: none;
+                border-color: var(--accent);
+            }
+
+            button {
+                background: var(--accent);
+                border: 1px solid var(--accent);
+                color: #fff;
+                padding: 12px 20px;
+                border-radius: 8px;
+                cursor: pointer;
+                font-size: 16px;
+                transition: background-color 0.2s, opacity 0.2s, border-color 0.2s;
+                white-space: nowrap;
+            }
+            button:hover {
+                filter: brightness(1.2);
+            }
+            button:disabled {
+                opacity: 0.5;
+                cursor: not-allowed;
+            }
+
+            .output-header {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+            }
+            .button-group {
+                display: flex;
+                gap: 12px;
+            }
+            .button-group button {
+                background: var(--card);
+                border-color: var(--border-color);
+                font-size: 14px;
+                padding: 8px 16px;
+            }
+            .button-group button:hover {
+                background-color: rgba(255, 255, 255, 0.1);
+            }
+
+            #status {
+                text-align: center;
+                color: var(--muted);
+                min-height: 20px;
+            }
+            .fallback-section {
+                border-top: 2px solid var(--border-color);
+                padding-top: 24px;
+                display: flex;
+                flex-direction: column;
+                gap: 16px;
+            }
+            .fallback-section h3 {
+                margin: 0;
+                text-align: center;
+                color: var(--muted);
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container" id="container">
+            <header id="pageHeader">
+                <h1>专辑信息提取器</h1>
+                <a href="/">返回音乐库 &rarr;</a>
+            </header>
+
+            <div id="modeSelector">
+                <button data-mode="ma" class="active">Metal Archives</button>
+                <button data-mode="rym">Rate Your Music</button>
+                <button data-mode="bc">Bandcamp</button>
+            </div>
+
+            <h2>方法一：自动抓取 (推荐首先尝试)</h2>
+            <div class="input-group">
+                <input type="url" id="albumUrl" placeholder="请在此处粘贴 Metal-Archives 专辑页面的网址..." />
+                <button id="extractBtn">自动抓取信息</button>
+            </div>
+
+            <div id="status"></div>
+
+            <div class="fallback-section">
+                <h3>如果自动抓取失败，请使用此备用方法：</h3>
+                <textarea
+                    id="htmlSource"
+                    placeholder="1. 在浏览器打开专辑页面&#10;2. 按 Ctrl+U 查看源代码&#10;3. 全选 (Ctrl+A) 并复制 (Ctrl+C)&#10;4. 在此粘贴全部代码"
+                ></textarea>
+                <button id="parseBtn">从源代码解析</button>
+            </div>
+
+            <div class="output-header">
+                <h2>生成的JSON:</h2>
+                <div class="button-group">
+                    <button id="copyBtn">复制JSON</button>
+                    <button id="downloadBtn">下载JSON</button>
+                    <button id="saveToServerBtn">保存到音乐库</button>
+                </div>
+            </div>
+            <pre><code id="jsonOutput"></code></pre>
+        </div>
+
+        <script>
+            const App = {
+                dom: {},
+                state: {
+                    currentMode: "ma", // 'ma', 'rym', or 'bc'
+                },
+                init() {
+                    this.cacheDom();
+                    this.bindEvents();
+                    this.updateUIForMode();
+                },
+                cacheDom() {
+                    this.dom = {
+                        container: document.getElementById("container"),
+                        modeSelector: document.getElementById("modeSelector"),
+                        albumUrl: document.getElementById("albumUrl"),
+                        extractBtn: document.getElementById("extractBtn"),
+                        htmlSource: document.getElementById("htmlSource"),
+                        parseBtn: document.getElementById("parseBtn"),
+                        jsonOutput: document.getElementById("jsonOutput"),
+                        copyBtn: document.getElementById("copyBtn"),
+                        downloadBtn: document.getElementById("downloadBtn"),
+                        saveToServerBtn: document.getElementById("saveToServerBtn"), // [新增]
+                        status: document.getElementById("status"),
+                    };
+                },
+                bindEvents() {
+                    this.dom.modeSelector.addEventListener("click", this.handleModeSwitch.bind(this));
+                    this.dom.extractBtn.addEventListener("click", this.handleExtract.bind(this));
+                    this.dom.parseBtn.addEventListener("click", this.handleParseFromSource.bind(this));
+                    this.dom.copyBtn.addEventListener("click", this.handleCopy.bind(this));
+                    this.dom.downloadBtn.addEventListener("click", this.handleDownload.bind(this));
+                    this.dom.saveToServerBtn.addEventListener("click", this.handleSaveToServer.bind(this)); // [新增]
+                },
+                async handleSaveToServer() {
+                    const jsonText = this.dom.jsonOutput.textContent;
+                    if (!jsonText) {
+                        this.setStatus("没有内容可保存", true);
+                        return;
+                    }
+
+                    this.setStatus("正在保存到服务器...");
+                    setTimeout(() => {
+                        window.location.href = "/"; // '/' 代表网站根目录, 即您的音乐库主页
+                    }, 1000);
+                    try {
+                        const response = await fetch("/api/save-album", {
+                            method: "POST",
+                            headers: {
+                                "Content-Type": "application/json",
+                            },
+                            body: jsonText, // 将JSON字符串作为请求体发送
+                        });
+
+                        const result = await response.json();
+
+                        if (!response.ok) {
+                            // 如果服务器返回错误状态 (如 400, 500)
+                            throw new Error(result.error || "未知服务器错误");
+                        }
+
+                        this.setStatus(result.message, false); // 显示来自服务器的成功消息
+                    } catch (err) {
+                        this.setStatus(`保存失败: ${err.message}`, true);
+                    }
+                },
+                handleModeSwitch(event) {
+                    if (event.target.tagName !== "BUTTON") return;
+                    const newMode = event.target.dataset.mode;
+                    if (newMode !== this.state.currentMode) {
+                        this.state.currentMode = newMode;
+                        this.updateUIForMode();
+                    }
+                },
+                updateUIForMode() {
+                    const mode = this.state.currentMode;
+                    this.dom.container.dataset.theme = mode;
+
+                    this.dom.modeSelector.querySelector(".active")?.classList.remove("active");
+                    this.dom.modeSelector.querySelector(`[data-mode="${mode}"]`)?.classList.add("active");
+
+                    let placeholderText = "";
+                    if (mode === "ma") placeholderText = "请在此处粘贴 Metal-Archives 专辑页面的网址...";
+                    else if (mode === "rym") placeholderText = "请在此处粘贴 RYM 专辑页面的网址...";
+                    else if (mode === "bc") placeholderText = "请在此处粘贴 Bandcamp 专辑页面的网址...";
+                    this.dom.albumUrl.placeholder = placeholderText;
+
+                    this.dom.albumUrl.value = "";
+                    this.dom.htmlSource.value = "";
+                    this.dom.jsonOutput.textContent = "";
+                    this.setStatus("");
+                },
+                setStatus(message, isError = false) {
+                    this.dom.status.textContent = message;
+                    this.dom.status.style.color = isError ? "#f87171" : "var(--muted)";
+                },
+                handleParseFromSource() {
+                    const source = this.dom.htmlSource.value;
+                    if (!source) {
+                        this.setStatus("HTML源代码不能为空！", true);
+                        return;
+                    }
+                    try {
+                        let data;
+                        switch (this.state.currentMode) {
+                            case "ma":
+                                data = this.parseMaHtml(source);
+                                break;
+                            case "rym":
+                                data = this.parseRymHtml(source);
+                                break;
+                            case "bc":
+                                data = this.parseBcHtml(source);
+                                break;
+                        }
+                        this.dom.jsonOutput.textContent = JSON.stringify(data, null, 2);
+                        this.setStatus("从源代码解析成功！");
+                    } catch (e) {
+                        this.dom.jsonOutput.textContent = "";
+                        this.setStatus(`解析失败: ${e.message}`, true);
+                        console.error(e);
+                    }
+                },
+                async handleExtract() {
+                    const url = this.dom.albumUrl.value.trim();
+                    let urlValidation = false,
+                        siteName = "";
+                    switch (this.state.currentMode) {
+                        case "ma":
+                            urlValidation = url.includes("metal-archives.com/albums/");
+                            siteName = "Metal Archives";
+                            break;
+                        case "rym":
+                            urlValidation = url.includes("rateyourmusic.com/release/album/");
+                            siteName = "Rate Your Music";
+                            break;
+                        case "bc":
+                            urlValidation = url.includes(".bandcamp.com/album/");
+                            siteName = "Bandcamp";
+                            break;
+                    }
+
+                    if (!url || !urlValidation) {
+                        this.setStatus(`请输入一个有效的 ${siteName} 专辑网址！`, true);
+                        return;
+                    }
+
+                    this.dom.extractBtn.disabled = true;
+                    this.dom.extractBtn.textContent = "抓取中...";
+                    this.setStatus("正在通过代理请求页面...");
+                    this.dom.jsonOutput.textContent = "";
+
+                    const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`;
+                    try {
+                        const response = await fetch(proxyUrl, { headers: { "X-Requested-With": "XMLHttpRequest" } });
+                        if (!response.ok) throw new Error(`网络请求失败: ${response.statusText}`);
+                        const data = await response.json();
+                        const htmlContent = data.contents;
+                        if (!htmlContent) throw new Error("代理返回的内容为空。");
+                        this.setStatus("页面获取成功，正在解析...");
+
+                        let albumData;
+                        switch (this.state.currentMode) {
+                            case "ma":
+                                albumData = this.parseMaHtml(htmlContent);
+                                break;
+                            case "rym":
+                                albumData = this.parseRymHtml(htmlContent);
+                                break;
+                            case "bc":
+                                albumData = this.parseBcHtml(htmlContent);
+                                break;
+                        }
+
+                        this.dom.jsonOutput.textContent = JSON.stringify(albumData, null, 2);
+                        this.setStatus("自动抓取成功！");
+                    } catch (e) {
+                        this.dom.jsonOutput.textContent = "";
+                        this.setStatus(`自动抓取失败: ${e.message}。请尝试下方的备用方法。`, true);
+                        console.error(e);
+                    } finally {
+                        this.dom.extractBtn.disabled = false;
+                        this.dom.extractBtn.textContent = "自动抓取信息";
+                    }
+                },
+                async handleCopy() {
+                    const jsonText = this.dom.jsonOutput.textContent;
+                    if (!jsonText) {
+                        this.setStatus("没有内容可复制", true);
+                        return;
+                    }
+                    try {
+                        await navigator.clipboard.writeText(jsonText);
+                        this.setStatus("JSON已成功复制到剪贴板!");
+                    } catch (err) {
+                        this.setStatus("复制失败: " + err, true);
+                    }
+                },
+                handleDownload() {
+                    const jsonText = this.dom.jsonOutput.textContent;
+                    if (!jsonText) {
+                        this.setStatus("没有内容可下载", true);
+                        return;
+                    }
+                    try {
+                        const albumData = JSON.parse(jsonText);
+                        if (!albumData.artist || !albumData.title) {
+                            this.setStatus("JSON中缺少艺术家或标题信息", true);
+                            return;
+                        }
+                        const safeFileName =
+                            `${albumData.artist} - ${albumData.title}`.replace(/[<>:"/\\|?*]/g, "_") + ".json";
+                        this.download(jsonText, safeFileName, "application/json");
+                        this.setStatus("JSON文件已开始下载！");
+                    } catch (e) {
+                        this.setStatus("JSON内容无效，无法下载", true);
+                        console.error("Download error:", e);
+                    }
+                },
+                download(content, filename, mime) {
+                    const blob = new Blob([content], { type: mime });
+                    const url = URL.createObjectURL(blob);
+                    const a = document.createElement("a");
+                    a.href = url;
+                    a.download = filename;
+                    document.body.appendChild(a);
+                    a.click();
+                    a.remove();
+                    setTimeout(() => URL.revokeObjectURL(url), 2000);
+                },
+
+                // --- Metal Archives Parser ---
+                parseMaHtml(htmlString) {
+                    const parser = new DOMParser();
+                    const doc = parser.parseFromString(htmlString, "text/html");
+                    const getText = (selector) => doc.querySelector(selector)?.textContent.trim() || "";
+                    const getAttr = (selector, attr) => doc.querySelector(selector)?.[attr] || "";
+                    let albumData = {
+                        title: getText(".album_name a"),
+                        artist: getText(".band_name a"),
+                        releaseDate: "",
+                        albumFormat: "",
+                        coverData: getAttr("#cover img", "src"),
+                        tracklist: [],
+                        totalDuration: "",
+                    };
+                    if (!albumData.title || !albumData.artist) {
+                        const singleH1 = doc.querySelector("#content_wrapper h1");
+                        if (singleH1) {
+                            const artistLink = singleH1.querySelector("a");
+                            if (artistLink) {
+                                albumData.artist = artistLink.textContent.trim();
+                                albumData.title = singleH1.textContent
+                                    .trim()
+                                    .replace(albumData.artist, "")
+                                    .replace(/^-\s*/, "")
+                                    .trim();
+                            }
+                        }
+                    }
+                    if (!albumData.title || !albumData.artist) throw new Error("无法在HTML中找到专辑或乐队名称。");
+                    doc.querySelectorAll("#album_info .float_left dt").forEach((dt) => {
+                        const dtText = dt.textContent.trim(),
+                            ddElement = dt.nextElementSibling;
+                        if (!ddElement) return;
+                        if (dtText === "Type:") albumData.albumFormat = ddElement.textContent.trim();
+                        if (dtText === "Release date:") {
+                            const dateText = ddElement.textContent.trim();
+                            try {
+                                const date = new Date(dateText.replace(/(\d+)(st|nd|rd|th)/, "$1"));
+                                if (!isNaN(date.getTime()))
+                                    albumData.releaseDate = `${date.getFullYear()}-${String(
+                                        date.getMonth() + 1
+                                    ).padStart(2, "0")}-${String(date.getDate()).padStart(2, "0")}`;
+                                else albumData.releaseDate = dateText;
+                            } catch (e) {
+                                albumData.releaseDate = dateText;
+                            }
+                        }
+                    });
+                    const trackTable = doc.querySelector(".table_lyrics");
+                    if (!trackTable) throw new Error("找不到曲目列表表格。");
+                    rows = trackTable.querySelectorAll("tr");
+                    rows.forEach((row) => {
+                        const headerCell = row.querySelector("td[colspan]");
+                        if (headerCell) {
+                            const headerText = headerCell.textContent.trim();
+                            if (
+                                headerText.toLowerCase().startsWith("disc ") ||
+                                headerText.toLowerCase().startsWith("side ")
+                            ) {
+                                albumData.tracklist.push({ type: "header", title: headerText });
+                                return;
+                            }
+                        }
+                        const cells = row.querySelectorAll("td");
+                        if (cells.length >= 3 && !row.querySelector("td[colspan]")) {
+                            const title = cells[1].textContent.trim();
+                            const duration = cells[2].textContent.trim();
+                            if (title) albumData.tracklist.push({ type: "track", title, duration });
+                        }
+                    });
+                    let totalSeconds = 0;
+                    albumData.tracklist.forEach((track) => {
+                        if (track.type === "track" && track.duration) {
+                            const parts = track.duration.split(":").map(Number);
+                            if (parts.length === 2) totalSeconds += parts[0] * 60 + parts[1];
+                            else if (parts.length === 3) totalSeconds += parts[0] * 3600 + parts[1] * 60 + parts[2];
+                        }
+                    });
+                    if (totalSeconds > 0) {
+                        const h = Math.floor(totalSeconds / 3600),
+                            m = Math.floor((totalSeconds % 3600) / 60),
+                            s = totalSeconds % 60;
+                        albumData.totalDuration =
+                            h > 0
+                                ? `${String(h).padStart(2, "0")}:${String(m).padStart(2, "0")}:${String(s).padStart(
+                                      2,
+                                      "0"
+                                  )}`
+                                : `${String(m).padStart(2, "0")}:${String(s).padStart(2, "0")}`;
+                    }
+                    const now = new Date().toISOString();
+                    albumData.createdAt = now;
+                    albumData.updatedAt = now;
+                    return albumData;
+                },
+
+                // --- Rate Your Music Parser ---
+                parseRymHtml(htmlString) {
+                    const parser = new DOMParser();
+                    const doc = parser.parseFromString(htmlString, "text/html");
+                    const getText = (s, c = doc) => c.querySelector(s)?.textContent.trim() || "";
+                    const getAttr = (s, a, c = doc) => c.querySelector(s)?.[a] || "";
+                    const albumData = {
+                        title: "",
+                        artist: "",
+                        releaseDate: "",
+                        albumFormat: "",
+                        styles: [],
+                        tags: [],
+                        coverData: "",
+                        tracklist: [],
+                        totalDuration: "",
+                    };
+                    const titleEl = doc.querySelector(".album_title");
+                    if (titleEl) {
+                        for (const node of titleEl.childNodes) {
+                            if (node.nodeType === Node.TEXT_NODE && node.textContent.trim()) {
+                                albumData.title = node.textContent.trim();
+                                break;
+                            }
+                        }
+                    }
+                    albumData.artist = getText(".album_info .artist");
+                    let coverUrl = getAttr("img[alt^='Cover art for']", "src");
+                    if (coverUrl) {
+                        if (coverUrl.startsWith("//")) coverUrl = "https:" + coverUrl;
+                        else if (coverUrl.startsWith("file://")) coverUrl = coverUrl.replace(/^file:/, "https:");
+                    }
+                    albumData.coverData = coverUrl;
+                    if (!albumData.title || !albumData.artist) throw new Error("无法找到专辑标题或艺术家。");
+                    doc.querySelectorAll("table.album_info tr").forEach((row) => {
+                        const label = getText("th.info_hdr", row),
+                            valueCell = row.querySelector("td");
+                        if (!label || !valueCell) return;
+                        switch (label) {
+                            case "Released":
+                                try {
+                                    const d = new Date(valueCell.textContent.trim());
+                                    if (!isNaN(d.getTime()))
+                                        albumData.releaseDate = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(
+                                            2,
+                                            "0"
+                                        )}-${String(d.getDate()).padStart(2, "0")}`;
+                                } catch (e) {}
+                                break;
+                            case "Type":
+                                const ft = valueCell.textContent.trim();
+                                albumData.albumFormat = ft.toLowerCase() === "album" ? "Full-Length" : ft;
+                                break;
+                            case "Genres":
+                                albumData.styles = Array.from(valueCell.querySelectorAll("a.genre")).map((l) =>
+                                    l.textContent.trim()
+                                );
+                                break;
+                            case "Descriptors":
+                                const dt = getText(".release_pri_descriptors", valueCell);
+                                if (dt)
+                                    albumData.tags = dt
+                                        .split(",")
+                                        .map((t) => t.trim())
+                                        .filter(Boolean);
+                                break;
+                        }
+                    });
+                    const tracklistEl = doc.querySelector("ul.tracklisting");
+                    if (tracklistEl) {
+                        let lastMainTrack = null,
+                            currentSide = null;
+                        tracklistEl.querySelectorAll("li.track").forEach((row) => {
+                            const num = row.querySelector(".tracklist_num")?.textContent.trim() || "";
+                            if (num) {
+                                const m = num.match(/^([A-Z])\d+$/i);
+                                if (m && m[1].toUpperCase() !== currentSide) {
+                                    currentSide = m[1].toUpperCase();
+                                    albumData.tracklist.push({ type: "header", title: `Side ${currentSide}` });
+                                } else if (/^\d+$/.test(num)) currentSide = null;
+                            }
+                            const sec =
+                                parseInt(
+                                    row.querySelector(".tracklist_duration")?.getAttribute("data-inseconds"),
+                                    10
+                                ) || 0;
+                            if (num) {
+                                const titleEl = row.querySelector(".song, .tracklist_title .rendered_text");
+                                if (titleEl) {
+                                    const nt = {
+                                        type: "track",
+                                        title: titleEl.textContent.trim().replace(/’/g, "'"),
+                                        duration: "",
+                                        _totalSeconds: sec,
+                                    };
+                                    albumData.tracklist.push(nt);
+                                    lastMainTrack = nt;
+                                }
+                            } else if (lastMainTrack) lastMainTrack._totalSeconds += sec;
+                        });
+                    }
+                    let totalSec = 0;
+                    albumData.tracklist.forEach((track) => {
+                        if (track.type !== "track") return;
+                        const ts = track._totalSeconds || 0;
+                        if (ts > 0) {
+                            const h = Math.floor(ts / 3600),
+                                m = Math.floor((ts % 3600) / 60),
+                                s = ts % 60;
+                            track.duration =
+                                h > 0
+                                    ? `${String(h).padStart(2, "0")}:${String(m).padStart(2, "0")}:${String(s).padStart(
+                                          2,
+                                          "0"
+                                      )}`
+                                    : `${String(m).padStart(2, "0")}:${String(s).padStart(2, "0")}`;
+                        }
+                        totalSec += ts;
+                        delete track._totalSeconds;
+                    });
+                    if (totalSec > 0) {
+                        const h = Math.floor(totalSec / 3600),
+                            m = Math.floor((totalSec % 3600) / 60),
+                            s = totalSec % 60;
+                        albumData.totalDuration =
+                            h > 0
+                                ? `${String(h).padStart(2, "0")}:${String(m).padStart(2, "0")}:${String(s).padStart(
+                                      2,
+                                      "0"
+                                  )}`
+                                : `${String(m).padStart(2, "0")}:${String(s).padStart(2, "0")}`;
+                    }
+                    const now = new Date().toISOString();
+                    albumData.createdAt = now;
+                    albumData.updatedAt = now;
+                    return albumData;
+                },
+
+                // --- Bandcamp Parser ---
+                parseBcHtml(htmlString) {
+                    const parser = new DOMParser();
+                    const doc = parser.parseFromString(htmlString, "text/html");
+                    const getText = (selector) => doc.querySelector(selector)?.textContent.trim() || "";
+                    const getAttr = (selector, attr) => doc.querySelector(selector)?.[attr] || "";
+                    const albumData = {
+                        title: getText("#name-section .trackTitle"),
+                        artist: getText("#name-section h3 a"),
+                        releaseDate: "",
+                        albumFormat: "",
+                        coverData: getAttr("#tralbumArt img", "src"),
+                        tracklist: [],
+                        tags: [],
+                        totalDuration: "",
+                    };
+                    if (!albumData.title || !albumData.artist) throw new Error("无法在HTML中找到专辑或乐队名称。");
+                    const credits = doc.querySelector(".tralbum-credits");
+                    if (credits) {
+                        const match = credits.textContent.match(/released\s+(\w+\s+\d{1,2},\s+\d{4})/);
+                        if (match && match[1]) {
+                            try {
+                                const date = new Date(match[1]);
+                                if (!isNaN(date.getTime()))
+                                    albumData.releaseDate = `${date.getFullYear()}-${String(
+                                        date.getMonth() + 1
+                                    ).padStart(2, "0")}-${String(date.getDate()).padStart(2, "0")}`;
+                            } catch (e) {}
+                        }
+                    }
+                    const titleCase = (str) =>
+                        str
+                            .toLowerCase()
+                            .split(" ")
+                            .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
+                            .join(" ");
+                    albumData.tags = Array.from(doc.querySelectorAll(".tag")).map((tag) =>
+                        titleCase(tag.textContent.trim())
+                    );
+                    const trackTable = doc.getElementById("track_table");
+                    if (!trackTable) throw new Error("找不到曲目列表。");
+                    const rows = trackTable.querySelectorAll("tr.track_row_view");
+                    rows.forEach((row) => {
+                        const titleEl = row.querySelector(".track-title, .title a");
+                        const durationEl = row.querySelector(".time");
+                        if (titleEl && durationEl) {
+                            const title = titleEl.textContent.trim();
+                            const duration = durationEl.textContent.trim();
+                            if (title) albumData.tracklist.push({ type: "track", title, duration });
+                        }
+                    });
+                    let totalSeconds = 0;
+                    albumData.tracklist.forEach((track) => {
+                        if (track.type === "track" && track.duration) {
+                            const parts = track.duration.split(":").map(Number);
+                            if (parts.length === 2) totalSeconds += parts[0] * 60 + parts[1];
+                            else if (parts.length === 3) totalSeconds += parts[0] * 3600 + parts[1] * 60 + parts[2];
+                        }
+                    });
+                    if (totalSeconds > 0) {
+                        const h = Math.floor(totalSeconds / 3600),
+                            m = Math.floor((totalSeconds % 3600) / 60),
+                            s = totalSeconds % 60;
+                        albumData.totalDuration =
+                            h > 0
+                                ? `${String(h).padStart(2, "0")}:${String(m).padStart(2, "0")}:${String(s).padStart(
+                                      2,
+                                      "0"
+                                  )}`
+                                : `${String(m).padStart(2, "0")}:${String(s).padStart(2, "0")}`;
+                    }
+                    const now = new Date().toISOString();
+                    albumData.createdAt = now;
+                    albumData.updatedAt = now;
+                    return albumData;
+                },
+            };
+
+            App.init();
+        </script>
+    </body>
+</html>

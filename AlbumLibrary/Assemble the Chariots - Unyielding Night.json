@@ -1,0 +1,102 @@
+{
+  "fileName": "Assemble the Chariots - Unyielding Night.json",
+  "title": "Unyielding Night",
+  "artist": "Assemble the Chariots",
+  "releaseDate": "2024-07-19",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Deathcore",
+    "Symphonic Metal",
+    "Melodic Death Metal",
+    "Symphonic Black Metal",
+    "Epic Music",
+    "Spoken Word"
+  ],
+  "tags": [
+    "epic",
+    "heavy",
+    "science fiction",
+    "apocalyptic",
+    "orchestral",
+    "dense",
+    "male vocalist"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Aquilegia in Peril",
+      "duration": "01:26"
+    },
+    {
+      "type": "track",
+      "title": "Departure",
+      "duration": "04:15"
+    },
+    {
+      "type": "track",
+      "title": "Admorean Monolith",
+      "duration": "04:09"
+    },
+    {
+      "type": "track",
+      "title": "As Was Seen by Augurers",
+      "duration": "04:27"
+    },
+    {
+      "type": "track",
+      "title": "Shimmering, Pulsing Glow",
+      "duration": "01:26"
+    },
+    {
+      "type": "track",
+      "title": "Evermurk",
+      "duration": "03:24"
+    },
+    {
+      "type": "track",
+      "title": "Reavers March",
+      "duration": "03:45"
+    },
+    {
+      "type": "track",
+      "title": "Ephemeral Stream",
+      "duration": "03:37"
+    },
+    {
+      "type": "track",
+      "title": "Emancipation",
+      "duration": "04:36"
+    },
+    {
+      "type": "track",
+      "title": "Keepers of the Stars",
+      "duration": "04:12"
+    },
+    {
+      "type": "track",
+      "title": "Empress",
+      "duration": "03:48"
+    },
+    {
+      "type": "track",
+      "title": "Last Line of Defence",
+      "duration": "01:46"
+    },
+    {
+      "type": "track",
+      "title": "Galactic Order",
+      "duration": "05:18"
+    },
+    {
+      "type": "track",
+      "title": "Equinox",
+      "duration": "06:38"
+    }
+  ],
+  "totalDuration": "52:47",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/a22b2adafee7afbaeb4cf3addc094565/12318255/assemble-the-chariots-unyielding-night-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:41:27.202Z",
+  "updatedAt": "2025-09-12T17:41:27.202Z"
+}

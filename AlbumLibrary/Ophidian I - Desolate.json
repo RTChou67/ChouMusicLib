@@ -1,0 +1,82 @@
+{
+  "fileName": "Ophidian I - Desolate.json",
+  "title": "Desolate",
+  "artist": "Ophidian I",
+  "releaseDate": "2021-07-16",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Technical Death Metal",
+    "Melodic Death Metal",
+    "Progressive Metal"
+  ],
+  "tags": [
+    "dense",
+    "manic",
+    "technical",
+    "melodic",
+    "male vocalist",
+    "energetic",
+    "uncommon time signatures",
+    "progressive",
+    "space",
+    "science fiction"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Diamonds",
+      "duration": "04:35"
+    },
+    {
+      "type": "track",
+      "title": "Spiral to Oblivion",
+      "duration": "03:31"
+    },
+    {
+      "type": "track",
+      "title": "Storm Aglow",
+      "duration": "04:11"
+    },
+    {
+      "type": "track",
+      "title": "Unfurling the Crescent Moon",
+      "duration": "02:53"
+    },
+    {
+      "type": "track",
+      "title": "Sequential Descent",
+      "duration": "04:30"
+    },
+    {
+      "type": "track",
+      "title": "Captive Infinity",
+      "duration": "03:42"
+    },
+    {
+      "type": "track",
+      "title": "Enslaved in a Desolate Swarm",
+      "duration": "04:04"
+    },
+    {
+      "type": "track",
+      "title": "Dominion Eyes",
+      "duration": "03:12"
+    },
+    {
+      "type": "track",
+      "title": "Jupiter",
+      "duration": "04:00"
+    },
+    {
+      "type": "track",
+      "title": "Wither on the Vine",
+      "duration": "04:07"
+    }
+  ],
+  "totalDuration": "38:45",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/39d49f24bd52cbab4baf64ff0e054307/9035706/ophidian-i-desolate-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

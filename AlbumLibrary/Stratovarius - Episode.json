@@ -1,0 +1,96 @@
+{
+  "fileName": "Stratovarius - Episode.json",
+  "title": "Episode",
+  "artist": "Stratovarius",
+  "releaseDate": "1996-04-22",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Power Metal",
+    "Neoclassical Metal",
+    "Progressive Metal",
+    "Heavy Metal"
+  ],
+  "tags": [
+    "melodic",
+    "energetic",
+    "male vocalist",
+    "existential",
+    "heavy",
+    "passionate",
+    "technical",
+    "introspective",
+    "epic",
+    "anthemic",
+    "lush",
+    "atmospheric",
+    "pessimistic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Father Time",
+      "duration": "05:01"
+    },
+    {
+      "type": "track",
+      "title": "Will the Sun Rise?",
+      "duration": "05:07"
+    },
+    {
+      "type": "track",
+      "title": "Eternity",
+      "duration": "06:56"
+    },
+    {
+      "type": "track",
+      "title": "Episode",
+      "duration": "02:01"
+    },
+    {
+      "type": "track",
+      "title": "Speed of Light",
+      "duration": "03:03"
+    },
+    {
+      "type": "track",
+      "title": "Uncertainty",
+      "duration": "05:59"
+    },
+    {
+      "type": "track",
+      "title": "Season of Change",
+      "duration": "06:56"
+    },
+    {
+      "type": "track",
+      "title": "Stratosphere",
+      "duration": "04:52"
+    },
+    {
+      "type": "track",
+      "title": "Babylon",
+      "duration": "07:09"
+    },
+    {
+      "type": "track",
+      "title": "Tomorrow",
+      "duration": "04:52"
+    },
+    {
+      "type": "track",
+      "title": "Night Time Eclipse",
+      "duration": "07:58"
+    },
+    {
+      "type": "track",
+      "title": "Forever",
+      "duration": "03:06"
+    }
+  ],
+  "totalDuration": "01:03:00",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/a596bf84b542d93362d73d3d5262e58f/5832777/stratovarius-episode-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:11:33.951Z",
+  "updatedAt": "2025-09-13T16:11:33.951Z"
+}

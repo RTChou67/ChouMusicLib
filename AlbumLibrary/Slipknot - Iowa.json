@@ -1,0 +1,129 @@
+{
+  "fileName": "Slipknot - Iowa.json",
+  "title": "Iowa",
+  "artist": "Slipknot",
+  "releaseDate": "2001-08-28",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Nu Metal",
+    "Death Metal",
+    "Groove Metal"
+  ],
+  "tags": [
+    "aggressive",
+    "misanthropic",
+    "angry",
+    "hateful",
+    "heavy",
+    "vulgar",
+    "nihilistic",
+    "dark",
+    "disturbing",
+    "manic",
+    "male vocalist",
+    "energetic",
+    "dissonant",
+    "chaotic",
+    "self-hatred",
+    "passionate",
+    "violence",
+    "rhythmic",
+    "anthemic",
+    "alienation",
+    "scary",
+    "serious",
+    "raw",
+    "suicide",
+    "death",
+    "pessimistic",
+    "technical",
+    "dense",
+    "depressive",
+    "introspective",
+    "sampling",
+    "anxious",
+    "noisy",
+    "bouncy",
+    "menacing",
+    "atmospheric",
+    "failure"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "(515)",
+      "duration": "00:59"
+    },
+    {
+      "type": "track",
+      "title": "People = Shit",
+      "duration": "03:35"
+    },
+    {
+      "type": "track",
+      "title": "Disasterpiece",
+      "duration": "05:08"
+    },
+    {
+      "type": "track",
+      "title": "My Plague",
+      "duration": "03:40"
+    },
+    {
+      "type": "track",
+      "title": "Everything Ends",
+      "duration": "04:14"
+    },
+    {
+      "type": "track",
+      "title": "The Heretic Anthem",
+      "duration": "04:14"
+    },
+    {
+      "type": "track",
+      "title": "Gently",
+      "duration": "04:54"
+    },
+    {
+      "type": "track",
+      "title": "Left Behind",
+      "duration": "04:01"
+    },
+    {
+      "type": "track",
+      "title": "The Shape",
+      "duration": "03:37"
+    },
+    {
+      "type": "track",
+      "title": "I Am Hated",
+      "duration": "02:37"
+    },
+    {
+      "type": "track",
+      "title": "Skin Ticket",
+      "duration": "06:41"
+    },
+    {
+      "type": "track",
+      "title": "New Abortion",
+      "duration": "03:36"
+    },
+    {
+      "type": "track",
+      "title": "Metabolic",
+      "duration": "03:59"
+    },
+    {
+      "type": "track",
+      "title": "Iowa",
+      "duration": "15:03"
+    }
+  ],
+  "totalDuration": "01:06:18",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/ea48169ecb3db5c1a5857f975c348d32/5998897/slipknot-iowa-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

@@ -1,0 +1,87 @@
+{
+  "fileName": "Obscura - A Valediction.json",
+  "title": "A Valediction",
+  "artist": "Obscura",
+  "releaseDate": "2021-11-19",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Technical Death Metal",
+    "Melodic Death Metal",
+    "Progressive Metal",
+    "Neoclassical Metal"
+  ],
+  "tags": [
+    "technical",
+    "complex",
+    "science fiction",
+    "aggressive",
+    "melodic",
+    "progressive",
+    "energetic",
+    "dense",
+    "heavy"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Forsaken",
+      "duration": "07:16"
+    },
+    {
+      "type": "track",
+      "title": "Solaris",
+      "duration": "03:41"
+    },
+    {
+      "type": "track",
+      "title": "A Valediction",
+      "duration": "03:27"
+    },
+    {
+      "type": "track",
+      "title": "When Stars Collide",
+      "duration": "05:08"
+    },
+    {
+      "type": "track",
+      "title": "In Unity",
+      "duration": "04:48"
+    },
+    {
+      "type": "track",
+      "title": "Devoured Usurper",
+      "duration": "05:30"
+    },
+    {
+      "type": "track",
+      "title": "The Beyond",
+      "duration": "03:49"
+    },
+    {
+      "type": "track",
+      "title": "Orbital Elements II",
+      "duration": "04:01"
+    },
+    {
+      "type": "track",
+      "title": "The Neuromancer",
+      "duration": "04:41"
+    },
+    {
+      "type": "track",
+      "title": "In Adversity",
+      "duration": "04:09"
+    },
+    {
+      "type": "track",
+      "title": "Heritage",
+      "duration": "05:02"
+    }
+  ],
+  "totalDuration": "51:32",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/b33ffbebc172cc41fac4e8b05efcd2bb/9095099/obscura-a-valediction-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:29:45.485Z",
+  "updatedAt": "2025-09-13T16:29:45.485Z"
+}

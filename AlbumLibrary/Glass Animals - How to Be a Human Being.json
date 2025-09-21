@@ -1,0 +1,94 @@
+{
+  "fileName": "Glass Animals - How to Be a Human Being.json",
+  "title": "How to Be a Human Being",
+  "artist": "Glass Animals",
+  "releaseDate": "2016-08-26",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Indietronica",
+    "Alt-Pop",
+    "Neo-Psychedelia",
+    "Alternative R&B",
+    "Trip Hop"
+  ],
+  "tags": [
+    "summer",
+    "male vocalist",
+    "drugs",
+    "concept album",
+    "anthemic",
+    "lush",
+    "psychedelic",
+    "melodic",
+    "quirky",
+    "sexual",
+    "hedonistic",
+    "bittersweet",
+    "androgynous vocals",
+    "eclectic",
+    "party",
+    "alienation",
+    "pessimistic",
+    "sensual",
+    "introspective",
+    "lyrical dissonance"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Life Itself",
+      "duration": "04:41"
+    },
+    {
+      "type": "track",
+      "title": "Youth",
+      "duration": "03:49"
+    },
+    {
+      "type": "track",
+      "title": "Season 2 Episode 3",
+      "duration": "04:14"
+    },
+    {
+      "type": "track",
+      "title": "Pork Soda",
+      "duration": "04:14"
+    },
+    {
+      "type": "track",
+      "title": "Mama's Gun",
+      "duration": "04:27"
+    },
+    {
+      "type": "track",
+      "title": "Cane Shuga",
+      "duration": "03:53"
+    },
+    {
+      "type": "track",
+      "title": "The Other Side of Paradise",
+      "duration": "05:21"
+    },
+    {
+      "type": "track",
+      "title": "Take a Slice",
+      "duration": "03:50"
+    },
+    {
+      "type": "track",
+      "title": "Poplar St",
+      "duration": "04:23"
+    },
+    {
+      "type": "track",
+      "title": "Agnes",
+      "duration": "04:32"
+    }
+  ],
+  "totalDuration": "43:24",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/fcf73e48f5eb496538ce2ae280a4633b/6592433/glass-animals-how-to-be-a-human-being-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

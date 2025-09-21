@@ -1,0 +1,72 @@
+{
+  "fileName": "Whitechapel - Kin.json",
+  "title": "Kin",
+  "artist": "Whitechapel",
+  "releaseDate": "2021-10-29",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [],
+  "tags": [],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "I Will Find You",
+      "duration": "04:54"
+    },
+    {
+      "type": "track",
+      "title": "Lost Boy",
+      "duration": "03:58"
+    },
+    {
+      "type": "track",
+      "title": "A Bloodsoaked Symphony",
+      "duration": "04:28"
+    },
+    {
+      "type": "track",
+      "title": "Anticure",
+      "duration": "05:35"
+    },
+    {
+      "type": "track",
+      "title": "The Ones That Made Us",
+      "duration": "04:10"
+    },
+    {
+      "type": "track",
+      "title": "History Is Silent",
+      "duration": "04:54"
+    },
+    {
+      "type": "track",
+      "title": "To the Wolves",
+      "duration": "03:53"
+    },
+    {
+      "type": "track",
+      "title": "Orphan",
+      "duration": "04:40"
+    },
+    {
+      "type": "track",
+      "title": "Without You",
+      "duration": "01:00"
+    },
+    {
+      "type": "track",
+      "title": "Without Us",
+      "duration": "04:37"
+    },
+    {
+      "type": "track",
+      "title": "Kin",
+      "duration": "05:37"
+    }
+  ],
+  "totalDuration": "47:46",
+  "notes": "",
+  "coverData": "https://www.metal-archives.com/images/9/7/4/4/974421.jpg?4723",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

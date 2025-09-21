@@ -1,0 +1,88 @@
+{
+  "fileName": "Shadow of Intent - Reclaimer.json",
+  "title": "Reclaimer",
+  "artist": "Shadow of Intent",
+  "releaseDate": "2017-04-28",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Deathcore",
+    "Melodic Death Metal",
+    "Symphonic Metal"
+  ],
+  "tags": [
+    "heavy",
+    "melodic",
+    "male vocalist",
+    "technical",
+    "aggressive",
+    "orchestral"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "We Descend",
+      "duration": "02:14"
+    },
+    {
+      "type": "track",
+      "title": "The Return",
+      "duration": "04:45"
+    },
+    {
+      "type": "track",
+      "title": "The Horror Within",
+      "duration": "06:10"
+    },
+    {
+      "type": "track",
+      "title": "The Catacombs",
+      "duration": "04:43"
+    },
+    {
+      "type": "track",
+      "title": "The Mad Tyrant's Betrayal",
+      "duration": "05:14"
+    },
+    {
+      "type": "track",
+      "title": "The Gathering of All",
+      "duration": "04:20"
+    },
+    {
+      "type": "track",
+      "title": "The Heretic Prevails",
+      "duration": "04:48"
+    },
+    {
+      "type": "track",
+      "title": "The Prophet Beckoning",
+      "duration": "05:04"
+    },
+    {
+      "type": "track",
+      "title": "The Forsaken Effigy",
+      "duration": "04:04"
+    },
+    {
+      "type": "track",
+      "title": "The Great Schism",
+      "duration": "04:21"
+    },
+    {
+      "type": "track",
+      "title": "The Mausoleum of Liars",
+      "duration": "04:49"
+    },
+    {
+      "type": "track",
+      "title": "The Tartarus Impalement",
+      "duration": "07:52"
+    }
+  ],
+  "totalDuration": "58:24",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/909c9cc289cd89f48262392104461a8a/6509172/shadow-of-intent-reclaimer-Cover-Art.jpg",
+  "createdAt": "2025-09-12T18:13:51.285Z",
+  "updatedAt": "2025-09-12T18:13:51.285Z"
+}

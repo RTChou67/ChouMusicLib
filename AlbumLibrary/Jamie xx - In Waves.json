@@ -1,0 +1,112 @@
+{
+  "fileName": "Jamie xx - In Waves.json",
+  "title": "In Waves",
+  "artist": "Jamie xx",
+  "releaseDate": "2024-09-20",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "House",
+    "Future Garage",
+    "Progressive House",
+    "Funky House",
+    "Melodic House",
+    "UK Bass",
+    "Future Garage"
+  ],
+  "tags": [
+    "sampling",
+    "party",
+    "uplifting",
+    "rhythmic",
+    "hypnotic",
+    "energetic",
+    "atmospheric",
+    "bittersweet",
+    "eclectic",
+    "nocturnal",
+    "urban",
+    "love",
+    "warm",
+    "female vocalist",
+    "optimistic",
+    "male vocalist",
+    "melodic",
+    "summer",
+    "sentimental",
+    "playful",
+    "surreal",
+    "psychedelic",
+    "lush",
+    "futuristic",
+    "bright",
+    "bouncy"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Wanna",
+      "duration": "02:15"
+    },
+    {
+      "type": "track",
+      "title": "Treat Each Other Right",
+      "duration": "04:00"
+    },
+    {
+      "type": "track",
+      "title": "Waited All Night",
+      "duration": "03:28"
+    },
+    {
+      "type": "track",
+      "title": "Baddy on the Floor",
+      "duration": "03:42"
+    },
+    {
+      "type": "track",
+      "title": "Dafodil",
+      "duration": "03:32"
+    },
+    {
+      "type": "track",
+      "title": "Still Summer",
+      "duration": "03:25"
+    },
+    {
+      "type": "track",
+      "title": "Life",
+      "duration": "03:22"
+    },
+    {
+      "type": "track",
+      "title": "The Feeling I Get From You",
+      "duration": "03:42"
+    },
+    {
+      "type": "track",
+      "title": "Breather",
+      "duration": "06:16"
+    },
+    {
+      "type": "track",
+      "title": "All You Children",
+      "duration": "04:14"
+    },
+    {
+      "type": "track",
+      "title": "Every Single Weekend (Interlude)",
+      "duration": "01:11"
+    },
+    {
+      "type": "track",
+      "title": "Falling Together",
+      "duration": "05:37"
+    }
+  ],
+  "totalDuration": "44:44",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/bb6bca7bf44dd5b75d259a7fb14d2a4c/12189816/jamie-xx-in-waves-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:50:29.984Z",
+  "updatedAt": "2025-09-13T16:50:29.984Z"
+}

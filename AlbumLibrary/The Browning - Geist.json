@@ -1,0 +1,92 @@
+{
+  "fileName": "The Browning - Geist.json",
+  "title": "Geist",
+  "artist": "The Browning",
+  "releaseDate": "2018-10-26",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Electronicore",
+    "Metalcore",
+    "Deathcore"
+  ],
+  "tags": [
+    "atmospheric",
+    "anthemic",
+    "female vocalist",
+    "space",
+    "melodic",
+    "ethereal",
+    "male vocalist",
+    "cold",
+    "heavy",
+    "futuristic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Sick Minds",
+      "duration": "03:36"
+    },
+    {
+      "type": "track",
+      "title": "Beyond Stone",
+      "duration": "04:27"
+    },
+    {
+      "type": "track",
+      "title": "Final Breath",
+      "duration": "03:37"
+    },
+    {
+      "type": "track",
+      "title": "Everlost",
+      "duration": "03:13"
+    },
+    {
+      "type": "track",
+      "title": "Optophobia",
+      "duration": "03:07"
+    },
+    {
+      "type": "track",
+      "title": "Awaken the Omega",
+      "duration": "04:03"
+    },
+    {
+      "type": "track",
+      "title": "Hellblade",
+      "duration": "04:05"
+    },
+    {
+      "type": "track",
+      "title": "Carnage",
+      "duration": "03:04"
+    },
+    {
+      "type": "track",
+      "title": "Geist",
+      "duration": "03:45"
+    },
+    {
+      "type": "track",
+      "title": "Noctis",
+      "duration": "03:49"
+    },
+    {
+      "type": "track",
+      "title": "Amnesia",
+      "duration": "03:07"
+    },
+    {
+      "type": "track",
+      "title": "Skybreaker",
+      "duration": "04:15"
+    }
+  ],
+  "totalDuration": "44:08",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/7c0680c0cd26952decedc1a6525df1cf/7211223/the-browning-geist-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:52:18.855Z",
+  "updatedAt": "2025-09-13T16:52:18.855Z"
+}

@@ -1,0 +1,84 @@
+{
+  "fileName": "",
+  "title": "The Joy of Motion",
+  "artist": "Animals as Leaders",
+  "releaseDate": "2014-03-25",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Progressive Metal",
+    "Djent",
+    "Jazz Fusion"
+  ],
+  "tags": [
+    "instrumental",
+    "technical"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Ka$cade",
+      "duration": "05:24"
+    },
+    {
+      "type": "track",
+      "title": "Lippincott",
+      "duration": "04:21"
+    },
+    {
+      "type": "track",
+      "title": "Air Chrysalis",
+      "duration": "04:54"
+    },
+    {
+      "type": "track",
+      "title": "Another Year",
+      "duration": "03:51"
+    },
+    {
+      "type": "track",
+      "title": "Physical Education",
+      "duration": "04:41"
+    },
+    {
+      "type": "track",
+      "title": "Tooth and Claw",
+      "duration": "04:22"
+    },
+    {
+      "type": "track",
+      "title": "Crescent",
+      "duration": "04:16"
+    },
+    {
+      "type": "track",
+      "title": "The Future That Awaited Me",
+      "duration": "04:23"
+    },
+    {
+      "type": "track",
+      "title": "Para Mexer",
+      "duration": "04:30"
+    },
+    {
+      "type": "track",
+      "title": "The Woven Web",
+      "duration": "04:06"
+    },
+    {
+      "type": "track",
+      "title": "Mind-Spun",
+      "duration": "04:34"
+    },
+    {
+      "type": "track",
+      "title": "Nephele",
+      "duration": "04:31"
+    }
+  ],
+  "totalDuration": "53:53",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/aef0103253c6ccc97c03dd603fdff7d6/12315127/animals-as-leaders-the-joy-of-motion-Cover-Art.jpg",
+  "createdAt": "",
+  "updatedAt": "2025-09-16T16:31:13.561Z"
+}

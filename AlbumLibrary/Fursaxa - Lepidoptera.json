@@ -1,0 +1,90 @@
+{
+  "fileName": "Fursaxa - Lepidoptera.json",
+  "title": "Lepidoptera",
+  "artist": "Fursaxa",
+  "releaseDate": "2005-07-01",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Free Folk",
+    "Psychedelic Folk",
+    "Wyrd Folk",
+    "Drone",
+    "Neofolk"
+  ],
+  "tags": [
+    "ethereal",
+    "repetitive",
+    "ritualistic",
+    "psychedelic",
+    "spiritual",
+    "meditative",
+    "passionate",
+    "nocturnal",
+    "female vocalist",
+    "lonely",
+    "atmospheric"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Freedom",
+      "duration": "06:09"
+    },
+    {
+      "type": "track",
+      "title": "Purple Fantasy",
+      "duration": "03:05"
+    },
+    {
+      "type": "track",
+      "title": "Velada",
+      "duration": "05:42"
+    },
+    {
+      "type": "track",
+      "title": "Moonlight Sonata",
+      "duration": "04:00"
+    },
+    {
+      "type": "track",
+      "title": "Neon Lights",
+      "duration": "02:54"
+    },
+    {
+      "type": "track",
+      "title": "Karma",
+      "duration": "04:00"
+    },
+    {
+      "type": "track",
+      "title": "Poppy Opera",
+      "duration": "07:34"
+    },
+    {
+      "type": "track",
+      "title": "Russian Snow Queen",
+      "duration": "03:51"
+    },
+    {
+      "type": "track",
+      "title": "Pyracantha",
+      "duration": "05:28"
+    },
+    {
+      "type": "track",
+      "title": "Tyranny",
+      "duration": "08:44"
+    },
+    {
+      "type": "track",
+      "title": "Una de Gato",
+      "duration": "07:52"
+    }
+  ],
+  "totalDuration": "59:19",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/a7746ffbad6d6095d03834a4739cf00e/1445103/fursaxa-lepidoptera-Cover-Art.jpg",
+  "createdAt": "2025-09-16T16:07:26.043Z",
+  "updatedAt": "2025-09-16T16:07:26.043Z"
+}

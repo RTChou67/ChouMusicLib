@@ -1,0 +1,79 @@
+{
+  "fileName": "Snake Father - No More Faces.json",
+  "title": "No More Faces",
+  "artist": "Snake Father",
+  "releaseDate": "2024-09-06",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Metalcore"
+  ],
+  "tags": [],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Tulpa",
+      "duration": "04:48"
+    },
+    {
+      "type": "track",
+      "title": "Mental Intruder",
+      "duration": "04:50"
+    },
+    {
+      "type": "track",
+      "title": "Skinwalking",
+      "duration": "03:31"
+    },
+    {
+      "type": "track",
+      "title": "Purgaliminal",
+      "duration": "04:26"
+    },
+    {
+      "type": "track",
+      "title": "Victory Position",
+      "duration": "03:57"
+    },
+    {
+      "type": "track",
+      "title": "[Redacted]",
+      "duration": "01:00"
+    },
+    {
+      "type": "track",
+      "title": "Archangel",
+      "duration": "03:27"
+    },
+    {
+      "type": "track",
+      "title": "No More Faces",
+      "duration": "04:22"
+    },
+    {
+      "type": "track",
+      "title": "Leviathan Dreams",
+      "duration": "05:07"
+    },
+    {
+      "type": "track",
+      "title": "Pure Form",
+      "duration": "03:46"
+    },
+    {
+      "type": "track",
+      "title": "See You",
+      "duration": "01:12"
+    },
+    {
+      "type": "track",
+      "title": "Turing Test",
+      "duration": "04:02"
+    }
+  ],
+  "totalDuration": "44:28",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/48203c20339fd4b5bf39e0c3798bfe94/12488420/snake-father-no-more-faces-Cover-Art.jpg",
+  "createdAt": "2025-09-12T18:11:35.107Z",
+  "updatedAt": "2025-09-12T18:11:35.107Z"
+}

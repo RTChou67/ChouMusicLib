@@ -1,0 +1,92 @@
+{
+  "fileName": "Mental Cruelty - Zwielicht.json",
+  "title": "Zwielicht",
+  "artist": "Mental Cruelty",
+  "releaseDate": "2023-06-23",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Symphonic Black Metal",
+    "Deathcore",
+    "Melodic Black Metal"
+  ],
+  "tags": [
+    "epic",
+    "melodic",
+    "dark",
+    "heavy",
+    "aggressive",
+    "male vocalist",
+    "satanism",
+    "death",
+    "history",
+    "medieval",
+    "nature",
+    "cold",
+    "pessimistic",
+    "forest",
+    "apocalyptic",
+    "ominous",
+    "depressive",
+    "infernal",
+    "occult",
+    "energetic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Midtvinter",
+      "duration": "01:43"
+    },
+    {
+      "type": "track",
+      "title": "Obsessis a Daemonio",
+      "duration": "05:07"
+    },
+    {
+      "type": "track",
+      "title": "Forgotten Kings",
+      "duration": "05:56"
+    },
+    {
+      "type": "track",
+      "title": "Pest",
+      "duration": "05:52"
+    },
+    {
+      "type": "track",
+      "title": "Nordlys",
+      "duration": "05:19"
+    },
+    {
+      "type": "track",
+      "title": "Mortal Shells",
+      "duration": "06:11"
+    },
+    {
+      "type": "track",
+      "title": "Zwielicht",
+      "duration": "01:33"
+    },
+    {
+      "type": "track",
+      "title": "Symphony of a Dying Star",
+      "duration": "04:11"
+    },
+    {
+      "type": "track",
+      "title": "The Arrogance of Agony",
+      "duration": "05:22"
+    },
+    {
+      "type": "track",
+      "title": "A Tale of Salt and Light",
+      "duration": "07:31"
+    }
+  ],
+  "totalDuration": "48:45",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/09fbad12d5138cd85103bf1d40d042ba/10980612/mental-cruelty-zwielicht-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:49:01.814Z",
+  "updatedAt": "2025-09-12T17:49:01.814Z"
+}

@@ -1,0 +1,98 @@
+{
+  "fileName": "Кино [Kino] - Последний герой.json",
+  "title": "Последний герой",
+  "artist": "Кино [Kino]",
+  "releaseDate": "1991-01-01",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Post-Punk",
+    "New Wave",
+    "Gothic Rock"
+  ],
+  "tags": [
+    "cold",
+    "rhythmic",
+    "male vocalist",
+    "nocturnal",
+    "melancholic",
+    "melodic",
+    "protest",
+    "atmospheric",
+    "war",
+    "uplifting",
+    "deadpan",
+    "epic",
+    "sombre",
+    "passionate",
+    "introspective",
+    "conscious",
+    "anthemic",
+    "reprise"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "Changement",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Train de banlieue",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Guerre",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Trolleybus",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "D'où vient donc cette tristesse",
+      "duration": ""
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "Le dernier des héros",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Groupe sanguin",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Maman",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Dans nos yeux",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Bonne nuit",
+      "duration": ""
+    }
+  ],
+  "totalDuration": "00:00",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/63d1df5ef8161f3f036ccc84917c3d06/2061970/%D0%BA%D0%B8%D0%BD%D0%BE-kino-%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9-%D0%B3%D0%B5%D1%80%D0%BE%D0%B9-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

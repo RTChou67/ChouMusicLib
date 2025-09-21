@@ -1,0 +1,77 @@
+{
+  "fileName": "Trivium - Ascendancy.json",
+  "title": "Ascendancy",
+  "artist": "Trivium",
+  "releaseDate": "2005-03-13",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [],
+  "tags": [],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "The End of Everything",
+      "duration": "01:20"
+    },
+    {
+      "type": "track",
+      "title": "Rain",
+      "duration": "04:11"
+    },
+    {
+      "type": "track",
+      "title": "Pull Harder on the Strings of Your Martyr",
+      "duration": "04:51"
+    },
+    {
+      "type": "track",
+      "title": "Drowned and Torn Asunder",
+      "duration": "04:17"
+    },
+    {
+      "type": "track",
+      "title": "Ascendancy",
+      "duration": "04:25"
+    },
+    {
+      "type": "track",
+      "title": "A Gunshot to the Head of Trepidation",
+      "duration": "05:55"
+    },
+    {
+      "type": "track",
+      "title": "Like Light to the Flies",
+      "duration": "05:40"
+    },
+    {
+      "type": "track",
+      "title": "Dying in Your Arms",
+      "duration": "02:53"
+    },
+    {
+      "type": "track",
+      "title": "The Deceived",
+      "duration": "05:11"
+    },
+    {
+      "type": "track",
+      "title": "Suffocating Sight",
+      "duration": "03:47"
+    },
+    {
+      "type": "track",
+      "title": "Departure",
+      "duration": "05:41"
+    },
+    {
+      "type": "track",
+      "title": "Declaration",
+      "duration": "07:00"
+    }
+  ],
+  "totalDuration": "55:11",
+  "notes": "",
+  "coverData": "https://www.metal-archives.com/images/6/9/1/1/69117.jpg?1856",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

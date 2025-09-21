@@ -1,0 +1,82 @@
+{
+  "fileName": "Blind Guardian - Imaginations From the Other Side.json",
+  "title": "Imaginations From the Other Side",
+  "artist": "Blind Guardian",
+  "releaseDate": "1995-04-05",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Power Metal",
+    "Speed Metal"
+  ],
+  "tags": [
+    "epic",
+    "fantasy",
+    "melodic",
+    "male vocalist",
+    "heavy",
+    "passionate",
+    "medieval",
+    "energetic",
+    "triumphant",
+    "anthemic",
+    "mythology",
+    "pessimistic",
+    "uplifting",
+    "punchy",
+    "rhythmic",
+    "angry"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Imaginations From the Other Side",
+      "duration": "07:18"
+    },
+    {
+      "type": "track",
+      "title": "I'm Alive",
+      "duration": "05:31"
+    },
+    {
+      "type": "track",
+      "title": "A Past and Future Secret",
+      "duration": "03:47"
+    },
+    {
+      "type": "track",
+      "title": "The Script for My Requiem",
+      "duration": "06:08"
+    },
+    {
+      "type": "track",
+      "title": "Mordred's Song",
+      "duration": "05:28"
+    },
+    {
+      "type": "track",
+      "title": "Born in a Mourning Hall",
+      "duration": "05:14"
+    },
+    {
+      "type": "track",
+      "title": "Bright Eyes",
+      "duration": "05:15"
+    },
+    {
+      "type": "track",
+      "title": "Another Holy War",
+      "duration": "04:31"
+    },
+    {
+      "type": "track",
+      "title": "And the Story Ends",
+      "duration": "05:59"
+    }
+  ],
+  "totalDuration": "49:11",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/7750039dbb4e32079c9c988549bd6607/3720159/blind-guardian-imaginations-from-the-other-side-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:35:11.294Z",
+  "updatedAt": "2025-09-13T16:35:11.294Z"
+}

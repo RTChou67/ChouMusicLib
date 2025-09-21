@@ -1,0 +1,81 @@
+{
+  "fileName": "Archspire - Bleed the Future.json",
+  "title": "Bleed the Future",
+  "artist": "Archspire",
+  "releaseDate": "2021-10-29",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Technical Death Metal",
+    "Neoclassical Metal",
+    "Progressive Metal"
+  ],
+  "tags": [
+    "technical",
+    "heavy",
+    "male vocalist",
+    "energetic",
+    "complex",
+    "science fiction",
+    "aggressive",
+    "uncommon time signatures",
+    "progressive",
+    "concept album",
+    "manic",
+    "abstract",
+    "melodic",
+    "epic",
+    "existential",
+    "dense",
+    "maximalist",
+    "apocalyptic",
+    "chaotic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Drone Corpse Aviator",
+      "duration": "03:46"
+    },
+    {
+      "type": "track",
+      "title": "Golden Mouth of Ruin",
+      "duration": "04:05"
+    },
+    {
+      "type": "track",
+      "title": "Abandon the Linear",
+      "duration": "04:35"
+    },
+    {
+      "type": "track",
+      "title": "Bleed the Future",
+      "duration": "03:48"
+    },
+    {
+      "type": "track",
+      "title": "Drain of Incarnation",
+      "duration": "04:19"
+    },
+    {
+      "type": "track",
+      "title": "Acrid Canon",
+      "duration": "04:08"
+    },
+    {
+      "type": "track",
+      "title": "Reverie on the Onyx",
+      "duration": "03:46"
+    },
+    {
+      "type": "track",
+      "title": "A.U.M.",
+      "duration": "03:03"
+    }
+  ],
+  "totalDuration": "31:30",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/d4c7b987846d6af3947454705a37bd34/9214919/archspire-bleed-the-future-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:38:23.907Z",
+  "updatedAt": "2025-09-13T16:38:23.907Z"
+}

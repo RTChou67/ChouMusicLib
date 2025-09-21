@@ -1,0 +1,86 @@
+{
+  "fileName": "toe - Now I See the Light.json",
+  "title": "Now I See the Light",
+  "artist": "toe",
+  "releaseDate": "2024-07-10",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Math Rock",
+    "Post-Rock",
+    "Midwest Emo",
+    "Math Pop"
+  ],
+  "tags": [
+    "mellow",
+    "peaceful",
+    "male vocalist",
+    "technical",
+    "rhythmic",
+    "uncommon time signatures",
+    "playful",
+    "female vocalist",
+    "calm",
+    "lush",
+    "bittersweet",
+    "complex",
+    "melancholic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "風と記憶",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Loneliness Will Shine",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Todo y nada",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "街のどこかで",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Who Knows?",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Close to You",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "キアロスクーロ",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "サニーボーイ・ラプソディ",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Madness Summer",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Now I See the Light",
+      "duration": ""
+    }
+  ],
+  "totalDuration": "00:00",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/629b5a8eb0dd6e002f9ca1538fb0f071/12169740/toe-now-i-see-the-light-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:40:37.678Z",
+  "updatedAt": "2025-09-12T17:40:37.678Z"
+}

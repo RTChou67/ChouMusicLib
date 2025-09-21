@@ -1,0 +1,66 @@
+{
+  "fileName": "Worm - Foreverglade.json",
+  "title": "Foreverglade",
+  "artist": "Worm",
+  "releaseDate": "2021-10-22",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Death Doom Metal",
+    "Funeral Doom Metal"
+  ],
+  "tags": [
+    "death",
+    "heavy",
+    "male vocalist",
+    "occult",
+    "funereal",
+    "ominous",
+    "atmospheric",
+    "dense",
+    "nocturnal",
+    "dark",
+    "cold",
+    "surreal",
+    "apocalyptic",
+    "aquatic",
+    "rhythmic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Foreverglade",
+      "duration": "05:26"
+    },
+    {
+      "type": "track",
+      "title": "Murk Above the Dark Moor",
+      "duration": "07:37"
+    },
+    {
+      "type": "track",
+      "title": "Cloaked in Nightwinds",
+      "duration": "11:14"
+    },
+    {
+      "type": "track",
+      "title": "Empire of the Necromancers",
+      "duration": "07:00"
+    },
+    {
+      "type": "track",
+      "title": "Subaqueous Funeral",
+      "duration": "03:38"
+    },
+    {
+      "type": "track",
+      "title": "Centuries of Ooze",
+      "duration": "09:47"
+    }
+  ],
+  "totalDuration": "44:42",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/2f97253a9917ccef38d4f821b9a7a814/9569668/worm-foreverglade-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:57:05.198Z",
+  "updatedAt": "2025-09-16T15:57:05.198Z"
+}

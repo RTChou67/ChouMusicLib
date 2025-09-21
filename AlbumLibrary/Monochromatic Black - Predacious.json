@@ -1,0 +1,45 @@
+{
+  "fileName": "Monochromatic Black - Predacious.json",
+  "title": "Predacious",
+  "artist": "Monochromatic Black",
+  "releaseDate": "2024-04-05",
+  "albumFormat": "EP",
+  "rating": 0,
+  "styles": [
+    "Deathcore",
+    "Mathcore"
+  ],
+  "tags": [],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Hail the Queen (the Hive)",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Turn the Tides",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "I Am Time",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "False Kings",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Maligned",
+      "duration": ""
+    }
+  ],
+  "totalDuration": "00:00",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/0a4ab4ebcbc01b7cde6f25b9ba826e1d/11711395/monochromatic-black-predacious-Cover-Art.jpg",
+  "createdAt": "2025-09-12T18:00:42.374Z",
+  "updatedAt": "2025-09-12T18:00:42.374Z"
+}

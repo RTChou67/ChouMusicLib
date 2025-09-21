@@ -1,0 +1,91 @@
+{
+  "fileName": "Judas Priest - Painkiller.json",
+  "title": "Painkiller",
+  "artist": "Judas Priest",
+  "releaseDate": "1990-09-03",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Heavy Metal",
+    "Speed Metal"
+  ],
+  "tags": [
+    "energetic",
+    "male vocalist",
+    "epic",
+    "fantasy",
+    "heavy",
+    "anthemic",
+    "science fiction",
+    "passionate",
+    "aggressive",
+    "apocalyptic",
+    "melodic",
+    "technical",
+    "rebellious",
+    "violence",
+    "war",
+    "triumphant",
+    "rhythmic",
+    "nocturnal",
+    "theatrical",
+    "manic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Painkiller",
+      "duration": "06:06"
+    },
+    {
+      "type": "track",
+      "title": "Hell Patrol",
+      "duration": "03:37"
+    },
+    {
+      "type": "track",
+      "title": "All Guns Blazing",
+      "duration": "03:58"
+    },
+    {
+      "type": "track",
+      "title": "Leather Rebel",
+      "duration": "03:35"
+    },
+    {
+      "type": "track",
+      "title": "Metal Meltdown",
+      "duration": "04:49"
+    },
+    {
+      "type": "track",
+      "title": "Night Crawler",
+      "duration": "05:45"
+    },
+    {
+      "type": "track",
+      "title": "Between the Hammer & the Anvil",
+      "duration": "04:49"
+    },
+    {
+      "type": "track",
+      "title": "A Touch of Evil",
+      "duration": "05:45"
+    },
+    {
+      "type": "track",
+      "title": "Battle Hymn",
+      "duration": "00:58"
+    },
+    {
+      "type": "track",
+      "title": "One Shot at Glory",
+      "duration": "06:49"
+    }
+  ],
+  "totalDuration": "46:11",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/35a833af8bc9c2bdbfd922d50ad38cf5/6723368/judas-priest-painkiller-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:38:02.311Z",
+  "updatedAt": "2025-09-13T16:38:02.311Z"
+}

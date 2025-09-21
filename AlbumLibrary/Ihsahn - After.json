@@ -1,0 +1,79 @@
+{
+  "fileName": "Ihsahn - After.json",
+  "title": "After",
+  "artist": "Ihsahn",
+  "releaseDate": "2010-01-26",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Progressive Metal",
+    "Black Metal",
+    "Avant-Garde Metal"
+  ],
+  "tags": [
+    "complex",
+    "progressive",
+    "male vocalist",
+    "heavy",
+    "eclectic",
+    "dark",
+    "atmospheric",
+    "avant-garde",
+    "introspective",
+    "ominous",
+    "melancholic",
+    "technical",
+    "epic",
+    "sombre",
+    "lonely",
+    "cold",
+    "apocalyptic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "The Barren Lands",
+      "duration": "05:12"
+    },
+    {
+      "type": "track",
+      "title": "A Grave Inversed",
+      "duration": "04:25"
+    },
+    {
+      "type": "track",
+      "title": "After",
+      "duration": "04:47"
+    },
+    {
+      "type": "track",
+      "title": "Frozen Lakes on Mars",
+      "duration": "05:54"
+    },
+    {
+      "type": "track",
+      "title": "Undercurrent",
+      "duration": "10:00"
+    },
+    {
+      "type": "track",
+      "title": "Austere",
+      "duration": "06:16"
+    },
+    {
+      "type": "track",
+      "title": "Heaven's Black Sea",
+      "duration": "06:15"
+    },
+    {
+      "type": "track",
+      "title": "On the Shores",
+      "duration": "10:12"
+    }
+  ],
+  "totalDuration": "53:01",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/ba280152cd11634d8c7d1fcb78e242a1/3743607/ihsahn-after-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:43:04.232Z",
+  "updatedAt": "2025-09-12T17:43:04.232Z"
+}

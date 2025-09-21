@@ -1,0 +1,114 @@
+{
+  "fileName": "David Bowie - The Rise and Fall of Ziggy Stardust and The Spiders From Mars.json",
+  "title": "The Rise and Fall of Ziggy Stardust and The Spiders From Mars",
+  "artist": "David Bowie",
+  "releaseDate": "1972-06-16",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Glam Rock",
+    "Pop Rock",
+    "Art Rock",
+    "Rock Opera"
+  ],
+  "tags": [
+    "science fiction",
+    "concept album",
+    "melodic",
+    "male vocalist",
+    "passionate",
+    "anthemic",
+    "rock opera",
+    "bittersweet",
+    "energetic",
+    "triumphant",
+    "quirky",
+    "sentimental",
+    "playful",
+    "LGBTQ",
+    "theatrical",
+    "epic",
+    "space",
+    "existential",
+    "longing",
+    "about music",
+    "narrative",
+    "fame",
+    "poetic",
+    "aliens",
+    "philosophical",
+    "bisexual",
+    "bright",
+    "gender"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "Five Years",
+      "duration": "04:42"
+    },
+    {
+      "type": "track",
+      "title": "Soul Love",
+      "duration": "03:34"
+    },
+    {
+      "type": "track",
+      "title": "Moonage Daydream",
+      "duration": "04:40"
+    },
+    {
+      "type": "track",
+      "title": "Starman",
+      "duration": "04:10"
+    },
+    {
+      "type": "track",
+      "title": "It Ain't Easy",
+      "duration": "02:58"
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "Lady Stardust",
+      "duration": "03:22"
+    },
+    {
+      "type": "track",
+      "title": "Star",
+      "duration": "02:47"
+    },
+    {
+      "type": "track",
+      "title": "Hang On to Yourself",
+      "duration": "02:40"
+    },
+    {
+      "type": "track",
+      "title": "Ziggy Stardust",
+      "duration": "03:13"
+    },
+    {
+      "type": "track",
+      "title": "Suffragette City",
+      "duration": "03:25"
+    },
+    {
+      "type": "track",
+      "title": "Rock 'n' Roll Suicide",
+      "duration": "02:58"
+    }
+  ],
+  "totalDuration": "38:29",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/5286b64a7026f2aa94e663215d2a95f6/8542182/david-bowie-the-rise-and-fall-of-ziggy-stardust-and-the-spiders-from-mars-Cover-Art.png",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

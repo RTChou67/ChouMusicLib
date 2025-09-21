@@ -1,0 +1,84 @@
+{
+  "fileName": "Ad Nauseam - Imperative Imperceptible Impulse.json",
+  "title": "Imperative Imperceptible Impulse",
+  "artist": "Ad Nauseam",
+  "releaseDate": "2021-02-12",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Avant-Garde Metal",
+    "Dissonant Death Metal",
+    "Technical Death Metal",
+    "Progressive Metal",
+    "Modern Classical"
+  ],
+  "tags": [
+    "uncommon time signatures",
+    "technical",
+    "dissonant",
+    "complex",
+    "aggressive",
+    "avant-garde",
+    "heavy",
+    "male vocalist",
+    "atmospheric",
+    "dense",
+    "atonal",
+    "dark",
+    "existential",
+    "anxious",
+    "ominous",
+    "philosophical",
+    "introspective",
+    "chaotic",
+    "polyphonic",
+    "infernal",
+    "manic",
+    "surreal",
+    "noisy",
+    "disturbing",
+    "nihilistic",
+    "angular",
+    "progressive",
+    "maximalist",
+    "psychedelic",
+    "through-composed"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Sub specie aeternitatis",
+      "duration": "08:41"
+    },
+    {
+      "type": "track",
+      "title": "Inexorably Ousted Sente",
+      "duration": "08:45"
+    },
+    {
+      "type": "track",
+      "title": "Coincidentia oppositorum",
+      "duration": "12:05"
+    },
+    {
+      "type": "track",
+      "title": "Imperative Imperceptible Impulse",
+      "duration": "09:45"
+    },
+    {
+      "type": "track",
+      "title": "Horror vacui",
+      "duration": "08:44"
+    },
+    {
+      "type": "track",
+      "title": "Human Interface to No God",
+      "duration": "09:05"
+    }
+  ],
+  "totalDuration": "57:05",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/9d99c3bef493c729d50242c91bd22399/9102721/ad-nauseam-imperative-imperceptible-impulse-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:31:53.847Z",
+  "updatedAt": "2025-09-16T15:31:53.847Z"
+}

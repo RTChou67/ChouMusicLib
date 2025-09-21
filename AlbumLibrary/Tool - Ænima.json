@@ -1,0 +1,130 @@
+{
+  "fileName": "Tool - Ænima.json",
+  "title": "Ænima",
+  "artist": "Tool",
+  "releaseDate": "1996-10-01",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Alternative Metal",
+    "Progressive Metal",
+    "Progressive Metal",
+    "Progressive Rock",
+    "Post-Metal"
+  ],
+  "tags": [
+    "angry",
+    "satirical",
+    "heavy",
+    "misanthropic",
+    "philosophical",
+    "male vocalist",
+    "aggressive",
+    "complex",
+    "sarcastic",
+    "progressive",
+    "dark",
+    "technical",
+    "nihilistic",
+    "vulgar",
+    "mysterious",
+    "atmospheric",
+    "alienation",
+    "anxious",
+    "cryptic",
+    "psychedelic",
+    "pessimistic",
+    "uncommon time signatures",
+    "energetic",
+    "humorous",
+    "rhythmic",
+    "drugs",
+    "ominous",
+    "hateful",
+    "melancholic",
+    "dark humor",
+    "provocative"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Stinkfist",
+      "duration": "05:13"
+    },
+    {
+      "type": "track",
+      "title": "Eulogy",
+      "duration": "08:30"
+    },
+    {
+      "type": "track",
+      "title": "H.",
+      "duration": "06:09"
+    },
+    {
+      "type": "track",
+      "title": "Useful Idiot",
+      "duration": "00:40"
+    },
+    {
+      "type": "track",
+      "title": "Forty Six & 2",
+      "duration": "06:06"
+    },
+    {
+      "type": "track",
+      "title": "Message to Harry Manback",
+      "duration": "01:55"
+    },
+    {
+      "type": "track",
+      "title": "Hooker With a Penis",
+      "duration": "04:35"
+    },
+    {
+      "type": "track",
+      "title": "Intermission",
+      "duration": "00:58"
+    },
+    {
+      "type": "track",
+      "title": "Jimmy",
+      "duration": "05:26"
+    },
+    {
+      "type": "track",
+      "title": "Die Eier von Satan",
+      "duration": "02:19"
+    },
+    {
+      "type": "track",
+      "title": "Pushit",
+      "duration": "09:57"
+    },
+    {
+      "type": "track",
+      "title": "Cesaro Summability",
+      "duration": "01:28"
+    },
+    {
+      "type": "track",
+      "title": "Ænema",
+      "duration": "06:41"
+    },
+    {
+      "type": "track",
+      "title": "(-) Ions",
+      "duration": "04:02"
+    },
+    {
+      "type": "track",
+      "title": "Third Eye",
+      "duration": "13:47"
+    }
+  ],
+  "totalDuration": "01:17:46",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/dab0fe331e705672a802f4d8a7a052c6/13208993/tool-aenima-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

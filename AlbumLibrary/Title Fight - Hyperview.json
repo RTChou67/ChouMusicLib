@@ -1,0 +1,93 @@
+{
+  "fileName": "Title Fight - Hyperview.json",
+  "title": "Hyperview",
+  "artist": "Title Fight",
+  "releaseDate": "2015-02-03",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Shoegaze",
+    "Alternative Rock",
+    "Emo",
+    "Dream Pop",
+    "Post-Hardcore"
+  ],
+  "tags": [
+    "melancholic",
+    "lush",
+    "ethereal",
+    "male vocalist",
+    "noisy",
+    "melodic",
+    "lethargic",
+    "bittersweet",
+    "passionate",
+    "nocturnal",
+    "romantic",
+    "cold",
+    "sentimental",
+    "depressive",
+    "longing",
+    "alienation",
+    "hypnotic",
+    "breakup",
+    "aquatic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Murder Your Memory",
+      "duration": "02:36"
+    },
+    {
+      "type": "track",
+      "title": "Chlorine",
+      "duration": "03:08"
+    },
+    {
+      "type": "track",
+      "title": "Hypernight",
+      "duration": "02:56"
+    },
+    {
+      "type": "track",
+      "title": "Mrahc",
+      "duration": "02:11"
+    },
+    {
+      "type": "track",
+      "title": "Your Pain Is Mine Now",
+      "duration": "04:03"
+    },
+    {
+      "type": "track",
+      "title": "Rose of Sharon",
+      "duration": "02:50"
+    },
+    {
+      "type": "track",
+      "title": "Trace Me Onto You",
+      "duration": "04:02"
+    },
+    {
+      "type": "track",
+      "title": "Liar's Love",
+      "duration": "03:26"
+    },
+    {
+      "type": "track",
+      "title": "Dizzy",
+      "duration": "04:21"
+    },
+    {
+      "type": "track",
+      "title": "New Vision",
+      "duration": "02:14"
+    }
+  ],
+  "totalDuration": "31:47",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/48f186e944289ee48324e992decd1287/5492447/title-fight-hyperview-Cover-Art.jpg",
+  "createdAt": "2025-09-16T16:11:04.702Z",
+  "updatedAt": "2025-09-16T16:11:04.702Z"
+}

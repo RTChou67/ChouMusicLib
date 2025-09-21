@@ -1,0 +1,103 @@
+{
+  "fileName": "Klein - Only.json",
+  "title": "Only",
+  "artist": "Klein",
+  "releaseDate": "2016-02-08",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Sound Collage",
+    "Glitch",
+    "Alternative R&B",
+    "Dark Ambient",
+    "UK Bass",
+    "Ambient",
+    "Plunderphonics"
+  ],
+  "tags": [
+    "anxious",
+    "female vocalist",
+    "surreal",
+    "sampling",
+    "lonely",
+    "raw",
+    "futuristic",
+    "mellow",
+    "abstract",
+    "lo-fi",
+    "eclectic",
+    "cryptic",
+    "psychedelic",
+    "avant-garde",
+    "atmospheric",
+    "complex",
+    "spiritual"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "hello",
+      "duration": "01:20"
+    },
+    {
+      "type": "track",
+      "title": "gaz city",
+      "duration": "04:30"
+    },
+    {
+      "type": "track",
+      "title": "fine wine",
+      "duration": "02:32"
+    },
+    {
+      "type": "track",
+      "title": "right here",
+      "duration": "01:06"
+    },
+    {
+      "type": "track",
+      "title": "christmas thirst",
+      "duration": "01:57"
+    },
+    {
+      "type": "track",
+      "title": "babyfather chill",
+      "duration": "02:10"
+    },
+    {
+      "type": "track",
+      "title": "crime",
+      "duration": "01:53"
+    },
+    {
+      "type": "track",
+      "title": "bust",
+      "duration": "02:21"
+    },
+    {
+      "type": "track",
+      "title": "pretty black",
+      "duration": "03:26"
+    },
+    {
+      "type": "track",
+      "title": "marks of worship",
+      "duration": "05:02"
+    },
+    {
+      "type": "track",
+      "title": "arrange",
+      "duration": "03:46"
+    },
+    {
+      "type": "track",
+      "title": "shoutouts",
+      "duration": "00:50"
+    }
+  ],
+  "totalDuration": "30:53",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/8f3794d4265e57f5e99f965534c9c481/6075267/klein-only-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:22:07.758Z",
+  "updatedAt": "2025-09-16T15:22:07.758Z"
+}

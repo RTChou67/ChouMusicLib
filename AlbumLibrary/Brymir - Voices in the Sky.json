@@ -1,0 +1,79 @@
+{
+  "fileName": "",
+  "title": "Voices in the Sky",
+  "artist": "Brymir",
+  "releaseDate": "2022-08-26",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Death Metal",
+    "Symphonic Metal",
+    "Folk Metal",
+    "Power Metal"
+  ],
+  "tags": [
+    "Melodic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Voices in the Sky",
+      "duration": "04:40"
+    },
+    {
+      "type": "track",
+      "title": "Forged in War",
+      "duration": "03:18"
+    },
+    {
+      "type": "track",
+      "title": "Fly With Me",
+      "duration": "04:51"
+    },
+    {
+      "type": "track",
+      "title": "Herald of Aegir",
+      "duration": "03:50"
+    },
+    {
+      "type": "track",
+      "title": "Rift Between Us",
+      "duration": "06:02"
+    },
+    {
+      "type": "track",
+      "title": "Landfall",
+      "duration": "03:36"
+    },
+    {
+      "type": "track",
+      "title": "Borderland",
+      "duration": "03:47"
+    },
+    {
+      "type": "track",
+      "title": "Far From Home",
+      "duration": "04:13"
+    },
+    {
+      "type": "track",
+      "title": "Seeds of Downfall",
+      "duration": "03:53"
+    },
+    {
+      "type": "track",
+      "title": "All as One",
+      "duration": "07:53"
+    },
+    {
+      "type": "track",
+      "title": "Diabolis interium",
+      "duration": "bonus track] [04:24"
+    }
+  ],
+  "totalDuration": "46:03",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/83b7afb2551a428ed6a39db1882ef1ba/10062317/brymir-voices-in-the-sky-Cover-Art.jpg",
+  "createdAt": "",
+  "updatedAt": "2025-09-16T16:42:27.510Z"
+}

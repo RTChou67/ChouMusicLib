@@ -1,0 +1,75 @@
+{
+  "fileName": "I Built the Sky - Intortus.json",
+  "title": "Intortus",
+  "artist": "I Built the Sky",
+  "releaseDate": "2014-01-01",
+  "albumFormat": "EP",
+  "rating": 0,
+  "styles": [
+    "Progressive Metal",
+    "Progressive Rock",
+    "Djent"
+  ],
+  "tags": [
+    "instrumental",
+    "energetic",
+    "progressive"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Fibratus",
+      "duration": "03:30"
+    },
+    {
+      "type": "track",
+      "title": "Arcus",
+      "duration": "03:08"
+    },
+    {
+      "type": "track",
+      "title": "Perlucidus",
+      "duration": "03:12"
+    },
+    {
+      "type": "track",
+      "title": "Lacunosus",
+      "duration": "04:07"
+    },
+    {
+      "type": "track",
+      "title": "Duplicatus",
+      "duration": "02:39"
+    },
+    {
+      "type": "track",
+      "title": "Undulatus",
+      "duration": "02:36"
+    },
+    {
+      "type": "track",
+      "title": "Intortus",
+      "duration": "03:31"
+    },
+    {
+      "type": "track",
+      "title": "Intortus (8 Bit Version)",
+      "duration": "03:31"
+    },
+    {
+      "type": "track",
+      "title": "Intortus (Demo Version)",
+      "duration": "03:14"
+    },
+    {
+      "type": "track",
+      "title": "Intortus (Youtube Version)",
+      "duration": "03:30"
+    }
+  ],
+  "totalDuration": "32:58",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/5d7dbadf1594bb2cd19d525ca4bd5f62/5318878/i-built-the-sky-intortus-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

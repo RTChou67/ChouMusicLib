@@ -1,0 +1,87 @@
+{
+  "fileName": "Earthside - Let the Truth Speak.json",
+  "title": "Let the Truth Speak",
+  "artist": "Earthside",
+  "releaseDate": "2023-11-17",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Progressive Metal",
+    "Post-Rock",
+    "Symphonic Metal",
+    "Progressive Rock"
+  ],
+  "tags": [
+    "atmospheric",
+    "uncommon time signatures",
+    "passionate",
+    "epic",
+    "orchestral",
+    "complex",
+    "melodic",
+    "progressive",
+    "uplifting",
+    "technical",
+    "heavy",
+    "lush",
+    "eclectic",
+    "male vocalist"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "But What If We're Wrong",
+      "duration": "04:30"
+    },
+    {
+      "type": "track",
+      "title": "We Who Lament",
+      "duration": "08:45"
+    },
+    {
+      "type": "track",
+      "title": "Tyranny",
+      "duration": "08:40"
+    },
+    {
+      "type": "track",
+      "title": "Pattern of Rebirth",
+      "duration": "04:40"
+    },
+    {
+      "type": "track",
+      "title": "Watching the Earth Sink",
+      "duration": "11:47"
+    },
+    {
+      "type": "track",
+      "title": "The Lesser Evil",
+      "duration": "10:59"
+    },
+    {
+      "type": "track",
+      "title": "Denial's Aria",
+      "duration": "05:26"
+    },
+    {
+      "type": "track",
+      "title": "Vespers",
+      "duration": "02:42"
+    },
+    {
+      "type": "track",
+      "title": "Let the Truth Speak",
+      "duration": "10:48"
+    },
+    {
+      "type": "track",
+      "title": "All We Knew and Ever Loved",
+      "duration": "09:20"
+    }
+  ],
+  "totalDuration": "01:17:37",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/346a1d10b99d096b93c8ff7654999c41/11218416/earthside-let-the-truth-speak-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:23:17.291Z",
+  "updatedAt": "2025-09-12T17:23:17.291Z"
+}

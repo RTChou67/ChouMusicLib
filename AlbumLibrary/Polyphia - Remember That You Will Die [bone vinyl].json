@@ -1,0 +1,105 @@
+{
+  "fileName": "Polyphia - Remember That You Will Die [bone vinyl].json",
+  "title": "Remember That You Will Die [bone vinyl]",
+  "artist": "Polyphia",
+  "releaseDate": "2023-03-01",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Math Rock",
+    "Trap [EDM]",
+    "Math Pop",
+    "Jazz Fusion",
+    "Flamenco nuevo"
+  ],
+  "tags": [
+    "technical",
+    "complex",
+    "playful",
+    "energetic",
+    "warm",
+    "lush",
+    "futuristic",
+    "male vocalist",
+    "rhythmic",
+    "female vocalist",
+    "uncommon time signatures",
+    "melodic",
+    "dense"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "Genesis",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Playing God",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "The Audacity",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Reverie",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "ABC",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Memento mori",
+      "duration": ""
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "Fuck Around and Find Out",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "All Falls Apart",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Neurotica",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Chimera",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Bloodbath",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Ego Death",
+      "duration": ""
+    }
+  ],
+  "totalDuration": "00:00",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/2b1316aefe9f0781de0a752009d4c28a/10268353/polyphia-remember-that-you-will-die-bone-vinyl-Cover-Art.png",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

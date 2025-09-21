@@ -1,0 +1,50 @@
+{
+  "fileName": "Disembodied Tyrant - The Tower_ Part One.json",
+  "title": "The Tower: Part One",
+  "artist": "Disembodied Tyrant",
+  "releaseDate": "2024-09-10",
+  "albumFormat": "EP",
+  "rating": 0,
+  "styles": [
+    "Deathcore",
+    "Thall",
+    "Symphonic Metal",
+    "Slam Death Metal"
+  ],
+  "tags": [
+    "male vocalist",
+    "dark",
+    "aggressive",
+    "energetic",
+    "dense",
+    "rhythmic",
+    "heavy",
+    "technical",
+    "melodic",
+    "atmospheric",
+    "orchestral",
+    "forest"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Icarian",
+      "duration": "04:42"
+    },
+    {
+      "type": "track",
+      "title": "Aberrant Waltz",
+      "duration": "04:59"
+    },
+    {
+      "type": "track",
+      "title": "Malphasian",
+      "duration": "05:08"
+    }
+  ],
+  "totalDuration": "14:49",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/4842b3cc4127cf8bb8b05a13efa95dea/12500295/disembodied-tyrant-the-tower-part-one-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:56:51.085Z",
+  "updatedAt": "2025-09-12T17:56:51.085Z"
+}

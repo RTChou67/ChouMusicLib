@@ -1,0 +1,74 @@
+{
+  "fileName": "",
+  "title": "The Conductor's Departure",
+  "artist": "Anata",
+  "releaseDate": "2006-06-19",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Death Metal"
+  ],
+  "tags": [
+    "Technical",
+    "Melodic",
+    "Neoclassical",
+    "Progressive"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Downward Spiral Into Madness",
+      "duration": "05:28"
+    },
+    {
+      "type": "track",
+      "title": "Complete Demise",
+      "duration": "04:29"
+    },
+    {
+      "type": "track",
+      "title": "Better Grieved Than Fooled",
+      "duration": "05:57"
+    },
+    {
+      "type": "track",
+      "title": "The Great Juggler",
+      "duration": "06:00"
+    },
+    {
+      "type": "track",
+      "title": "Cold Heart Forged in Hell",
+      "duration": "05:00"
+    },
+    {
+      "type": "track",
+      "title": "I Would Dream of Blood",
+      "duration": "05:30"
+    },
+    {
+      "type": "track",
+      "title": "Disobedience Pays",
+      "duration": "05:19"
+    },
+    {
+      "type": "track",
+      "title": "Children's Laughter",
+      "duration": "01:44"
+    },
+    {
+      "type": "track",
+      "title": "Renunciation",
+      "duration": "05:44"
+    },
+    {
+      "type": "track",
+      "title": "The Conductor's Departure",
+      "duration": "08:29"
+    }
+  ],
+  "totalDuration": "53:40",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/87c096bb51af571e45d443028c9919b0/1633520/anata-the-conductors-departure-Cover-Art.jpg",
+  "createdAt": "",
+  "updatedAt": "2025-09-16T16:26:32.996Z"
+}

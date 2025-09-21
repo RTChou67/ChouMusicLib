@@ -1,0 +1,62 @@
+{
+  "fileName": "Shape of Despair - Return to the Void.json",
+  "title": "Return to the Void",
+  "artist": "Shape of Despair",
+  "releaseDate": "2022-02-25",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Funeral Doom Metal",
+    "Gothic Metal"
+  ],
+  "tags": [
+    "sombre",
+    "ethereal",
+    "male vocalist",
+    "atmospheric",
+    "depressive",
+    "melancholic",
+    "funereal",
+    "lonely",
+    "dark",
+    "female vocalist",
+    "heavy"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Return to the Void",
+      "duration": "09:14"
+    },
+    {
+      "type": "track",
+      "title": "Dissolution",
+      "duration": "08:59"
+    },
+    {
+      "type": "track",
+      "title": "Solitary Downfall",
+      "duration": "11:06"
+    },
+    {
+      "type": "track",
+      "title": "Reflection in Slow Time",
+      "duration": "08:08"
+    },
+    {
+      "type": "track",
+      "title": "Forfeit",
+      "duration": "08:00"
+    },
+    {
+      "type": "track",
+      "title": "The Inner Desolation",
+      "duration": "11:48"
+    }
+  ],
+  "totalDuration": "57:15",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/dd0ee10ef6964abea0ba7278b74557fd/9489558/shape-of-despair-return-to-the-void-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:59:00.738Z",
+  "updatedAt": "2025-09-16T15:59:00.738Z"
+}

@@ -1,0 +1,93 @@
+{
+  "fileName": "Oathbreaker - Eros_Anteros.json",
+  "title": "Eros|Anteros",
+  "artist": "Oathbreaker",
+  "releaseDate": "2013-08-20",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Metalcore",
+    "Neocrust",
+    "Blackened Crust",
+    "Sludge Metal",
+    "Black Metal",
+    "Post-Metal"
+  ],
+  "tags": [
+    "female vocalist",
+    "heavy",
+    "dark",
+    "aggressive",
+    "passionate",
+    "angry",
+    "sombre",
+    "nihilistic",
+    "dense",
+    "ominous",
+    "raw",
+    "pessimistic",
+    "melodic",
+    "introspective",
+    "atmospheric",
+    "energetic",
+    "sad",
+    "depressive"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "(Beeltenis)",
+      "duration": "02:34"
+    },
+    {
+      "type": "track",
+      "title": "No Rest for the Weary",
+      "duration": "03:23"
+    },
+    {
+      "type": "track",
+      "title": "Upheaval",
+      "duration": "03:11"
+    },
+    {
+      "type": "track",
+      "title": "As I Look Into the Abyss",
+      "duration": "02:30"
+    },
+    {
+      "type": "track",
+      "title": "The Abyss Looks Into Me",
+      "duration": "09:02"
+    },
+    {
+      "type": "track",
+      "title": "Condor Tongue",
+      "duration": "02:35"
+    },
+    {
+      "type": "track",
+      "title": "Offer aan de leegte",
+      "duration": "04:49"
+    },
+    {
+      "type": "track",
+      "title": "Agartha",
+      "duration": "04:23"
+    },
+    {
+      "type": "track",
+      "title": "Nomads",
+      "duration": "02:45"
+    },
+    {
+      "type": "track",
+      "title": "Clair obscur",
+      "duration": "11:24"
+    }
+  ],
+  "totalDuration": "46:36",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/ebcea8ac859e319b11f97217d68c5ba7/12237257/oathbreaker-eros_anteros-Cover-Art.jpg",
+  "createdAt": "2025-09-16T16:08:18.252Z",
+  "updatedAt": "2025-09-16T16:08:18.252Z"
+}

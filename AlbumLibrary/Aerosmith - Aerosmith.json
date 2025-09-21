@@ -1,0 +1,74 @@
+{
+  "fileName": "Aerosmith - Aerosmith.json",
+  "title": "Aerosmith",
+  "artist": "Aerosmith",
+  "releaseDate": "1973-01-13",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Hard Rock",
+    "Blues Rock"
+  ],
+  "tags": [
+    "male vocalist",
+    "energetic",
+    "rhythmic",
+    "playful",
+    "warm"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "Make It",
+      "duration": "03:45"
+    },
+    {
+      "type": "track",
+      "title": "Somebody",
+      "duration": "03:45"
+    },
+    {
+      "type": "track",
+      "title": "Dream On",
+      "duration": "04:28"
+    },
+    {
+      "type": "track",
+      "title": "One Way Street",
+      "duration": "07:12"
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "Mama Kin",
+      "duration": "04:25"
+    },
+    {
+      "type": "track",
+      "title": "Write Me",
+      "duration": "04:11"
+    },
+    {
+      "type": "track",
+      "title": "Movin' Out",
+      "duration": "05:03"
+    },
+    {
+      "type": "track",
+      "title": "Walkin' the Dog",
+      "duration": "03:12"
+    }
+  ],
+  "totalDuration": "36:01",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/f2c21bb23c13d6ee4a96552b946d239a/2667800/aerosmith-aerosmith-Cover-Art.jpg",
+  "createdAt": "2025-09-16T16:13:11.967Z",
+  "updatedAt": "2025-09-16T16:13:11.967Z"
+}

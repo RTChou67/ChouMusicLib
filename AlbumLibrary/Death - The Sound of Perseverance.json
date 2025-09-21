@@ -1,0 +1,90 @@
+{
+  "fileName": "Death - The Sound of Perseverance.json",
+  "title": "The Sound of Perseverance",
+  "artist": "Death",
+  "releaseDate": "1998-08-31",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Progressive Metal",
+    "Technical Death Metal",
+    "Melodic Death Metal"
+  ],
+  "tags": [
+    "technical",
+    "male vocalist",
+    "complex",
+    "philosophical",
+    "progressive",
+    "uncommon time signatures",
+    "aggressive",
+    "existential",
+    "passionate",
+    "poetic",
+    "heavy",
+    "energetic",
+    "spiritual",
+    "rhythmic",
+    "melodic",
+    "triumphant",
+    "epic",
+    "serious",
+    "introspective",
+    "punchy",
+    "hedonistic",
+    "anxious",
+    "nihilistic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Scavenger of Human Sorrow",
+      "duration": "06:54"
+    },
+    {
+      "type": "track",
+      "title": "Bite the Pain",
+      "duration": "04:29"
+    },
+    {
+      "type": "track",
+      "title": "Spirit Crusher",
+      "duration": "06:44"
+    },
+    {
+      "type": "track",
+      "title": "Story to Tell",
+      "duration": "06:34"
+    },
+    {
+      "type": "track",
+      "title": "Flesh and the Power It Holds",
+      "duration": "08:25"
+    },
+    {
+      "type": "track",
+      "title": "Voice of the Soul",
+      "duration": "03:42"
+    },
+    {
+      "type": "track",
+      "title": "To Forgive Is to Suffer",
+      "duration": "05:55"
+    },
+    {
+      "type": "track",
+      "title": "A Moment of Clarity",
+      "duration": "07:22"
+    },
+    {
+      "type": "track",
+      "title": "Painkiller",
+      "duration": "06:03"
+    }
+  ],
+  "totalDuration": "56:08",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/09aa0ca4ded323eaa16189b1e93584bc/2586089/death-the-sound-of-perseverance-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:37:30.059Z",
+  "updatedAt": "2025-09-13T16:37:30.059Z"
+}

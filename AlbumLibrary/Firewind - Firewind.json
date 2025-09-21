@@ -1,0 +1,82 @@
+{
+  "fileName": "Firewind - Firewind.json",
+  "title": "Firewind",
+  "artist": "Firewind",
+  "releaseDate": "2020-05-15",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Power Metal",
+    "Heavy Metal"
+  ],
+  "tags": [
+    "energetic",
+    "melodic",
+    "male vocalist",
+    "heavy",
+    "anthemic",
+    "epic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Welcome to the Empire",
+      "duration": "05:12"
+    },
+    {
+      "type": "track",
+      "title": "Devour",
+      "duration": "03:45"
+    },
+    {
+      "type": "track",
+      "title": "Rising Fire",
+      "duration": "03:26"
+    },
+    {
+      "type": "track",
+      "title": "Break Away",
+      "duration": "05:13"
+    },
+    {
+      "type": "track",
+      "title": "Orbitual Sunrise",
+      "duration": "04:44"
+    },
+    {
+      "type": "track",
+      "title": "Longing to Know You",
+      "duration": "04:28"
+    },
+    {
+      "type": "track",
+      "title": "Perfect Stranger",
+      "duration": "04:10"
+    },
+    {
+      "type": "track",
+      "title": "Overdrive",
+      "duration": "04:25"
+    },
+    {
+      "type": "track",
+      "title": "All My Life",
+      "duration": "04:01"
+    },
+    {
+      "type": "track",
+      "title": "Space Cowboy",
+      "duration": "03:12"
+    },
+    {
+      "type": "track",
+      "title": "Kill the Pain",
+      "duration": "04:51"
+    }
+  ],
+  "totalDuration": "47:27",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/35de17b3eef7fa8e7b53362a19695a0e/8190508/firewind-firewind-Cover-Art.png",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

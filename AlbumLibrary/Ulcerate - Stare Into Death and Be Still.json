@@ -1,0 +1,90 @@
+{
+  "fileName": "Ulcerate - Stare Into Death and Be Still.json",
+  "title": "Stare Into Death and Be Still",
+  "artist": "Ulcerate",
+  "releaseDate": "2020-04-24",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Technical Death Metal",
+    "Dissonant Death Metal",
+    "Atmospheric Sludge Metal"
+  ],
+  "tags": [
+    "dense",
+    "technical",
+    "atmospheric",
+    "complex",
+    "dissonant",
+    "dark",
+    "uncommon time signatures",
+    "heavy",
+    "death",
+    "male vocalist",
+    "melancholic",
+    "apocalyptic",
+    "ominous",
+    "aggressive",
+    "nihilistic",
+    "progressive",
+    "existential",
+    "sombre",
+    "serious",
+    "cold",
+    "passionate",
+    "pessimistic",
+    "hypnotic",
+    "melodic",
+    "angry",
+    "poetic",
+    "epic",
+    "depressive"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "The Lifeless Advance",
+      "duration": "07:01"
+    },
+    {
+      "type": "track",
+      "title": "Exhale the Ash",
+      "duration": "06:19"
+    },
+    {
+      "type": "track",
+      "title": "Stare Into Death and Be Still",
+      "duration": "08:24"
+    },
+    {
+      "type": "track",
+      "title": "There Is No Horizon",
+      "duration": "07:02"
+    },
+    {
+      "type": "track",
+      "title": "Inversion",
+      "duration": "07:05"
+    },
+    {
+      "type": "track",
+      "title": "Visceral Ends",
+      "duration": "05:40"
+    },
+    {
+      "type": "track",
+      "title": "Drawn Into the Next Void",
+      "duration": "08:37"
+    },
+    {
+      "type": "track",
+      "title": "Dissolved Orders",
+      "duration": "08:15"
+    }
+  ],
+  "totalDuration": "58:23",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/b3bf339b56e8767895551690135896cf/9570058/ulcerate-stare-into-death-and-be-still-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:39:12.780Z",
+  "updatedAt": "2025-09-16T15:39:12.780Z"
+}

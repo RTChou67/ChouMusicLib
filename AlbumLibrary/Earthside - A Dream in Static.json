@@ -1,0 +1,75 @@
+{
+  "fileName": "Earthside - A Dream in Static.json",
+  "title": "A Dream in Static",
+  "artist": "Earthside",
+  "releaseDate": "2015-10-23",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Progressive Metal",
+    "Djent",
+    "Symphonic Metal",
+    "Progressive Rock",
+    "Post-Rock"
+  ],
+  "tags": [
+    "atmospheric",
+    "progressive",
+    "technical",
+    "orchestral",
+    "epic",
+    "male vocalist",
+    "complex",
+    "passionate",
+    "uncommon time signatures",
+    "uplifting",
+    "melodic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "The Closest I've Come",
+      "duration": "08:00"
+    },
+    {
+      "type": "track",
+      "title": "Mob Mentality",
+      "duration": "09:56"
+    },
+    {
+      "type": "track",
+      "title": "A Dream in Static",
+      "duration": "07:35"
+    },
+    {
+      "type": "track",
+      "title": "Entering the Light",
+      "duration": "05:27"
+    },
+    {
+      "type": "track",
+      "title": "Skyline",
+      "duration": "09:28"
+    },
+    {
+      "type": "track",
+      "title": "Crater",
+      "duration": "06:03"
+    },
+    {
+      "type": "track",
+      "title": "The Ungrounding",
+      "duration": "05:34"
+    },
+    {
+      "type": "track",
+      "title": "Contemplation of the Beautiful",
+      "duration": "11:49"
+    }
+  ],
+  "totalDuration": "01:03:52",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/37be1f85fed23631086b3881ce9452d2/5844297/earthside-a-dream-in-static-Cover-Art.png",
+  "createdAt": "2025-09-12T17:23:07.209Z",
+  "updatedAt": "2025-09-12T17:23:07.209Z"
+}

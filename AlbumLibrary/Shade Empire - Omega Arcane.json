@@ -1,0 +1,82 @@
+{
+  "fileName": "Shade Empire - Omega Arcane.json",
+  "title": "Omega Arcane",
+  "artist": "Shade Empire",
+  "releaseDate": "2013-05-03",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Symphonic Black Metal",
+    "Melodic Death Metal",
+    "Progressive Metal"
+  ],
+  "tags": [
+    "apocalyptic",
+    "epic",
+    "dark",
+    "sombre",
+    "male vocalist"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Ruins",
+      "duration": "08:03"
+    },
+    {
+      "type": "track",
+      "title": "Dawnless Days",
+      "duration": "05:24"
+    },
+    {
+      "type": "track",
+      "title": "Until No Life Breeds",
+      "duration": "04:43"
+    },
+    {
+      "type": "track",
+      "title": "Ash Statues",
+      "duration": "05:01"
+    },
+    {
+      "type": "track",
+      "title": "Disembodiment",
+      "duration": "13:00"
+    },
+    {
+      "type": "track",
+      "title": "Malicious Winds",
+      "duration": "05:21"
+    },
+    {
+      "type": "track",
+      "title": "Traveler of Unlight",
+      "duration": "04:47"
+    },
+    {
+      "type": "track",
+      "title": "Devolution",
+      "duration": "02:38"
+    },
+    {
+      "type": "track",
+      "title": "Slumbering Giant",
+      "duration": "06:29"
+    },
+    {
+      "type": "track",
+      "title": "Nomad",
+      "duration": "06:47"
+    },
+    {
+      "type": "track",
+      "title": "Omega Arcane",
+      "duration": "12:14"
+    }
+  ],
+  "totalDuration": "01:14:27",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/e686c783e208e6dbc8542d1a611abf38/4702261/shade-empire-omega-arcane-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:25:48.327Z",
+  "updatedAt": "2025-09-12T17:25:48.327Z"
+}

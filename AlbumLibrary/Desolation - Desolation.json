@@ -1,0 +1,90 @@
+{
+  "fileName": "Desolation - Desolation.json",
+  "title": "Desolation",
+  "artist": "Desolation",
+  "releaseDate": "2024-12-10",
+  "albumFormat": "",
+  "rating": 0,
+  "styles": [],
+  "tags": [
+    "Death Metal",
+    "Deathcore",
+    "Metal",
+    "Symphonic Metal",
+    "Melodic Deathcore",
+    "Orchestral Deathcore",
+    "Philadelphia"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "XII/X",
+      "duration": "00:25"
+    },
+    {
+      "type": "track",
+      "title": "Cascade",
+      "duration": "02:06"
+    },
+    {
+      "type": "track",
+      "title": "Gravedancer",
+      "duration": "03:49"
+    },
+    {
+      "type": "track",
+      "title": "Abyss ft. Tyler Beam",
+      "duration": "03:40"
+    },
+    {
+      "type": "track",
+      "title": "Into Nothing",
+      "duration": "03:32"
+    },
+    {
+      "type": "track",
+      "title": "Desecration",
+      "duration": "03:32"
+    },
+    {
+      "type": "track",
+      "title": "Bloodlust",
+      "duration": "03:08"
+    },
+    {
+      "type": "track",
+      "title": "Tormentia",
+      "duration": "03:27"
+    },
+    {
+      "type": "track",
+      "title": "Decay",
+      "duration": "03:50"
+    },
+    {
+      "type": "track",
+      "title": "Apparition ft. Ben Mascioli",
+      "duration": "03:03"
+    },
+    {
+      "type": "track",
+      "title": "Beg for Death",
+      "duration": "02:21"
+    },
+    {
+      "type": "track",
+      "title": "III/XI",
+      "duration": "00:30"
+    },
+    {
+      "type": "track",
+      "title": "Fragments ft. Tim Sullivan",
+      "duration": "06:24"
+    }
+  ],
+  "totalDuration": "39:47",
+  "notes": "",
+  "coverData": "https://f4.bcbits.com/img/a3270085627_16.jpg",
+  "createdAt": "2025-09-12T18:09:42.290Z",
+  "updatedAt": "2025-09-12T18:09:42.290Z"
+}

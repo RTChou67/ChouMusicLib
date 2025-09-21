@@ -1,0 +1,75 @@
+{
+  "fileName": "Espers - Espers.json",
+  "title": "Espers",
+  "artist": "Espers",
+  "releaseDate": "2004-01-20",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Psychedelic Folk",
+    "Chamber Folk",
+    "Wyrd Folk",
+    "Freak Folk",
+    "Progressive Folk"
+  ],
+  "tags": [
+    "forest",
+    "sombre",
+    "male vocalist",
+    "atmospheric",
+    "pastoral",
+    "female vocalist",
+    "dark",
+    "melodic",
+    "nature",
+    "surreal",
+    "mysterious"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Flowery Noontide",
+      "duration": "04:10"
+    },
+    {
+      "type": "track",
+      "title": "Meadow",
+      "duration": "04:11"
+    },
+    {
+      "type": "track",
+      "title": "Riding",
+      "duration": "04:09"
+    },
+    {
+      "type": "track",
+      "title": "Voices",
+      "duration": "03:44"
+    },
+    {
+      "type": "track",
+      "title": "Hearts & Daggers",
+      "duration": "08:34"
+    },
+    {
+      "type": "track",
+      "title": "Byss & Abyss",
+      "duration": "06:03"
+    },
+    {
+      "type": "track",
+      "title": "Daughter",
+      "duration": "03:03"
+    },
+    {
+      "type": "track",
+      "title": "Travel Mountains",
+      "duration": "06:29"
+    }
+  ],
+  "totalDuration": "40:23",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/e6dbe0851d974589fdf0227eaa5228c1/13562898/espers-espers-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:29:03.987Z",
+  "updatedAt": "2025-09-16T15:29:03.987Z"
+}

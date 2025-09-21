@@ -1,0 +1,70 @@
+{
+  "fileName": "Tyranny - Tides of Awakening.json",
+  "title": "Tides of Awakening",
+  "artist": "Tyranny",
+  "releaseDate": "2005-08-24",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Funeral Doom Metal",
+    "Ritual Ambient"
+  ],
+  "tags": [
+    "apocalyptic",
+    "ominous",
+    "funereal",
+    "atmospheric",
+    "science fiction",
+    "heavy",
+    "ritualistic",
+    "surreal",
+    "melancholic",
+    "occult",
+    "paranormal",
+    "male vocalist",
+    "mysterious",
+    "hypnotic",
+    "scary",
+    "nocturnal",
+    "cold",
+    "dense",
+    "concept album",
+    "sombre",
+    "suite",
+    "lethargic",
+    "dark",
+    "space"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Coalescent of the Inhumane Awareness",
+      "duration": "14:29"
+    },
+    {
+      "type": "track",
+      "title": "Sonorous Howl From Beyond the Stars",
+      "duration": "11:41"
+    },
+    {
+      "type": "track",
+      "title": "Upon the War-Torn Shape of Cold Earth",
+      "duration": "17:15"
+    },
+    {
+      "type": "track",
+      "title": "In the Arcane Clasp of Unwritten Hours",
+      "duration": "15:26"
+    },
+    {
+      "type": "track",
+      "title": "Entreaties to the Primaeval Chaos",
+      "duration": "07:43"
+    }
+  ],
+  "totalDuration": "01:06:34",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/038b745d194ee6a3a136a7753623cfa3/5021018/tyranny-tides-of-awakening-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:59:24.404Z",
+  "updatedAt": "2025-09-16T15:59:24.404Z"
+}

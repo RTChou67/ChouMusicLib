@@ -1,0 +1,105 @@
+{
+  "fileName": "Rob Zombie - Hellbilly Deluxe.json",
+  "title": "Hellbilly Deluxe",
+  "artist": "Rob Zombie",
+  "releaseDate": "1998-08-25",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Industrial Metal",
+    "Groove Metal",
+    "Alternative Metal"
+  ],
+  "tags": [
+    "Halloween",
+    "paranormal",
+    "energetic",
+    "heavy",
+    "male vocalist",
+    "death",
+    "sexual",
+    "dark",
+    "sampling",
+    "mechanical",
+    "science fiction",
+    "scary",
+    "rhythmic",
+    "occult",
+    "infernal",
+    "manic",
+    "horror",
+    "humorous"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Call of the Zombie",
+      "duration": "00:30"
+    },
+    {
+      "type": "track",
+      "title": "Superbeast",
+      "duration": "03:40"
+    },
+    {
+      "type": "track",
+      "title": "Dragula",
+      "duration": "03:42"
+    },
+    {
+      "type": "track",
+      "title": "Living Dead Girl",
+      "duration": "03:21"
+    },
+    {
+      "type": "track",
+      "title": "Perversion 99",
+      "duration": "01:43"
+    },
+    {
+      "type": "track",
+      "title": "Demonoid Phenomenon",
+      "duration": "04:11"
+    },
+    {
+      "type": "track",
+      "title": "Spookshow Baby",
+      "duration": "03:38"
+    },
+    {
+      "type": "track",
+      "title": "How to Make a Monster",
+      "duration": "01:38"
+    },
+    {
+      "type": "track",
+      "title": "Meet the Creeper",
+      "duration": "03:13"
+    },
+    {
+      "type": "track",
+      "title": "The Ballad of Resurrection Joe and Rosa Whore",
+      "duration": "03:55"
+    },
+    {
+      "type": "track",
+      "title": "What Lurks on Channel X?",
+      "duration": "02:29"
+    },
+    {
+      "type": "track",
+      "title": "Return of the Phantom Stranger",
+      "duration": "04:31"
+    },
+    {
+      "type": "track",
+      "title": "The Beginning of the End",
+      "duration": "01:52"
+    }
+  ],
+  "totalDuration": "38:23",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/e84d4356652da06259219e300abbd2c3/9612819/rob-zombie-hellbilly-deluxe-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

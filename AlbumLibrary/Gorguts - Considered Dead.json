@@ -1,0 +1,83 @@
+{
+  "fileName": "Gorguts - Considered Dead.json",
+  "title": "Considered Dead",
+  "artist": "Gorguts",
+  "releaseDate": "1991-10-08",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Death Metal"
+  ],
+  "tags": [
+    "death",
+    "dark",
+    "aggressive",
+    "ominous",
+    "heavy",
+    "technical",
+    "male vocalist",
+    "dense",
+    "rhythmic",
+    "energetic",
+    "complex",
+    "macabre",
+    "angry"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "...And Then Comes Lividity",
+      "duration": "00:43"
+    },
+    {
+      "type": "track",
+      "title": "Stiff and Cold",
+      "duration": "04:27"
+    },
+    {
+      "type": "track",
+      "title": "Disincarnated",
+      "duration": "04:27"
+    },
+    {
+      "type": "track",
+      "title": "Considered Dead",
+      "duration": "03:31"
+    },
+    {
+      "type": "track",
+      "title": "Rottenatomy",
+      "duration": "04:45"
+    },
+    {
+      "type": "track",
+      "title": "Bodily Corrupted",
+      "duration": "04:36"
+    },
+    {
+      "type": "track",
+      "title": "Waste of Mortality",
+      "duration": "04:37"
+    },
+    {
+      "type": "track",
+      "title": "Drifting Remains",
+      "duration": "03:43"
+    },
+    {
+      "type": "track",
+      "title": "Hematological Allergy",
+      "duration": "04:09"
+    },
+    {
+      "type": "track",
+      "title": "Inoculated Life",
+      "duration": "03:53"
+    }
+  ],
+  "totalDuration": "38:51",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/2221387e828fff10b2a369d596491443/7671861/gorguts-considered-dead-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:50:52.278Z",
+  "updatedAt": "2025-09-13T16:50:52.278Z"
+}

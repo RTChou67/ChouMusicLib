@@ -1,0 +1,85 @@
+{
+  "fileName": "Ghost - Prequelle.json",
+  "title": "Prequelle",
+  "artist": "Ghost",
+  "releaseDate": "2018-06-01",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Hard Rock",
+    "Occult Rock",
+    "Pop Rock",
+    "Heavy Metal",
+    "AOR"
+  ],
+  "tags": [
+    "male vocalist",
+    "melodic",
+    "occult",
+    "triumphant",
+    "anthemic",
+    "death",
+    "satanism",
+    "energetic",
+    "dark",
+    "epic",
+    "heavy"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Ashes",
+      "duration": "01:21"
+    },
+    {
+      "type": "track",
+      "title": "Rats",
+      "duration": "04:22"
+    },
+    {
+      "type": "track",
+      "title": "Faith",
+      "duration": "04:30"
+    },
+    {
+      "type": "track",
+      "title": "See the Light",
+      "duration": "04:05"
+    },
+    {
+      "type": "track",
+      "title": "Miasma",
+      "duration": "05:18"
+    },
+    {
+      "type": "track",
+      "title": "Dance Macabre",
+      "duration": "03:40"
+    },
+    {
+      "type": "track",
+      "title": "Pro memoria",
+      "duration": "05:39"
+    },
+    {
+      "type": "track",
+      "title": "Witch Image",
+      "duration": "03:30"
+    },
+    {
+      "type": "track",
+      "title": "Helvetesfönster",
+      "duration": "05:56"
+    },
+    {
+      "type": "track",
+      "title": "Life Eternal",
+      "duration": "03:27"
+    }
+  ],
+  "totalDuration": "41:48",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/0015543d3ada19fa63ef4cc8b8e55364/6949614/ghost-prequelle-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

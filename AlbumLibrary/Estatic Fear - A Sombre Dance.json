@@ -1,0 +1,101 @@
+{
+  "fileName": "Estatic Fear - A Sombre Dance.json",
+  "title": "A Sombre Dance",
+  "artist": "Estatic Fear",
+  "releaseDate": "1999-01-01",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Doom Metal",
+    "Symphonic Metal",
+    "Gothic Metal",
+    "Death Doom Metal",
+    "Dark Folk"
+  ],
+  "tags": [
+    "sombre",
+    "melancholic",
+    "bittersweet",
+    "male vocalist",
+    "female vocalist",
+    "melodic",
+    "suite",
+    "pastoral",
+    "lonely",
+    "longing",
+    "sad",
+    "romantic",
+    "poetic",
+    "medieval",
+    "introspective",
+    "existential",
+    "concept album",
+    "nocturnal",
+    "death",
+    "ethereal",
+    "nature",
+    "lush",
+    "sentimental",
+    "depressive",
+    "atmospheric",
+    "love",
+    "heavy"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Intro (Unisono Lute Instrumental)",
+      "duration": "01:22"
+    },
+    {
+      "type": "track",
+      "title": "Chapter I",
+      "duration": "05:03"
+    },
+    {
+      "type": "track",
+      "title": "Chapter II",
+      "duration": "04:51"
+    },
+    {
+      "type": "track",
+      "title": "Chapter III",
+      "duration": "03:33"
+    },
+    {
+      "type": "track",
+      "title": "Chapter IV",
+      "duration": "10:31"
+    },
+    {
+      "type": "track",
+      "title": "Chapter V",
+      "duration": "04:51"
+    },
+    {
+      "type": "track",
+      "title": "Chapter VI",
+      "duration": "04:50"
+    },
+    {
+      "type": "track",
+      "title": "Chapter VII",
+      "duration": "04:52"
+    },
+    {
+      "type": "track",
+      "title": "Chapter VIII",
+      "duration": "03:16"
+    },
+    {
+      "type": "track",
+      "title": "Chapter IX",
+      "duration": "06:22"
+    }
+  ],
+  "totalDuration": "49:31",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/635fa860db78725b8ffdaabd65690435/1274916/estatic-fear-a-sombre-dance-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

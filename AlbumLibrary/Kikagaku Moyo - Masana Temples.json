@@ -1,0 +1,84 @@
+{
+  "fileName": "Kikagaku Moyo - Masana Temples.json",
+  "title": "Masana Temples",
+  "artist": "Kikagaku Moyo",
+  "releaseDate": "2018-10-05",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Psychedelic Rock",
+    "Krautrock",
+    "Raga Rock",
+    "Psychedelic Folk"
+  ],
+  "tags": [
+    "mellow",
+    "psychedelic",
+    "warm",
+    "peaceful",
+    "atmospheric",
+    "male vocalist",
+    "hypnotic",
+    "summer",
+    "rhythmic",
+    "playful",
+    "calm"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Entrance",
+      "duration": "02:26"
+    },
+    {
+      "type": "track",
+      "title": "Dripping Sun",
+      "duration": "07:50"
+    },
+    {
+      "type": "track",
+      "title": "Nazo Nazo",
+      "duration": "03:07"
+    },
+    {
+      "type": "track",
+      "title": "Fluffy kosmisch",
+      "duration": "03:40"
+    },
+    {
+      "type": "track",
+      "title": "Majupose",
+      "duration": "04:01"
+    },
+    {
+      "type": "track",
+      "title": "Nana",
+      "duration": "03:13"
+    },
+    {
+      "type": "track",
+      "title": "Orange Peel",
+      "duration": "04:27"
+    },
+    {
+      "type": "track",
+      "title": "Amayadori",
+      "duration": "01:35"
+    },
+    {
+      "type": "track",
+      "title": "Gatherings",
+      "duration": "06:40"
+    },
+    {
+      "type": "track",
+      "title": "Blanket Song",
+      "duration": "03:11"
+    }
+  ],
+  "totalDuration": "40:10",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/9ee962524af281fee9a3e2834b3784cd/7091705/kikagaku-moyo-masana-temples-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:23:57.139Z",
+  "updatedAt": "2025-09-12T17:23:57.139Z"
+}

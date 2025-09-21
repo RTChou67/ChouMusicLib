@@ -1,0 +1,98 @@
+{
+  "fileName": "Shadow of Intent - Imperium Delirium.json",
+  "title": "Imperium Delirium",
+  "artist": "Shadow of Intent",
+  "releaseDate": "2025-06-27",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Deathcore",
+    "Melodic Death Metal",
+    "Symphonic Metal",
+    "Technical Death Metal"
+  ],
+  "tags": [
+    "dense",
+    "technical",
+    "male vocalist",
+    "heavy",
+    "infernal",
+    "death",
+    "war",
+    "melodic",
+    "political",
+    "aggressive",
+    "dark",
+    "rhythmic",
+    "apocalyptic",
+    "violence",
+    "sombre"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Prepare to Die",
+      "duration": "04:01"
+    },
+    {
+      "type": "track",
+      "title": "Flying the Black Flag",
+      "duration": "03:57"
+    },
+    {
+      "type": "track",
+      "title": "Infinity of Horrors",
+      "duration": "04:14"
+    },
+    {
+      "type": "track",
+      "title": "Mechanical Chaos",
+      "duration": "03:50"
+    },
+    {
+      "type": "track",
+      "title": "They Murdered Sleep",
+      "duration": "04:01"
+    },
+    {
+      "type": "track",
+      "title": "The Facets of Propaganda",
+      "duration": "05:19"
+    },
+    {
+      "type": "track",
+      "title": "Feeding the Meatgrinder",
+      "duration": "04:03"
+    },
+    {
+      "type": "track",
+      "title": "Vehement Draconian Vengeance",
+      "duration": "03:55"
+    },
+    {
+      "type": "track",
+      "title": "Beholding the Sickness of Civilization",
+      "duration": "04:30"
+    },
+    {
+      "type": "track",
+      "title": "Apocalypse Canvas",
+      "duration": "05:08"
+    },
+    {
+      "type": "track",
+      "title": "No Matter the Cost",
+      "duration": "04:16"
+    },
+    {
+      "type": "track",
+      "title": "Imperium Delirium",
+      "duration": "07:34"
+    }
+  ],
+  "totalDuration": "54:48",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/88b6a7e7f4343df677371ba1cb960fad/13229404/shadow-of-intent-imperium-delirium-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:38:38.186Z",
+  "updatedAt": "2025-09-16T15:38:38.186Z"
+}

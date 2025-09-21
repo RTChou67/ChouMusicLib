@@ -1,0 +1,67 @@
+{
+  "fileName": "Thy Art Is Murder - Godlike.json",
+  "title": "Godlike",
+  "artist": "Thy Art Is Murder",
+  "releaseDate": "2023-09-22",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [],
+  "tags": [],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Destroyer of Dreams",
+      "duration": "04:39"
+    },
+    {
+      "type": "track",
+      "title": "Blood Throne",
+      "duration": "03:23"
+    },
+    {
+      "type": "track",
+      "title": "Join Me in Armageddon",
+      "duration": "04:38"
+    },
+    {
+      "type": "track",
+      "title": "Keres",
+      "duration": "03:36"
+    },
+    {
+      "type": "track",
+      "title": "Everything Unwanted",
+      "duration": "05:05"
+    },
+    {
+      "type": "track",
+      "title": "Lesson in Pain",
+      "duration": "04:05"
+    },
+    {
+      "type": "track",
+      "title": "Godlike",
+      "duration": "04:14"
+    },
+    {
+      "type": "track",
+      "title": "Corrosion",
+      "duration": "03:49"
+    },
+    {
+      "type": "track",
+      "title": "Anathema",
+      "duration": "03:29"
+    },
+    {
+      "type": "track",
+      "title": "Bermuda",
+      "duration": "03:14"
+    }
+  ],
+  "totalDuration": "40:12",
+  "notes": "",
+  "coverData": "https://www.metal-archives.com/images/1/1/3/6/1136799.jpg?5125",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

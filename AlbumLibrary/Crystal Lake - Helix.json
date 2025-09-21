@@ -1,0 +1,77 @@
+{
+  "fileName": "Crystal Lake - Helix.json",
+  "title": "Helix",
+  "artist": "Crystal Lake",
+  "releaseDate": "2018-11-28",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [],
+  "tags": [],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Helix",
+      "duration": "00:12"
+    },
+    {
+      "type": "track",
+      "title": "Aeon",
+      "duration": "03:13"
+    },
+    {
+      "type": "track",
+      "title": "Agony",
+      "duration": "05:07"
+    },
+    {
+      "type": "track",
+      "title": "+81",
+      "duration": "03:19"
+    },
+    {
+      "type": "track",
+      "title": "Lost in Forever",
+      "duration": "04:09"
+    },
+    {
+      "type": "track",
+      "title": "Outgrow",
+      "duration": "04:02"
+    },
+    {
+      "type": "track",
+      "title": "Ritual",
+      "duration": "00:26"
+    },
+    {
+      "type": "track",
+      "title": "Hail to the Fire",
+      "duration": "03:09"
+    },
+    {
+      "type": "track",
+      "title": "Devilcry",
+      "duration": "04:25"
+    },
+    {
+      "type": "track",
+      "title": "Just Confusing",
+      "duration": "03:11"
+    },
+    {
+      "type": "track",
+      "title": "Apollo",
+      "duration": "05:12"
+    },
+    {
+      "type": "track",
+      "title": "Sanctuary",
+      "duration": "04:01"
+    }
+  ],
+  "totalDuration": "40:26",
+  "notes": "",
+  "coverData": "https://www.metal-archives.com/images/7/4/8/9/748918.jpg?0909",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

@@ -1,0 +1,55 @@
+{
+  "fileName": "Neurotech - Symphonies.json",
+  "title": "Symphonies",
+  "artist": "Neurotech",
+  "releaseDate": "2016-12-27",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Symphonic Metal",
+    "Cyber Metal"
+  ],
+  "tags": [
+    "instrumental",
+    "futuristic",
+    "progressive",
+    "energetic",
+    "orchestral",
+    "ethereal",
+    "lush",
+    "epic",
+    "atmospheric",
+    "melodic",
+    "mechanical",
+    "cold",
+    "uplifting",
+    "triumphant"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "The Elysian Symphony",
+      "duration": "17:18"
+    },
+    {
+      "type": "track",
+      "title": "The Halcyon Symphony",
+      "duration": "13:32"
+    },
+    {
+      "type": "track",
+      "title": "The Ophidian Symphony",
+      "duration": "18:44"
+    },
+    {
+      "type": "track",
+      "title": "The Veneration Symphony",
+      "duration": "17:07"
+    }
+  ],
+  "totalDuration": "01:06:41",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/2b1d2da2992c764f2f6aa43ff7131242/6349097/neurotech-symphonies-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

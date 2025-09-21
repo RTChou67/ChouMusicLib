@@ -1,0 +1,86 @@
+{
+  "fileName": "Yes - Yes.json",
+  "title": "Yes",
+  "artist": "Yes",
+  "releaseDate": "1969-07-25",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Progressive Rock",
+    "Psychedelic Rock",
+    "Psychedelic Rock"
+  ],
+  "tags": [
+    "male vocalist",
+    "psychedelic",
+    "melodic",
+    "complex",
+    "progressive",
+    "warm",
+    "playful",
+    "anthemic",
+    "fantasy",
+    "philosophical",
+    "soft",
+    "jamming",
+    "lush",
+    "energetic",
+    "bright",
+    "technical"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "Beyond and Before",
+      "duration": "04:52"
+    },
+    {
+      "type": "track",
+      "title": "I See You",
+      "duration": "06:47"
+    },
+    {
+      "type": "track",
+      "title": "Yesterday and Today",
+      "duration": "02:49"
+    },
+    {
+      "type": "track",
+      "title": "Looking Around",
+      "duration": "03:58"
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "Harold Land",
+      "duration": "05:40"
+    },
+    {
+      "type": "track",
+      "title": "Every Little Thing",
+      "duration": "05:41"
+    },
+    {
+      "type": "track",
+      "title": "Sweetness",
+      "duration": "04:31"
+    },
+    {
+      "type": "track",
+      "title": "Survival",
+      "duration": "06:18"
+    }
+  ],
+  "totalDuration": "40:36",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/d2837aabd6fed53961ea8eddcce5e10b/11730886/yes-yes-Cover-Art.png",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

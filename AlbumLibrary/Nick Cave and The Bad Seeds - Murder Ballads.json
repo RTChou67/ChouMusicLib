@@ -1,0 +1,102 @@
+{
+  "fileName": "Nick Cave and The Bad Seeds - Murder Ballads.json",
+  "title": "Murder Ballads",
+  "artist": "Nick Cave and The Bad Seeds",
+  "releaseDate": "1996-02-05",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Singer-Songwriter",
+    "Alternative Rock",
+    "Gothic Rock",
+    "Folk Rock",
+    "Gothic Rock",
+    "Dark Cabaret",
+    "Punk Blues",
+    "Art Rock"
+  ],
+  "tags": [
+    "crime",
+    "death",
+    "dark",
+    "violence",
+    "suspenseful",
+    "concept album",
+    "vulgar",
+    "disturbing",
+    "male vocalist",
+    "humorous",
+    "winter",
+    "homicide",
+    "ballad",
+    "sarcastic",
+    "female vocalist",
+    "macabre",
+    "nocturnal",
+    "eclectic",
+    "theatrical",
+    "narrative",
+    "noisy",
+    "dark humor",
+    "folklore",
+    "horror",
+    "quirky"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Song of Joy",
+      "duration": "06:51"
+    },
+    {
+      "type": "track",
+      "title": "Stagger Lee",
+      "duration": "05:19"
+    },
+    {
+      "type": "track",
+      "title": "Henry Lee",
+      "duration": "04:02"
+    },
+    {
+      "type": "track",
+      "title": "Lovely Creature",
+      "duration": "04:17"
+    },
+    {
+      "type": "track",
+      "title": "Where the Wild Roses Grow",
+      "duration": "04:01"
+    },
+    {
+      "type": "track",
+      "title": "The Curse of Millhaven",
+      "duration": "06:59"
+    },
+    {
+      "type": "track",
+      "title": "The Kindness of Strangers",
+      "duration": "04:43"
+    },
+    {
+      "type": "track",
+      "title": "Crow Jane",
+      "duration": "04:18"
+    },
+    {
+      "type": "track",
+      "title": "O'Malley's Bar",
+      "duration": "14:32"
+    },
+    {
+      "type": "track",
+      "title": "Death Is Not the End",
+      "duration": "04:27"
+    }
+  ],
+  "totalDuration": "59:29",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/4404d27c6efdd5fd6c1bb88eaa5c4c8f/3841452/nick-cave-and-the-bad-seeds-murder-ballads-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

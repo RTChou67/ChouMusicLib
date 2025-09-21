@@ -1,0 +1,91 @@
+{
+  "fileName": "Unprocessed - Artificial Void.json",
+  "title": "Artificial Void",
+  "artist": "Unprocessed",
+  "releaseDate": "2019-08-09",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Djent",
+    "Progressive Metal",
+    "Metalcore"
+  ],
+  "tags": [
+    "technical",
+    "male vocalist",
+    "progressive",
+    "futuristic",
+    "anxious",
+    "atmospheric",
+    "science fiction",
+    "apocalyptic",
+    "heavy"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Prototype",
+      "duration": "03:59"
+    },
+    {
+      "type": "track",
+      "title": "Artificial Void",
+      "duration": "05:24"
+    },
+    {
+      "type": "track",
+      "title": "Ruins",
+      "duration": "04:51"
+    },
+    {
+      "type": "track",
+      "title": "Fear",
+      "duration": "04:43"
+    },
+    {
+      "type": "track",
+      "title": "Abandoned",
+      "duration": "05:27"
+    },
+    {
+      "type": "track",
+      "title": "House of Waters",
+      "duration": "04:31"
+    },
+    {
+      "type": "track",
+      "title": "Avatar",
+      "duration": "05:46"
+    },
+    {
+      "type": "track",
+      "title": "Antler's Decay",
+      "duration": "04:58"
+    },
+    {
+      "type": "track",
+      "title": "Down the Spine",
+      "duration": "04:55"
+    },
+    {
+      "type": "track",
+      "title": "Another Sky",
+      "duration": "05:53"
+    },
+    {
+      "type": "track",
+      "title": "The Movements, Their Echoes",
+      "duration": "04:01"
+    },
+    {
+      "type": "track",
+      "title": "Closure",
+      "duration": "03:57"
+    }
+  ],
+  "totalDuration": "58:25",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/2f2dc6fed96932c28ad6b23c12acecf7/7531107/unprocessed-artificial-void-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

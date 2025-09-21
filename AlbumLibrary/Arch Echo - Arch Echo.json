@@ -1,0 +1,63 @@
+{
+  "fileName": "",
+  "title": "Arch Echo",
+  "artist": "Arch Echo",
+  "releaseDate": "2017-05-18",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Progressive Metal",
+    "Djent"
+  ],
+  "tags": [
+    "instrumental",
+    "technical"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Earthshine",
+      "duration": "05:27"
+    },
+    {
+      "type": "track",
+      "title": "Afterburger",
+      "duration": "05:09"
+    },
+    {
+      "type": "track",
+      "title": "Hip Dipper",
+      "duration": "04:10"
+    },
+    {
+      "type": "track",
+      "title": "Color Wheel",
+      "duration": "06:01"
+    },
+    {
+      "type": "track",
+      "title": "Bloom",
+      "duration": "05:34"
+    },
+    {
+      "type": "track",
+      "title": "Spark",
+      "duration": "05:43"
+    },
+    {
+      "type": "track",
+      "title": "My Head Sometimes",
+      "duration": "06:23"
+    },
+    {
+      "type": "track",
+      "title": "My Heart Sometimes",
+      "duration": "07:39"
+    }
+  ],
+  "totalDuration": "46:06",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/8c4588afc18650d3f9e8483a7b5a429e/6520694/arch-echo-arch-echo-Cover-Art.jpg",
+  "createdAt": "",
+  "updatedAt": "2025-09-16T16:32:06.089Z"
+}

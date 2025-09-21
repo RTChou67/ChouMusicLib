@@ -1,0 +1,94 @@
+{
+  "fileName": "Avenged Sevenfold - City of Evil.json",
+  "title": "City of Evil",
+  "artist": "Avenged Sevenfold",
+  "releaseDate": "2005-06-07",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Heavy Metal",
+    "Progressive Metal",
+    "Hard Rock",
+    "Melodic Metalcore",
+    "Sleaze Rock"
+  ],
+  "tags": [
+    "energetic",
+    "melodic",
+    "male vocalist",
+    "epic",
+    "anthemic",
+    "progressive",
+    "heavy",
+    "infernal",
+    "apocalyptic",
+    "bittersweet",
+    "aggressive",
+    "dark",
+    "technical",
+    "war",
+    "Biblical"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Beast and the Harlot",
+      "duration": "05:40"
+    },
+    {
+      "type": "track",
+      "title": "Burn It Down",
+      "duration": "04:58"
+    },
+    {
+      "type": "track",
+      "title": "Blinded in Chains",
+      "duration": "06:34"
+    },
+    {
+      "type": "track",
+      "title": "Bat Country",
+      "duration": "05:11"
+    },
+    {
+      "type": "track",
+      "title": "Trashed and Scattered",
+      "duration": "05:51"
+    },
+    {
+      "type": "track",
+      "title": "Seize the Day",
+      "duration": "05:32"
+    },
+    {
+      "type": "track",
+      "title": "Sidewinder",
+      "duration": "07:01"
+    },
+    {
+      "type": "track",
+      "title": "The Wicked End",
+      "duration": "07:10"
+    },
+    {
+      "type": "track",
+      "title": "Strength of the World",
+      "duration": "09:14"
+    },
+    {
+      "type": "track",
+      "title": "Betrayed",
+      "duration": "06:46"
+    },
+    {
+      "type": "track",
+      "title": "M.I.A.",
+      "duration": "08:46"
+    }
+  ],
+  "totalDuration": "01:12:43",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/262dddc9a76bcaf14ccb91e95465cf20/8950626/avenged-sevenfold-city-of-evil-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

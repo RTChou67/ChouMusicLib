@@ -1,0 +1,92 @@
+{
+  "fileName": "Amorphis - The Beginning of Times.json",
+  "title": "The Beginning of Times",
+  "artist": "Amorphis",
+  "releaseDate": "2011-05-26",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Progressive Metal",
+    "Melodic Death Metal",
+    "Folk Metal"
+  ],
+  "tags": [
+    "melancholic",
+    "melodic",
+    "male vocalist",
+    "concept album",
+    "folklore",
+    "mythology",
+    "atmospheric",
+    "energetic",
+    "heavy",
+    "poetic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Battle for Light",
+      "duration": "05:35"
+    },
+    {
+      "type": "track",
+      "title": "Mermaid",
+      "duration": "04:24"
+    },
+    {
+      "type": "track",
+      "title": "My Enemy",
+      "duration": "03:25"
+    },
+    {
+      "type": "track",
+      "title": "You I Need",
+      "duration": "04:22"
+    },
+    {
+      "type": "track",
+      "title": "Song of the Sage",
+      "duration": "05:26"
+    },
+    {
+      "type": "track",
+      "title": "Three Words",
+      "duration": "03:55"
+    },
+    {
+      "type": "track",
+      "title": "Reformation",
+      "duration": "04:33"
+    },
+    {
+      "type": "track",
+      "title": "Soothsayer",
+      "duration": "04:09"
+    },
+    {
+      "type": "track",
+      "title": "On a Stranded Shore",
+      "duration": "04:12"
+    },
+    {
+      "type": "track",
+      "title": "Escape",
+      "duration": "03:51"
+    },
+    {
+      "type": "track",
+      "title": "Crack in a Stone",
+      "duration": "04:55"
+    },
+    {
+      "type": "track",
+      "title": "Beginning of Time",
+      "duration": "05:50"
+    }
+  ],
+  "totalDuration": "54:37",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/fdcb396afdc9a58810f7349ed621f557/5960961/amorphis-the-beginning-of-times-Cover-Art.jpg",
+  "createdAt": "2025-09-13T17:02:53.986Z",
+  "updatedAt": "2025-09-13T17:02:53.986Z"
+}

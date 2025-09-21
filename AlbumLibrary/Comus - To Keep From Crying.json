@@ -1,0 +1,99 @@
+{
+  "fileName": "Comus - To Keep From Crying.json",
+  "title": "To Keep From Crying",
+  "artist": "Comus",
+  "releaseDate": "1974-01-01",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Progressive Folk",
+    "Folk Rock",
+    "Progressive Pop",
+    "Folk Pop",
+    "Wyrd Folk"
+  ],
+  "tags": [
+    "female vocalist",
+    "melodic",
+    "eclectic",
+    "male vocalist",
+    "quirky",
+    "playful",
+    "passionate",
+    "progressive",
+    "love",
+    "space",
+    "futuristic",
+    "pastoral"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "Down (Like a Movie Star)",
+      "duration": "04:01"
+    },
+    {
+      "type": "track",
+      "title": "Touch Down",
+      "duration": "04:39"
+    },
+    {
+      "type": "track",
+      "title": "Waves and Caves",
+      "duration": "01:36"
+    },
+    {
+      "type": "track",
+      "title": "Figure in Your Dreams",
+      "duration": "03:11"
+    },
+    {
+      "type": "track",
+      "title": "Children of the Universe",
+      "duration": "05:50"
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "So Long Supernova",
+      "duration": "03:17"
+    },
+    {
+      "type": "track",
+      "title": "Perpetual Motion",
+      "duration": "04:07"
+    },
+    {
+      "type": "track",
+      "title": "Panophany",
+      "duration": "00:23"
+    },
+    {
+      "type": "track",
+      "title": "Get Yourself a Man",
+      "duration": "07:01"
+    },
+    {
+      "type": "track",
+      "title": "To Keep From Crying",
+      "duration": "05:38"
+    },
+    {
+      "type": "track",
+      "title": "After the Dream",
+      "duration": "01:04"
+    }
+  ],
+  "totalDuration": "40:47",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/1bbe7567f939e35cd6b39e8cd850267b/1946427/comus-to-keep-from-crying-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:30:44.956Z",
+  "updatedAt": "2025-09-13T16:30:44.956Z"
+}

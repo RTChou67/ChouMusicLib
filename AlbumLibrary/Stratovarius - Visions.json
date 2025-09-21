@@ -1,0 +1,84 @@
+{
+  "fileName": "Stratovarius - Visions.json",
+  "title": "Visions",
+  "artist": "Stratovarius",
+  "releaseDate": "1997-04-28",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Power Metal",
+    "Neoclassical Metal",
+    "Progressive Metal"
+  ],
+  "tags": [
+    "melodic",
+    "energetic",
+    "epic",
+    "male vocalist",
+    "passionate",
+    "atmospheric",
+    "conscious",
+    "love",
+    "heavy",
+    "uplifting",
+    "technical",
+    "triumphant"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "The Kiss of Judas",
+      "duration": "05:49"
+    },
+    {
+      "type": "track",
+      "title": "Black Diamond",
+      "duration": "05:40"
+    },
+    {
+      "type": "track",
+      "title": "Forever Free",
+      "duration": "06:00"
+    },
+    {
+      "type": "track",
+      "title": "Before the Winter",
+      "duration": "06:07"
+    },
+    {
+      "type": "track",
+      "title": "Legions",
+      "duration": "05:43"
+    },
+    {
+      "type": "track",
+      "title": "The Abyss of Your Eyes",
+      "duration": "05:38"
+    },
+    {
+      "type": "track",
+      "title": "Holy Light",
+      "duration": "05:45"
+    },
+    {
+      "type": "track",
+      "title": "Paradise",
+      "duration": "04:27"
+    },
+    {
+      "type": "track",
+      "title": "Coming Home",
+      "duration": "05:36"
+    },
+    {
+      "type": "track",
+      "title": "Visions (Southern Cross)",
+      "duration": "15:40"
+    }
+  ],
+  "totalDuration": "01:06:25",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/b5e179dcfabfe82bf375d4b757323168/2995349/stratovarius-visions-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:56:26.346Z",
+  "updatedAt": "2025-09-12T17:56:26.346Z"
+}

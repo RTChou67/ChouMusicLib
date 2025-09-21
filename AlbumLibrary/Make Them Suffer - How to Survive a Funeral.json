@@ -1,0 +1,90 @@
+{
+  "fileName": "Make Them Suffer - How to Survive a Funeral.json",
+  "title": "How to Survive a Funeral",
+  "artist": "Make Them Suffer",
+  "releaseDate": "2020-06-19",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Metalcore",
+    "Djent",
+    "Deathcore"
+  ],
+  "tags": [
+    "male vocalist",
+    "heavy",
+    "female vocalist",
+    "death",
+    "aggressive",
+    "energetic",
+    "melancholic",
+    "sombre",
+    "technical",
+    "anxious",
+    "self-hatred",
+    "serious",
+    "angry",
+    "introspective",
+    "depressive",
+    "dark",
+    "suicide",
+    "pessimistic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Step One",
+      "duration": "01:57"
+    },
+    {
+      "type": "track",
+      "title": "Falling Ashes",
+      "duration": "02:41"
+    },
+    {
+      "type": "track",
+      "title": "Bones",
+      "duration": "03:01"
+    },
+    {
+      "type": "track",
+      "title": "Drown With Me",
+      "duration": "04:02"
+    },
+    {
+      "type": "track",
+      "title": "Erase Me",
+      "duration": "03:44"
+    },
+    {
+      "type": "track",
+      "title": "Soul Decay",
+      "duration": "03:43"
+    },
+    {
+      "type": "track",
+      "title": "Fake Your Own Death",
+      "duration": "02:54"
+    },
+    {
+      "type": "track",
+      "title": "How to Survive a Funeral",
+      "duration": "04:26"
+    },
+    {
+      "type": "track",
+      "title": "The Attendant",
+      "duration": "04:33"
+    },
+    {
+      "type": "track",
+      "title": "That's Just Life",
+      "duration": "04:08"
+    }
+  ],
+  "totalDuration": "35:09",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/147f63961ae5af3f46f72298844a1af4/8289183/make-them-suffer-how-to-survive-a-funeral-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

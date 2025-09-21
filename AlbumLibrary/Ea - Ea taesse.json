@@ -1,0 +1,49 @@
+{
+  "fileName": "Ea - Ea taesse.json",
+  "title": "Ea taesse",
+  "artist": "Ea",
+  "releaseDate": "2006-12-20",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Funeral Doom Metal"
+  ],
+  "tags": [
+    "mysterious",
+    "cryptic",
+    "atmospheric",
+    "suite",
+    "funereal",
+    "sombre",
+    "male vocalist",
+    "melodic",
+    "epic",
+    "heavy",
+    "melancholic",
+    "cold",
+    "ethereal",
+    "suspenseful"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Laeleia",
+      "duration": "18:42"
+    },
+    {
+      "type": "track",
+      "title": "Mea ta souluola",
+      "duration": "12:48"
+    },
+    {
+      "type": "track",
+      "title": "Ea taesse",
+      "duration": "22:54"
+    }
+  ],
+  "totalDuration": "54:24",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/c2530a12553b94530b01caeb79dbe79c/1805694/ea-ea-taesse-Cover-Art.jpg",
+  "createdAt": "2025-09-16T16:01:03.648Z",
+  "updatedAt": "2025-09-16T16:01:03.648Z"
+}

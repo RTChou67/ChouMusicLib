@@ -1,0 +1,109 @@
+{
+  "fileName": "DVAR - Deii (Part I).json",
+  "title": "Deii (Part I)",
+  "artist": "DVAR",
+  "releaseDate": "2012-10-23",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Neoclassical Darkwave",
+    "Comfy Synth",
+    "Art Pop",
+    "Children's Music"
+  ],
+  "tags": [
+    "quirky",
+    "mellow",
+    "melodic",
+    "minimalistic",
+    "playful",
+    "instrumental"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Niberah",
+      "duration": "04:49"
+    },
+    {
+      "type": "track",
+      "title": "Aoheth",
+      "duration": "03:47"
+    },
+    {
+      "type": "track",
+      "title": "R'lah",
+      "duration": "02:57"
+    },
+    {
+      "type": "track",
+      "title": "Ai-Lu",
+      "duration": "04:35"
+    },
+    {
+      "type": "track",
+      "title": "Leim",
+      "duration": "03:12"
+    },
+    {
+      "type": "track",
+      "title": "Traamdar",
+      "duration": "02:10"
+    },
+    {
+      "type": "track",
+      "title": "Uriim",
+      "duration": "02:40"
+    },
+    {
+      "type": "track",
+      "title": "Orlah",
+      "duration": "01:41"
+    },
+    {
+      "type": "track",
+      "title": "Roitzerg",
+      "duration": "02:35"
+    },
+    {
+      "type": "track",
+      "title": "Dur-Taar",
+      "duration": "01:59"
+    },
+    {
+      "type": "track",
+      "title": "Iisakhail",
+      "duration": "03:20"
+    },
+    {
+      "type": "track",
+      "title": "Rooi",
+      "duration": "02:03"
+    },
+    {
+      "type": "track",
+      "title": "Evlahii",
+      "duration": "02:52"
+    },
+    {
+      "type": "track",
+      "title": "Yadah Beh",
+      "duration": "02:43"
+    },
+    {
+      "type": "track",
+      "title": "Nandanael",
+      "duration": "04:31"
+    },
+    {
+      "type": "track",
+      "title": "Ersaja",
+      "duration": "02:58"
+    }
+  ],
+  "totalDuration": "48:52",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/36bca338a7213ac48615bca0f7796f6e/5253686/dvar-deii-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

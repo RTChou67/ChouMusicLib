@@ -1,0 +1,105 @@
+{
+  "fileName": "I Prevail - True Power.json",
+  "title": "True Power",
+  "artist": "I Prevail",
+  "releaseDate": "2022-08-19",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Alternative Metal",
+    "Metalcore",
+    "Nu Metal",
+    "Rap Metal",
+    "Electronicore",
+    "Pop Punk"
+  ],
+  "tags": [
+    "energetic",
+    "melodic",
+    "introspective",
+    "passionate",
+    "male vocalist"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "0:00",
+      "duration": "00:41"
+    },
+    {
+      "type": "track",
+      "title": "There's Fear in Letting Go",
+      "duration": "03:54"
+    },
+    {
+      "type": "track",
+      "title": "Body Bag",
+      "duration": "03:16"
+    },
+    {
+      "type": "track",
+      "title": "Self-Destruction",
+      "duration": "02:26"
+    },
+    {
+      "type": "track",
+      "title": "Bad Things",
+      "duration": "03:48"
+    },
+    {
+      "type": "track",
+      "title": "Fake",
+      "duration": "02:51"
+    },
+    {
+      "type": "track",
+      "title": "Judgement Day",
+      "duration": "02:46"
+    },
+    {
+      "type": "track",
+      "title": "Fwytyk",
+      "duration": "03:17"
+    },
+    {
+      "type": "track",
+      "title": "Deep End",
+      "duration": "03:26"
+    },
+    {
+      "type": "track",
+      "title": "Long Live the King",
+      "duration": "03:00"
+    },
+    {
+      "type": "track",
+      "title": "Choke",
+      "duration": "03:02"
+    },
+    {
+      "type": "track",
+      "title": "The Negative",
+      "duration": "02:20"
+    },
+    {
+      "type": "track",
+      "title": "Closure",
+      "duration": "03:09"
+    },
+    {
+      "type": "track",
+      "title": "Visceral",
+      "duration": "02:44"
+    },
+    {
+      "type": "track",
+      "title": "Doomed",
+      "duration": "03:47"
+    }
+  ],
+  "totalDuration": "44:27",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/881797693df40f0b3c349efe2b6c6bff/10035390/i-prevail-true-power-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:46:09.847Z",
+  "updatedAt": "2025-09-13T16:46:09.847Z"
+}

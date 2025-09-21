@@ -1,0 +1,98 @@
+{
+  "fileName": "Disturbed - Immortalized.json",
+  "title": "Immortalized",
+  "artist": "Disturbed",
+  "releaseDate": "2015-08-21",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Alternative Metal",
+    "Heavy Metal"
+  ],
+  "tags": [
+    "energetic",
+    "male vocalist",
+    "heavy",
+    "melodic",
+    "anthemic",
+    "rhythmic",
+    "rebellious",
+    "uplifting",
+    "triumphant",
+    "aggressive",
+    "cannabis",
+    "love"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "The Eye of the Storm",
+      "duration": "01:20"
+    },
+    {
+      "type": "track",
+      "title": "Immortalized",
+      "duration": "04:17"
+    },
+    {
+      "type": "track",
+      "title": "The Vengeful One",
+      "duration": "04:12"
+    },
+    {
+      "type": "track",
+      "title": "Open Your Eyes",
+      "duration": "03:57"
+    },
+    {
+      "type": "track",
+      "title": "The Light",
+      "duration": "04:16"
+    },
+    {
+      "type": "track",
+      "title": "What Are You Waiting For",
+      "duration": "04:03"
+    },
+    {
+      "type": "track",
+      "title": "You're Mine",
+      "duration": "04:55"
+    },
+    {
+      "type": "track",
+      "title": "Who",
+      "duration": "04:46"
+    },
+    {
+      "type": "track",
+      "title": "Save Our Last Goodbye",
+      "duration": "04:59"
+    },
+    {
+      "type": "track",
+      "title": "Fire It Up",
+      "duration": "04:05"
+    },
+    {
+      "type": "track",
+      "title": "The Sound of Silence",
+      "duration": "04:08"
+    },
+    {
+      "type": "track",
+      "title": "Never Wrong",
+      "duration": "03:33"
+    },
+    {
+      "type": "track",
+      "title": "Who Taught You How to Hate",
+      "duration": "04:57"
+    }
+  ],
+  "totalDuration": "53:28",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/ca6d4f929f8a061cce126227141ed798/5744647/disturbed-immortalized-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

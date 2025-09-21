@@ -1,0 +1,104 @@
+{
+  "fileName": "Fugazi - 13 Songs.json",
+  "title": "13 Songs",
+  "artist": "Fugazi",
+  "releaseDate": "1989-09-01",
+  "albumFormat": "Compilation",
+  "rating": 0,
+  "styles": [
+    "Post-Hardcore",
+    "Post-Punk"
+  ],
+  "tags": [
+    "energetic",
+    "passionate",
+    "rebellious",
+    "rhythmic",
+    "male vocalist",
+    "angry",
+    "conscious",
+    "aggressive",
+    "raw",
+    "political",
+    "melodic",
+    "anthemic",
+    "noisy",
+    "anxious",
+    "angular",
+    "playful",
+    "urban",
+    "bassy"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Waiting Room",
+      "duration": "02:54"
+    },
+    {
+      "type": "track",
+      "title": "Bulldog Front",
+      "duration": "02:53"
+    },
+    {
+      "type": "track",
+      "title": "Bad Mouth",
+      "duration": "02:36"
+    },
+    {
+      "type": "track",
+      "title": "Burning",
+      "duration": "02:39"
+    },
+    {
+      "type": "track",
+      "title": "Give Me the Cure",
+      "duration": "02:59"
+    },
+    {
+      "type": "track",
+      "title": "Suggestion",
+      "duration": "04:44"
+    },
+    {
+      "type": "track",
+      "title": "Glue Man",
+      "duration": "04:21"
+    },
+    {
+      "type": "track",
+      "title": "Margin Walker",
+      "duration": "02:30"
+    },
+    {
+      "type": "track",
+      "title": "And the Same",
+      "duration": "03:27"
+    },
+    {
+      "type": "track",
+      "title": "Burning Too",
+      "duration": "02:41"
+    },
+    {
+      "type": "track",
+      "title": "Provisional",
+      "duration": "02:17"
+    },
+    {
+      "type": "track",
+      "title": "Lockdown",
+      "duration": "02:10"
+    },
+    {
+      "type": "track",
+      "title": "Promises",
+      "duration": "04:03"
+    }
+  ],
+  "totalDuration": "40:14",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/da3a4e43c497c0a7ad146030d4010048/13346271/fugazi-13-songs-Cover-Art.png",
+  "createdAt": "2025-09-16T16:10:48.985Z",
+  "updatedAt": "2025-09-16T16:10:48.985Z"
+}

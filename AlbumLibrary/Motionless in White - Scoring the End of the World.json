@@ -1,0 +1,99 @@
+{
+  "fileName": "Motionless in White - Scoring the End of the World.json",
+  "title": "Scoring the End of the World",
+  "artist": "Motionless in White",
+  "releaseDate": "2022-06-10",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Alternative Metal",
+    "Industrial Metal",
+    "Metalcore",
+    "Cyber Metal"
+  ],
+  "tags": [
+    "energetic",
+    "aggressive",
+    "melodic",
+    "apocalyptic",
+    "futuristic",
+    "political",
+    "passionate",
+    "male vocalist",
+    "heavy",
+    "nocturnal",
+    "anthemic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Meltdown",
+      "duration": "04:28"
+    },
+    {
+      "type": "track",
+      "title": "Sign of Life",
+      "duration": "03:40"
+    },
+    {
+      "type": "track",
+      "title": "Werewolf",
+      "duration": "03:32"
+    },
+    {
+      "type": "track",
+      "title": "Porcelain",
+      "duration": "03:36"
+    },
+    {
+      "type": "track",
+      "title": "Slaughterhouse",
+      "duration": "04:23"
+    },
+    {
+      "type": "track",
+      "title": "Masterpiece",
+      "duration": "03:26"
+    },
+    {
+      "type": "track",
+      "title": "Cause of Death",
+      "duration": "04:03"
+    },
+    {
+      "type": "track",
+      "title": "We Become the Night",
+      "duration": "03:31"
+    },
+    {
+      "type": "track",
+      "title": "Burned at Both Ends II",
+      "duration": "03:57"
+    },
+    {
+      "type": "track",
+      "title": "B.F.B.T.G.: Corpse Nation",
+      "duration": "03:34"
+    },
+    {
+      "type": "track",
+      "title": "Cyberhex",
+      "duration": "04:35"
+    },
+    {
+      "type": "track",
+      "title": "Red, White & Boom",
+      "duration": "03:18"
+    },
+    {
+      "type": "track",
+      "title": "Scoring the End of the World",
+      "duration": "03:48"
+    }
+  ],
+  "totalDuration": "49:51",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/d90d86067092cf387fa2c2195f8382aa/9781355/motionless-in-white-scoring-the-end-of-the-world-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

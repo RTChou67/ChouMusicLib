@@ -1,0 +1,98 @@
+{
+  "fileName": "Ultravox - Systems of Romance.json",
+  "title": "Systems of Romance",
+  "artist": "Ultravox",
+  "releaseDate": "1978-09-08",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "New Wave",
+    "Post-Punk",
+    "Synthpop",
+    "Art Rock"
+  ],
+  "tags": [
+    "male vocalist",
+    "energetic",
+    "rhythmic",
+    "atmospheric",
+    "anxious",
+    "melodic",
+    "nocturnal",
+    "melancholic",
+    "futuristic",
+    "repetitive",
+    "lush",
+    "passionate",
+    "warm",
+    "space",
+    "hypnotic",
+    "dissonant",
+    "mellow"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "Slow Motion",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "I Can't Stay Long",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Someone Else's Clothes",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Blue Light",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Some of Them",
+      "duration": ""
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "Quiet Men",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Dislocation",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Maximum Acceleration",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "When You Walk Through Me",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Just for a Moment",
+      "duration": ""
+    }
+  ],
+  "totalDuration": "00:00",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/80e707b210824c5526e80b1aabc6a20e/2768307/ultravox-systems-of-romance-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:17:57.779Z",
+  "updatedAt": "2025-09-12T17:17:57.779Z"
+}

@@ -1,0 +1,56 @@
+{
+  "fileName": "Sin Deliverance - Inquisition of Morality.json",
+  "title": "Inquisition of Morality",
+  "artist": "Sin Deliverance",
+  "releaseDate": "2018-09-29",
+  "albumFormat": "EP",
+  "rating": 0,
+  "styles": [
+    "Deathcore",
+    "Symphonic Metal",
+    "Technical Death Metal",
+    "Symphonic Black Metal",
+    "Melodic Black Metal"
+  ],
+  "tags": [
+    "dark",
+    "aggressive"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Fallen From the Sky (Part I)",
+      "duration": "01:29"
+    },
+    {
+      "type": "track",
+      "title": "Fallen From the Sky (Part II)",
+      "duration": "04:54"
+    },
+    {
+      "type": "track",
+      "title": "Disobedience",
+      "duration": "05:11"
+    },
+    {
+      "type": "track",
+      "title": "Possessed",
+      "duration": "04:52"
+    },
+    {
+      "type": "track",
+      "title": "Inquisition of Morality",
+      "duration": "03:52"
+    },
+    {
+      "type": "track",
+      "title": "Doomsday",
+      "duration": "05:28"
+    }
+  ],
+  "totalDuration": "25:46",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/3df351b23a5e58599e7bcde5a431882d/8759801/sin-deliverance-inquisition-of-morality-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:53:53.193Z",
+  "updatedAt": "2025-09-13T16:53:53.193Z"
+}

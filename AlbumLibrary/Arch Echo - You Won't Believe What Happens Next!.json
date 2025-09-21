@@ -1,0 +1,68 @@
+{
+  "fileName": "Arch Echo - You Won't Believe What Happens Next!.json",
+  "title": "You Won't Believe What Happens Next!",
+  "artist": "Arch Echo",
+  "releaseDate": "2019-05-01",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Progressive Metal",
+    "Jazz Fusion",
+    "Djent"
+  ],
+  "tags": [
+    "instrumental",
+    "technical",
+    "progressive",
+    "melodic",
+    "uplifting",
+    "complex"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Daybreak",
+      "duration": "06:10"
+    },
+    {
+      "type": "track",
+      "title": "Immediate Results!",
+      "duration": "04:17"
+    },
+    {
+      "type": "track",
+      "title": "Stella",
+      "duration": "05:27"
+    },
+    {
+      "type": "track",
+      "title": "Aurora",
+      "duration": "05:09"
+    },
+    {
+      "type": "track",
+      "title": "Mukduk",
+      "duration": "05:08"
+    },
+    {
+      "type": "track",
+      "title": "Tempest",
+      "duration": "05:17"
+    },
+    {
+      "type": "track",
+      "title": "Bocksuvfun",
+      "duration": "06:08"
+    },
+    {
+      "type": "track",
+      "title": "Iris",
+      "duration": "07:57"
+    }
+  ],
+  "totalDuration": "45:33",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/30ebd779673775f1df363d858d42908f/7463742/arch-echo-you-wont-believe-what-happens-next-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:23:56.362Z",
+  "updatedAt": "2025-09-16T15:23:56.362Z"
+}

@@ -1,0 +1,94 @@
+{
+  "fileName": "Metallica - Master of Puppets.json",
+  "title": "Master of Puppets",
+  "artist": "Metallica",
+  "releaseDate": "1986-03-03",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Thrash Metal",
+    "Progressive Metal",
+    "Heavy Metal"
+  ],
+  "tags": [
+    "aggressive",
+    "heavy",
+    "male vocalist",
+    "energetic",
+    "angry",
+    "progressive",
+    "rebellious",
+    "serious",
+    "political",
+    "war",
+    "technical",
+    "uncommon time signatures",
+    "rhythmic",
+    "epic",
+    "complex",
+    "anthemic",
+    "dark",
+    "death",
+    "martial",
+    "melodic",
+    "apocalyptic",
+    "mental health",
+    "pessimistic",
+    "punchy"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "Battery",
+      "duration": "05:10"
+    },
+    {
+      "type": "track",
+      "title": "Master of Puppets",
+      "duration": "08:38"
+    },
+    {
+      "type": "track",
+      "title": "The Thing That Should Not Be",
+      "duration": "06:32"
+    },
+    {
+      "type": "track",
+      "title": "Welcome Home (Sanitarium)",
+      "duration": "06:28"
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "Disposable Heroes",
+      "duration": "08:14"
+    },
+    {
+      "type": "track",
+      "title": "Leper Messiah",
+      "duration": "05:38"
+    },
+    {
+      "type": "track",
+      "title": "Orion",
+      "duration": "08:12"
+    },
+    {
+      "type": "track",
+      "title": "Damage, Inc.",
+      "duration": "05:08"
+    }
+  ],
+  "totalDuration": "54:00",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/280060a11fb6a67d6ac86d54f2e83cc6/3986151/metallica-master-of-puppets-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

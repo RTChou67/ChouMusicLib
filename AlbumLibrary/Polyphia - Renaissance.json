@@ -1,0 +1,88 @@
+{
+  "fileName": "Polyphia - Renaissance.json",
+  "title": "Renaissance",
+  "artist": "Polyphia",
+  "releaseDate": "2016-03-11",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Progressive Metal",
+    "Djent",
+    "Math Rock",
+    "Trap"
+  ],
+  "tags": [
+    "instrumental",
+    "melodic",
+    "playful",
+    "technical",
+    "mellow"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Culture Shock",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Light",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Florence",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Nightmare",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Storm",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Bittersweet",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Symmetry",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Ivory",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Paradise",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Amour",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Crush",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Euphoria",
+      "duration": ""
+    }
+  ],
+  "totalDuration": "00:00",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/ef38c6484c68f499591a38f6baf24b81/6027206/polyphia-renaissance-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

@@ -1,0 +1,79 @@
+{
+  "fileName": "Dream Theater - Images and Words.json",
+  "title": "Images and Words",
+  "artist": "Dream Theater",
+  "releaseDate": "1992-07-07",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Progressive Metal",
+    "Progressive Rock"
+  ],
+  "tags": [
+    "uncommon time signatures",
+    "complex",
+    "technical",
+    "progressive",
+    "male vocalist",
+    "melodic",
+    "epic",
+    "philosophical",
+    "passionate",
+    "uplifting",
+    "energetic",
+    "sentimental",
+    "existential",
+    "eclectic",
+    "warm",
+    "lush",
+    "polyphonic",
+    "optimistic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Pull Me Under",
+      "duration": "08:11"
+    },
+    {
+      "type": "track",
+      "title": "Another Day",
+      "duration": "04:22"
+    },
+    {
+      "type": "track",
+      "title": "Take the Time",
+      "duration": "08:21"
+    },
+    {
+      "type": "track",
+      "title": "Surrounded",
+      "duration": "05:28"
+    },
+    {
+      "type": "track",
+      "title": "Metropolis - Part I \"The Miracle and the Sleeper\"",
+      "duration": "09:30"
+    },
+    {
+      "type": "track",
+      "title": "Under a Glass Moon",
+      "duration": "07:02"
+    },
+    {
+      "type": "track",
+      "title": "Wait for Sleep",
+      "duration": "02:31"
+    },
+    {
+      "type": "track",
+      "title": "Learning to Live",
+      "duration": "11:30"
+    }
+  ],
+  "totalDuration": "56:55",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/b697ddbd7197753b0974daf1feb8ff48/6101057/dream-theater-images-and-words-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:35:33.014Z",
+  "updatedAt": "2025-09-13T16:35:33.014Z"
+}

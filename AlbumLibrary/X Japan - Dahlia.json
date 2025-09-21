@@ -1,0 +1,84 @@
+{
+  "fileName": "X Japan - Dahlia.json",
+  "title": "Dahlia",
+  "artist": "X Japan",
+  "releaseDate": "1996-11-04",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Heavy Metal",
+    "Symphonic Rock",
+    "Industrial Rock",
+    "Piano Rock"
+  ],
+  "tags": [
+    "male vocalist",
+    "sentimental",
+    "longing",
+    "bittersweet",
+    "passionate",
+    "love",
+    "melodic",
+    "sad",
+    "lonely",
+    "introspective",
+    "poetic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Dahlia",
+      "duration": "07:55"
+    },
+    {
+      "type": "track",
+      "title": "Scars",
+      "duration": "05:08"
+    },
+    {
+      "type": "track",
+      "title": "Longing 〜跡切れたmelody〜",
+      "duration": "07:42"
+    },
+    {
+      "type": "track",
+      "title": "Rusty Nail",
+      "duration": "05:27"
+    },
+    {
+      "type": "track",
+      "title": "White Poem I",
+      "duration": "03:16"
+    },
+    {
+      "type": "track",
+      "title": "Crucify My Love",
+      "duration": "04:30"
+    },
+    {
+      "type": "track",
+      "title": "Tears",
+      "duration": "10:30"
+    },
+    {
+      "type": "track",
+      "title": "Wriggle",
+      "duration": "01:24"
+    },
+    {
+      "type": "track",
+      "title": "Drain",
+      "duration": "03:22"
+    },
+    {
+      "type": "track",
+      "title": "Forever Love (Acoustic Version)",
+      "duration": "07:49"
+    }
+  ],
+  "totalDuration": "57:03",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/3d21af0175a24f965a35ab422a78e585/12213813/x-japan-dahlia-Cover-Art.png",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

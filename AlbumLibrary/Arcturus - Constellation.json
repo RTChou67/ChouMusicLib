@@ -1,0 +1,49 @@
+{
+  "fileName": "Arcturus - Constellation.json",
+  "title": "Constellation",
+  "artist": "Arcturus",
+  "releaseDate": "1994-08-14",
+  "albumFormat": "EP",
+  "rating": 0,
+  "styles": [
+    "Symphonic Black Metal",
+    "Avant-Garde Metal"
+  ],
+  "tags": [
+    "male vocalist",
+    "raw",
+    "nocturnal",
+    "winter",
+    "technical",
+    "atmospheric",
+    "ethereal",
+    "space"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Rødt og svart",
+      "duration": "06:09"
+    },
+    {
+      "type": "track",
+      "title": "Icebound Streams and Vapours Grey",
+      "duration": "04:42"
+    },
+    {
+      "type": "track",
+      "title": "Naar kulda tar (Frostnettens prolog)",
+      "duration": "04:27"
+    },
+    {
+      "type": "track",
+      "title": "Du nordavind",
+      "duration": "04:30"
+    }
+  ],
+  "totalDuration": "19:48",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/fee9d263fc4fe63a7df3c488894372eb/2723576/arcturus-constellation-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:23:37.620Z",
+  "updatedAt": "2025-09-16T15:23:37.620Z"
+}

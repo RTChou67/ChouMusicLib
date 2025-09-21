@@ -1,0 +1,84 @@
+{
+  "fileName": "Wilderun - Veil of Imagination.json",
+  "title": "Veil of Imagination",
+  "artist": "Wilderun",
+  "releaseDate": "2019-11-01",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Progressive Metal",
+    "Symphonic Metal",
+    "Melodic Death Metal"
+  ],
+  "tags": [
+    "melodic",
+    "epic",
+    "male vocalist",
+    "triumphant",
+    "progressive",
+    "heavy",
+    "choral",
+    "lush",
+    "philosophical",
+    "energetic",
+    "passionate",
+    "poetic",
+    "complex",
+    "orchestral",
+    "atmospheric",
+    "introspective",
+    "uplifting",
+    "technical",
+    "dense",
+    "uncommon time signatures",
+    "warm",
+    "aggressive"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "The Unimaginable Zero Summer",
+      "duration": "14:32"
+    },
+    {
+      "type": "track",
+      "title": "O Resolution!",
+      "duration": "06:35"
+    },
+    {
+      "type": "track",
+      "title": "Sleeping Ambassadors of the Sun",
+      "duration": "06:31"
+    },
+    {
+      "type": "track",
+      "title": "Scentless Core (Budding)",
+      "duration": "03:33"
+    },
+    {
+      "type": "track",
+      "title": "Far From Where Dreams Unfurl",
+      "duration": "08:28"
+    },
+    {
+      "type": "track",
+      "title": "Scentless Core (Fading)",
+      "duration": "05:21"
+    },
+    {
+      "type": "track",
+      "title": "The Tyranny of Imagination",
+      "duration": "09:21"
+    },
+    {
+      "type": "track",
+      "title": "When the Fire and the Rose Were One",
+      "duration": "11:51"
+    }
+  ],
+  "totalDuration": "01:06:12",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/7eaea1981b3a923485e67edb4b5a3419/12827827/wilderun-veil-of-imagination-Cover-Art.png",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

@@ -1,0 +1,96 @@
+{
+  "fileName": "Hawkwind - Levitation.json",
+  "title": "Levitation",
+  "artist": "Hawkwind",
+  "releaseDate": "1980-10-27",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Space Rock",
+    "Progressive Rock",
+    "Hard Rock",
+    "Psychedelic Rock"
+  ],
+  "tags": [
+    "space",
+    "epic",
+    "male vocalist",
+    "science fiction",
+    "energetic",
+    "psychedelic",
+    "atmospheric",
+    "surreal",
+    "drugs",
+    "complex",
+    "passionate",
+    "melodic",
+    "rhythmic",
+    "hypnotic",
+    "repetitive",
+    "urban",
+    "lush",
+    "suite",
+    "futuristic",
+    "mellow"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "Levitation",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Motorway City",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Psychosis",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "World of Tiers",
+      "duration": ""
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "Prelude",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Who's Gonna Win the War",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Space Chase",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "The Fifth Second of Forever (From the Film)",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Dust of Time",
+      "duration": ""
+    }
+  ],
+  "totalDuration": "00:00",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/4a8f9d0f0c0f54f7f83b1e8e410c6129/2392541/hawkwind-levitation-Cover-Art.jpg",
+  "createdAt": "2025-09-16T16:08:41.221Z",
+  "updatedAt": "2025-09-16T16:08:41.221Z"
+}

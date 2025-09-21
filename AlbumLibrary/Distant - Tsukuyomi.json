@@ -1,0 +1,46 @@
+{
+  "fileName": "Distant - Tsukuyomi.json",
+  "title": "Tsukuyomi",
+  "artist": "Distant",
+  "releaseDate": "2017-07-05",
+  "albumFormat": "EP",
+  "rating": 0,
+  "styles": [
+    "Deathcore",
+    "Downtempo Deathcore",
+    "Brutal Death Metal"
+  ],
+  "tags": [],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Apex",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Acolytes of Damnation",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Tsukuyomi",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Malice",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "The Broken Cross",
+      "duration": ""
+    }
+  ],
+  "totalDuration": "00:00",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/11afc869b0cba10370196840e4708f3a/7397777/distant-tsukuyomi-Cover-Art.jpg",
+  "createdAt": "2025-09-12T18:12:06.293Z",
+  "updatedAt": "2025-09-12T18:12:06.293Z"
+}

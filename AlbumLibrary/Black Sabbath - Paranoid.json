@@ -1,0 +1,97 @@
+{
+  "fileName": "Black Sabbath - Paranoid.json",
+  "title": "Paranoid",
+  "artist": "Black Sabbath",
+  "releaseDate": "1970-09-18",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Heavy Metal",
+    "Hard Rock",
+    "Traditional Doom Metal",
+    "Blues Rock",
+    "Heavy Psych",
+    "Occult Rock"
+  ],
+  "tags": [
+    "heavy",
+    "dark",
+    "political",
+    "male vocalist",
+    "ominous",
+    "pessimistic",
+    "drugs",
+    "funereal",
+    "alienation",
+    "science fiction",
+    "rebellious",
+    "protest",
+    "melodic",
+    "anthemic",
+    "psychedelic",
+    "conscious",
+    "apocalyptic",
+    "war",
+    "nocturnal",
+    "paranoia",
+    "menacing",
+    "opioids",
+    "cannabis",
+    "progressive"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "War Pigs",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Paranoid",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Planet Caravan",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Iron Man",
+      "duration": ""
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "Electric Funeral",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Hand of Doom",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Rat Salad",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Fairies Wear Boots",
+      "duration": ""
+    }
+  ],
+  "totalDuration": "00:00",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/4faa6da86d46287052ff8873933f9931/12295447/black-sabbath-paranoid-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

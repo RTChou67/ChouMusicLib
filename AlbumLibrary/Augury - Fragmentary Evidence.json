@@ -1,0 +1,71 @@
+{
+  "fileName": "Augury - Fragmentary Evidence.json",
+  "title": "Fragmentary Evidence",
+  "artist": "Augury",
+  "releaseDate": "2009-07-17",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Technical Death Metal"
+  ],
+  "tags": [
+    "heavy",
+    "aggressive",
+    "technical",
+    "male vocalist",
+    "complex",
+    "uncommon time signatures"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Aetheral",
+      "duration": "04:18"
+    },
+    {
+      "type": "track",
+      "title": "Simian Cattle",
+      "duration": "05:38"
+    },
+    {
+      "type": "track",
+      "title": "Orphans of Living",
+      "duration": "05:10"
+    },
+    {
+      "type": "track",
+      "title": "Jupiter to Ignite",
+      "duration": "08:24"
+    },
+    {
+      "type": "track",
+      "title": "Sovereigns Unknown",
+      "duration": "05:13"
+    },
+    {
+      "type": "track",
+      "title": "Skyless",
+      "duration": "06:30"
+    },
+    {
+      "type": "track",
+      "title": "Faith Puppeteers",
+      "duration": "04:07"
+    },
+    {
+      "type": "track",
+      "title": "Brimstone Landscapes",
+      "duration": "04:30"
+    },
+    {
+      "type": "track",
+      "title": "Oversee the Rebirth",
+      "duration": "11:12"
+    }
+  ],
+  "totalDuration": "55:02",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/e7d58de5bfb556557bdc0027d7c6e2a4/2641726/augury-fragmentary-evidence-Cover-Art.jpg",
+  "createdAt": "2025-09-16T16:19:04.405Z",
+  "updatedAt": "2025-09-16T16:19:04.405Z"
+}

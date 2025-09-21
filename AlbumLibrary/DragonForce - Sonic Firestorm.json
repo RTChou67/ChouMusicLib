@@ -1,0 +1,57 @@
+{
+  "fileName": "DragonForce - Sonic Firestorm.json",
+  "title": "Sonic Firestorm",
+  "artist": "DragonForce",
+  "releaseDate": "2004-04-19",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [],
+  "tags": [],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "My Spirit Will Go On",
+      "duration": "07:54"
+    },
+    {
+      "type": "track",
+      "title": "Fury of the Storm",
+      "duration": "06:46"
+    },
+    {
+      "type": "track",
+      "title": "Fields of Despair",
+      "duration": "05:25"
+    },
+    {
+      "type": "track",
+      "title": "Dawn over a New World",
+      "duration": "05:13"
+    },
+    {
+      "type": "track",
+      "title": "Above the Winter Moonlight",
+      "duration": "07:31"
+    },
+    {
+      "type": "track",
+      "title": "Soldiers of the Wasteland",
+      "duration": "09:45"
+    },
+    {
+      "type": "track",
+      "title": "Prepare for War",
+      "duration": "06:15"
+    },
+    {
+      "type": "track",
+      "title": "Once in a Lifetime",
+      "duration": "07:46"
+    }
+  ],
+  "totalDuration": "56:35",
+  "notes": "",
+  "coverData": "https://www.metal-archives.com/images/3/7/7/1/37711.jpg?4747",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

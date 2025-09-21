@@ -1,0 +1,96 @@
+{
+  "fileName": "Spirogyra - St. Radigunds.json",
+  "title": "St. Radigunds",
+  "artist": "Spirogyra",
+  "releaseDate": "1971-09-01",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Progressive Folk",
+    "Psychedelic Folk",
+    "Canterbury Scene",
+    "Chamber Folk"
+  ],
+  "tags": [
+    "progressive",
+    "psychedelic",
+    "male vocalist",
+    "acoustic",
+    "passionate",
+    "atmospheric",
+    "melodic",
+    "female vocalist",
+    "manic",
+    "rebellious",
+    "autumn",
+    "complex",
+    "rhythmic",
+    "philosophical",
+    "political"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "The Future Won't Be Long",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Island",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Magical Mary",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Captain's Log",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "At Home in the World",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Cogwheels, Crutches and Cyanide",
+      "duration": ""
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "Time Will Tell",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "We Were a Happy Crew",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Love Is a Funny Thing",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Duke of Beaufoot",
+      "duration": ""
+    }
+  ],
+  "totalDuration": "00:00",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/65aee9e8775213b65cf51b9503775480/1724320/spirogyra-st-radigunds-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:28:50.010Z",
+  "updatedAt": "2025-09-16T15:28:50.010Z"
+}

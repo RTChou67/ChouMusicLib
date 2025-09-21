@@ -1,0 +1,80 @@
+{
+  "fileName": "Black Sabbath - Heaven and Hell.json",
+  "title": "Heaven and Hell",
+  "artist": "Black Sabbath",
+  "releaseDate": "1980-04-25",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Heavy Metal",
+    "Hard Rock"
+  ],
+  "tags": [
+    "energetic",
+    "male vocalist",
+    "heavy",
+    "epic",
+    "melodic",
+    "anthemic",
+    "passionate",
+    "sombre",
+    "bittersweet",
+    "triumphant",
+    "existential"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "Neon Knights",
+      "duration": "03:49"
+    },
+    {
+      "type": "track",
+      "title": "Children of the Sea",
+      "duration": "05:30"
+    },
+    {
+      "type": "track",
+      "title": "Lady Evil",
+      "duration": "04:22"
+    },
+    {
+      "type": "track",
+      "title": "Heaven and Hell",
+      "duration": "06:56"
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "Wishing Well",
+      "duration": "04:02"
+    },
+    {
+      "type": "track",
+      "title": "Die Young",
+      "duration": "04:41"
+    },
+    {
+      "type": "track",
+      "title": "Walk Away",
+      "duration": "04:21"
+    },
+    {
+      "type": "track",
+      "title": "Lonely Is the Word",
+      "duration": "05:49"
+    }
+  ],
+  "totalDuration": "39:30",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/a419b7c30835dc426af290758e9c63f4/3655494/black-sabbath-heaven-and-hell-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

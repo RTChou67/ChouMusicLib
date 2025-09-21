@@ -1,0 +1,58 @@
+{
+  "fileName": "",
+  "title": "The Sham Mirrors",
+  "artist": "Arcturus",
+  "releaseDate": "2002-04-22",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Avant-Garde Metal",
+    "Black Metal"
+  ],
+  "tags": [
+    "Symphonic",
+    "Progressive"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Kinetic",
+      "duration": "05:26"
+    },
+    {
+      "type": "track",
+      "title": "Nightmare Heaven",
+      "duration": "06:05"
+    },
+    {
+      "type": "track",
+      "title": "Ad Absurdum",
+      "duration": "06:48"
+    },
+    {
+      "type": "track",
+      "title": "Collapse Generation",
+      "duration": "04:13"
+    },
+    {
+      "type": "track",
+      "title": "Star-Crossed",
+      "duration": "05:01"
+    },
+    {
+      "type": "track",
+      "title": "Radical Cut",
+      "duration": "05:08"
+    },
+    {
+      "type": "track",
+      "title": "For to End Yet Again",
+      "duration": "10:33"
+    }
+  ],
+  "totalDuration": "43:14",
+  "notes": "",
+  "coverData": "https://www.metal-archives.com/images/1/1/2/8/1128.jpg?5108",
+  "createdAt": "",
+  "updatedAt": "2025-09-16T16:34:42.445Z"
+}

@@ -1,0 +1,102 @@
+{
+  "fileName": "Cassiber - Man or Monkey.json",
+  "title": "Man or Monkey",
+  "artist": "Cassiber",
+  "releaseDate": "1982-08-01",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Avant-Prog",
+    "Avant-Garde Jazz",
+    "Experimental Rock",
+    "Free Jazz",
+    "Free Improvisation",
+    "Post-Punk",
+    "Noise Rock",
+    "Art Punk"
+  ],
+  "tags": [
+    "avant-garde",
+    "improvisation",
+    "rhythmic",
+    "noisy",
+    "manic",
+    "sombre",
+    "eclectic",
+    "poetic",
+    "uncommon time signatures",
+    "quirky",
+    "complex",
+    "cryptic",
+    "male vocalist"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "Not Me",
+      "duration": "03:34"
+    },
+    {
+      "type": "track",
+      "title": "Red Shadow",
+      "duration": "03:43"
+    },
+    {
+      "type": "track",
+      "title": "Chor der Gefangenen",
+      "duration": "04:46"
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "Our Colourful Culture",
+      "duration": "03:00"
+    },
+    {
+      "type": "track",
+      "title": "O Cure Me",
+      "duration": "05:47"
+    },
+    {
+      "type": "track",
+      "title": "This Core",
+      "duration": "04:12"
+    },
+    {
+      "type": "track",
+      "title": "Man or Monkey",
+      "duration": "16:35"
+    },
+    {
+      "type": "header",
+      "title": "Side D"
+    },
+    {
+      "type": "track",
+      "title": "Django vergibt",
+      "duration": "03:05"
+    },
+    {
+      "type": "track",
+      "title": "Die Verunreinigung des Flusses ist gerade noch erträglich",
+      "duration": "06:22"
+    },
+    {
+      "type": "track",
+      "title": "Sag mir wo die Blumen sind (Where Have All the Flowers Gone)",
+      "duration": "02:40"
+    }
+  ],
+  "totalDuration": "53:44",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/5260f7bc2c9d236d6154fccffd78572d/1819963/cassiber-man-or-monkey-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:28:09.805Z",
+  "updatedAt": "2025-09-12T17:28:09.805Z"
+}

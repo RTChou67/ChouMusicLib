@@ -1,0 +1,114 @@
+{
+  "fileName": "DJ Shadow - Endtroducing......json",
+  "title": "Endtroducing.....",
+  "artist": "DJ Shadow",
+  "releaseDate": "1996-11-19",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Instrumental Hip Hop",
+    "Experimental Hip Hop",
+    "Plunderphonics",
+    "Trip Hop",
+    "Turntablism"
+  ],
+  "tags": [
+    "sampling",
+    "instrumental",
+    "atmospheric",
+    "nocturnal",
+    "urban",
+    "mysterious",
+    "rhythmic",
+    "hypnotic",
+    "eclectic",
+    "dense",
+    "sombre",
+    "complex",
+    "repetitive",
+    "mellow",
+    "progressive",
+    "suspenseful",
+    "meditative",
+    "dark",
+    "psychedelic",
+    "technical",
+    "hazy",
+    "soothing",
+    "bittersweet",
+    "about music",
+    "bassy"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Best Foot Forward",
+      "duration": "00:49"
+    },
+    {
+      "type": "track",
+      "title": "Building Steam With a Grain of Salt",
+      "duration": "06:40"
+    },
+    {
+      "type": "track",
+      "title": "The Number Song",
+      "duration": "04:40"
+    },
+    {
+      "type": "track",
+      "title": "Changeling",
+      "duration": "07:51"
+    },
+    {
+      "type": "track",
+      "title": "What Does Your Soul Look Like (Part 4)",
+      "duration": "05:08"
+    },
+    {
+      "type": "track",
+      "title": "[untitled]",
+      "duration": "00:25"
+    },
+    {
+      "type": "track",
+      "title": "Stem / Long Stem",
+      "duration": "09:21"
+    },
+    {
+      "type": "track",
+      "title": "Mutual Slump",
+      "duration": "04:02"
+    },
+    {
+      "type": "track",
+      "title": "Organ Donor",
+      "duration": "01:57"
+    },
+    {
+      "type": "track",
+      "title": "Why Hip Hop Sucks in '96",
+      "duration": "00:43"
+    },
+    {
+      "type": "track",
+      "title": "Midnight in a Perfect World",
+      "duration": "04:57"
+    },
+    {
+      "type": "track",
+      "title": "Napalm Brain / Scatter Brain",
+      "duration": "09:23"
+    },
+    {
+      "type": "track",
+      "title": "What Does Your Soul Look Like (Part 1 - Blue Sky Revisit)",
+      "duration": "07:28"
+    }
+  ],
+  "totalDuration": "01:03:24",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/7676f86aa08375a59b05fccaf43eeecc/12326492/dj-shadow-endtroducing-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

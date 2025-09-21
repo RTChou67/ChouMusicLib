@@ -1,0 +1,72 @@
+{
+  "fileName": "Faust - Faust.json",
+  "title": "Faust",
+  "artist": "Faust",
+  "releaseDate": "1971-01-01",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Krautrock",
+    "Experimental Rock",
+    "Sound Collage",
+    "Musique concrète",
+    "Sound Collage",
+    "Tape Music",
+    "Avant-Prog",
+    "Field Recordings"
+  ],
+  "tags": [
+    "avant-garde",
+    "surreal",
+    "cryptic",
+    "eclectic",
+    "psychedelic",
+    "sampling",
+    "playful",
+    "mysterious",
+    "abstract",
+    "atmospheric",
+    "progressive",
+    "complex",
+    "quirky",
+    "male vocalist",
+    "chaotic",
+    "noisy",
+    "existential",
+    "hypnotic",
+    "dissonant",
+    "dark",
+    "repetitive",
+    "suspenseful",
+    "war",
+    "philosophical",
+    "humorous",
+    "ominous"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "Why Don't You Eat Carrots",
+      "duration": "09:34"
+    },
+    {
+      "type": "track",
+      "title": "Meadow Meal",
+      "duration": "08:18"
+    },
+    {
+      "type": "track",
+      "title": "Miss Fortune",
+      "duration": "17:55"
+    }
+  ],
+  "totalDuration": "35:47",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/1c5d8f5c3478e15566de28175bddf28e/6181557/faust-faust-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:31:28.669Z",
+  "updatedAt": "2025-09-13T16:31:28.669Z"
+}

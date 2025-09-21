@@ -1,0 +1,86 @@
+{
+  "fileName": "Esoteric - The Maniacal Vale.json",
+  "title": "The Maniacal Vale",
+  "artist": "Esoteric",
+  "releaseDate": "2008-06-16",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Funeral Doom Metal",
+    "Death Doom Metal",
+    "Post-Metal"
+  ],
+  "tags": [
+    "heavy",
+    "atmospheric",
+    "depressive",
+    "funereal",
+    "dense",
+    "ominous",
+    "male vocalist",
+    "psychedelic",
+    "sombre",
+    "apocalyptic",
+    "existential",
+    "hypnotic",
+    "death",
+    "infernal",
+    "mysterious",
+    "introspective",
+    "dark",
+    "melancholic",
+    "epic",
+    "abstract",
+    "repetitive",
+    "nihilistic",
+    "nocturnal",
+    "surreal",
+    "lethargic",
+    "scary",
+    "progressive",
+    "suspenseful",
+    "through-composed"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Circle",
+      "duration": "20:45"
+    },
+    {
+      "type": "track",
+      "title": "Beneath This Face",
+      "duration": "11:21"
+    },
+    {
+      "type": "track",
+      "title": "Quickening",
+      "duration": "12:19"
+    },
+    {
+      "type": "track",
+      "title": "Caucus of Mind",
+      "duration": "07:22"
+    },
+    {
+      "type": "track",
+      "title": "Silence",
+      "duration": "15:45"
+    },
+    {
+      "type": "track",
+      "title": "The Order of Destiny",
+      "duration": "11:32"
+    },
+    {
+      "type": "track",
+      "title": "Ignotum per ignotius",
+      "duration": "22:43"
+    }
+  ],
+  "totalDuration": "01:41:47",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/8160fe8781a45f09b04516f7a79f56bc/11658152/esoteric-the-maniacal-vale-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:57:59.625Z",
+  "updatedAt": "2025-09-16T15:57:59.625Z"
+}

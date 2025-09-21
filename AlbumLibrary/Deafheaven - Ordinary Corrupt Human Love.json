@@ -1,0 +1,82 @@
+{
+  "fileName": "Deafheaven - Ordinary Corrupt Human Love.json",
+  "title": "Ordinary Corrupt Human Love",
+  "artist": "Deafheaven",
+  "releaseDate": "2018-07-13",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Blackgaze",
+    "Post-Metal",
+    "Post-Rock",
+    "Dream Pop"
+  ],
+  "tags": [
+    "melancholic",
+    "bittersweet",
+    "atmospheric",
+    "passionate",
+    "male vocalist",
+    "sentimental",
+    "melodic",
+    "longing",
+    "ethereal",
+    "lonely",
+    "sombre",
+    "poetic",
+    "warm",
+    "love",
+    "uplifting",
+    "dense",
+    "epic",
+    "psychedelic",
+    "triumphant",
+    "cryptic",
+    "heavy",
+    "eclectic",
+    "progressive",
+    "lush"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "You Without End",
+      "duration": "07:36"
+    },
+    {
+      "type": "track",
+      "title": "Honeycomb",
+      "duration": "11:04"
+    },
+    {
+      "type": "track",
+      "title": "Canary Yellow",
+      "duration": "12:17"
+    },
+    {
+      "type": "track",
+      "title": "Near",
+      "duration": "05:28"
+    },
+    {
+      "type": "track",
+      "title": "Glint",
+      "duration": "10:57"
+    },
+    {
+      "type": "track",
+      "title": "Night People",
+      "duration": "04:07"
+    },
+    {
+      "type": "track",
+      "title": "Worthless Animal",
+      "duration": "10:07"
+    }
+  ],
+  "totalDuration": "01:01:36",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/b94195dd5a3bce5dbfc4b15f7f28f7b4/7027991/deafheaven-ordinary-corrupt-human-love-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:53:04.446Z",
+  "updatedAt": "2025-09-16T15:53:04.446Z"
+}

@@ -1,0 +1,100 @@
+{
+  "fileName": "Slayer - South of Heaven.json",
+  "title": "South of Heaven",
+  "artist": "Slayer",
+  "releaseDate": "1988-07-05",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Thrash Metal"
+  ],
+  "tags": [
+    "angry",
+    "dark",
+    "death",
+    "male vocalist",
+    "aggressive",
+    "heavy",
+    "infernal",
+    "energetic",
+    "war",
+    "misanthropic",
+    "ominous",
+    "rhythmic",
+    "apocalyptic",
+    "satanism",
+    "macabre",
+    "technical",
+    "disturbing",
+    "afterlife",
+    "scary",
+    "horror",
+    "punchy",
+    "atmospheric"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "South of Heaven",
+      "duration": "05:00"
+    },
+    {
+      "type": "track",
+      "title": "Silent Scream",
+      "duration": "03:02"
+    },
+    {
+      "type": "track",
+      "title": "Live Undead",
+      "duration": "03:51"
+    },
+    {
+      "type": "track",
+      "title": "Behind the Crooked Cross",
+      "duration": "03:12"
+    },
+    {
+      "type": "track",
+      "title": "Mandatory Suicide",
+      "duration": "04:03"
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "Ghosts of War",
+      "duration": "03:55"
+    },
+    {
+      "type": "track",
+      "title": "Read Between the Lies",
+      "duration": "03:21"
+    },
+    {
+      "type": "track",
+      "title": "Cleanse the Soul",
+      "duration": "03:01"
+    },
+    {
+      "type": "track",
+      "title": "Dissident Aggressor",
+      "duration": "02:34"
+    },
+    {
+      "type": "track",
+      "title": "Spill the Blood",
+      "duration": "04:48"
+    }
+  ],
+  "totalDuration": "36:47",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/761ce0e361911b83bfbcbccd37fb13de/5815545/slayer-south-of-heaven-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:54:38.107Z",
+  "updatedAt": "2025-09-13T16:54:38.107Z"
+}

@@ -1,0 +1,86 @@
+{
+  "fileName": "Covenant - In Times Before the Light.json",
+  "title": "In Times Before the Light",
+  "artist": "Covenant",
+  "releaseDate": "1997-01-01",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Symphonic Black Metal",
+    "Melodic Black Metal"
+  ],
+  "tags": [
+    "epic",
+    "misanthropic",
+    "fantasy",
+    "nature",
+    "cold",
+    "winter",
+    "forest",
+    "sombre",
+    "nocturnal",
+    "dark",
+    "war",
+    "hateful",
+    "lonely",
+    "raw",
+    "male vocalist"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Towards the Crown of Nights",
+      "duration": "05:50"
+    },
+    {
+      "type": "track",
+      "title": "Dragonstorms",
+      "duration": "04:58"
+    },
+    {
+      "type": "track",
+      "title": "The Dark Conquest",
+      "duration": "06:54"
+    },
+    {
+      "type": "track",
+      "title": "From the Storm of Shadows",
+      "duration": "05:13"
+    },
+    {
+      "type": "track",
+      "title": "Night of the Blackwinds",
+      "duration": "03:40"
+    },
+    {
+      "type": "track",
+      "title": "The Chasm",
+      "duration": "03:44"
+    },
+    {
+      "type": "track",
+      "title": "Visions of a Lost Kingdom",
+      "duration": "03:26"
+    },
+    {
+      "type": "track",
+      "title": "Through the Eyes of the Raven",
+      "duration": "05:00"
+    },
+    {
+      "type": "track",
+      "title": "In Times Before the Light",
+      "duration": "05:59"
+    },
+    {
+      "type": "track",
+      "title": "Monarchs of the Mighty Darkness",
+      "duration": "05:54"
+    }
+  ],
+  "totalDuration": "50:38",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/02ba4f4cffb7817bce8f130de0adb24a/1284436/covenant-in-times-before-the-light-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:37:44.636Z",
+  "updatedAt": "2025-09-16T15:37:44.636Z"
+}

@@ -1,0 +1,85 @@
+{
+  "fileName": "Neurotech - Ave Neptune.json",
+  "title": "Ave Neptune",
+  "artist": "Neurotech",
+  "releaseDate": "2023-04-20",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Cyber Metal",
+    "Industrial Metal",
+    "Futurepop",
+    "Trance Metal",
+    "Avant-Garde Metal"
+  ],
+  "tags": [
+    "melodic",
+    "longing",
+    "melancholic",
+    "progressive",
+    "atmospheric",
+    "ethereal",
+    "male vocalist",
+    "energetic",
+    "futuristic",
+    "aquatic",
+    "chaotic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "The Coming Storms",
+      "duration": "04:06"
+    },
+    {
+      "type": "track",
+      "title": "Mundane Entropy",
+      "duration": "04:29"
+    },
+    {
+      "type": "track",
+      "title": "Never-Ending Maze",
+      "duration": "04:40"
+    },
+    {
+      "type": "track",
+      "title": "The Serpent Bites",
+      "duration": "03:48"
+    },
+    {
+      "type": "track",
+      "title": "Only Heartbeat",
+      "duration": "03:54"
+    },
+    {
+      "type": "track",
+      "title": "Repent in Need",
+      "duration": "04:13"
+    },
+    {
+      "type": "track",
+      "title": "Spiraling Down",
+      "duration": "03:39"
+    },
+    {
+      "type": "track",
+      "title": "Whirlwind",
+      "duration": "04:48"
+    },
+    {
+      "type": "track",
+      "title": "Inner Quest",
+      "duration": "02:30"
+    },
+    {
+      "type": "track",
+      "title": "The Years of the Flood",
+      "duration": "03:53"
+    }
+  ],
+  "totalDuration": "40:00",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/ab52f46a5e8bcd29e5a4f26593d56b49/10916096/neurotech-ave-neptune-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

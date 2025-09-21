@@ -1,0 +1,36 @@
+{
+  "fileName": "Unprocessed - Deadrose.json",
+  "title": "Deadrose",
+  "artist": "Unprocessed",
+  "releaseDate": "2020-11-13",
+  "albumFormat": "Single",
+  "rating": 0,
+  "styles": [
+    "Alternative Metal",
+    "Alt-Pop",
+    "Electropop",
+    "Djent",
+    "Alternative Metal",
+    "Art Pop",
+    "Progressive Pop"
+  ],
+  "tags": [
+    "mellow",
+    "uncommon time signatures",
+    "complex",
+    "technical",
+    "male vocalist"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Deadrose",
+      "duration": "03:40"
+    }
+  ],
+  "totalDuration": "03:40",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/397295ab6a0edeb232fa3dd817d67f8d/9112502/unprocessed-deadrose-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:26:39.787Z",
+  "updatedAt": "2025-09-16T15:26:39.787Z"
+}

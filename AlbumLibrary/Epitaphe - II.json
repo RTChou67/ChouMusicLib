@@ -1,0 +1,60 @@
+{
+  "fileName": "Epitaphe - II.json",
+  "title": "II",
+  "artist": "Epitaphe",
+  "releaseDate": "2022-04-11",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Progressive Metal",
+    "Death Doom Metal",
+    "Black Metal",
+    "Funeral Doom Metal"
+  ],
+  "tags": [
+    "complex",
+    "mysterious",
+    "melancholic",
+    "autumn",
+    "heavy",
+    "atmospheric",
+    "dense",
+    "dark",
+    "death",
+    "progressive",
+    "ethereal",
+    "male vocalist"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Sycomore",
+      "duration": "03:14"
+    },
+    {
+      "type": "track",
+      "title": "Celestial",
+      "duration": "19:05"
+    },
+    {
+      "type": "track",
+      "title": "Melancholia",
+      "duration": "18:59"
+    },
+    {
+      "type": "track",
+      "title": "Insignificant",
+      "duration": "18:37"
+    },
+    {
+      "type": "track",
+      "title": "Merging Within Nothingness",
+      "duration": "02:44"
+    }
+  ],
+  "totalDuration": "01:02:39",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/8cc301b80f408d7b41e1b592f3d31347/10201038/epitaphe-ii-Cover-Art.jpg",
+  "createdAt": "2025-09-16T16:10:05.884Z",
+  "updatedAt": "2025-09-16T16:10:05.884Z"
+}

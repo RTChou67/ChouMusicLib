@@ -1,0 +1,84 @@
+{
+  "fileName": "Hypocrisy - Virus.json",
+  "title": "Virus",
+  "artist": "Hypocrisy",
+  "releaseDate": "2005-09-19",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Melodic Death Metal",
+    "Death Metal"
+  ],
+  "tags": [
+    "aggressive",
+    "heavy",
+    "male vocalist",
+    "violence",
+    "melodic",
+    "ominous",
+    "dark",
+    "angry"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "XVI",
+      "duration": "00:16"
+    },
+    {
+      "type": "track",
+      "title": "Warpath",
+      "duration": "04:23"
+    },
+    {
+      "type": "track",
+      "title": "Scrutinized",
+      "duration": "04:25"
+    },
+    {
+      "type": "track",
+      "title": "Fearless",
+      "duration": "04:24"
+    },
+    {
+      "type": "track",
+      "title": "Craving for Another Killing",
+      "duration": "03:50"
+    },
+    {
+      "type": "track",
+      "title": "Let the Knife Do the Talking",
+      "duration": "04:15"
+    },
+    {
+      "type": "track",
+      "title": "A Thousand Lies",
+      "duration": "04:52"
+    },
+    {
+      "type": "track",
+      "title": "Incised Before I've Ceased",
+      "duration": "04:28"
+    },
+    {
+      "type": "track",
+      "title": "Blooddrenched",
+      "duration": "03:42"
+    },
+    {
+      "type": "track",
+      "title": "Compulsive Psychosis",
+      "duration": "04:14"
+    },
+    {
+      "type": "track",
+      "title": "Living to Die",
+      "duration": "05:42"
+    }
+  ],
+  "totalDuration": "44:31",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/46d33dfb0d5cb57b3739b02d91e8e9de/6143449/hypocrisy-virus-Cover-Art.jpg",
+  "createdAt": "2025-09-13T17:01:58.852Z",
+  "updatedAt": "2025-09-13T17:01:58.852Z"
+}

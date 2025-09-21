@@ -1,0 +1,71 @@
+{
+  "fileName": "Tomb Mold - Planetary Clairvoyance.json",
+  "title": "Planetary Clairvoyance",
+  "artist": "Tomb Mold",
+  "releaseDate": "2019-07-19",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Death Metal",
+    "Technical Death Metal"
+  ],
+  "tags": [
+    "heavy",
+    "male vocalist",
+    "dark",
+    "aggressive",
+    "dense",
+    "science fiction",
+    "technical",
+    "atmospheric",
+    "dissonant",
+    "ominous",
+    "death",
+    "space",
+    "energetic",
+    "rhythmic",
+    "aliens"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Beg for Life",
+      "duration": "06:51"
+    },
+    {
+      "type": "track",
+      "title": "Planetary Clairvoyance (They Grow Inside Pt 2)",
+      "duration": "04:45"
+    },
+    {
+      "type": "track",
+      "title": "Phosphorene Ultimate",
+      "duration": "03:00"
+    },
+    {
+      "type": "track",
+      "title": "Infinite Resurrection",
+      "duration": "05:13"
+    },
+    {
+      "type": "track",
+      "title": "Accelerative Phenomenae",
+      "duration": "06:28"
+    },
+    {
+      "type": "track",
+      "title": "Cerulean Salvation",
+      "duration": "05:54"
+    },
+    {
+      "type": "track",
+      "title": "Heat Death",
+      "duration": "06:17"
+    }
+  ],
+  "totalDuration": "38:28",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/7f3fd7e4c9e91d89620414a62d4d793c/7648291/tomb-mold-planetary-clairvoyance-Cover-Art.jpg",
+  "createdAt": "2025-09-12T18:01:59.166Z",
+  "updatedAt": "2025-09-12T18:01:59.166Z"
+}

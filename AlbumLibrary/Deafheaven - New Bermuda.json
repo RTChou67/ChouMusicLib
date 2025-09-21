@@ -1,0 +1,68 @@
+{
+  "fileName": "Deafheaven - New Bermuda.json",
+  "title": "New Bermuda",
+  "artist": "Deafheaven",
+  "releaseDate": "2015-10-02",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Atmospheric Black Metal",
+    "Blackgaze",
+    "Post-Rock",
+    "Post-Metal"
+  ],
+  "tags": [
+    "melancholic",
+    "passionate",
+    "bittersweet",
+    "lonely",
+    "atmospheric",
+    "male vocalist",
+    "sombre",
+    "aggressive",
+    "poetic",
+    "dark",
+    "introspective",
+    "heavy",
+    "depressive",
+    "melodic",
+    "dense",
+    "existential",
+    "suicide",
+    "misanthropic",
+    "sad",
+    "technical"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Brought to the Water",
+      "duration": "08:37"
+    },
+    {
+      "type": "track",
+      "title": "Luna",
+      "duration": "10:14"
+    },
+    {
+      "type": "track",
+      "title": "Baby Blue",
+      "duration": "10:06"
+    },
+    {
+      "type": "track",
+      "title": "Come Back",
+      "duration": "09:16"
+    },
+    {
+      "type": "track",
+      "title": "Gifts for the Earth",
+      "duration": "08:22"
+    }
+  ],
+  "totalDuration": "46:35",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/69d1fc297faf8615b21ad7898bcb389e/5909991/deafheaven-new-bermuda-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:52:43.991Z",
+  "updatedAt": "2025-09-16T15:52:43.991Z"
+}

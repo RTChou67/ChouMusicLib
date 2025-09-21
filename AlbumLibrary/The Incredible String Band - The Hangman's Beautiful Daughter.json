@@ -1,0 +1,100 @@
+{
+  "fileName": "The Incredible String Band - The Hangman's Beautiful Daughter.json",
+  "title": "The Hangman's Beautiful Daughter",
+  "artist": "The Incredible String Band",
+  "releaseDate": "1968-03-01",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Psychedelic Folk",
+    "Wyrd Folk",
+    "Chamber Folk",
+    "Progressive Folk"
+  ],
+  "tags": [
+    "psychedelic",
+    "surreal",
+    "pastoral",
+    "forest",
+    "spiritual",
+    "acoustic",
+    "quirky",
+    "male vocalist",
+    "eclectic",
+    "medieval",
+    "playful",
+    "melodic",
+    "meditative",
+    "humorous",
+    "dense",
+    "warm",
+    "poetic",
+    "Christian",
+    "female vocalist"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "Koeeoaddi There",
+      "duration": "04:41"
+    },
+    {
+      "type": "track",
+      "title": "The Minotaur's Song",
+      "duration": "03:18"
+    },
+    {
+      "type": "track",
+      "title": "Witches Hat",
+      "duration": "02:30"
+    },
+    {
+      "type": "track",
+      "title": "A Very Cellular Song",
+      "duration": "12:55"
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "Mercy I Cry City",
+      "duration": "02:40"
+    },
+    {
+      "type": "track",
+      "title": "Waltz of the New Moon",
+      "duration": "05:01"
+    },
+    {
+      "type": "track",
+      "title": "The Water Song",
+      "duration": "02:47"
+    },
+    {
+      "type": "track",
+      "title": "Three Is a Green Crown",
+      "duration": "07:40"
+    },
+    {
+      "type": "track",
+      "title": "Swift as the Wind",
+      "duration": "04:50"
+    },
+    {
+      "type": "track",
+      "title": "Nightfall",
+      "duration": "02:29"
+    }
+  ],
+  "totalDuration": "48:51",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/54adfe1b9419fd93eeb40c5ffd5651fb/2365316/the-incredible-string-band-the-hangmans-beautiful-daughter-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:39:56.509Z",
+  "updatedAt": "2025-09-16T15:39:56.509Z"
+}

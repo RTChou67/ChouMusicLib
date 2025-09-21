@@ -1,0 +1,67 @@
+{
+  "fileName": "Lorna Shore - Flesh Coffin.json",
+  "title": "Flesh Coffin",
+  "artist": "Lorna Shore",
+  "releaseDate": "2017-02-17",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [],
+  "tags": [],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Offering of Fire",
+      "duration": "05:48"
+    },
+    {
+      "type": "track",
+      "title": "Denounce the Light",
+      "duration": "04:39"
+    },
+    {
+      "type": "track",
+      "title": "The Astral Wake of Time",
+      "duration": "03:55"
+    },
+    {
+      "type": "track",
+      "title": "Desolate Veil",
+      "duration": "04:51"
+    },
+    {
+      "type": "track",
+      "title": "Fvneral Moon",
+      "duration": "05:00"
+    },
+    {
+      "type": "track",
+      "title": "Void",
+      "duration": "04:15"
+    },
+    {
+      "type": "track",
+      "title": "Infernum",
+      "duration": "03:57"
+    },
+    {
+      "type": "track",
+      "title": "The//Watcher",
+      "duration": "04:03"
+    },
+    {
+      "type": "track",
+      "title": "Black Hollow",
+      "duration": "04:12"
+    },
+    {
+      "type": "track",
+      "title": "Flesh Coffin",
+      "duration": "04:54"
+    }
+  ],
+  "totalDuration": "45:34",
+  "notes": "",
+  "coverData": "https://www.metal-archives.com/images/1/0/8/1/1081510.jpg?0215",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

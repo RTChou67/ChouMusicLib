@@ -1,0 +1,56 @@
+{
+  "fileName": "Jethro Tull - Thick as a Brick.json",
+  "title": "Thick as a Brick",
+  "artist": "Jethro Tull",
+  "releaseDate": "1972-03-03",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Progressive Rock",
+    "Folk Rock",
+    "Progressive Folk",
+    "Satire"
+  ],
+  "tags": [
+    "satirical",
+    "complex",
+    "concept album",
+    "male vocalist",
+    "progressive",
+    "suite",
+    "epic",
+    "sarcastic",
+    "technical",
+    "poetic",
+    "playful",
+    "uncommon time signatures",
+    "humorous",
+    "energetic",
+    "parody",
+    "melodic",
+    "philosophical",
+    "passionate",
+    "abstract",
+    "pastoral",
+    "quirky",
+    "theatrical",
+    "through-composed"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Thick as a Brick",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Thick as a Brick",
+      "duration": ""
+    }
+  ],
+  "totalDuration": "00:00",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/35341722b100ab047ac382921e0d1f16/1988441/jethro-tull-thick-as-a-brick-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:30:18.272Z",
+  "updatedAt": "2025-09-13T16:30:18.272Z"
+}

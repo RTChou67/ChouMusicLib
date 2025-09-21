@@ -1,0 +1,80 @@
+{
+  "fileName": "Disturbed - Divisive.json",
+  "title": "Divisive",
+  "artist": "Disturbed",
+  "releaseDate": "2022-11-18",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Alternative Metal",
+    "Heavy Metal"
+  ],
+  "tags": [
+    "male vocalist",
+    "energetic",
+    "rhythmic",
+    "heavy",
+    "anthemic",
+    "dense",
+    "misanthropic",
+    "conscious",
+    "angry"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Hey You",
+      "duration": "04:28"
+    },
+    {
+      "type": "track",
+      "title": "Bad Man",
+      "duration": "03:22"
+    },
+    {
+      "type": "track",
+      "title": "Divisive",
+      "duration": "03:58"
+    },
+    {
+      "type": "track",
+      "title": "Unstoppable",
+      "duration": "03:58"
+    },
+    {
+      "type": "track",
+      "title": "Love to Hate",
+      "duration": "03:36"
+    },
+    {
+      "type": "track",
+      "title": "Feeding the Fire",
+      "duration": "04:19"
+    },
+    {
+      "type": "track",
+      "title": "Don't Tell Me",
+      "duration": "04:31"
+    },
+    {
+      "type": "track",
+      "title": "Take Back Your Life",
+      "duration": "02:58"
+    },
+    {
+      "type": "track",
+      "title": "Part of Me",
+      "duration": "03:53"
+    },
+    {
+      "type": "track",
+      "title": "Won't Back Down",
+      "duration": "02:52"
+    }
+  ],
+  "totalDuration": "37:55",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/ee6cdc2e923e04860120fb81807d3ec1/10364944/disturbed-divisive-Cover-Art.jpg",
+  "createdAt": "2025-09-12T16:50:00.412Z",
+  "updatedAt": "2025-09-12T16:50:00.412Z"
+}

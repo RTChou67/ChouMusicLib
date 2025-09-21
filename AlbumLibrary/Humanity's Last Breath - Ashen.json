@@ -1,0 +1,103 @@
+{
+  "fileName": "Humanity's Last Breath - Ashen.json",
+  "title": "Ashen",
+  "artist": "Humanity's Last Breath",
+  "releaseDate": "2023-08-04",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Downtempo Deathcore",
+    "Thall",
+    "Djent",
+    "Post-Metal"
+  ],
+  "tags": [
+    "heavy",
+    "uncommon time signatures",
+    "atmospheric",
+    "dense",
+    "dark",
+    "aggressive",
+    "suspenseful",
+    "apocalyptic",
+    "death",
+    "hateful",
+    "ominous",
+    "melancholic",
+    "infernal",
+    "complex",
+    "misanthropic",
+    "technical",
+    "existential",
+    "progressive",
+    "dissonant",
+    "philosophical"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Blood Spilled",
+      "duration": "04:58"
+    },
+    {
+      "type": "track",
+      "title": "Linger",
+      "duration": "03:58"
+    },
+    {
+      "type": "track",
+      "title": "Lifeless, Deathless",
+      "duration": "03:55"
+    },
+    {
+      "type": "track",
+      "title": "Withering",
+      "duration": "04:03"
+    },
+    {
+      "type": "track",
+      "title": "Instill",
+      "duration": "04:40"
+    },
+    {
+      "type": "track",
+      "title": "Labyrinthian",
+      "duration": "03:59"
+    },
+    {
+      "type": "track",
+      "title": "Catastrophize",
+      "duration": "04:09"
+    },
+    {
+      "type": "track",
+      "title": "Death Spiral",
+      "duration": "04:23"
+    },
+    {
+      "type": "track",
+      "title": "Shell",
+      "duration": "03:56"
+    },
+    {
+      "type": "track",
+      "title": "Passage",
+      "duration": "04:13"
+    },
+    {
+      "type": "track",
+      "title": "Burden",
+      "duration": "01:24"
+    },
+    {
+      "type": "track",
+      "title": "Bearer",
+      "duration": "03:45"
+    }
+  ],
+  "totalDuration": "47:23",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/092ce85d60a82e416da67bedf0e896ad/11201484/humanitys-last-breath-ashen-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:29:20.223Z",
+  "updatedAt": "2025-09-12T17:29:20.223Z"
+}

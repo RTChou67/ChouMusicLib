@@ -1,0 +1,43 @@
+{
+  "fileName": "Reflections - Shadow.json",
+  "title": "Shadow",
+  "artist": "Reflections",
+  "releaseDate": "2024-11-29",
+  "albumFormat": "EP",
+  "rating": 0,
+  "styles": [
+    "Thall",
+    "Downtempo Deathcore",
+    "Downtempo Deathcore"
+  ],
+  "tags": [
+    "heavy",
+    "angular",
+    "dark",
+    "chaotic",
+    "rhythmic",
+    "male vocalist"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Omni",
+      "duration": "03:04"
+    },
+    {
+      "type": "track",
+      "title": "Deva",
+      "duration": "04:40"
+    },
+    {
+      "type": "track",
+      "title": "Anhedonia",
+      "duration": "05:12"
+    }
+  ],
+  "totalDuration": "12:56",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/9bcd51a8c18cf1ef2ea2965dbc812b9d/12766685/reflections-shadow-Cover-Art.jpg",
+  "createdAt": "2025-09-12T18:06:25.829Z",
+  "updatedAt": "2025-09-12T18:06:25.829Z"
+}

@@ -1,0 +1,99 @@
+{
+  "fileName": "Imperial Triumphant - Goldstar.json",
+  "title": "Goldstar",
+  "artist": "Imperial Triumphant",
+  "releaseDate": "2025-03-21",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Dissonant Death Metal",
+    "Avant-Garde Metal",
+    "Dissonant Black Metal",
+    "Progressive Metal"
+  ],
+  "tags": [
+    "urban",
+    "uncommon time signatures",
+    "surreal",
+    "technical",
+    "dissonant",
+    "ominous",
+    "male vocalist",
+    "avant-garde",
+    "dense",
+    "psychedelic",
+    "noisy",
+    "complex",
+    "heavy",
+    "abstract",
+    "progressive",
+    "chaotic",
+    "atonal",
+    "apocalyptic",
+    "disturbing",
+    "atmospheric",
+    "scary",
+    "dark",
+    "rhythmic",
+    "epic",
+    "manic",
+    "history",
+    "occult",
+    "humorous",
+    "conscious",
+    "melodic",
+    "maximalist"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Eye of Mars",
+      "duration": "05:08"
+    },
+    {
+      "type": "track",
+      "title": "Gomorrah Nouveaux",
+      "duration": "04:34"
+    },
+    {
+      "type": "track",
+      "title": "Lexington Delirium",
+      "duration": "04:35"
+    },
+    {
+      "type": "track",
+      "title": "Hotel Sphinx",
+      "duration": "04:49"
+    },
+    {
+      "type": "track",
+      "title": "NEWYORKCITY",
+      "duration": "00:47"
+    },
+    {
+      "type": "track",
+      "title": "Goldstar",
+      "duration": "00:55"
+    },
+    {
+      "type": "track",
+      "title": "Rot Moderne",
+      "duration": "04:35"
+    },
+    {
+      "type": "track",
+      "title": "Pleasuredome",
+      "duration": "05:36"
+    },
+    {
+      "type": "track",
+      "title": "Industry of Misery",
+      "duration": "07:20"
+    }
+  ],
+  "totalDuration": "38:19",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/9ae31498d2e5b35ed01b77b9dcdeed56/12939349/imperial-triumphant-goldstar-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:43:28.261Z",
+  "updatedAt": "2025-09-13T16:43:28.261Z"
+}

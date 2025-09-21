@@ -1,0 +1,81 @@
+{
+  "fileName": "Leprous - Tall Poppy Syndrome.json",
+  "title": "Tall Poppy Syndrome",
+  "artist": "Leprous",
+  "releaseDate": "2009-05-05",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Progressive Metal",
+    "Progressive Rock",
+    "Avant-Garde Metal"
+  ],
+  "tags": [
+    "male vocalist",
+    "progressive",
+    "uncommon time signatures",
+    "anxious",
+    "technical",
+    "melodic",
+    "heavy",
+    "introspective",
+    "complex",
+    "passionate",
+    "playful",
+    "melancholic",
+    "death",
+    "lonely",
+    "avant-garde",
+    "abstract",
+    "aggressive",
+    "rhythmic",
+    "epic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Passing",
+      "duration": "08:31"
+    },
+    {
+      "type": "track",
+      "title": "Phantom Pain",
+      "duration": "06:50"
+    },
+    {
+      "type": "track",
+      "title": "Dare You",
+      "duration": "06:45"
+    },
+    {
+      "type": "track",
+      "title": "Fate",
+      "duration": "04:38"
+    },
+    {
+      "type": "track",
+      "title": "He Will Kill Again",
+      "duration": "07:31"
+    },
+    {
+      "type": "track",
+      "title": "Not Even a Name",
+      "duration": "08:46"
+    },
+    {
+      "type": "track",
+      "title": "Tall Poppy Syndrome",
+      "duration": "08:28"
+    },
+    {
+      "type": "track",
+      "title": "White",
+      "duration": "11:31"
+    }
+  ],
+  "totalDuration": "01:03:00",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/2bf1184ad449e11d2395db6674219fdb/3324498/leprous-tall-poppy-syndrome-Cover-Art.png",
+  "createdAt": "2025-09-16T15:23:23.279Z",
+  "updatedAt": "2025-09-16T15:23:23.279Z"
+}

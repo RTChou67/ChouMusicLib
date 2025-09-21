@@ -1,0 +1,98 @@
+{
+  "fileName": "Hizaki - Rosario.json",
+  "title": "Rosario",
+  "artist": "Hizaki",
+  "releaseDate": "2016-08-03",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Power Metal",
+    "Neoclassical Metal",
+    "Symphonic Metal"
+  ],
+  "tags": [
+    "triumphant",
+    "playful",
+    "energetic",
+    "technical",
+    "melodic",
+    "instrumental"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Grace and Dignity",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Dark Classical",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Silent Knight",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Desert Apple",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Fly Through the Air",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Eien no Tomoshibi",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Church Candle",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Race Wish",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Elizabeth",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Presto",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Beating the Sky",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Rose Quartz",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "A Ray of Light",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Rosario",
+      "duration": ""
+    }
+  ],
+  "totalDuration": "00:00",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/c5b44ec714a2631c4f82c2d444ec589e/6198117/hizaki-rosario-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:36:31.262Z",
+  "updatedAt": "2025-09-12T17:36:31.262Z"
+}

@@ -1,0 +1,100 @@
+{
+  "fileName": "The Doors - Strange Days.json",
+  "title": "Strange Days",
+  "artist": "The Doors",
+  "releaseDate": "1967-09-25",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Psychedelic Rock",
+    "Blues Rock",
+    "Acid Rock",
+    "Psychedelic Pop"
+  ],
+  "tags": [
+    "psychedelic",
+    "mysterious",
+    "male vocalist",
+    "poetic",
+    "cryptic",
+    "melancholic",
+    "alienation",
+    "surreal",
+    "nocturnal",
+    "lonely",
+    "sexual",
+    "sombre",
+    "dark",
+    "cold",
+    "warm",
+    "abstract",
+    "avant-garde",
+    "disturbing",
+    "futuristic"
+  ],
+  "tracklist": [
+    {
+      "type": "header",
+      "title": "Side A"
+    },
+    {
+      "type": "track",
+      "title": "Strange Days",
+      "duration": "03:05"
+    },
+    {
+      "type": "track",
+      "title": "You're Lost Little Girl",
+      "duration": "03:01"
+    },
+    {
+      "type": "track",
+      "title": "Love Me Two Times",
+      "duration": "03:23"
+    },
+    {
+      "type": "track",
+      "title": "Unhappy Girl",
+      "duration": "02:00"
+    },
+    {
+      "type": "track",
+      "title": "Horse Latitudes",
+      "duration": "01:30"
+    },
+    {
+      "type": "track",
+      "title": "Moonlight Drive",
+      "duration": "03:00"
+    },
+    {
+      "type": "header",
+      "title": "Side B"
+    },
+    {
+      "type": "track",
+      "title": "People Are Strange",
+      "duration": "02:10"
+    },
+    {
+      "type": "track",
+      "title": "My Eyes Have Seen You",
+      "duration": "02:22"
+    },
+    {
+      "type": "track",
+      "title": "I Can't See Your Face in My Mind",
+      "duration": "03:18"
+    },
+    {
+      "type": "track",
+      "title": "When the Music's Over",
+      "duration": "11:00"
+    }
+  ],
+  "totalDuration": "34:49",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/dd01ca90674ac48c104b0e4ab58e2e1a/3140597/the-doors-strange-days-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:19:57.218Z",
+  "updatedAt": "2025-09-12T17:19:57.218Z"
+}

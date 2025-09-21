@@ -1,0 +1,77 @@
+{
+  "fileName": "Dan Swanö - Moontower.json",
+  "title": "Moontower",
+  "artist": "Dan Swanö",
+  "releaseDate": "1999-01-26",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Progressive Metal",
+    "Death Metal",
+    "Progressive Rock"
+  ],
+  "tags": [
+    "progressive",
+    "existential",
+    "male vocalist",
+    "melodic",
+    "heavy",
+    "introspective",
+    "passionate",
+    "sentimental",
+    "longing",
+    "complex",
+    "bittersweet",
+    "conscious",
+    "melancholic",
+    "nocturnal",
+    "epic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Sun of the Night",
+      "duration": "05:14"
+    },
+    {
+      "type": "track",
+      "title": "Patchworks",
+      "duration": "04:58"
+    },
+    {
+      "type": "track",
+      "title": "Uncreation",
+      "duration": "05:40"
+    },
+    {
+      "type": "track",
+      "title": "Add Reality",
+      "duration": "06:16"
+    },
+    {
+      "type": "track",
+      "title": "Creating Illusions",
+      "duration": "04:12"
+    },
+    {
+      "type": "track",
+      "title": "The Big Sleep",
+      "duration": "05:17"
+    },
+    {
+      "type": "track",
+      "title": "Encounterparts",
+      "duration": "06:05"
+    },
+    {
+      "type": "track",
+      "title": "In Empty Phrases",
+      "duration": "05:58"
+    }
+  ],
+  "totalDuration": "43:40",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/0c0988926841bd9c52e86af57f25681e/2597953/dan-swano-moontower-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:30:38.912Z",
+  "updatedAt": "2025-09-12T17:30:38.912Z"
+}

@@ -1,0 +1,84 @@
+{
+  "fileName": "Galneryus - The Stars Will Light the Way.json",
+  "title": "The Stars Will Light the Way",
+  "artist": "Galneryus",
+  "releaseDate": "2024-09-25",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Power Metal",
+    "Symphonic Metal",
+    "Neoclassical Metal",
+    "Progressive Metal"
+  ],
+  "tags": [
+    "technical",
+    "male vocalist",
+    "epic",
+    "triumphant",
+    "heavy",
+    "anthemic",
+    "uplifting",
+    "energetic",
+    "melodic",
+    "passionate",
+    "progressive"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Go Towards the Utopia",
+      "duration": "02:37"
+    },
+    {
+      "type": "track",
+      "title": "The Reason We Fight",
+      "duration": "07:21"
+    },
+    {
+      "type": "track",
+      "title": "Lost in the Darkness",
+      "duration": "04:48"
+    },
+    {
+      "type": "track",
+      "title": "Finally, It Comes!",
+      "duration": "06:08"
+    },
+    {
+      "type": "track",
+      "title": "In Water's Gaze",
+      "duration": "08:23"
+    },
+    {
+      "type": "track",
+      "title": "Heartless",
+      "duration": "08:02"
+    },
+    {
+      "type": "track",
+      "title": "Crying for You",
+      "duration": "07:05"
+    },
+    {
+      "type": "track",
+      "title": "Voice in Sadness",
+      "duration": "06:16"
+    },
+    {
+      "type": "track",
+      "title": "I Believe",
+      "duration": "11:06"
+    },
+    {
+      "type": "track",
+      "title": "Life Will Go On",
+      "duration": "02:48"
+    }
+  ],
+  "totalDuration": "01:04:34",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/8fdb971b5091896a5fa2971af2ea90b2/12417034/galneryus-the-stars-will-light-the-way-Cover-Art.jpg",
+  "createdAt": "2025-09-12T18:12:45.237Z",
+  "updatedAt": "2025-09-12T18:12:45.237Z"
+}

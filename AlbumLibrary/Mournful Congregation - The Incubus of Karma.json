@@ -1,0 +1,66 @@
+{
+  "fileName": "Mournful Congregation - The Incubus of Karma.json",
+  "title": "The Incubus of Karma",
+  "artist": "Mournful Congregation",
+  "releaseDate": "2018-03-23",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Funeral Doom Metal",
+    "Death Doom Metal"
+  ],
+  "tags": [
+    "melancholic",
+    "atmospheric",
+    "funereal",
+    "depressive",
+    "male vocalist",
+    "heavy",
+    "dark",
+    "occult",
+    "poetic",
+    "psychedelic",
+    "philosophical",
+    "nocturnal",
+    "melodic",
+    "existential",
+    "epic"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "The Indwelling Ascent",
+      "duration": "03:10"
+    },
+    {
+      "type": "track",
+      "title": "Whispering Spiritscapes",
+      "duration": "15:42"
+    },
+    {
+      "type": "track",
+      "title": "The Rubaiyat",
+      "duration": "18:07"
+    },
+    {
+      "type": "track",
+      "title": "The Incubus of Karma",
+      "duration": "05:48"
+    },
+    {
+      "type": "track",
+      "title": "Scripture of Exaltation and Punishment",
+      "duration": "14:57"
+    },
+    {
+      "type": "track",
+      "title": "A Picture of the Devouring Gloom Devouring the Spheres of Being",
+      "duration": "22:05"
+    }
+  ],
+  "totalDuration": "01:19:49",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/c77ccf7aad5554454dfceb33007da138/7160621/mournful-congregation-the-incubus-of-karma-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:58:40.465Z",
+  "updatedAt": "2025-09-16T15:58:40.465Z"
+}

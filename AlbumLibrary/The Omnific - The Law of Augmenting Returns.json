@@ -1,0 +1,69 @@
+{
+  "fileName": "The Omnific - The Law of Augmenting Returns.json",
+  "title": "The Law of Augmenting Returns",
+  "artist": "The Omnific",
+  "releaseDate": "2024-06-07",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Djent",
+    "Progressive Metal",
+    "Jazz Fusion",
+    "Math Rock",
+    "Progressive Rock"
+  ],
+  "tags": [
+    "technical",
+    "progressive",
+    "instrumental",
+    "energetic",
+    "passionate"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "The Omnific ≈ Bass",
+      "duration": "07:01"
+    },
+    {
+      "type": "track",
+      "title": "The Law of Augmenting Returns",
+      "duration": "06:12"
+    },
+    {
+      "type": "track",
+      "title": "Matrices",
+      "duration": "04:18"
+    },
+    {
+      "type": "track",
+      "title": "Base Camp",
+      "duration": "06:03"
+    },
+    {
+      "type": "track",
+      "title": "Will-o'-the-Wisp",
+      "duration": "07:39"
+    },
+    {
+      "type": "track",
+      "title": "Phat Mackerel",
+      "duration": "02:29"
+    },
+    {
+      "type": "track",
+      "title": "Butterfingers",
+      "duration": "04:18"
+    },
+    {
+      "type": "track",
+      "title": "Double Malt Ditty",
+      "duration": "06:08"
+    }
+  ],
+  "totalDuration": "44:08",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/60dcd1b867667f19fc25e0805a421bf8/11947962/the-omnific-the-law-of-augmenting-returns-Cover-Art.jpg",
+  "createdAt": "2025-09-12T17:35:54.445Z",
+  "updatedAt": "2025-09-12T17:35:54.445Z"
+}

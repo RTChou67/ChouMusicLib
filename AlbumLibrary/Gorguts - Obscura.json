@@ -1,0 +1,118 @@
+{
+  "fileName": "Gorguts - Obscura.json",
+  "title": "Obscura",
+  "artist": "Gorguts",
+  "releaseDate": "1998-06-23",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Dissonant Death Metal",
+    "Avant-Garde Metal",
+    "Technical Death Metal"
+  ],
+  "tags": [
+    "technical",
+    "dissonant",
+    "complex",
+    "avant-garde",
+    "uncommon time signatures",
+    "chaotic",
+    "heavy",
+    "manic",
+    "ominous",
+    "male vocalist",
+    "atonal",
+    "dark",
+    "cryptic",
+    "aggressive",
+    "dense",
+    "surreal",
+    "philosophical",
+    "progressive",
+    "disturbing",
+    "noisy",
+    "spiritual",
+    "occult",
+    "atmospheric",
+    "polyphonic",
+    "existential",
+    "rhythmic",
+    "angular",
+    "abstract",
+    "serious",
+    "polyrhythmic",
+    "energetic",
+    "maximalist",
+    "afterlife",
+    "concept album",
+    "poetic",
+    "menacing"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Obscura",
+      "duration": "04:04"
+    },
+    {
+      "type": "track",
+      "title": "Earthly Love",
+      "duration": "04:04"
+    },
+    {
+      "type": "track",
+      "title": "The Carnal State",
+      "duration": "03:08"
+    },
+    {
+      "type": "track",
+      "title": "Nostalgia",
+      "duration": "06:10"
+    },
+    {
+      "type": "track",
+      "title": "The Art of Sombre Ecstasy",
+      "duration": "04:21"
+    },
+    {
+      "type": "track",
+      "title": "Clouded",
+      "duration": "09:32"
+    },
+    {
+      "type": "track",
+      "title": "Subtle Body",
+      "duration": "03:23"
+    },
+    {
+      "type": "track",
+      "title": "Rapturous Grief",
+      "duration": "05:28"
+    },
+    {
+      "type": "track",
+      "title": "La vie est prélude...",
+      "duration": "03:28"
+    },
+    {
+      "type": "track",
+      "title": "Illuminatus",
+      "duration": "06:16"
+    },
+    {
+      "type": "track",
+      "title": "Faceless Ones",
+      "duration": "03:50"
+    },
+    {
+      "type": "track",
+      "title": "Sweet Silence",
+      "duration": "06:46"
+    }
+  ],
+  "totalDuration": "01:00:30",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/5f3e82fc736d325366d861f0f7eadac2/5151571/gorguts-obscura-Cover-Art.jpg",
+  "createdAt": "2025-09-16T15:32:33.888Z",
+  "updatedAt": "2025-09-16T15:32:33.888Z"
+}

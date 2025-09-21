@@ -1,0 +1,72 @@
+{
+  "fileName": "Sugiurumn - Music Is the Key of Life.json",
+  "title": "Music Is the Key of Life",
+  "artist": "Sugiurumn",
+  "releaseDate": "2000-12-13",
+  "albumFormat": "Full-Length",
+  "rating": 0,
+  "styles": [
+    "Acid Jazz",
+    "Nu-Disco",
+    "Trip Hop"
+  ],
+  "tags": [
+    "sampling",
+    "urban",
+    "energetic",
+    "rhythmic",
+    "instrumental"
+  ],
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "Kerouac",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Music Is the Key of Life (Original Vocal)",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Rally of Hell",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Touchable",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Piña colada",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Snow Magic",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "Weekend (Original)",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "San Antonio 20:20",
+      "duration": ""
+    },
+    {
+      "type": "track",
+      "title": "The Right Place in the Right Time",
+      "duration": ""
+    }
+  ],
+  "totalDuration": "00:00",
+  "notes": "",
+  "coverData": "https://e.snmc.io/i/600/w/22474b906339a398a039b881a715e65c/13314190/sugiurumn-music-is-the-key-of-life-Cover-Art.jpg",
+  "createdAt": "2025-09-13T16:31:09.045Z",
+  "updatedAt": "2025-09-13T16:31:09.045Z"
+}
