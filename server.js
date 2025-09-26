@@ -6,7 +6,7 @@ const path = require("path");
 const app = express();
 const port = 3000;
 
-const MUSIC_LIBRARY_PATH = "D:\\MusicLibrary\\AlbumLibrary";
+const MUSIC_LIBRARY_PATH = "D:\\ChouMusicLib\\AlbumLibrary";
 
 // [新增] 让Express能够解析请求体中的JSON数据
 app.use(express.json());
