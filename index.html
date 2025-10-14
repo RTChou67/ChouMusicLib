@@ -6,7 +6,6 @@
         <title>我的音乐库</title>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
         <style>
-            /* CSS部分保持不变, 为了简洁此处省略 */
             :root {
                 --bg: #0f1724;
                 --card: #182638;
@@ -927,7 +926,6 @@
                     } catch (error) {
                         console.error("从服务器加载数据失败:", error);
                         this.dom.statusEl.innerHTML = `<p style="color: #ff8b8b;">从服务器加载失败！<br>${error.message}<br>将尝试从浏览器缓存加载...</p>`;
-                        // 如果服务器加载失败，可以尝试从缓存加载作为备用方案
                         const cachedLibrary = localStorage.getItem(this.state.libraryStorageKey);
                         if (cachedLibrary) this.loadInitialData();
                     }
@@ -1128,7 +1126,6 @@
                         case "rating-desc":
                             filteredAlbums.sort((a, b) => (b.rating || 0) - (a.rating || 0));
                             break;
-                        // [修改] 移除了关于 "createdAt" 的排序逻辑
                         case "updatedAt-desc":
                             filteredAlbums.sort((a, b) => (b.updatedAt || "").localeCompare(a.updatedAt || ""));
                             break;
@@ -1250,7 +1247,6 @@
                 },
                 addNewAlbum() {
                     this.state.currentlyEditingIndex = -1;
-                    // [修改] 新增专辑对象不再包含时间戳字段，这些字段将在保存时处理
                     this.state.currentlyEditingAlbum = {
                         title: "",
                         artist: "",
@@ -1276,9 +1272,7 @@
                     }
 
                     if (this.state.currentlyEditingIndex > -1) {
-                        // [修改] 这是在“更新”一个已存在的专辑
                         const originalAlbum = this.state.allAlbums[this.state.currentlyEditingIndex];
-                        // 只设置 updatedAt，createdAt 由原始数据保留
                         currentAlbum.updatedAt = new Date().toISOString();
 
                         this.state.allAlbums[this.state.currentlyEditingIndex] = {
@@ -1286,10 +1280,6 @@
                             ...currentAlbum,
                         };
                     } else {
-                        // [修改] 这是在“添加”一个新专辑
-                        // 此时不设置任何时间戳，createdAt 应由 RYM 提取器提供。
-                        // updatedAt 可以在第一次修改时再设置。
-
                         const safeFileName =
                             `${currentAlbum.artist} - ${currentAlbum.title}`.replace(/[<>:"/\\|?*]/g, "_") + ".json";
                         currentAlbum.fileName = safeFileName;
@@ -1306,14 +1296,12 @@
                         alert("错误：无法删除，缺少专辑文件信息。");
                         return;
                     }
-
-                    // 关键步骤：弹出确认框，防止误删
                     const confirmation = confirm(
                         `您确定要永久删除专辑 "${albumToDelete.title}" 吗？\n\n这个操作将直接删除本地的 .json 文件，且无法撤销！`
                     );
 
                     if (!confirmation) {
-                        return; // 如果用户取消，则不执行任何操作
+                        return;
                     }
 
                     try {
@@ -1330,12 +1318,8 @@
                             throw new Error(result.error || "删除失败");
                         }
 
-                        alert(result.message); // 提示用户删除成功
-
-                        // 从前端状态中移除该专辑
+                        alert(result.message);
                         this.state.allAlbums.splice(this.state.currentlyEditingIndex, 1);
-
-                        // 更新缓存并返回主网格视图
                         this.saveLibraryToCache();
                         this.showGridView();
                     } catch (error) {
@@ -1362,7 +1346,6 @@
                             return "";
                         })
                         .join("\n");
-                    // ...
                     this.dom.notes.value = album.notes || "";
                     this.dom.coverFile.value = "";
                     if (album.coverData && album.coverData.startsWith("http")) {
@@ -1490,12 +1473,9 @@
                     }
                 },
                 removeCover() {
-                    // 清除状态、输入框和文件选择
                     this.state.currentlyEditingAlbum.coverData = "";
                     this.dom.coverUrl.value = "";
                     this.dom.coverFile.value = "";
-
-                    // 更新预览区域
                     this.updateEditorPreviews();
                 },
                 exportSingleJson() {
@@ -1642,7 +1622,6 @@
                         setTimeout(() => URL.revokeObjectURL(url), 2000);
                     },
                     normalizeAlbumObject(albumData) {
-                        // [修改] 调整了时间戳的默认值，以匹配新逻辑
                         const orderedAlbum = {
                             fileName: albumData.fileName || "",
                             title: albumData.title || "未知标题",
@@ -1656,8 +1635,8 @@
                             totalDuration: albumData.totalDuration || "00:00",
                             notes: albumData.notes || "",
                             coverData: albumData.coverData || "",
-                            createdAt: albumData.createdAt || "", // 保留 createdAt
-                            updatedAt: albumData.updatedAt || "", // 保留 updatedAt
+                            createdAt: albumData.createdAt || "",
+                            updatedAt: albumData.updatedAt || "",
                         };
                         return orderedAlbum;
                     },
