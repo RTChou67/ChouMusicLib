@@ -1,0 +1,24 @@
+{
+  "id": 1,
+  "name": "5SOS",
+  "country": "Australia",
+  "status": "Active",
+  "biography": "5 Seconds of Summer, often shortened to 5SOS, are an Australian pop rock band from Sydney, New South Wales, formed in late 2011.",
+  "genres": [
+    "Pop Rock",
+    "New Wave",
+    "Alternative Rock"
+  ],
+  "tags": [
+    "Electronic",
+    "Synthetic"
+  ],
+  "discography": [
+    {
+      "albumId": "5SOS - Youngblood",
+      "title": "Youngblood",
+      "year": 2018,
+      "coverUrl": "https://e.snmc.io/i/600/w/ed3b517f9e6e929deeae1d0aa31176ab/6948853/5sos-youngblood-Cover-Art.jpg"
+    }
+  ]
+}
