@@ -367,6 +367,13 @@
             #editorView .meta-group {
                 margin-top: 8px;
             }
+            #editorView .meta-group a {
+                color: var(--accent);
+                text-decoration: none;
+            }
+            #editorView .meta-group a:hover {
+                text-decoration: underline;
+            }
             #editorView .tracks {
                 margin-top: 10px;
             }
@@ -734,6 +741,14 @@
                             ><input id="tags" type="text" placeholder="例如：概念专辑, 器乐, 交响" />
                         </div>
                         <div class="field">
+                            <label>Rate Your Music (RYM) URL</label>
+                            <input id="rymUrl" type="text" placeholder="https://rateyourmusic.com/release/album/..." />
+                        </div>
+                        <div class="field">
+                            <label>Metal Archives (MA) URL</label>
+                            <input id="maUrl" type="text" placeholder="https://www.metal-archives.com/albums/..." />
+                        </div>
+                        <div class="field">
                             <label>封面图片</label><input id="coverFile" type="file" accept="image/*" />
                             <div class="small">选择本地图片或从URL加载</div>
                             <div class="input-group-special" id="coverUrlWrapper">
@@ -771,6 +786,7 @@
                                 <strong>标签：</strong>
                                 <div id="pTags"></div>
                             </div>
+                            <div class="meta-group" id="pLinks"></div>
                         </div>
                     </div>
                     <div class="preview-section">
@@ -837,6 +853,8 @@
                         rating: D("rating"),
                         styles: D("styles"),
                         tags: D("tags"),
+                        rymUrl: D("rymUrl"),
+                        maUrl: D("maUrl"),
                         coverFile: D("coverFile"),
                         tracklist: D("tracklist"),
                         notes: D("notes"),
@@ -852,6 +870,7 @@
                         pStyles: D("pStyles"),
                         pTags: D("pTags"),
                         pRating: D("pRating"),
+                        pLinks: D("pLinks"),
                         pTotalDuration: D("pTotalDuration"),
                     };
                 },
@@ -1255,6 +1274,8 @@
                         rating: 0,
                         styles: [],
                         tags: [],
+                        rymUrl: "",
+                        maUrl: "",
                         coverData: "",
                         tracklist: [],
                         totalDuration: "00:00",
@@ -1264,31 +1285,67 @@
                     this.updateEditorPreviews();
                     this.showEditorView(true);
                 },
-                saveAlbum() {
-                    const currentAlbum = this.collectAlbumDataFromForm();
+                // [MODIFIED] - The entire saveAlbum function is now async and sends data to the server
+                async saveAlbum() {
+                    let currentAlbum = this.collectAlbumDataFromForm();
                     if (!currentAlbum.title || !currentAlbum.artist) {
                         alert("专辑标题和艺术家不能为空！");
                         return;
                     }
 
-                    if (this.state.currentlyEditingIndex > -1) {
-                        const originalAlbum = this.state.allAlbums[this.state.currentlyEditingIndex];
-                        currentAlbum.updatedAt = new Date().toISOString();
+                    const isNewAlbum = this.state.currentlyEditingIndex === -1;
+                    let originalFileName = null;
 
-                        this.state.allAlbums[this.state.currentlyEditingIndex] = {
-                            ...originalAlbum,
-                            ...currentAlbum,
-                        };
-                    } else {
+                    if (isNewAlbum) {
                         const safeFileName =
                             `${currentAlbum.artist} - ${currentAlbum.title}`.replace(/[<>:"/\\|?*]/g, "_") + ".json";
                         currentAlbum.fileName = safeFileName;
-                        this.state.allAlbums.push(currentAlbum);
+                        currentAlbum.createdAt = new Date().toISOString();
+                        currentAlbum.updatedAt = currentAlbum.createdAt;
+                    } else {
+                        const originalAlbum = this.state.allAlbums[this.state.currentlyEditingIndex];
+                        originalFileName = originalAlbum.fileName;
+                        currentAlbum.updatedAt = new Date().toISOString();
+                        currentAlbum.createdAt = originalAlbum.createdAt || currentAlbum.updatedAt; // Preserve original creation date
+                        currentAlbum.fileName = originalAlbum.fileName; // Ensure filename is preserved
                     }
 
-                    this.saveLibraryToCache();
-                    alert("专辑信息已保存!");
-                    this.showGridView();
+                    // [NEW] Send data to the server to save the file
+                    try {
+                        const response = await fetch("/api/save-album", {
+                            method: "POST",
+                            headers: { "Content-Type": "application/json" },
+                            body: JSON.stringify({
+                                albumData: currentAlbum,
+                                isNew: isNewAlbum,
+                                originalFileName: originalFileName,
+                            }),
+                        });
+
+                        const result = await response.json();
+                        if (!response.ok) {
+                            throw new Error(result.error || "未知服务器错误");
+                        }
+
+                        // [NEW] Update filename from server response if it was changed (e.g., for new albums)
+                        currentAlbum.fileName = result.fileName;
+
+                        // If server save is successful, then update the local state
+                        if (isNewAlbum) {
+                            this.state.allAlbums.push(currentAlbum);
+                        } else {
+                            this.state.allAlbums[this.state.currentlyEditingIndex] = currentAlbum;
+                        }
+
+                        this.saveLibraryToCache();
+                        alert("专辑信息已成功保存到文件!");
+                        this.showGridView();
+                    } catch (error) {
+                        console.error("保存到文件失败:", error);
+                        alert(
+                            `保存失败: ${error.message}\n\n请检查您的本地服务器是否正在运行，并且后端代码是否已正确更新。`
+                        );
+                    }
                 },
                 async deleteAlbum() {
                     const albumToDelete = this.state.currentlyEditingAlbum;
@@ -1339,6 +1396,8 @@
                     this.dom.rating.value = album.rating || 0;
                     this.dom.styles.value = (album.styles || []).join(", ");
                     this.dom.tags.value = (album.tags || []).join(", ");
+                    this.dom.rymUrl.value = album.rymUrl || "";
+                    this.dom.maUrl.value = album.maUrl || "";
                     this.dom.tracklist.value = (album.tracklist || [])
                         .map((item) => {
                             if (item.type === "header") return `## ${item.title}`;
@@ -1372,6 +1431,8 @@
                             .split(/,|，/)
                             .map((s) => s.trim())
                             .filter(Boolean),
+                        rymUrl: this.dom.rymUrl.value.trim(),
+                        maUrl: this.dom.maUrl.value.trim(),
                         notes: this.dom.notes.value.trim(),
                         tracklist: tracklistData,
                         totalDuration: this.utils.calculateTotalDuration(tracklistData),
@@ -1409,6 +1470,23 @@
                         s.textContent = tag;
                         d.pTags.appendChild(s);
                     });
+
+                    d.pLinks.innerHTML = ""; // Clear previous links
+                    const links = [];
+                    if (albumForPreview.rymUrl) {
+                        links.push(
+                            `<strong>RYM:</strong> <a href="${albumForPreview.rymUrl}" target="_blank" rel="noopener noreferrer">Link</a>`
+                        );
+                    }
+                    if (albumForPreview.maUrl) {
+                        links.push(
+                            `<strong>MA:</strong> <a href="${albumForPreview.maUrl}" target="_blank" rel="noopener noreferrer">Link</a>`
+                        );
+                    }
+                    if (links.length > 0) {
+                        d.pLinks.innerHTML = links.join(" | ");
+                    }
+
                     d.pTracks.innerHTML = "";
                     let trackCounter = 0;
                     (albumForPreview.tracklist || []).forEach((item) => {
@@ -1631,6 +1709,8 @@
                             rating: albumData.rating || 0,
                             styles: albumData.styles || [],
                             tags: albumData.tags || [],
+                            rymUrl: albumData.rymUrl || "",
+                            maUrl: albumData.maUrl || "",
                             tracklist: albumData.tracklist || [],
                             totalDuration: albumData.totalDuration || "00:00",
                             notes: albumData.notes || "",
@@ -1735,6 +1815,27 @@
                             .map((t) => `<span class="tag">${esc(t)}</span>`)
                             .join(" ");
                         const tagsHtml = (data.tags || []).map((t) => `<span class="tag">${esc(t)}</span>`).join(" ");
+
+                        let linksHtml = "";
+                        const links = [];
+                        if (data.rymUrl) {
+                            links.push(
+                                `<strong>RYM:</strong> <a href="${esc(
+                                    data.rymUrl
+                                )}" target="_blank" rel="noopener noreferrer">Link</a>`
+                            );
+                        }
+                        if (data.maUrl) {
+                            links.push(
+                                `<strong>MA:</strong> <a href="${esc(
+                                    data.maUrl
+                                )}" target="_blank" rel="noopener noreferrer">Link</a>`
+                            );
+                        }
+                        if (links.length > 0) {
+                            linksHtml = `<div class="meta-group">${links.join(" | ")}</div>`;
+                        }
+
                         const notesFormatted = esc(data.notes).replace(/\n/g, "<br>");
                         const formatStr = data.albumFormat || "形式未知";
                         return `<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(
@@ -1750,7 +1851,7 @@
                             formatStr
                         )}</p><div class="meta-group"><strong>评分：</strong><span>${
                             data.rating
-                        } / 100</span></div><div class="meta-group"><strong>风格：</strong><div style="margin-top:6px">${stylesHtml}</div></div><div class="meta-group"><strong>标签：</strong><div style="margin-top:6px">${tagsHtml}</div></div></div></div><h3 style="margin-top:24px; font-size:16px;">曲目列表</h3><div class="tracks">\n${tracks}\n</div>${totalDurationHtml}<h3 style="margin-top:24px; font-size:16px;">我的感想</h3><div style="white-space:normal; line-height:1.7; background:rgba(255,255,255,0.01); padding:10px; border-radius:8px;">${notesFormatted}</div></main><footer><p>Generated by Album Logger</p></footer></div></body></html>`;
+                        } / 100</span></div><div class="meta-group"><strong>风格：</strong><div style="margin-top:6px">${stylesHtml}</div></div><div class="meta-group"><strong>标签：</strong><div style="margin-top:6px">${tagsHtml}</div></div>${linksHtml}</div></div><h3 style="margin-top:24px; font-size:16px;">曲目列表</h3><div class="tracks">\n${tracks}\n</div>${totalDurationHtml}<h3 style="margin-top:24px; font-size:16px;">我的感想</h3><div style="white-space:normal; line-height:1.7; background:rgba(255,255,255,0.01); padding:10px; border-radius:8px;">${notesFormatted}</div></main><footer><p>Generated by Album Logger</p></footer></div></body></html>`;
                     },
                     parseComplexQuery(queryStr) {
                         const orGroups = queryStr.split(/\s+or\s+|\/|\\/i);

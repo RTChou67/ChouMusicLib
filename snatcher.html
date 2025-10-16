@@ -11,7 +11,6 @@
                 --muted: #9aa4b2;
                 --glass: rgba(255, 255, 255, 0.04);
                 --border-color: rgba(255, 255, 255, 0.1);
-                /* --accent will be set by JS */
             }
             [data-theme="ma"] {
                 --accent: #10b981;
@@ -21,7 +20,7 @@
             }
             [data-theme="bc"] {
                 --accent: #629aa9;
-            } /* [新增] Bandcamp 主题色 */
+            }
 
             html,
             body {
@@ -230,7 +229,7 @@
             const App = {
                 dom: {},
                 state: {
-                    currentMode: "ma", // 'ma', 'rym', or 'bc'
+                    currentMode: "ma",
                 },
                 init() {
                     this.cacheDom();
@@ -248,7 +247,7 @@
                         jsonOutput: document.getElementById("jsonOutput"),
                         copyBtn: document.getElementById("copyBtn"),
                         downloadBtn: document.getElementById("downloadBtn"),
-                        saveToServerBtn: document.getElementById("saveToServerBtn"), // [新增]
+                        saveToServerBtn: document.getElementById("saveToServerBtn"),
                         status: document.getElementById("status"),
                     };
                 },
@@ -258,7 +257,7 @@
                     this.dom.parseBtn.addEventListener("click", this.handleParseFromSource.bind(this));
                     this.dom.copyBtn.addEventListener("click", this.handleCopy.bind(this));
                     this.dom.downloadBtn.addEventListener("click", this.handleDownload.bind(this));
-                    this.dom.saveToServerBtn.addEventListener("click", this.handleSaveToServer.bind(this)); // [新增]
+                    this.dom.saveToServerBtn.addEventListener("click", this.handleSaveToServer.bind(this));
                 },
                 async handleSaveToServer() {
                     const jsonText = this.dom.jsonOutput.textContent;
@@ -268,26 +267,25 @@
                     }
 
                     this.setStatus("正在保存到服务器...");
-                    setTimeout(() => {
-                        window.location.href = "/"; // '/' 代表网站根目录, 即您的音乐库主页
-                    }, 1000);
                     try {
                         const response = await fetch("/api/save-album", {
                             method: "POST",
                             headers: {
                                 "Content-Type": "application/json",
                             },
-                            body: jsonText, // 将JSON字符串作为请求体发送
+                            body: jsonText,
                         });
 
                         const result = await response.json();
 
                         if (!response.ok) {
-                            // 如果服务器返回错误状态 (如 400, 500)
                             throw new Error(result.error || "未知服务器错误");
                         }
 
-                        this.setStatus(result.message, false); // 显示来自服务器的成功消息
+                        this.setStatus(result.message, false);
+                        setTimeout(() => {
+                            window.location.href = "/";
+                        }, 1000);
                     } catch (err) {
                         this.setStatus(`保存失败: ${err.message}`, true);
                     }
@@ -303,7 +301,6 @@
                 updateUIForMode() {
                     const mode = this.state.currentMode;
                     this.dom.container.dataset.theme = mode;
-
                     this.dom.modeSelector.querySelector(".active")?.classList.remove("active");
                     this.dom.modeSelector.querySelector(`[data-mode="${mode}"]`)?.classList.add("active");
 
@@ -375,16 +372,29 @@
 
                     this.dom.extractBtn.disabled = true;
                     this.dom.extractBtn.textContent = "抓取中...";
-                    this.setStatus("正在通过代理请求页面...");
+                    this.setStatus("正在通过本地Edge浏览器请求页面...");
                     this.dom.jsonOutput.textContent = "";
 
-                    const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`;
                     try {
-                        const response = await fetch(proxyUrl, { headers: { "X-Requested-With": "XMLHttpRequest" } });
-                        if (!response.ok) throw new Error(`网络请求失败: ${response.statusText}`);
-                        const data = await response.json();
-                        const htmlContent = data.contents;
-                        if (!htmlContent) throw new Error("代理返回的内容为空。");
+                        const response = await fetch("/api/fetch-html", {
+                            method: "POST",
+                            headers: {
+                                "Content-Type": "application/json",
+                            },
+                            body: JSON.stringify({ url: url }),
+                        });
+
+                        if (!response.ok) {
+                            const errorResult = await response.json();
+                            throw new Error(errorResult.error || `网络请求失败: ${response.statusText}`);
+                        }
+
+                        const htmlContent = await response.text();
+
+                        if (!htmlContent) {
+                            throw new Error("后端脚本返回的内容为空。");
+                        }
+
                         this.setStatus("页面获取成功，正在解析...");
 
                         let albumData;
@@ -457,7 +467,6 @@
                     setTimeout(() => URL.revokeObjectURL(url), 2000);
                 },
 
-                // --- Metal Archives Parser ---
                 parseMaHtml(htmlString) {
                     const parser = new DOMParser();
                     const doc = parser.parseFromString(htmlString, "text/html");
@@ -554,7 +563,6 @@
                     return albumData;
                 },
 
-                // --- Rate Your Music Parser ---
                 parseRymHtml(htmlString) {
                     const parser = new DOMParser();
                     const doc = parser.parseFromString(htmlString, "text/html");
@@ -692,7 +700,6 @@
                     return albumData;
                 },
 
-                // --- Bandcamp Parser ---
                 parseBcHtml(htmlString) {
                     const parser = new DOMParser();
                     const doc = parser.parseFromString(htmlString, "text/html");

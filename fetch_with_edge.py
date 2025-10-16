@@ -1,6 +1,6 @@
 import time
-import os
 import subprocess
+import sys
 from playwright.sync_api import sync_playwright
 
 
@@ -28,39 +28,46 @@ def fetch_with_real_profile(url: str, user_data_dir: str):
             channel="msedge",
             headless=False,
         )
-
         page = context.new_page()
-
         print(f"Navigating to: {url}")
         try:
             page.goto(url, timeout=60000)
-
             print("Page loaded. Waiting 5 seconds for stability...")
             time.sleep(5)
-
             print("Extracting source code...")
             source_code = page.content()
             print("Extraction successful!")
-
         except Exception as e:
-            print(f"An error occurred: {e}")
+            print(f"An error occurred: {e}", file=sys.stderr)
             source_code = ""
         finally:
             context.close()
             print("Browser closed.")
-
     return source_code
 
 
 if __name__ == "__main__":
+    if len(sys.argv) < 2:
+        print("Usage: python fetch_with_edge.py <URL>", file=sys.stderr)
+        sys.exit(1)
+
+    target_url = sys.argv[1]
+
     force_close_edge()
 
     my_edge_user_data_dir = r"C:\Users\arthurzcz\AppData\Local\Microsoft\Edge\User Data"
-    target_url = "https://www.metal-archives.com/albums/Megadeth/Rust_in_Peace/487"
 
     html = fetch_with_real_profile(target_url, my_edge_user_data_dir)
 
     if html:
-        with open("output_from_real_profile.html", "w", encoding="utf-8") as f:
-            f.write(html)
-        print("\nSource code saved to output_from_real_profile.html")
+        try:
+            with open("temp.html", "w", encoding="utf-8") as f:
+                f.write(html)
+            print("Source code successfully saved to temp.html")
+            sys.exit(0)
+        except Exception as e:
+            print(f"Failed to write to temp.html: {e}", file=sys.stderr)
+            sys.exit(1)
+    else:
+        print("Failed to fetch HTML, temp.html was not created.", file=sys.stderr)
+        sys.exit(1)
