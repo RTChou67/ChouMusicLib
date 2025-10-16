@@ -47,6 +47,8 @@
     "scary",
     "psychedelic"
   ],
+  "rymUrl": "https://rateyourmusic.com/release/album/arca/mutant/",
+  "maUrl": "",
   "tracklist": [
     {
       "type": "track",
@@ -149,10 +151,9 @@
       "duration": "03:29"
     }
   ],
-  "totalDuration": "01:02:07",
+  "totalDuration": "1:02:07",
   "notes": "",
   "coverData": "https://e.snmc.io/i/600/w/757b4346f1fad27de8d291f6959c5efd/5910984/arca-mutant-Cover-Art.jpg",
   "createdAt": "2025-09-12T16:50:00.412Z",
-  "updatedAt": "2025-09-12T16:50:00.412Z",
-  "artistId": 16
+  "updatedAt": "2025-10-16T09:15:40.956Z"
 }

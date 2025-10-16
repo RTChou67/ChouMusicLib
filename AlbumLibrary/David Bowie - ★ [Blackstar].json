@@ -1,0 +1,83 @@
+{
+  "title": "★ [Blackstar]",
+  "artist": "David Bowie",
+  "releaseDate": "2016-01-08",
+  "albumFormat": "Full-Length",
+  "styles": [
+    "Art Rock",
+    "Jazz-Rock",
+    "Experimental Rock",
+    "Electronic"
+  ],
+  "tags": [
+    "death",
+    "dark",
+    "introspective",
+    "poetic",
+    "male vocalist",
+    "melancholic",
+    "concept album",
+    "funereal",
+    "existential",
+    "anxious",
+    "bittersweet",
+    "sad",
+    "sombre",
+    "progressive",
+    "atmospheric",
+    "lonely",
+    "ageing",
+    "avant-garde",
+    "eclectic",
+    "disease",
+    "serious",
+    "fame",
+    "theatrical",
+    "afterlife",
+    "urban",
+    "nocturnal",
+    "energetic",
+    "regret"
+  ],
+  "coverData": "http://e.snmc.io/i/600/w/3efcbc9c971dd8c1d4cdedf01935e9c2/5978111/david-bowie-%E2%98%85-blackstar-Cover-Art.png",
+  "tracklist": [
+    {
+      "type": "track",
+      "title": "★",
+      "duration": "09:57"
+    },
+    {
+      "type": "track",
+      "title": "'Tis a Pity She Was a Whore",
+      "duration": "04:52"
+    },
+    {
+      "type": "track",
+      "title": "Lazarus",
+      "duration": "06:22"
+    },
+    {
+      "type": "track",
+      "title": "Sue (Or In a Season of Crime)",
+      "duration": "04:40"
+    },
+    {
+      "type": "track",
+      "title": "Girl Loves Me",
+      "duration": "04:51"
+    },
+    {
+      "type": "track",
+      "title": "Dollar Days",
+      "duration": "04:44"
+    },
+    {
+      "type": "track",
+      "title": "I Can't Give Everything Away",
+      "duration": "05:47"
+    }
+  ],
+  "totalDuration": "41:13",
+  "createdAt": "2025-10-16T07:00:32.454Z",
+  "updatedAt": "2025-10-16T07:00:32.454Z"
+}
